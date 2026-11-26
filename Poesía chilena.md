@@ -23,7 +23,7 @@ Cada movimiento lleva a sus poetas; cada poeta, a sus libros digitalizados en Me
 - [[Las otras tendencias de los cincuenta]]
 - [[Los inicios de la poesía de los sesenta]]
 - [[Neovanguardia y poesía en dictadura]]
-- [[Poesía del exilio]]
+- [[Exilio y diáspora]]
 - [[Poesía del sur]]
 - [[Poesía mapuche]]
 - [[La generación de los noventa]]

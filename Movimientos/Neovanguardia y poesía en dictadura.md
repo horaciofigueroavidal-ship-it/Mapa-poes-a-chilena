@@ -33,3 +33,4 @@ tags: [movimiento]
 - [[Jorge Montealegre]] (1954)
 - [[Juan Cameron]] (1947)
 - [[Alexis Figueroa]] (1956)
+- [[Erick Pohlhammer]] (1955)

@@ -1,12 +1,12 @@
 ---
 tipo: autor
-movimiento: "[[Poesía del exilio]]"
+movimiento: "[[Neovanguardia y poesía en dictadura]]"
 fechas: "1955"
 tags: [autor]
 ---
 # Erick Pohlhammer (1955)
 
-**Movimiento:** [[Poesía del exilio]]
+**Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
 ## Descripción (Memoria Chilena)
 

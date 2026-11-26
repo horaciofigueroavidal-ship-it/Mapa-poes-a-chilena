@@ -6624,8 +6624,8 @@
    "id": "m13",
    "type": "text",
    "text": "## [[Neovanguardia y poesía en dictadura]]",
-   "x": -4636,
-   "y": -1190,
+   "x": -4622,
+   "y": -1242,
    "width": 560,
    "height": 120,
    "color": "1"
@@ -7111,19 +7111,9 @@
    "color": "4"
   },
   {
-   "id": "m14",
-   "type": "text",
-   "text": "## [[Poesía del exilio]]",
-   "x": -3983,
-   "y": -2616,
-   "width": 560,
-   "height": 120,
-   "color": "1"
-  },
-  {
    "id": "a217",
    "type": "text",
-   "text": "**[[Roberto Bolaño]]**",
+   "text": "**[[Erick Pohlhammer]]**",
    "x": -11315,
    "y": -6760,
    "width": 380,
@@ -7131,9 +7121,29 @@
    "color": "5"
   },
   {
+   "id": "o217_0",
+   "type": "text",
+   "text": "[[Gracias por la atención dispensada — Erick Pohlhammer (1986)|Gracias por la atención dispensada]]",
+   "x": -11763,
+   "y": -7014,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m14",
+   "type": "text",
+   "text": "## [[Exilio y diáspora]]",
+   "x": -3952,
+   "y": -2661,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
    "id": "a218",
    "type": "text",
-   "text": "**[[Bruno Montané]]**",
+   "text": "**[[Roberto Bolaño]]**",
    "x": -11149,
    "y": -7027,
    "width": 380,
@@ -7143,7 +7153,7 @@
   {
    "id": "a219",
    "type": "text",
-   "text": "**[[Jorge Etcheverry]]**",
+   "text": "**[[Bruno Montané]]**",
    "x": -10977,
    "y": -7290,
    "width": 380,
@@ -7153,22 +7163,12 @@
   {
    "id": "a220",
    "type": "text",
-   "text": "**[[Erick Pohlhammer]]**",
+   "text": "**[[Jorge Etcheverry]]**",
    "x": -10799,
    "y": -7549,
    "width": 380,
    "height": 70,
    "color": "5"
-  },
-  {
-   "id": "o220_0",
-   "type": "text",
-   "text": "[[Gracias por la atención dispensada — Erick Pohlhammer (1986)|Gracias por la atención dispensada]]",
-   "x": -11227,
-   "y": -7833,
-   "width": 420,
-   "height": 60,
-   "color": "4"
   },
   {
    "id": "a221",
@@ -11924,39 +11924,39 @@
   },
   {
    "id": "e710",
+   "fromNode": "m13",
+   "toNode": "a217",
+   "color": "5"
+  },
+  {
+   "id": "e711",
+   "fromNode": "a217",
+   "toNode": "o217_0",
+   "color": "4"
+  },
+  {
+   "id": "e712",
    "fromNode": "hub",
    "toNode": "m14",
    "color": "1"
   },
   {
-   "id": "e711",
-   "fromNode": "m14",
-   "toNode": "a217",
-   "color": "5"
-  },
-  {
-   "id": "e712",
+   "id": "e713",
    "fromNode": "m14",
    "toNode": "a218",
    "color": "5"
   },
   {
-   "id": "e713",
+   "id": "e714",
    "fromNode": "m14",
    "toNode": "a219",
    "color": "5"
   },
   {
-   "id": "e714",
+   "id": "e715",
    "fromNode": "m14",
    "toNode": "a220",
    "color": "5"
-  },
-  {
-   "id": "e715",
-   "fromNode": "a220",
-   "toNode": "o220_0",
-   "color": "4"
   },
   {
    "id": "e716",

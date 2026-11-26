@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Poesía del exilio]]"
+movimiento: "[[Exilio y diáspora]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3688.html
 fechas: "1953-2003"
 tags: [autor]
 ---
 # Roberto Bolaño (1953-2003)
 
-**Movimiento:** [[Poesía del exilio]]
+**Movimiento:** [[Exilio y diáspora]]
 
 ## Descripción (Memoria Chilena)
 

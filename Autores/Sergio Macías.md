@@ -1,12 +1,12 @@
 ---
 tipo: autor
-movimiento: "[[Poesía del exilio]]"
+movimiento: "[[Exilio y diáspora]]"
 fechas: "1938"
 tags: [autor]
 ---
 # Sergio Macías (1938)
 
-**Movimiento:** [[Poesía del exilio]]
+**Movimiento:** [[Exilio y diáspora]]
 
 ## Descripción (Memoria Chilena)
 

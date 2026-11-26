@@ -482,15 +482,15 @@ A: Juan Cameron | 1947
 N:
 A: Alexis Figueroa | 1956
 N:
+A: Erick Pohlhammer | 1955
+N:
 
-P: Poesía del exilio | Añadido al mapa (no figura en el índice de Nómez): la poesía chilena escrita en el exilio
+P: Exilio y diáspora | Añadido al mapa (no figura en el índice de Nómez): poesía chilena escrita fuera de Chile, del exilio político a la diáspora (incluye el infrarrealismo de Bolaño y Montané en México)
 A: Roberto Bolaño | 1953
 N:
 A: Bruno Montané | 1957
 N:
 A: Jorge Etcheverry | 1945
-N:
-A: Erick Pohlhammer | 1955
 N:
 A: Sergio Macías | 1938
 N:

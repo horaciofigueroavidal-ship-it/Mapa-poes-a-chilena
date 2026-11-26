@@ -1,12 +1,12 @@
 ---
 tipo: autor
-movimiento: "[[Poesía del exilio]]"
+movimiento: "[[Exilio y diáspora]]"
 fechas: "1945"
 tags: [autor]
 ---
 # Jorge Etcheverry (1945)
 
-**Movimiento:** [[Poesía del exilio]]
+**Movimiento:** [[Exilio y diáspora]]
 
 ## Descripción (Memoria Chilena)
 

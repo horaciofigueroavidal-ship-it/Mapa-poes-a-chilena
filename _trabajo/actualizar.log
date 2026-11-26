@@ -217,10 +217,10 @@ Heddy Navarro                       AUT=[(128088, 'Navarro Harris, Heddy')]  MIN
 Jorge Montealegre                   AUT=[(153714, 'Montealegre, Jorge, 1954-')]  MINI=[]
 Juan Cameron                        AUT=[(127758, 'Camerón, Juan, 1947-')]  MINI=[]
 Alexis Figueroa                     AUT=[(127696, 'Figueroa A., Alexis')]  MINI=[]
+Erick Pohlhammer                    AUT=[(1155622, 'Pohlhammer, Erick, 1955-2023')]  MINI=[]
 Roberto Bolaño                      AUT=[(127541, 'Bolaño, Roberto, 1953-2003')]  MINI=[(3688, 'Roberto Bolaño (1953-2003)')]
 Bruno Montané                       AUT=[]  MINI=[(82285, 'Bruno Montané (1957)')]
 Jorge Etcheverry                    AUT=[]  MINI=[]
-Erick Pohlhammer                    AUT=[(1155622, 'Pohlhammer, Erick, 1955-2023')]  MINI=[]
 Sergio Macías                       AUT=[(128986, 'Macías, Sergio, 1938-')]  MINI=[]
 Mauricio Redolés                    AUT=[(127423, 'Redolés, Mauricio')]  MINI=[]
 Rosabetty Muñoz                     AUT=[(127514, 'Muñoz, Rosabetty')]  MINI=[]
@@ -485,10 +485,10 @@ Heddy Navarro                    mini=—  libros=0
 Jorge Montealegre                mini=—  libros=2
 Juan Cameron                     mini=—  libros=0
 Alexis Figueroa                  mini=—  libros=1
+Erick Pohlhammer                 mini=—  libros=1
 Roberto Bolaño                   mini=sí  libros=0
 Bruno Montané                    mini=sí  libros=0
 Jorge Etcheverry                 mini=—  libros=0
-Erick Pohlhammer                 mini=—  libros=1
 Sergio Macías                    mini=—  libros=1
 Mauricio Redolés                 mini=—  libros=0
 Rosabetty Muñoz                  mini=—  libros=0

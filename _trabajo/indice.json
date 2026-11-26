@@ -2501,14 +2501,19 @@
         "nombre": "Alexis Figueroa",
         "anio": "1956",
         "poemas": []
+       },
+       {
+        "nombre": "Erick Pohlhammer",
+        "anio": "1955",
+        "poemas": []
        }
       ]
      }
     ]
    },
    {
-    "nombre": "Poesía del exilio",
-    "titulo": "Añadido al mapa (no figura en el índice de Nómez): la poesía chilena escrita en el exilio",
+    "nombre": "Exilio y diáspora",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): poesía chilena escrita fuera de Chile, del exilio político a la diáspora (incluye el infrarrealismo de Bolaño y Montané en México)",
     "grupos": [
      {
       "nombre": null,
@@ -2526,11 +2531,6 @@
        {
         "nombre": "Jorge Etcheverry",
         "anio": "1945",
-        "poemas": []
-       },
-       {
-        "nombre": "Erick Pohlhammer",
-        "anio": "1955",
         "poemas": []
        },
        {

@@ -1,12 +1,12 @@
 ---
 tipo: autor
-movimiento: "[[Poesía del exilio]]"
+movimiento: "[[Exilio y diáspora]]"
 fechas: "1953"
 tags: [autor]
 ---
 # Mauricio Redolés (1953)
 
-**Movimiento:** [[Poesía del exilio]]
+**Movimiento:** [[Exilio y diáspora]]
 
 ## Descripción (Memoria Chilena)
 

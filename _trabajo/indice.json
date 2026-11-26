@@ -743,6 +743,62 @@
       ]
      }
     ]
+   },
+   {
+    "nombre": "Las vanguardias y la generación del 38",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): las vanguardias de los años veinte y treinta y la generación del 38",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Pablo Neruda",
+        "anio": "1904",
+        "poemas": []
+       },
+       {
+        "nombre": "Rosamel del Valle",
+        "anio": "1901",
+        "poemas": []
+       },
+       {
+        "nombre": "Humberto Díaz-Casanueva",
+        "anio": "1906",
+        "poemas": []
+       },
+       {
+        "nombre": "Juvencio Valle",
+        "anio": "1900",
+        "poemas": []
+       },
+       {
+        "nombre": "Alberto Rojas Jiménez",
+        "anio": "1900",
+        "poemas": []
+       },
+       {
+        "nombre": "Romeo Murga",
+        "anio": "1904",
+        "poemas": []
+       },
+       {
+        "nombre": "Gerardo Seguel",
+        "anio": "1902",
+        "poemas": []
+       },
+       {
+        "nombre": "María Monvel",
+        "anio": "1899",
+        "poemas": []
+       },
+       {
+        "nombre": "Julio Barrenechea",
+        "anio": "1910",
+        "poemas": []
+       }
+      ]
+     }
+    ]
    }
   ]
  },
@@ -2313,6 +2369,408 @@
          "El centro Mandala",
          "Desviaciones naturales"
         ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tomo": "Añadidos",
+  "titulo": "Poesía chilena desde 1973 (añadido al mapa)",
+  "partes": [
+   {
+    "nombre": "Neovanguardia y poesía en dictadura",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): neovanguardia, escena de avanzada y poesía bajo la dictadura (1973-1990)",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Raúl Zurita",
+        "anio": "1950",
+        "poemas": []
+       },
+       {
+        "nombre": "Juan Luis Martínez",
+        "anio": "1942",
+        "poemas": []
+       },
+       {
+        "nombre": "Diego Maquieira",
+        "anio": "1951",
+        "poemas": []
+       },
+       {
+        "nombre": "Rodrigo Lira",
+        "anio": "1949",
+        "poemas": []
+       },
+       {
+        "nombre": "Carmen Berenguer",
+        "anio": "1946",
+        "poemas": []
+       },
+       {
+        "nombre": "Elvira Hernández",
+        "anio": "1951",
+        "poemas": []
+       },
+       {
+        "nombre": "Soledad Fariña",
+        "anio": "1943",
+        "poemas": []
+       },
+       {
+        "nombre": "Eugenia Brito",
+        "anio": "1950",
+        "poemas": []
+       },
+       {
+        "nombre": "Paz Molina",
+        "anio": "1945",
+        "poemas": []
+       },
+       {
+        "nombre": "Gonzalo Muñoz",
+        "anio": "1956",
+        "poemas": []
+       },
+       {
+        "nombre": "Carlos Cociña",
+        "anio": "1950",
+        "poemas": []
+       },
+       {
+        "nombre": "Antonio Gil",
+        "anio": "1954",
+        "poemas": []
+       },
+       {
+        "nombre": "Tomás Harris",
+        "anio": "1956",
+        "poemas": []
+       },
+       {
+        "nombre": "José Ángel Cuevas",
+        "anio": "1944",
+        "poemas": []
+       },
+       {
+        "nombre": "Armando Rubio",
+        "anio": "1955",
+        "poemas": []
+       },
+       {
+        "nombre": "Bruno Vidal",
+        "anio": "1953",
+        "poemas": []
+       },
+       {
+        "nombre": "Aristóteles España",
+        "anio": "1955",
+        "poemas": []
+       },
+       {
+        "nombre": "Teresa Calderón",
+        "anio": "1955",
+        "poemas": []
+       },
+       {
+        "nombre": "Eduardo Llanos",
+        "anio": "1956",
+        "poemas": []
+       },
+       {
+        "nombre": "Heddy Navarro",
+        "anio": "1944",
+        "poemas": []
+       },
+       {
+        "nombre": "Jorge Montealegre",
+        "anio": "1954",
+        "poemas": []
+       },
+       {
+        "nombre": "Juan Cameron",
+        "anio": "1947",
+        "poemas": []
+       },
+       {
+        "nombre": "Alexis Figueroa",
+        "anio": "1956",
+        "poemas": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Poesía del exilio",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): la poesía chilena escrita en el exilio",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Roberto Bolaño",
+        "anio": "1953",
+        "poemas": []
+       },
+       {
+        "nombre": "Bruno Montané",
+        "anio": "1957",
+        "poemas": []
+       },
+       {
+        "nombre": "Jorge Etcheverry",
+        "anio": "1945",
+        "poemas": []
+       },
+       {
+        "nombre": "Erick Pohlhammer",
+        "anio": "1955",
+        "poemas": []
+       },
+       {
+        "nombre": "Sergio Macías",
+        "anio": "1938",
+        "poemas": []
+       },
+       {
+        "nombre": "Mauricio Redolés",
+        "anio": "1953",
+        "poemas": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Poesía del sur",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): poesía del sur y de Chiloé (grupos Chaicura, Índice y Aumen)",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Rosabetty Muñoz",
+        "anio": "1960",
+        "poemas": []
+       },
+       {
+        "nombre": "Sergio Mansilla",
+        "anio": "1958",
+        "poemas": []
+       },
+       {
+        "nombre": "Clemente Riedemann",
+        "anio": "1953",
+        "poemas": []
+       },
+       {
+        "nombre": "Jorge Torres",
+        "anio": "1956",
+        "poemas": []
+       },
+       {
+        "nombre": "Carlos Alberto Trujillo",
+        "anio": "1951",
+        "poemas": []
+       },
+       {
+        "nombre": "Juan Pablo Riveros",
+        "anio": "1945",
+        "poemas": []
+       },
+       {
+        "nombre": "Renato Cárdenas",
+        "anio": "1949",
+        "poemas": []
+       },
+       {
+        "nombre": "Mario Contreras Vega",
+        "anio": "1947",
+        "poemas": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Poesía mapuche",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): poesía mapuche contemporánea",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Elicura Chihuailaf",
+        "anio": "1952",
+        "poemas": []
+       },
+       {
+        "nombre": "Leonel Lienlaf",
+        "anio": "1969",
+        "poemas": []
+       },
+       {
+        "nombre": "Jaime Huenún",
+        "anio": "1967",
+        "poemas": []
+       },
+       {
+        "nombre": "Graciela Huinao",
+        "anio": "1956",
+        "poemas": []
+       },
+       {
+        "nombre": "Adriana Paredes Pinda",
+        "anio": "1970",
+        "poemas": []
+       },
+       {
+        "nombre": "Bernardo Colipán",
+        "anio": "1966",
+        "poemas": []
+       },
+       {
+        "nombre": "Lorenzo Aillapán",
+        "anio": "1940",
+        "poemas": []
+       },
+       {
+        "nombre": "Rayen Kvyeh",
+        "anio": "1953",
+        "poemas": []
+       },
+       {
+        "nombre": "David Aniñir",
+        "anio": "1971",
+        "poemas": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "La generación de los noventa",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): la poesía de los noventa",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Verónica Jiménez",
+        "anio": "1964",
+        "poemas": []
+       },
+       {
+        "nombre": "Sergio Parra",
+        "anio": "1964",
+        "poemas": []
+       },
+       {
+        "nombre": "Malú Urriola",
+        "anio": "1967",
+        "poemas": []
+       },
+       {
+        "nombre": "Armando Roa Vial",
+        "anio": "1966",
+        "poemas": []
+       },
+       {
+        "nombre": "Ximena Rivera",
+        "anio": "1959",
+        "poemas": []
+       },
+       {
+        "nombre": "Germán Carrasco",
+        "anio": "1971",
+        "poemas": []
+       },
+       {
+        "nombre": "Yanko González",
+        "anio": "1971",
+        "poemas": []
+       },
+       {
+        "nombre": "Alejandra del Río",
+        "anio": "1972",
+        "poemas": []
+       },
+       {
+        "nombre": "Javier Bello",
+        "anio": "1972",
+        "poemas": []
+       },
+       {
+        "nombre": "Juan Cristóbal Romero",
+        "anio": null,
+        "poemas": []
+       },
+       {
+        "nombre": "Andrés Anwandter",
+        "anio": "1974",
+        "poemas": []
+       },
+       {
+        "nombre": "Leonardo Sanhueza",
+        "anio": "1974",
+        "poemas": []
+       },
+       {
+        "nombre": "Rafael Rubio",
+        "anio": "1975",
+        "poemas": []
+       },
+       {
+        "nombre": "Damsi Figueroa",
+        "anio": null,
+        "poemas": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Poesía del 2000",
+    "titulo": "Añadido al mapa (no figura en el índice de Nómez): los poetas surgidos en la década del 2000",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Héctor Hernández Montecinos",
+        "anio": "1979",
+        "poemas": []
+       },
+       {
+        "nombre": "Paula Ilabaca",
+        "anio": "1979",
+        "poemas": []
+       },
+       {
+        "nombre": "Gladys González",
+        "anio": "1981",
+        "poemas": []
+       },
+       {
+        "nombre": "Diego Ramírez",
+        "anio": "1982",
+        "poemas": []
+       },
+       {
+        "nombre": "Enrique Winter",
+        "anio": "1982",
+        "poemas": []
+       },
+       {
+        "nombre": "Daniela Catrileo",
+        "anio": "1987",
+        "poemas": []
        }
       ]
      }

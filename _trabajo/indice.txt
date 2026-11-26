@@ -157,6 +157,26 @@ N: De «Lo que me dijo el silencio» VII, X | Psicología pesimista | De «Horas
 A: Pablo de Rokha
 N: Apunte | Carne triste | Sobre el cuerpo que todavía se mueve, ahí
 
+P: Las vanguardias y la generación del 38 | Añadido al mapa (no figura en el índice de Nómez): las vanguardias de los años veinte y treinta y la generación del 38
+A: Pablo Neruda | 1904
+N:
+A: Rosamel del Valle | 1901
+N:
+A: Humberto Díaz-Casanueva | 1906
+N:
+A: Juvencio Valle | 1900
+N:
+A: Alberto Rojas Jiménez | 1900
+N:
+A: Romeo Murga | 1904
+N:
+A: Gerardo Seguel | 1902
+N:
+A: María Monvel | 1899
+N:
+A: Julio Barrenechea | 1910
+N:
+
 T: Tomo II | Auge y disolución de las vanguardias. Poesía social y poesía popular
 
 P: De la vanguardia a la poesía social y popular | Parte I. De la vanguardia a la poesía social y popular
@@ -412,3 +432,149 @@ A: Claudio Bertoni
 N: Mi baño de tina | Please | Sopa | Biografía de Clovis Trouille
 A: Cecilia Vicuña
 N: Retrato físico | Luminosidad de los orificios | Número telefónico | El centro Mandala | Desviaciones naturales
+
+T: Añadidos | Poesía chilena desde 1973 (añadido al mapa)
+
+P: Neovanguardia y poesía en dictadura | Añadido al mapa (no figura en el índice de Nómez): neovanguardia, escena de avanzada y poesía bajo la dictadura (1973-1990)
+A: Raúl Zurita | 1950
+N:
+A: Juan Luis Martínez | 1942
+N:
+A: Diego Maquieira | 1951
+N:
+A: Rodrigo Lira | 1949
+N:
+A: Carmen Berenguer | 1946
+N:
+A: Elvira Hernández | 1951
+N:
+A: Soledad Fariña | 1943
+N:
+A: Eugenia Brito | 1950
+N:
+A: Paz Molina | 1945
+N:
+A: Gonzalo Muñoz | 1956
+N:
+A: Carlos Cociña | 1950
+N:
+A: Antonio Gil | 1954
+N:
+A: Tomás Harris | 1956
+N:
+A: José Ángel Cuevas | 1944
+N:
+A: Armando Rubio | 1955
+N:
+A: Bruno Vidal | 1953
+N:
+A: Aristóteles España | 1955
+N:
+A: Teresa Calderón | 1955
+N:
+A: Eduardo Llanos | 1956
+N:
+A: Heddy Navarro | 1944
+N:
+A: Jorge Montealegre | 1954
+N:
+A: Juan Cameron | 1947
+N:
+A: Alexis Figueroa | 1956
+N:
+
+P: Poesía del exilio | Añadido al mapa (no figura en el índice de Nómez): la poesía chilena escrita en el exilio
+A: Roberto Bolaño | 1953
+N:
+A: Bruno Montané | 1957
+N:
+A: Jorge Etcheverry | 1945
+N:
+A: Erick Pohlhammer | 1955
+N:
+A: Sergio Macías | 1938
+N:
+A: Mauricio Redolés | 1953
+N:
+
+P: Poesía del sur | Añadido al mapa (no figura en el índice de Nómez): poesía del sur y de Chiloé (grupos Chaicura, Índice y Aumen)
+A: Rosabetty Muñoz | 1960
+N:
+A: Sergio Mansilla | 1958
+N:
+A: Clemente Riedemann | 1953
+N:
+A: Jorge Torres | 1956
+N:
+A: Carlos Alberto Trujillo | 1951
+N:
+A: Juan Pablo Riveros | 1945
+N:
+A: Renato Cárdenas | 1949
+N:
+A: Mario Contreras Vega | 1947
+N:
+
+P: Poesía mapuche | Añadido al mapa (no figura en el índice de Nómez): poesía mapuche contemporánea
+A: Elicura Chihuailaf | 1952
+N:
+A: Leonel Lienlaf | 1969
+N:
+A: Jaime Huenún | 1967
+N:
+A: Graciela Huinao | 1956
+N:
+A: Adriana Paredes Pinda | 1970
+N:
+A: Bernardo Colipán | 1966
+N:
+A: Lorenzo Aillapán | 1940
+N:
+A: Rayen Kvyeh | 1953
+N:
+A: David Aniñir | 1971
+N:
+
+P: La generación de los noventa | Añadido al mapa (no figura en el índice de Nómez): la poesía de los noventa
+A: Verónica Jiménez | 1964
+N:
+A: Sergio Parra | 1964
+N:
+A: Malú Urriola | 1967
+N:
+A: Armando Roa Vial | 1966
+N:
+A: Ximena Rivera | 1959
+N:
+A: Germán Carrasco | 1971
+N:
+A: Yanko González | 1971
+N:
+A: Alejandra del Río | 1972
+N:
+A: Javier Bello | 1972
+N:
+A: Juan Cristóbal Romero
+N:
+A: Andrés Anwandter | 1974
+N:
+A: Leonardo Sanhueza | 1974
+N:
+A: Rafael Rubio | 1975
+N:
+A: Damsi Figueroa
+N:
+
+P: Poesía del 2000 | Añadido al mapa (no figura en el índice de Nómez): los poetas surgidos en la década del 2000
+A: Héctor Hernández Montecinos | 1979
+N:
+A: Paula Ilabaca | 1979
+N:
+A: Gladys González | 1981
+N:
+A: Diego Ramírez | 1982
+N:
+A: Enrique Winter | 1982
+N:
+A: Daniela Catrileo | 1987
+N:

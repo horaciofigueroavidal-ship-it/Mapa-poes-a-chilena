@@ -15,7 +15,7 @@ tags: [autor]
 
 Poeta, narrador y periodista, Andrés Sabella nació en Antofagasta el 13 de diciembre de 1912.
 
-Viajó a Santiago para estudiar derecho en la Universidad de Chile, carrera que no concluyó. Sin embargo, durante nueve años fue ayudante en la cátedra de Derecho del Trabajo. Permaneció 21 años en la capital, integrándose a la bohemia literaria junto a Diego Muñoz, Pablo Neruda, Oreste Plath, Alberto Rojas Jiménez y Alberto Valdivia (el "Cadáver" Valdivia), entre muchos otros escritores. Fue miembro de la Hermandad de la Costa donde alcanzó el grado máximo de Capitán Nacional.
+Viajó a Santiago para estudiar derecho en la Universidad de Chile, carrera que no concluyó. Sin embargo, durante nueve años fue ayudante en la cátedra de Derecho del Trabajo. Permaneció 21 años en la capital, integrándose a la bohemia literaria junto a Diego Muñoz, [[Pablo Neruda|Pablo Neruda]], Oreste Plath, [[Alberto Rojas Jiménez|Alberto Rojas Jiménez]] y Alberto Valdivia (el "Cadáver" Valdivia), entre muchos otros escritores. Fue miembro de la Hermandad de la Costa donde alcanzó el grado máximo de Capitán Nacional.
 
 Escribió en numerosas revistas y diarios del país, siendo colaborador constante, durante más de 40 años, del diario Las Últimas Noticias de Santiago. Dirigió la revista Mástil de la Escuela de Derecho. Desde 1933 editó los Cuadernos de Poesía Hacia, publicación fundamental en la difusión de la literatura nacional. En ella inició, además, una importante labor como dibujante; actividad que mantuvo durante toda su vida.
 

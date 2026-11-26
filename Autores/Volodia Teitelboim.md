@@ -15,7 +15,7 @@ tags: [autor]
 
 Valentín Teitelboim Volosky, más conocido como Volodia Teitelboim, nació el 17 de marzo de 1916, en Chillán. Hijo de Moisés Teitelboim y Sara Volosky, desde temprana edad manifestó inquietudes literarias. Leyó intensamente El Peneca, a Emilio Salgari, Julio Verne y la Biblia. A los 16 años inició su militancia en la Juventudes Comunistas. Desde entonces, su actividad política marcó un nuevo rumbo para su vida.
 
-En 1935, publicó en colaboración con [[Eduardo Anguita|Eduardo Anguita]] la Antología de poesía chilena nueva. Este libro señaló un punto de controversia, ya que no incluyó a [[Gabriela Mistral|Gabriela Mistral]] y contribuyó a la célebre polémica literaria entre [[Vicente Huidobro|Vicente Huidobro]], [[Pablo de Rokha|Pablo de Rokha]] y Pablo Neruda.
+En 1935, publicó en colaboración con [[Eduardo Anguita|Eduardo Anguita]] la Antología de poesía chilena nueva. Este libro señaló un punto de controversia, ya que no incluyó a [[Gabriela Mistral|Gabriela Mistral]] y contribuyó a la célebre polémica literaria entre [[Vicente Huidobro|Vicente Huidobro]], [[Pablo de Rokha|Pablo de Rokha]] y [[Pablo Neruda|Pablo Neruda]].
 
 Volodia Teitelboim, considerado miembro de la Generación Literaria de 1938, ha ejercido la crítica literaria en diversas publicaciones. Su mirada crítica siempre estuvo atenta a las letras latinoamericanas y universales. Durante medio siglo, incluyendo sus quince años de exilio europeo, trabajó como analista del quehacer literario de otros autores y, también, como creador en diversos géneros.
 

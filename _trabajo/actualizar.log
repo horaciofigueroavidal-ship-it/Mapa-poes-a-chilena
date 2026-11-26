@@ -1,0 +1,541 @@
+
+=== resolver.py  ===
+Andrés Bello                        AUT=[(143391, 'Balmaceda Bello, Andrés'), (166743, 'Bello, Andrés, 1781-1865')]  MINI=[(3290, 'Andrés Bello López (1781-1865)'), (656220, 'Suscrición de la Academia de Bellas Letras a la estatua de Don Andrés Bello (1874)')]
+Salvador Sanfuentes                 AUT=[(167917, 'Sanfuentes, Salvador, 1817-1860')]  MINI=[(100802, 'Salvador Sanfuentes Torres (1817-1860)')]
+Guillermo Matta                     AUT=[(166367, 'Matta, Guillermo, 1829-1899')]  MINI=[(542790, 'Guillermo Matta (1829-1899)'), (542776, 'Guillermo Matta en la Revista de Santiago (1872-1873)')]
+Guillermo Blest Gana                AUT=[(166630, 'Blest Gana, Guillermo, 1829-1905')]  MINI=[(3447, 'Guillermo Blest Gana (1829-1905)')]
+Eduardo de la Barra                 AUT=[(1150109, 'Barra, Eduardo de la, 1839-1900')]  MINI=[]
+José Antonio Soffia                 AUT=[(128484, 'Naranjo, José Antonio'), (127183, 'Torres, José Antonio'), (127182, 'Irisarri, Antonio José de, 1786-1868')]  MINI=[(333855, 'José Antonio Rojas (1732-1817)'), (348989, 'José Antonio Torres (1828-1864)')]
+Juan Rafael Allende                 AUT=[(1173758, 'Allende, Juan Rafael, 1850-1909')]  MINI=[(3493, 'Juan Rafael Allende (1848-1909)')]
+Rubén Darío                         AUT=[(166318, 'Darío, Rubén, 1867-1916')]  MINI=[(3700, 'Rubén Darío en Chile (1886-1889)'), (93036, 'Rubén Darío. Su vida y obra (1930)')]
+Narciso Tondreau                    AUT=[(129842, 'Tondreau, Narciso')]  MINI=[]
+Leonardo Eliz                       AUT=[(128914, 'Eliz, Leonardo')]  MINI=[]
+Ricardo Fernández Montalva          AUT=[(129469, 'Fernández Montalva, Ricardo'), (647981, 'Fernández Montalva, Ricardo, 1866-1899')]  MINI=[]
+Pedro Antonio González              AUT=[(1070646, 'González, Pedro Antonio, 1863-1903')]  MINI=[(3648, 'Pedro Antonio González Valenzuela (1863-1903)'), (635831, 'Memoria Chilena recorre el modernismo emergente de Pedro Antonio González Valenzuela (1863-1903)')]
+Julio Vicuña Cifuentes              AUT=[(774577, 'Vicuña Cifuentes, Julio, 1865-1936')]  MINI=[(97606, 'Julio Vicuña Cifuentes (1865-1936)')]
+Augusto Winter                      AUT=[(129349, 'Winter, Augusto'), (1198532, 'Winter, Augusto, 1868-1927')]  MINI=[]
+Samuel Lillo                        AUT=[(1211179, 'Lillo, Samuel A.'), (1198504, 'Lillo, Samuel A., 1870-1958')]  MINI=[(800, 'Samuel Antonio Lillo Figueroa (1870-1958)'), (95578, 'Discurso de incorporación de Samuel Lillo a la Academia Chilena de la Lengua (1929)')]
+Gustavo Valledor Sánchez            AUT=[]  MINI=[]
+Abelardo Varela                     AUT=[]  MINI=[]
+Horacio Olivos y Carrasco           AUT=[]  MINI=[]
+Antonio Bórquez Solar               AUT=[(1146571, 'Bórquez Solar, Antonio, 1874-1938')]  MINI=[]
+Zoilo Escobar                       AUT=[(128843, 'Escobar, Zoilo')]  MINI=[]
+Luis A. Hurtado                     AUT=[]  MINI=[]
+Diego Dublé Urrutia                 AUT=[(965555, 'Dublé Urrutia, Diego, 1877-1967')]  MINI=[(3357, 'Diego Dublé Urrutia (1877-1967)')]
+Miguel Luis Rocuant                 AUT=[(1197476, 'Rocuant, Miguel Luis, 1878-1948')]  MINI=[(97431, 'Miguel Luis Rocuant (1877-1948)')]
+Francisco Contreras                 AUT=[(962412, 'Contreras V., Francisco'), (127230, 'Contreras, Francisco, 1877-1933')]  MINI=[(3425, 'Francisco Contreras (1877-1933)')]
+Ernesto A. Guzmán                   AUT=[(127383, 'Guzmán, Ernesto A.')]  MINI=[]
+Manuel Magallanes Moure             AUT=[(127223, 'Magallanes Moure, Manuel, 1878-1924')]  MINI=[(3590, 'Manuel Magallanes Moure (1878-1924)')]
+Carlos Keymer                       AUT=[]  MINI=[]
+Carlos Pezoa Véliz                  AUT=[(166361, 'Pezoa Véliz, Carlos, 1879-1908')]  MINI=[(567, 'Carlos Pezoa Véliz (1879-1908)')]
+Jorge González Bastías              AUT=[(127268, 'González Bastias, Jorge, 1879-1950')]  MINI=[(3472, 'Jorge González Bastías (1879-1950)')]
+Abel González                       AUT=[]  MINI=[]
+Luis Felipe Contardo                AUT=[(759497, 'Contardo, Luis Felipe, 1880-1921')]  MINI=[(96845, 'Luis Felipe Contardo (1880-1922)')]
+Alberto Mauret Caamaño              AUT=[(812982, 'Mauret Caamaño, Alberto, 1880-1934')]  MINI=[]
+Carlos Mondaca                      AUT=[(128747, 'Mondaca, Carlos')]  MINI=[(3324, 'Carlos R. Mondaca (1881-1928)')]
+Víctor Domingo Silva                AUT=[(128619, 'Domingo Silva, Victor'), (127198, 'Silva, Víctor Domingo'), (1198286, 'Silva, Víctor Domingo, 1882-1960')]  MINI=[(7679, 'Víctor Domingo Silva (1882-1960)')]
+Jerónimo Lagos Lisboa               AUT=[(1217094, 'Lagos Lisboa, Jerónimo')]  MINI=[]
+Andrés Silva Humeres                AUT=[]  MINI=[]
+Juan Manuel Rodríguez               AUT=[(143538, 'Haedo y Espina, Juan Manuel'), (142957, 'Fierro Bustos, Juan Manuel'), (140578, 'Arriagada, Juan Manuel')]  MINI=[]
+Pedro Prado                         AUT=[(144460, 'Prado Jaraquemada, Pedro José'), (166904, 'Prado, Pedro, 1886-1952')]  MINI=[(770, 'Pedro Prado Calvo (1886-1952)')]
+Max Jara                            AUT=[(774672, 'Jara, Max, 1886-1965')]  MINI=[(3610, 'Max Jara (1886-1965)'), (71399, 'Max Jara (1886-1965)')]
+Alberto Moreno                      AUT=[(1190873, 'Moreno Méndez, Alberto'), (1198618, 'Moreno Méndez, Alberto, 1886-1918')]  MINI=[(636460, 'Alberto Moreno Méndez (1886-1918)')]
+Carlos Acuña                        AUT=[(129037, 'Acuña, Carlos')]  MINI=[]
+Ignacio Verdugo Cavada              AUT=[(128715, 'Verdugo Cavada, Ignacio')]  MINI=[]
+Julio Munizaga Ossandón             AUT=[]  MINI=[]
+Guillermo Muñoz Medina              AUT=[(141193, 'Arrieta Muñoz, Guillermo'), (130660, 'Muñoz Correa, Juan Guillermo'), (761771, 'Muñoz Vera, Guillermo, 1956-')]  MINI=[]
+Carlos Préndez Saldías              AUT=[]  MINI=[]
+Jorge Hübner Bezanilla              AUT=[(127941, 'Hubner Gallo, Jorge Iván'), (761363, 'Hübner Bezanilla, Jorge, 1892-1964')]  MINI=[(96844, 'Jorge Hübner Bezanilla (1892-1964)')]
+Daniel de la Vega                   AUT=[(964463, 'Vega, Daniel de la, 1892-1971')]  MINI=[(579, 'Daniel de la Vega (1892-1971)'), (96821, 'Daniel de la Vega en Pluma y Lápiz (1912)')]
+Enrique Ponce                       AUT=[]  MINI=[]
+Carlos Barella                      AUT=[(140641, 'Barella, Carlos'), (128546, 'Barella Iriarte, Carlos'), (1198614, 'Barella, Carlos, 1892-1966')]  MINI=[]
+Ángel Cruchaga Santa María          AUT=[(127326, 'Cruchaga Santa María, Ángel, 1893-1964')]  MINI=[(3293, 'Ángel Cruchaga Santa María (1893-1964)')]
+Teresa Wilms Montt                  AUT=[(1198538, 'Wilms Montt, Teresa, 1893-1921')]  MINI=[(805, 'Teresa Wilms Montt (1893-1921)')]
+Pedro Sienna                        AUT=[(736073, 'Sienna, Pedro, 1893-1972')]  MINI=[(771, 'Pedro Sienna (1893-1972)')]
+Sady Zañartu                        AUT=[(166702, 'Zañartu, Sady, 1893-1983')]  MINI=[(3701, 'Sady Zañartu Bustos (1893-1983)')]
+Elías Arze Bastidas                 AUT=[]  MINI=[]
+Luciano Morgado                     AUT=[]  MINI=[]
+Francisco Donoso González           AUT=[(145534, 'Donoso, Francisco Javier'), (804069, 'Donoso, Francisco, 1894-1969')]  MINI=[(96843, 'Francisco Donoso (1896-1969)')]
+Alberto Valdivia                    AUT=[]  MINI=[]
+Juan Guzmán Cruchaga                AUT=[(804267, 'Guzmán Cruchaga, Juan, 1895-1979')]  MINI=[(665, 'Juan Guzmán Cruchaga (1895-1979)')]
+Augusto Iglesias                    AUT=[(153231, 'Iglesias Palau, Augusto'), (128167, 'Iglesias, Augusto')]  MINI=[]
+Lautaro García                      AUT=[(128767, 'García, Lautaro')]  MINI=[]
+Miriam Elim                         AUT=[]  MINI=[]
+Olga Acevedo                        AUT=[]  MINI=[(334082, 'Olga Acevedo (1895-1970)')]
+María Antonieta Le Quesne           AUT=[(141355, 'Zandanel de González, María Antonieta')]  MINI=[]
+José Domingo Gómez Rojas            AUT=[(1173601, 'Gómez Rojas, José Domingo, 1896-1920')]  MINI=[(3476, 'José Domingo Gómez Rojas (1896-1920)')]
+David Enrique Perry                 AUT=[]  MINI=[]
+Gerardo Moraga Bustamante           AUT=[]  MINI=[]
+Gabriela Mistral                    AUT=[(165650, 'Mistral, Gabriela, 1889-1957')]  MINI=[(3429, 'Gabriela Mistral (1889-1957)'), (95732, 'Vida y obra de Gabriela Mistral (1933-1989)')]
+Vicente Huidobro                    AUT=[(127536, 'Huidobro, Vicente, 1893-1948')]  MINI=[(7676, 'Vicente Huidobro (1893-1948)'), (545667, 'Novelas de Vicente Huidobro (1929-1939)')]
+Winétt de Rokha                     AUT=[(1181395, 'Rokha, Winétt de, 1894-1951')]  MINI=[(7688, 'Winétt de Rokha (1892-1951)')]
+Pablo de Rokha                      AUT=[(166341, 'Rokha, Pablo de, 1894-1968')]  MINI=[(3636, 'Pablo de Rokha (1894-1968)')]
+Pablo Neruda                        AUT=[(1211857, 'Neruda, Pablo'), (166236, 'Neruda, Pablo, 1904-1973')]  MINI=[(3638, 'Pablo Neruda (1904-1973)'), (3639, 'Pablo Neruda diplomático (1927-1973)')]
+Rosamel del Valle                   AUT=[(166220, 'Valle, Rosamel del, 1901-1965')]  MINI=[(798, 'Rosamel del Valle (1901-1965)'), (334404, 'El sol ciego: en la muerte de Rosamel del Valle (1966)')]
+Humberto Díaz-Casanueva             AUT=[(166222, 'Díaz-Casanueva, Humberto, 1906-1992')]  MINI=[(3458, 'Humberto Díaz-Casanueva (1906-1992)')]
+Juvencio Valle                      AUT=[(127282, 'Valle, Juvencio, 1900-1999'), (1241637, 'Valle, Juvencio')]  MINI=[(670, 'Juvencio Valle (1900-1999)')]
+Alberto Rojas Jiménez               AUT=[(1211854, 'Rojas Jiménez, Alberto'), (783552, 'Rojas Jiménez, Alberto, 1900-1934')]  MINI=[(3275, 'Alberto Rojas Jiménez (1900-1934)')]
+Romeo Murga                         AUT=[(127379, 'Murga, Romeo')]  MINI=[(797, 'Romeo Murga Sierralta (1904-1925)')]
+Gerardo Seguel                      AUT=[(129274, 'Seguel, Gerardo')]  MINI=[]
+María Monvel                        AUT=[(143004, 'Monvel, María, 1889-1936')]  MINI=[(3709, 'María Monvel (1899-1936)')]
+Julio Barrenechea                   AUT=[(166287, 'Barrenechea, Julio, 1910-1979')]  MINI=[(3495, 'Julio Barrenechea (1910-1979)')]
+Omar Cáceres                        AUT=[(127323, 'Cáceres, Omar, 1904-1943')]  MINI=[(760, 'Omar Cáceres (1904-1943)')]
+Juan Negro                          AUT=[]  MINI=[]
+Óscar Castro                        AUT=[(166614, 'Castro, Oscar, 1910-1947')]  MINI=[(764, 'Óscar Castro (1910-1947)')]
+Victoriano Vicario                  AUT=[]  MINI=[]
+Gustavo Ossorio                     AUT=[]  MINI=[(95421, 'Gustavo Ossorio (1911-1949)')]
+Braulio Arenas                      AUT=[(165952, 'Arenas, Braulio, 1913-1988')]  MINI=[(563, 'Braulio Arenas (1913-1988)')]
+Eduardo Anguita                     AUT=[(127295, 'Anguita, Eduardo, 1914-1992')]  MINI=[(3364, 'Eduardo Anguita (1914-1992)')]
+Teófilo Cid                         AUT=[(127299, 'Cid, Teófilo')]  MINI=[(3713, 'Teófilo Cid (1914-1964)')]
+Roque Esteban Scarpa                AUT=[(150179, 'Círculo Literario Roque Esteban Scarpa (Punta Arenas, Chile)'), (127307, 'Scarpa, Roque Esteban, 1914-1995')]  MINI=[(3697, 'Roque Esteban Scarpa (1914-1995)')]
+Enrique Gómez-Correa                AUT=[(318909, 'Gómez-Correa, Enrique, 1915-1995')]  MINI=[(613, 'Enrique Gómez-Correa (1915-1995)')]
+Mahfud Massís                       AUT=[(1173222, 'Massis, Mahfud, 1916-1990')]  MINI=[(3584, 'Mahfúd Massís (1916-1990)')]
+Jorge Cáceres                       AUT=[(129164, 'Cáceres Valencia, Jorge, 1937-'), (160566, 'Cáceres, Jorge, 1923-1949')]  MINI=[(660, 'Jorge Luis Cáceres (1923-1949)')]
+Antonio de Undurraga                AUT=[(127241, 'Undurraga, Antonio de')]  MINI=[]
+Stella Corvalán                     AUT=[(1217093, 'Corvalán, Stella')]  MINI=[]
+Luis Merino Reyes                   AUT=[(147701, 'Merino Reyes, Luis, 1912-2011')]  MINI=[(100694, 'Luis Merino Reyes (1912-2011)')]
+Mila Oyarzún                        AUT=[]  MINI=[]
+Andrés Sabella                      AUT=[(1222830, 'Sabella, Andrés'), (806195, 'Sabella, Andrés, 1912-1989')]  MINI=[(3292, 'Andrés Sabella (1912-1989)')]
+Carlos René Correa                  AUT=[(127240, 'Correa, Carlos René, 1912-1999')]  MINI=[]
+María Cristina Menares              AUT=[(1198515, 'Menares, María Cristina, 1914-2012')]  MINI=[]
+Alberto Baeza Flores                AUT=[(127334, 'Baeza Flores, Alberto')]  MINI=[]
+Luis Oyarzún                        AUT=[(1217083, 'Oyarzún, Luis'), (174025, 'Oyarzún, Luis, 1920-1972')]  MINI=[(737, 'Luis Oyarzún Peña (1920-1972)')]
+Victoria Contreras Falcón           AUT=[]  MINI=[]
+Patricia Morgan                     AUT=[(152384, 'Morgan, Patricia')]  MINI=[]
+Alejandro Galaz                     AUT=[]  MINI=[]
+Hermelo Arabena Williams            AUT=[(127463, 'Arabena Williams, Hermelo, 1905-2001')]  MINI=[]
+Róbinson Saavedra Gómez             AUT=[]  MINI=[]
+Javier Vergara Huneeus              AUT=[]  MINI=[]
+Hernán Cañas                        AUT=[]  MINI=[]
+Francisco Santana                   AUT=[(127346, 'Santana, Francisco')]  MINI=[]
+Aldo Torres Púa                     AUT=[(804107, 'Torres Púa, Aldo')]  MINI=[]
+Carlos Collins Bunster              AUT=[]  MINI=[]
+Carlos Poblete                      AUT=[]  MINI=[]
+Joaquín Martínez Arenas             AUT=[(157713, 'Martínez Arenas, Joaquín')]  MINI=[]
+Víctor Franzani                     AUT=[]  MINI=[]
+Jaime Rayo                          AUT=[]  MINI=[]
+Volodia Teitelboim                  AUT=[(163397, 'Gustavino, Luis Torres, Guillermo Teitelboim, Volodia'), (166351, 'Teitelboim, Volodia, 1916-2008')]  MINI=[(7685, 'Volodia Teitelboim (1916-2008)')]
+Juan Arcos                          AUT=[]  MINI=[]
+Julio Moncada                       AUT=[]  MINI=[]
+María Silva Ossa                    AUT=[(127280, 'Silva Ossa, María')]  MINI=[(747, 'María Silva Ossa (1918-2009)')]
+Heriberto Rocuant                   AUT=[]  MINI=[]
+Miguel Arteche                      AUT=[(127477, 'Arteche, Miguel, 1926-2012')]  MINI=[(751, 'Miguel Arteche (1926-2012)')]
+David Rosenmann-Taub                AUT=[(127304, 'Rosenmann Taub, David, 1927-')]  MINI=[(3348, 'David Rosenmann-Taub (1927-2023)')]
+Alberto Rubio                       AUT=[(127302, 'Rubio, Alberto')]  MINI=[(3277, 'Alberto Rubio Riesco (1928-2002)')]
+Escilda Greve                       AUT=[]  MINI=[]
+Irma Astorga                        AUT=[]  MINI=[]
+Víctor Castro                       AUT=[(166645, 'Castro, Víctor, 1920-1986')]  MINI=[]
+Bernardo Cruz                       AUT=[(142270, 'Cruz Adler, Bernardo')]  MINI=[]
+Matilde Ladrón de Guevara           AUT=[(128550, 'Ladrón de Guevara, Matilde')]  MINI=[]
+Alfonso Gómez Líbano                AUT=[]  MINI=[]
+Julio Molina                        AUT=[(129440, 'Saavedra Molina, Julio'), (127303, 'Molina Müller, Julio'), (1173217, 'Molina Núñez, Julio, 1884-')]  MINI=[]
+Fernando Onfray                     AUT=[]  MINI=[]
+Nina Donoso                         AUT=[]  MINI=[]
+Armando Solari                      AUT=[]  MINI=[]
+Claudio Solar                       AUT=[(127711, 'Solar, Claudio, 1926-2010')]  MINI=[]
+Nicanor Parra                       AUT=[(829373, 'Parra, Nicanor, 1914-2018')]  MINI=[(3629, 'Nicanor Parra (1914-2018)')]
+Gonzalo Rojas                       AUT=[(127504, 'Rojas, Gonzalo, 1917-2011'), (145560, 'Rojas Sánchez, Gonzalo'), (144685, 'Rojas Flores, Gonzalo')]  MINI=[(3443, 'Gonzalo Rojas (1916-2011)')]
+Violeta Parra                       AUT=[(173522, 'Parra, Violeta, 1917-1967')]  MINI=[(7683, 'Violeta Parra (1917-1967)')]
+Enrique Lihn                        AUT=[(174695, 'Lihn, Enrique, 1929-1988')]  MINI=[(3408, 'Enrique Lihn (1929-1988)')]
+Efraín Barquero                     AUT=[(127574, 'Barquero, Efraín, 1931-2020')]  MINI=[(3368, 'Efraín Barquero (1931-2020)')]
+Jorge Teillier                      AUT=[(166000, 'Teillier, Jorge, 1935-1996')]  MINI=[(3475, 'Jorge Teillier Sandoval (1935-1996)')]
+Rolando Cárdenas                    AUT=[(128548, 'Cárdenas, Rolando, 1933-1990')]  MINI=[(796, 'Rolando Cárdenas (1933-1990)')]
+Luis Vulliamy                       AUT=[]  MINI=[]
+Marino Muñoz Lagos                  AUT=[(1181398, 'Muñoz Lagos, Marino, 1925-2017')]  MINI=[]
+Pablo Guíñez                        AUT=[]  MINI=[]
+Alfonso Calderón                    AUT=[(776291, 'Calderón?n, Alfonso'), (174901, 'Calderón, Alfonso, 1930-2009')]  MINI=[(3283, 'Alfonso Calderón (1930-2009)')]
+Delia Domínguez                     AUT=[(127197, 'Domínguez, Delia')]  MINI=[(3350, 'Delia Domínguez Mohr (1931-2022)')]
+Armando Uribe Arce                  AUT=[(127138, 'Uribe, Armando, 1933-2020')]  MINI=[(3306, 'Armando Uribe Arce (1933-2020)')]
+Alfonso Alcalde                     AUT=[(127558, 'Alcalde, Alfonso, 1921-1992')]  MINI=[(547, 'Alfonso Alcalde (1921-1992)')]
+Guillermo Trejo                     AUT=[(127577, 'Trejo, Guillermo')]  MINI=[]
+Carlos de Rokha                     AUT=[(128356, 'Rokha, Carlos de, 1920-1962')]  MINI=[(3322, 'Carlos de Rokha (1920-1962)')]
+Antonio Campaña                     AUT=[(734913, 'Campaña, Antonio, 1922-')]  MINI=[]
+Stella Díaz Varín                   AUT=[(665899, 'Díaz Varín, Stella, 1926-2006')]  MINI=[(3707, 'Stella Díaz Varín (1926-2006)')]
+Ludwig Zeller                       AUT=[(156633, 'Zeller, Ludwig, 1927-2019. Espejismos'), (127858, 'Zeller, Ludwig, 1927-2019')]  MINI=[(3577, 'Ludwig Zeller (1927-2019)')]
+Emma Jauch                          AUT=[(128497, 'Jauch, Emma')]  MINI=[]
+María Urzúa                         AUT=[(127320, 'Urzúa, María')]  MINI=[]
+Jorge Jobet                         AUT=[]  MINI=[]
+Ángel Custodio González             AUT=[(128495, 'González, Angel Custodio')]  MINI=[]
+Venancio Lisboa                     AUT=[]  MINI=[]
+Altenor Guerrero                    AUT=[(127363, 'Guerrero, Altenor')]  MINI=[]
+Carmen Ábalos                       AUT=[]  MINI=[]
+Mario Ferrero                       AUT=[(735227, 'Ferrero, Mario, 1920-1994')]  MINI=[]
+José Miguel Vicuña                  AUT=[(127621, 'Vicuña, José Miguel')]  MINI=[]
+Eliana Navarro                      AUT=[(318902, 'Navarro, Eliana, 1920-2006')]  MINI=[(3386, 'Eliana Navarro (1920-2006)')]
+Fernando González Urízar            AUT=[(127877, 'González-Urízar, Fernando')]  MINI=[]
+Manuel Francisco Mesa Seco          AUT=[(127692, 'Mesa Seco, Manuel Francisco')]  MINI=[]
+Francisca Ossandón                  AUT=[]  MINI=[]
+Cecilia Casanova                    AUT=[(142147, 'Casanova, Cecilia')]  MINI=[(126975, 'Cecilia Casanova (1926-2014)')]
+Fernando Lamberg                    AUT=[(127305, 'Lamberg, Fernando')]  MINI=[]
+Matías Rafide                       AUT=[(761358, 'Rafide, Matías, 1929-')]  MINI=[]
+Edmundo Herrera                     AUT=[(127907, 'Herrera, Edmundo')]  MINI=[]
+Ximena Adriasola                    AUT=[(127468, 'Adriasola, Ximena, 1930-2014')]  MINI=[]
+Eugenio García-Díaz                 AUT=[(127451, 'García-Díaz, Eugenio, 1930-2014')]  MINI=[]
+Sara Vial                           AUT=[(147847, 'Vial, Sara, 1931-')]  MINI=[]
+Ennio Moltedo                       AUT=[(127788, 'Moltedo, Ennio')]  MINI=[]
+Rosa Cruchaga de Walker             AUT=[(152074, 'Cruchaga de Walker, Rosa, 1931-2016')]  MINI=[]
+Pedro Lastra                        AUT=[(156929, 'Gómez de la Lastra, Pedro'), (1155619, 'Lastra, Pedro, 1932-')]  MINI=[]
+José Miguel Ibáñez Langlois         AUT=[(128089, 'Ibáñez Langlois, José Miguel')]  MINI=[]
+Hernán Montealegre                  AUT=[]  MINI=[]
+Hernán Valdés                       AUT=[(130675, 'Moena Valdés, Hernán'), (128830, 'Valdés, Hernán')]  MINI=[]
+Óscar Hahn                          AUT=[(127117, 'Hahn, Óscar')]  MINI=[(3634, 'Óscar Hahn (1938-)')]
+Hernán Lavín Cerda                  AUT=[(150791, 'Lavín Cerda, Hernán, 1939-')]  MINI=[]
+Waldo Rojas                         AUT=[(150131, 'Rojas, Waldo, 1944-')]  MINI=[(7686, 'Waldo Rojas (1944-)')]
+Omar Lara                           AUT=[(155804, 'Lara, Omar, 1941-2021')]  MINI=[(94399, 'Omar Lara (1941-2021)')]
+Jaime Giordano                      AUT=[(127934, 'Giordano, Jaime')]  MINI=[]
+Floridor Pérez                      AUT=[(147807, 'Pérez, Floridor, 1937-')]  MINI=[(627, 'Floridor Pérez (1937-2019)')]
+Jaime Quezada                       AUT=[(147788, 'Quezada, Jaime, 1942-'), (1241647, 'Quezada, Jaime')]  MINI=[(3466, 'Jaime Quezada (1942- )')]
+Carlos Cortínez                     AUT=[]  MINI=[]
+Federico Schopf                     AUT=[(150796, 'Schopf, Federico, 1940-')]  MINI=[]
+Jaime Gómez Rogers (Jonás)          AUT=[]  MINI=[]
+Gonzalo Millán                      AUT=[(174693, 'Millán, Gonzalo, 1947-2006')]  MINI=[(3442, 'Gonzalo Millán (1947-2006)')]
+Hernán Miranda                      AUT=[(152184, 'Miranda, Hernán, 1941-2024')]  MINI=[(94397, 'Hernán Miranda (1941-2024)')]
+Manuel Silva Acevedo                AUT=[(128193, 'Silva Acevedo, Manuel')]  MINI=[(3593, 'Manuel Silva Acevedo (1942-)')]
+Oliver Welden                       AUT=[(776898, 'Welden, Oliver, 1946-2021')]  MINI=[(336705, 'Oliver Welden (1946-2021)')]
+Claudio Bertoni                     AUT=[(155798, 'Bertoni Lemus, Claudio, 1946-')]  MINI=[(3338, 'Claudio Bertoni (1946-)')]
+Cecilia Vicuña                      AUT=[(127145, 'Vicuña, Cecilia, 1948-')]  MINI=[(3330, 'Cecilia Vicuña (1948-)')]
+Raúl Zurita                         AUT=[(127571, 'Zurita, Raúl, 1950-')]  MINI=[(3669, 'Raúl Zurita (1950- )')]
+Juan Luis Martínez                  AUT=[(154020, 'Guattari, Félix Martínez, Juan Luis'), (588591, 'Martínez, Juan Luis, 1942-1993')]  MINI=[(3489, 'Juan Luis Martínez (1942-1993)')]
+Diego Maquieira                     AUT=[(140940, 'Maquieira, Diego 1951-')]  MINI=[(585, 'Diego Maquieira (1951-)')]
+Rodrigo Lira                        AUT=[(174446, 'Lira, Rodrigo, 1949-1981')]  MINI=[(3693, 'Rodrigo Lira (1949-1981)')]
+Carmen Berenguer                    AUT=[(128075, 'Berenguer, Carmen, 1946-2024')]  MINI=[(31407, 'Carmen Berenguer (1946-2024)')]
+Elvira Hernández                    AUT=[(127162, 'Hernández, Elvira')]  MINI=[(3405, 'Elvira Hernández (1951-)')]
+Soledad Fariña                      AUT=[(128104, 'Fariña, Soledad')]  MINI=[]
+Eugenia Brito                       AUT=[(153702, 'Brito, María Eugenia, 1950-')]  MINI=[]
+Paz Molina                          AUT=[(127690, 'Molina, Paz')]  MINI=[]
+Gonzalo Muñoz                       AUT=[(129526, 'Muñoz, Gonzalo, 1956-')]  MINI=[]
+Carlos Cociña                       AUT=[]  MINI=[]
+Antonio Gil                         AUT=[(145361, 'Miguel Romero y Gil de Zúñiga, Antonio'), (130339, 'Gil, Antonio')]  MINI=[]
+Tomás Harris                        AUT=[(1067205, 'Harris, Tomás, 1956-')]  MINI=[(3715, 'Tomás Harris (1956- )')]
+José Ángel Cuevas                   AUT=[(154942, 'Cuevas, José Angel, 1944-')]  MINI=[(100656, 'José Ángel Cuevas Estivil (1944-)'), (94916, 'Treinta poemas del ex-poeta José Ángel Cuevas (1992)')]
+Armando Rubio                       AUT=[(776169, 'Rubio Huidobro, Armando'), (128122, 'Rubio, Armando')]  MINI=[(3304, 'Armando Rubio Huidobro (1955-1980)')]
+Bruno Vidal                         AUT=[(145938, 'Vidal, Bruno')]  MINI=[]
+Aristóteles España                  AUT=[(127720, 'España, Aristóteles')]  MINI=[]
+Teresa Calderón                     AUT=[(148561, 'Calderón, Teresa, 1955-')]  MINI=[(3714, 'Teresa Calderón (1955- )')]
+Eduardo Llanos                      AUT=[(128110, 'Llanos Melussa, Eduardo')]  MINI=[]
+Heddy Navarro                       AUT=[(128088, 'Navarro Harris, Heddy')]  MINI=[]
+Jorge Montealegre                   AUT=[(153714, 'Montealegre, Jorge, 1954-')]  MINI=[]
+Juan Cameron                        AUT=[(127758, 'Camerón, Juan, 1947-')]  MINI=[]
+Alexis Figueroa                     AUT=[(127696, 'Figueroa A., Alexis')]  MINI=[]
+Roberto Bolaño                      AUT=[(127541, 'Bolaño, Roberto, 1953-2003')]  MINI=[(3688, 'Roberto Bolaño (1953-2003)')]
+Bruno Montané                       AUT=[]  MINI=[(82285, 'Bruno Montané (1957)')]
+Jorge Etcheverry                    AUT=[]  MINI=[]
+Erick Pohlhammer                    AUT=[(1155622, 'Pohlhammer, Erick, 1955-2023')]  MINI=[]
+Sergio Macías                       AUT=[(128986, 'Macías, Sergio, 1938-')]  MINI=[]
+Mauricio Redolés                    AUT=[(127423, 'Redolés, Mauricio')]  MINI=[]
+Rosabetty Muñoz                     AUT=[(127514, 'Muñoz, Rosabetty')]  MINI=[]
+Sergio Mansilla                     AUT=[(127473, 'Mansilla Torres, Sergio, 1958-')]  MINI=[]
+Clemente Riedemann                  AUT=[(127444, 'Riedemann, Clemente')]  MINI=[]
+Jorge Torres                        AUT=[(127928, 'Torres, Jorge')]  MINI=[]
+Carlos Alberto Trujillo             AUT=[(127814, 'Trujillo A., Carlos Alberto')]  MINI=[(78729, 'Carlos Alberto Trujillo : Mis límites. Antología de poesía (1974-1983)')]
+Juan Pablo Riveros                  AUT=[(140960, 'Riveros, Juan Pablo')]  MINI=[]
+Renato Cárdenas                     AUT=[(128082, 'Cárdenas A., Renato')]  MINI=[]
+Mario Contreras Vega                AUT=[(129785, 'Contreras Vega, Mario')]  MINI=[]
+Elicura Chihuailaf                  AUT=[(312595, 'Chihuailaf, Elicura, 1952')]  MINI=[(100609, 'Elicura Chihuailaf (1952-)')]
+Leonel Lienlaf                      AUT=[(141239, 'Lienlaf, Leonel')]  MINI=[]
+Jaime Huenún                        AUT=[(129167, 'Huenún Villa, Jaime Luis')]  MINI=[]
+Graciela Huinao                     AUT=[]  MINI=[]
+Adriana Paredes Pinda               AUT=[]  MINI=[]
+Bernardo Colipán                    AUT=[(145965, 'Colipán F., Bernardo')]  MINI=[]
+Lorenzo Aillapán                    AUT=[]  MINI=[]
+Rayen Kvyeh                         AUT=[]  MINI=[]
+David Aniñir                        AUT=[]  MINI=[]
+Verónica Jiménez                    AUT=[(157697, 'Jiménez, Verónica')]  MINI=[]
+Sergio Parra                        AUT=[]  MINI=[]
+Malú Urriola                        AUT=[]  MINI=[(3586, 'Malú Urriola (1967-2023)')]
+Armando Roa Vial                    AUT=[(145903, 'Roa Vial, Armando, 1966-')]  MINI=[]
+Ximena Rivera                       AUT=[]  MINI=[]
+Germán Carrasco                     AUT=[(156473, 'Carrasco Domínguez, Germán')]  MINI=[]
+Yanko González                      AUT=[(140927, 'González Cangas, Yanko')]  MINI=[]
+Alejandra del Río                   AUT=[]  MINI=[]
+Javier Bello                        AUT=[(174607, 'Bello, Javier, 1972-')]  MINI=[]
+Juan Cristóbal Romero               AUT=[(130270, 'Guarello, Juan Cristóbal')]  MINI=[]
+Andrés Anwandter                    AUT=[]  MINI=[]
+Leonardo Sanhueza                   AUT=[(144530, 'Sanhueza, Leonardo')]  MINI=[]
+Rafael Rubio                        AUT=[]  MINI=[]
+Damsi Figueroa                      AUT=[]  MINI=[]
+Héctor Hernández Montecinos         AUT=[]  MINI=[]
+Paula Ilabaca                       AUT=[]  MINI=[]
+Gladys González                     AUT=[(964684, 'Alvarez Gonzalez, Gladys')]  MINI=[]
+Diego Ramírez                       AUT=[]  MINI=[]
+Enrique Winter                      AUT=[]  MINI=[]
+Daniela Catrileo                    AUT=[]  MINI=[]
+
+=== cosechar.py  ===
+Andrés Bello                     mini=sí  libros=15
+Salvador Sanfuentes              mini=sí  libros=6
+Guillermo Matta                  mini=sí  libros=9
+Guillermo Blest Gana             mini=sí  libros=8
+Eduardo de la Barra              mini=—  libros=5
+José Antonio Soffia              mini=sí  libros=0
+Juan Rafael Allende              mini=sí  libros=14
+Rubén Darío                      mini=sí  libros=8
+Narciso Tondreau                 mini=—  libros=0
+Leonardo Eliz                    mini=—  libros=0
+Ricardo Fernández Montalva       mini=—  libros=0
+Pedro Antonio González           mini=sí  libros=5
+Julio Vicuña Cifuentes           mini=sí  libros=3
+Augusto Winter                   mini=—  libros=0
+Samuel Lillo                     mini=sí  libros=11
+Gustavo Valledor Sánchez         mini=—  libros=0
+Abelardo Varela                  mini=—  libros=0
+Horacio Olivos y Carrasco        mini=—  libros=0
+Antonio Bórquez Solar            mini=—  libros=1
+Zoilo Escobar                    mini=—  libros=0
+Luis A. Hurtado                  mini=—  libros=0
+Diego Dublé Urrutia              mini=sí  libros=1
+Miguel Luis Rocuant              mini=sí  libros=1
+Francisco Contreras              mini=sí  libros=6
+Ernesto A. Guzmán                mini=—  libros=0
+Manuel Magallanes Moure          mini=sí  libros=4
+Carlos Keymer                    mini=—  libros=0
+Carlos Pezoa Véliz               mini=sí  libros=5
+Jorge González Bastías           mini=sí  libros=4
+Abel González                    mini=—  libros=0
+Luis Felipe Contardo             mini=sí  libros=4
+Alberto Mauret Caamaño           mini=—  libros=0
+Carlos Mondaca                   mini=sí  libros=1
+Víctor Domingo Silva             mini=sí  libros=5
+Jerónimo Lagos Lisboa            mini=—  libros=0
+Andrés Silva Humeres             mini=—  libros=0
+Juan Manuel Rodríguez            mini=—  libros=0
+Pedro Prado                      mini=sí  libros=14
+Max Jara                         mini=sí  libros=3
+Alberto Moreno                   mini=sí  libros=1
+Carlos Acuña                     mini=—  libros=0
+Ignacio Verdugo Cavada           mini=—  libros=0
+Julio Munizaga Ossandón          mini=—  libros=0
+Guillermo Muñoz Medina           mini=—  libros=0
+Carlos Préndez Saldías           mini=—  libros=0
+Jorge Hübner Bezanilla           mini=sí  libros=0
+Daniel de la Vega                mini=sí  libros=3
+Enrique Ponce                    mini=—  libros=0
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1198614.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1198614.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1198614.html HTTP Error 404: Not Found
+Carlos Barella                   mini=—  libros=0
+Ángel Cruchaga Santa María       mini=sí  libros=4
+Teresa Wilms Montt               mini=sí  libros=4
+Pedro Sienna                     mini=sí  libros=5
+Sady Zañartu                     mini=sí  libros=4
+Elías Arze Bastidas              mini=—  libros=0
+Luciano Morgado                  mini=—  libros=0
+Francisco Donoso González        mini=sí  libros=0
+Alberto Valdivia                 mini=—  libros=0
+Juan Guzmán Cruchaga             mini=sí  libros=4
+Augusto Iglesias                 mini=—  libros=0
+Lautaro García                   mini=—  libros=0
+Miriam Elim                      mini=—  libros=0
+Olga Acevedo                     mini=sí  libros=0
+María Antonieta Le Quesne        mini=—  libros=0
+José Domingo Gómez Rojas         mini=sí  libros=5
+David Enrique Perry              mini=—  libros=0
+Gerardo Moraga Bustamante        mini=—  libros=0
+Gabriela Mistral                 mini=sí  libros=15
+Vicente Huidobro                 mini=sí  libros=28
+Winétt de Rokha                  mini=sí  libros=5
+Pablo de Rokha                   mini=sí  libros=8
+Pablo Neruda                     mini=sí  libros=3
+Rosamel del Valle                mini=sí  libros=4
+Humberto Díaz-Casanueva          mini=sí  libros=6
+Juvencio Valle                   mini=sí  libros=4
+Alberto Rojas Jiménez            mini=sí  libros=3
+Romeo Murga                      mini=sí  libros=2
+Gerardo Seguel                   mini=—  libros=1
+María Monvel                     mini=sí  libros=4
+Julio Barrenechea                mini=sí  libros=3
+Omar Cáceres                     mini=sí  libros=0
+Juan Negro                       mini=—  libros=0
+Óscar Castro                     mini=sí  libros=5
+Victoriano Vicario               mini=—  libros=0
+Gustavo Ossorio                  mini=sí  libros=0
+Braulio Arenas                   mini=sí  libros=7
+Eduardo Anguita                  mini=sí  libros=0
+Teófilo Cid                      mini=sí  libros=5
+Roque Esteban Scarpa             mini=sí  libros=6
+Enrique Gómez-Correa             mini=sí  libros=13
+Mahfud Massís                    mini=sí  libros=2
+Jorge Cáceres                    mini=sí  libros=3
+Antonio de Undurraga             mini=—  libros=0
+Stella Corvalán                  mini=—  libros=0
+Luis Merino Reyes                mini=sí  libros=0
+Mila Oyarzún                     mini=—  libros=0
+Andrés Sabella                   mini=sí  libros=4
+Carlos René Correa               mini=—  libros=1
+María Cristina Menares           mini=—  libros=0
+Alberto Baeza Flores             mini=—  libros=0
+Luis Oyarzún                     mini=sí  libros=6
+Victoria Contreras Falcón        mini=—  libros=0
+Patricia Morgan                  mini=—  libros=0
+Alejandro Galaz                  mini=—  libros=0
+Hermelo Arabena Williams         mini=—  libros=0
+Róbinson Saavedra Gómez          mini=—  libros=0
+Javier Vergara Huneeus           mini=—  libros=0
+Hernán Cañas                     mini=—  libros=0
+Francisco Santana                mini=—  libros=0
+Aldo Torres Púa                  mini=—  libros=0
+Carlos Collins Bunster           mini=—  libros=0
+Carlos Poblete                   mini=—  libros=0
+Joaquín Martínez Arenas          mini=—  libros=0
+Víctor Franzani                  mini=—  libros=0
+Jaime Rayo                       mini=—  libros=0
+Volodia Teitelboim               mini=sí  libros=1
+Juan Arcos                       mini=—  libros=0
+Julio Moncada                    mini=—  libros=0
+María Silva Ossa                 mini=sí  libros=3
+Heriberto Rocuant                mini=—  libros=0
+Miguel Arteche                   mini=sí  libros=5
+David Rosenmann-Taub             mini=sí  libros=0
+Alberto Rubio                    mini=sí  libros=2
+Escilda Greve                    mini=—  libros=0
+Irma Astorga                     mini=—  libros=0
+Víctor Castro                    mini=—  libros=0
+Bernardo Cruz                    mini=—  libros=0
+Matilde Ladrón de Guevara        mini=—  libros=0
+Alfonso Gómez Líbano             mini=—  libros=0
+Julio Molina                     mini=—  libros=0
+Fernando Onfray                  mini=—  libros=0
+Nina Donoso                      mini=—  libros=0
+Armando Solari                   mini=—  libros=0
+Claudio Solar                    mini=—  libros=0
+Nicanor Parra                    mini=sí  libros=4
+Gonzalo Rojas                    mini=sí  libros=1
+Violeta Parra                    mini=sí  libros=0
+Enrique Lihn                     mini=sí  libros=6
+Efraín Barquero                  mini=sí  libros=0
+Jorge Teillier                   mini=sí  libros=3
+Rolando Cárdenas                 mini=sí  libros=5
+Luis Vulliamy                    mini=—  libros=0
+Marino Muñoz Lagos               mini=—  libros=0
+Pablo Guíñez                     mini=—  libros=0
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-776291.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-776291.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-776291.html HTTP Error 404: Not Found
+Alfonso Calderón                 mini=sí  libros=13
+Delia Domínguez                  mini=sí  libros=1
+Armando Uribe Arce               mini=sí  libros=9
+Alfonso Alcalde                  mini=sí  libros=16
+Guillermo Trejo                  mini=—  libros=1
+Carlos de Rokha                  mini=sí  libros=4
+Antonio Campaña                  mini=—  libros=0
+Stella Díaz Varín                mini=sí  libros=2
+Ludwig Zeller                    mini=sí  libros=5
+Emma Jauch                       mini=—  libros=1
+María Urzúa                      mini=—  libros=1
+Jorge Jobet                      mini=—  libros=0
+Ángel Custodio González          mini=—  libros=1
+Venancio Lisboa                  mini=—  libros=0
+Altenor Guerrero                 mini=—  libros=0
+Carmen Ábalos                    mini=—  libros=0
+Mario Ferrero                    mini=—  libros=1
+José Miguel Vicuña               mini=—  libros=0
+Eliana Navarro                   mini=sí  libros=3
+Fernando González Urízar         mini=—  libros=1
+Manuel Francisco Mesa Seco       mini=—  libros=1
+Francisca Ossandón               mini=—  libros=0
+Cecilia Casanova                 mini=sí  libros=1
+Fernando Lamberg                 mini=—  libros=0
+Matías Rafide                    mini=—  libros=3
+Edmundo Herrera                  mini=—  libros=0
+Ximena Adriasola                 mini=—  libros=0
+Eugenio García-Díaz              mini=—  libros=1
+Sara Vial                        mini=—  libros=0
+Ennio Moltedo                    mini=—  libros=0
+Rosa Cruchaga de Walker          mini=—  libros=1
+Pedro Lastra                     mini=—  libros=0
+José Miguel Ibáñez Langlois      mini=—  libros=0
+Hernán Montealegre               mini=—  libros=0
+Hernán Valdés                    mini=—  libros=0
+Óscar Hahn                       mini=sí  libros=1
+Hernán Lavín Cerda               mini=—  libros=0
+Waldo Rojas                      mini=sí  libros=10
+Omar Lara                        mini=sí  libros=6
+Jaime Giordano                   mini=—  libros=0
+Floridor Pérez                   mini=sí  libros=2
+Jaime Quezada                    mini=sí  libros=10
+Carlos Cortínez                  mini=—  libros=0
+Federico Schopf                  mini=—  libros=0
+Jaime Gómez Rogers (Jonás)       mini=—  libros=0
+Gonzalo Millán                   mini=sí  libros=4
+Hernán Miranda                   mini=sí  libros=3
+Manuel Silva Acevedo             mini=sí  libros=5
+Oliver Welden                    mini=sí  libros=2
+Claudio Bertoni                  mini=sí  libros=8
+Cecilia Vicuña                   mini=sí  libros=6
+Raúl Zurita                      mini=sí  libros=3
+Juan Luis Martínez               mini=sí  libros=0
+Diego Maquieira                  mini=sí  libros=2
+Rodrigo Lira                     mini=sí  libros=1
+Carmen Berenguer                 mini=sí  libros=4
+Elvira Hernández                 mini=sí  libros=1
+Soledad Fariña                   mini=—  libros=1
+Eugenia Brito                    mini=—  libros=0
+Paz Molina                       mini=—  libros=0
+Gonzalo Muñoz                    mini=—  libros=0
+Carlos Cociña                    mini=—  libros=0
+Antonio Gil                      mini=—  libros=0
+Tomás Harris                     mini=sí  libros=5
+José Ángel Cuevas                mini=sí  libros=0
+Armando Rubio                    mini=sí  libros=1
+Bruno Vidal                      mini=—  libros=0
+Aristóteles España               mini=—  libros=0
+Teresa Calderón                  mini=sí  libros=4
+Eduardo Llanos                   mini=—  libros=0
+Heddy Navarro                    mini=—  libros=0
+Jorge Montealegre                mini=—  libros=2
+Juan Cameron                     mini=—  libros=0
+Alexis Figueroa                  mini=—  libros=1
+Roberto Bolaño                   mini=sí  libros=0
+Bruno Montané                    mini=sí  libros=0
+Jorge Etcheverry                 mini=—  libros=0
+Erick Pohlhammer                 mini=—  libros=1
+Sergio Macías                    mini=—  libros=1
+Mauricio Redolés                 mini=—  libros=0
+Rosabetty Muñoz                  mini=—  libros=0
+Sergio Mansilla                  mini=—  libros=0
+Clemente Riedemann               mini=—  libros=1
+Jorge Torres                     mini=—  libros=1
+Carlos Alberto Trujillo          mini=—  libros=1
+Juan Pablo Riveros               mini=—  libros=0
+Renato Cárdenas                  mini=—  libros=2
+Mario Contreras Vega             mini=—  libros=0
+Elicura Chihuailaf               mini=sí  libros=0
+Leonel Lienlaf                   mini=—  libros=0
+Jaime Huenún                     mini=—  libros=0
+Graciela Huinao                  mini=—  libros=0
+Adriana Paredes Pinda            mini=—  libros=0
+Bernardo Colipán                 mini=—  libros=0
+Lorenzo Aillapán                 mini=—  libros=0
+Rayen Kvyeh                      mini=—  libros=0
+David Aniñir                     mini=—  libros=0
+Verónica Jiménez                 mini=—  libros=0
+Sergio Parra                     mini=—  libros=0
+Malú Urriola                     mini=sí  libros=0
+Armando Roa Vial                 mini=—  libros=0
+Ximena Rivera                    mini=—  libros=0
+Germán Carrasco                  mini=—  libros=0
+Yanko González                   mini=—  libros=0
+Alejandra del Río                mini=—  libros=0
+Javier Bello                     mini=—  libros=0
+Juan Cristóbal Romero            mini=—  libros=0
+Andrés Anwandter                 mini=—  libros=0
+Leonardo Sanhueza                mini=—  libros=0
+Rafael Rubio                     mini=—  libros=0
+Damsi Figueroa                   mini=—  libros=0
+Héctor Hernández Montecinos      mini=—  libros=0
+Paula Ilabaca                    mini=—  libros=0
+Gladys González                  mini=—  libros=0
+Diego Ramírez                    mini=—  libros=0
+Enrique Winter                   mini=—  libros=0
+Daniela Catrileo                 mini=—  libros=0
+
+=== descargar.py --solo-poesia ===
+descargados: 281
+
+=== web.py  ===
+autores=260 obras=486 anclados=20
+PDFs renombrados: 0
+canvas: 766 nodos
+movimientos 19 autores 260 obras 486
+
+Listo. Abre GitHub Desktop: Commit to main -> Push origin.

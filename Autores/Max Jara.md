@@ -21,7 +21,7 @@ En 1909, publicó su primer libro Juventud: poesía romántica, influenciado por
 
 En su segundo libro, ¿Poesías...?, editado en 1914, Max Jara abandonó definitivamente los resabios simbolistas y se aproximó al romancero vulgar y a la juglaresca medieval española. Este proceso poético se consolidó en Asonantes: (tono menor) (1922), que gran parte de la crítica consideró su libro más logrado. Este volumen mantuvo distancia de la arrolladora influencia de la poesía vanguardista que lideró [[Vicente Huidobro|Vicente Huidobro]]. [[Manuel Silva Acevedo|Manuel Silva Acevedo]] destaca de esta obra: "este tercer libro (...) ha logrado plasmar con gran belleza aquello que enuncia en el subtítulo de la obra, vale decir el tono menor". De este modo culminó la empresa de conducir su labor lírica por lo más hondo del sentimiento, lejos de cualquier artilugio cerebral y dentro de un lenguaje formal. De este libro es su "Ojitos de pena", poema que quedó inscrito en la tradición literaria chilena.
 
-Pese a la brevedad de su producción, la calidad de su obra fue reconocida ampliamente por la crítica nacional. En 1916 su labor poética fue recogida en la antología Selva lírica; y en 1956, un jurado compuesto por Eduardo Barrios y Pablo Neruda, entre otros, decidió otorgarle el Premio Nacional de Literatura.
+Pese a la brevedad de su producción, la calidad de su obra fue reconocida ampliamente por la crítica nacional. En 1916 su labor poética fue recogida en la antología Selva lírica; y en 1956, un jurado compuesto por Eduardo Barrios y [[Pablo Neruda|Pablo Neruda]], entre otros, decidió otorgarle el Premio Nacional de Literatura.
 
 *Fuente:* [Max Jara (1886-1965) — Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-3610.html)
 

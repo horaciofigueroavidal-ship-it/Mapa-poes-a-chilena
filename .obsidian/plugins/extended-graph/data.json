@@ -15,48 +15,76 @@
      "y": -1200
     },
     "Movimientos/Emergencia del modernismo.md": {
-     "x": 600,
-     "y": -1039
+     "x": 390,
+     "y": -1135
     },
     "Movimientos/Tradición nacional y modernidad cosmopolita.md": {
-     "x": 1039,
-     "y": -600
+     "x": 737,
+     "y": -947
     },
     "Movimientos/Nacionalismo, mundonovismo y crítica social.md": {
-     "x": 1200,
-     "y": 0
+     "x": 1005,
+     "y": -656
+    },
+    "Movimientos/Las vanguardias y la generación del 38.md": {
+     "x": 1163,
+     "y": -295
     },
     "Movimientos/De la vanguardia a la poesía social y popular.md": {
-     "x": 1039,
-     "y": 600
+     "x": 1196,
+     "y": 99
     },
     "Movimientos/La disolución de las vanguardias.md": {
-     "x": 600,
-     "y": 1039
+     "x": 1099,
+     "y": 482
     },
     "Movimientos/Los fundadores de los cincuenta.md": {
-     "x": 0,
-     "y": 1200
+     "x": 883,
+     "y": 813
     },
     "Movimientos/Las tendencias láricas.md": {
-     "x": -600,
-     "y": 1039
+     "x": 571,
+     "y": 1055
     },
     "Movimientos/Temporalidad y existencia.md": {
-     "x": -1039,
-     "y": 600
+     "x": 198,
+     "y": 1184
     },
     "Movimientos/Las tendencias neosurrealistas.md": {
-     "x": -1200,
-     "y": 0
+     "x": -198,
+     "y": 1184
     },
     "Movimientos/Las otras tendencias de los cincuenta.md": {
-     "x": -1039,
-     "y": -600
+     "x": -571,
+     "y": 1055
     },
     "Movimientos/Los inicios de la poesía de los sesenta.md": {
-     "x": -600,
-     "y": -1039
+     "x": -883,
+     "y": 813
+    },
+    "Movimientos/Neovanguardia y poesía en dictadura.md": {
+     "x": -1099,
+     "y": 482
+    },
+    "Movimientos/Poesía del exilio.md": {
+     "x": -1196,
+     "y": 99
+    },
+    "Movimientos/Poesía del sur.md": {
+     "x": -1163,
+     "y": -295
+    },
+    "Movimientos/Poesía mapuche.md": {
+     "x": -1005,
+     "y": -656
+    },
+    "Movimientos/La generación de los noventa.md": {
+     "x": -737,
+     "y": -947
+    },
+    "Movimientos/Poesía del 2000.md": {
+     "x": -390,
+     "y": -1135
     }
    },
    "enableLayers": false,

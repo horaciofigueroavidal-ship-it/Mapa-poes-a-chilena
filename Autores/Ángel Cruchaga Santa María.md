@@ -31,7 +31,7 @@ En su producción poética es posible detectar la presencia de ciertas constante
 
 A juicio del crítico Mario Osses, la poesía de Ángel Cruchaga posee una tristeza trascendente, que viene de lo absoluto, de Dios y llega a lo Absoluto, a Dios. Este rasgo, es uno de los ejes que articula su obra Job.
 
-Tras recibir numerosos premios, entre los que se encuentran el segundo premio en el Concurso Estudiantil de la Federación de Estudiantes; el primer premio en los Juegos Florales de Curicó que compartió con Pablo Neruda, quien en 1946 seleccionó y prologó, una Antología de sus poemas. En 1948 el jurado integrado por Juvenal Hernández, Humberto Díaz-Casanueva y Mariano Latorre, le concedió el Premio Nacional de Literatura.
+Tras recibir numerosos premios, entre los que se encuentran el segundo premio en el Concurso Estudiantil de la Federación de Estudiantes; el primer premio en los Juegos Florales de Curicó que compartió con [[Pablo Neruda|Pablo Neruda]], quien en 1946 seleccionó y prologó, una Antología de sus poemas. En 1948 el jurado integrado por Juvenal Hernández, [[Humberto Díaz-Casanueva|Humberto Díaz-Casanueva]] y Mariano Latorre, le concedió el Premio Nacional de Literatura.
 
 Ángel Cruchaga Santa María falleció en Santiago, el 5 de septiembre de 1964. Treinta y dos años más tarde, [[Manuel Silva Acevedo|Manuel Silva Acevedo]] publicó La hora digna, libro compilatorio de sus mejores obras.
 

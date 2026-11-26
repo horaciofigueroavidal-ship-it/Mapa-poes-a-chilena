@@ -14,6 +14,7 @@ AUTH_OVERRIDE = {
     "Alberto Moreno": [1190873, 1198618],
     "Augusto Iglesias": [128167],
 }
+MINI_SKIP = {"Carlos Alberto Trujillo"}  # el "minisitio" encontrado es la ficha de un libro
 MINI_OVERRIDE = {
     "Andrés Bello": 3290,
     "Rubén Darío": 3700,
@@ -108,7 +109,7 @@ if __name__ == "__main__":
         n = a["nombre"]
         if n in MINI_OVERRIDE:
             minis[n] = MINI_OVERRIDE[n]
-        elif resol[n]["minisitio"]:
+        elif resol[n]["minisitio"] and n not in MINI_SKIP:
             minis[n] = resol[n]["minisitio"][0][0]
     mini_to_author = {v: k for k, v in minis.items()}
     out = {}

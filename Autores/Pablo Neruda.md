@@ -1,0 +1,48 @@
+---
+tipo: autor
+movimiento: "[[Las vanguardias y la generación del 38]]"
+memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3638.html
+fechas: "1904-1973"
+tags: [autor]
+---
+# Pablo Neruda (1904-1973)
+
+**Movimiento:** [[Las vanguardias y la generación del 38]]
+
+## Descripción (Memoria Chilena)
+
+> Mi alma es un carrusel vacío en el crepúsculo Uno de los poetas más importantes de la literatura mundial del siglo XX. La influencia de su vida y obra trasciende el ámbito literario, permeando todos los campos de la cultura popular y académica, la historia política y social del país.
+
+Pablo Neruda fue uno de los poetas más fecundos de la literatura chilena, latinoamericana y mundial del siglo XX. La influencia de su vida y obra trasciende el ámbito literario, permeando todos los campos de la cultura popular y académica, irradiando la historia política y social del país y alzándose como un referente indiscutido para la creación artística contemporánea.
+
+En 1918 publicó sus primeros poemas, "Mis Ojos" y "Primavera", en la revista Corre Vuela, uno de los primeros exponentes del periodismo moderno chileno. Pese a su germinal talento, la poesía no fue del agrado de su padre. De ahí en octubre de 1920 el joven Neftalí Reyes decidió adoptar el seudónimo de Pablo Neruda, con el fin de evitar las preocupaciones familiares y ocultar así los esperados altibajos en la precoz trayectoria de un joven poeta provinciano.
+
+En 1921, con apenas 16 años de edad, Neruda se trasladó a Santiago con el objetivo de estudiar Pedagogía en Francés en el Instituto Pedagógico de la Universidad de Chile. El ambiente intelectual y literario en torno a la Universidad y la vida bohemia santiaguina permitió que Neruda interactuara con otros poetas y escritores, integrando la conocida generación literaria de 1920 compuesta entre otros por Tomás Lago, [[Alberto Rojas Jiménez|Alberto Rojas Jiménez]], [[Juvencio Valle|Juvencio Valle]] y [[Romeo Murga|Romeo Murga]]. Nutrido por esta feliz coyuntura Neruda logró difundir sus primeros trabajos y participar en concursos de poesía como la Fiesta de la Primavera, organizada por la Federación de Estudiantes de Chile, donde fue merecedor del primer puesto por su poema "La Canción de la Fiesta" en 1921.
+
+En esta primera época, la obra de Neruda estuvo marcada por una poesía autorreferencial, abundando alusiones ligadas a experiencias personales en torno al amor y la nostalgia, pero que se caracterizó por la sensibilidad de expresar y entrar en comunión con los sentimientos de otros. En 1923 y con gran aceptación de críticos como Alone, Raúl Silva Castro y [[Pedro Prado|Pedro Prado]], Neruda publicó Crepusculario donde reunió parte de sus primeros escritos. En 1924 la Editorial Nascimento publicó Veinte poemas de amor y una canción desesperada, texto fundamental plagado de erotismo y romanticismo, que lo catapultó como uno de los escritores más prodigiosos del ámbito nacional. De esta época también responde sus incursiones por la vanguardia reflejada en su única novela El Habitante y su Esperanza y Tentativas del Hombre Infinito.
+
+Distanciándose de su inicial introspección, el segundo ciclo de la poesía de Neruda se dirigió hacia una profunda conciencia social. Hacia mediados de la década de 1920 la sociedad chilena había cambiado notablemente impactando en la visión que el poeta poseía de la vida, tal como él mismo reconoció posteriormente en sus memorias. Neruda había tomado conciencia del retorno de miles de obreros del salitre cesantes a la capital, de la lucha emprendida por Luis Emilio Recabarren, de las reivindicaciones estudiantiles y populares, y del inquebrantable dominio de la oligarquía. Sin ánimo de erradicar el amor, la vida, la alegría o la tristeza de su poesía, Neruda reconoció tajantemente que de la misma manera sintió que "No era posible cerrar la puerta a la calle dentro de mis poemas". (Confieso que he vivido, 1979, p. 76). A la par de estas circunstancias sociales, la introducción de la política en su poesía y vida fue impulsada por su temprana carrera diplomática iniciada en 1927, año en que fue nombrado como Cónsul chileno en Birmania, lo que inauguró sus contactos con el mundo y sus afanes por la justicia social. En 1927 precisamente aparecerá publicado en España un libro escrito en sus viajes por oriente y Europa, y que se convertirá a ojos de la crítica como unas de sus obras cumbres: Residencia en la Tierra.
+
+En 1934 Pablo Neruda regresó a España en calidad de cónsul cultivando una rica amistad con la generación literaria española de 1927, cuyo máximo representante fue Federico García Lorca. Estremecido enormemente por las nefastas consecuencias de la Guerra Civil Española estallada en 1936, y que terminó con la vida de su amigo el poeta Federico García Lorca, Neruda escribió su sobrecogedora obra "España en el Corazón" en 1937. Posteriormente como Cónsul Delegado para la Inmigración Española en el gobierno de Pedro Aguirre Cerda contribuyó decididamente en dar refugio a españoles en Chile en 1939.
+
+En 1950 aparece en México su Canto General, que en Chile fue editado clandestinamente debido a la ley maldita dictada por Gabriel González Videla. Comparado muchas veces por sus dimensiones con La Araucana de Alonso de Ercilla y Zúñiga, Canto General constituye una obra única y monumental, una creación poética y literaria de la historia e identidad latinoamericana, de la cual se desprende "Alturas de Macchu Picchu", considerada una de las más altas cumbres de la poesía latinoamericana y universal. En 1952 publicó Los versos del capitán y en 1954 Las uvas y el viento y Odas elementales. En 1958 apareció Estravagario. Con este último y sus tres libros de Odas elementales les introdujo un nuevo giro en su poesía, incorporando un lenguaje coloquial para poetizar el mundo cotidiano, adquiriendo estatus poético objetos y elementos cotidianos. Con estas obras, la poesía de Neruda abarca un amplio espectro textual, desde una poesía que incorpora tanto la obsesión existencial de la muerte, la experimentación vanguardista, el sentido de lo absurdo, la metafísica, la indagación en lo telúrico, el canto a la geografía e historia de su país y el continente americano.
+
+La creatividad literaria y poética de Pablo Neruda lo hizo acreedor del transversal reconocimiento de pares y críticos. En 1965 le fue otorgado el grado de Doctor Honoris Causa en la Universidad de Oxford, Gran Bretaña. En 1945 fue galardonado con el Premio Nacional de Literatura y en 1971 recibió el Premio Nobel de Literatura, siendo el sexto escritor de habla hispana y el tercer latinoamericano en recibir tan importante distinción.
+
+Pablo Neruda fue una figura clave de la cultura y política chilena del siglo XX impactando notablemente en la sociedad y en el mundo artístico nacional. El 23 de septiembre de 1973, doce días después del golpe de Estado y de la muerte de su amigo el presidente Salvador Allende, Pablo Neruda falleció en Santiago en la Clínica Santa María víctima de un cáncer de próstata. Con motivo del centenario del nacimiento del poeta, el archivo del Escritor de la Biblioteca Nacional de Chile, montó la exposición "Las Vidas del Poeta"
+
+*Fuente:* [Pablo Neruda (1904-1973) — Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-3638.html)
+
+## Poemas en la antología de Nómez
+
+
+## Obras digitalizadas en Memoria Chilena
+
+### Poesía
+
+- [[Lira popular una joya bibliográfica — Pablo Neruda (1968)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124896.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0052006.pdf)
+
+### Otras obras
+
+- [[Pablo Neruda, Héctor Eandi correspondencia durante Residencia en la tierra — Pablo Neruda (1980)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9195.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0026000.pdf)
+- [[Discursos parlamentarios de Pablo Neruda (1945-1948) — Pablo Neruda (1997)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8711.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015122.pdf)

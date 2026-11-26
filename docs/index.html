@@ -185,9 +185,9 @@ function updateLabels() {
   const sc = 1 / Math.min(1, k);
   // centro y movimientos: tamaño constante en pantalla; nombres de movimientos hacia afuera del círculo
   labelSel.attr("font-size", d => fixed(d) ? big(d) * sc : big(d))
-    .attr("text-anchor", d => d.kind === "mov" ? (Math.abs(Math.cos(d.ang)) < .3 ? "middle" : Math.cos(d.ang) > 0 ? "start" : "end") : "middle")
+    .attr("text-anchor", d => d.kind === "mov" ? (Math.abs(Math.cos(d.ang)) < .06 ? "middle" : Math.cos(d.ang) > 0 ? "start" : "end") : "middle")
     .attr("x", d => d.kind === "mov" ? d.x + Math.cos(d.ang) * (d.r + 8 * sc) : d.x)
-    .attr("y", d => d.kind === "mov" ? d.y + Math.sin(d.ang) * (d.r + 14 * sc) + 4 * sc
+    .attr("y", d => d.kind === "mov" ? d.y + Math.sin(d.ang) * (d.r + (Math.abs(Math.cos(d.ang)) < .06 ? 22 : 10) * sc) + 4 * sc
                   : d.y - d.r - (fixed(d) ? 8 * sc : 5));
   labelSel.style("display", d => {
     if (d.kind === "obra") return (d === hovered || d === selected) ? null : "none";

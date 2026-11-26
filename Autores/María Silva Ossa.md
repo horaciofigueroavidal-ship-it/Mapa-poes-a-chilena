@@ -25,7 +25,7 @@ María Silva Ossa concentró gran parte de su escritura en la elaboración de cu
 
 En 1965 dio a conocer su primera compilación de cuentos infantiles, El hombre cabeza de nieve, libro que recibió el Premio IBBY. Luego, escribió "Perejil piedra", cuento que acompañó con ilustraciones inéditas de Coré, y "La aventura de Tres Pelos", de tendencia pedagógica y didáctica.
 
-Dentro del medio literario, formó parte de la Sociedad de Escritores de Chile, del Pen Club y del Grupo Fuego de Poesía. Este último, fundado por su esposo, Carlos René Correa, y José Miguel Vicuña, reunió a muchos otros poetas, como Juvencio Valle, [[Eliana Navarro|Eliana Navarro]], Julio Arriagada y Francisca Ossandón, entre otros.
+Dentro del medio literario, formó parte de la Sociedad de Escritores de Chile, del Pen Club y del Grupo Fuego de Poesía. Este último, fundado por su esposo, Carlos René Correa, y José Miguel Vicuña, reunió a muchos otros poetas, como [[Juvencio Valle|Juvencio Valle]], [[Eliana Navarro|Eliana Navarro]], Julio Arriagada y Francisca Ossandón, entre otros.
 
 En el ámbito de la poesía, su libro Raíz fue muy elogiado por la crítica. En 1998, dio a conocer otra obra en conjunto la que, constituida como un canto de amor entre ella y su esposo, tituló Poemas para Carlos René Correa.
 

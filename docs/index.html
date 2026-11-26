@@ -12,7 +12,8 @@
   * { box-sizing: border-box; }
   html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text);
     font: 15px/1.55 Georgia, "Times New Roman", serif; overflow: hidden; }
-  #map { position: fixed; inset: 0; }
+  #map { position: fixed; inset: 0;
+    background: linear-gradient(rgba(6,10,24,.55), rgba(6,10,24,.55)), url("cielo.jpg") center / cover no-repeat, var(--bg); }
   svg { width: 100%; height: 100%; display: block; cursor: grab; }
   svg:active { cursor: grabbing; }
   .link { stroke: var(--line); stroke-opacity: .55; }
@@ -86,7 +87,7 @@
   <span style="--c:var(--aut)">Poetas</span><span style="--c:var(--obra)">Obras</span>
 </div>
 <footer>Descripciones: <a href="https://www.memoriachilena.gob.cl" target="_blank" rel="noopener">Memoria Chilena</a>,
-  Biblioteca Nacional de Chile (CC BY-SA 3.0).</footer>
+  Biblioteca Nacional de Chile (CC BY-SA 3.0).<br>Fondo: la Vía Láctea fotografiada por la tripulación de Artemis II (NASA).</footer>
 <aside id="panel"><button id="close" aria-label="Cerrar">×</button><div id="content"></div></aside>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
@@ -142,12 +143,6 @@ f.append("feGaussianBlur").attr("stdDeviation", 4).attr("result", "b");
 const fm = f.append("feMerge"); fm.append("feMergeNode").attr("in", "b"); fm.append("feMergeNode").attr("in", "SourceGraphic");
 
 const world = svg.append("g");
-// fondo de estrellas
-const rnd = d3.randomLcg(7);
-world.append("g").selectAll("circle").data(d3.range(900)).join("circle")
-  .attr("cx", () => (rnd() - .5) * 4200).attr("cy", () => (rnd() - .5) * 4200)
-  .attr("r", () => rnd() * 1.1 + .2).attr("fill", "#fff").attr("opacity", () => rnd() * .35 + .05);
-
 const linkSel = world.append("g").selectAll("line").data(links).join("line")
   .attr("class", d => "link " + (d.cls || ""))
   .attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);

@@ -1,7 +1,7 @@
 {
-  "userIgnoreFilters": [
-    "_trabajo/"
-  ],
-  "attachmentFolderPath": "Obras/PDF",
-  "alwaysUpdateLinks": true
+ "userIgnoreFilters": [
+  "_trabajo/"
+ ],
+ "attachmentFolderPath": "Obras/PDF",
+ "alwaysUpdateLinks": true
 }

@@ -1,5 +1,7 @@
 # Mapa de la poesía chilena
 
+**Mapa interactivo:** https://horaciofigueroavidal-ship-it.github.io/Mapa-poes-a-chilena/
+
 Bóveda de Obsidian construida a partir del índice de Naín Nómez, *Antología crítica de la poesía chilena*.
 
 - `Poesía chilena.md`: nota central → movimientos → poetas → obras.

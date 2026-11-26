@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mapa de la poesía chilena</title>
+<style>
+  :root {
+    --bg: #0b1020; --panel: #121a30; --line: #26304d; --text: #e6e9f2; --muted: #9aa3bd;
+    --hub: #f5c542; --mov: #ef6f6c; --aut: #7aa7ff; --obra: #6fd39a;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; height: 100%; background: var(--bg); color: var(--text);
+    font: 15px/1.55 Georgia, "Times New Roman", serif; overflow: hidden; }
+  #map { position: fixed; inset: 0; }
+  svg { width: 100%; height: 100%; display: block; cursor: grab; }
+  svg:active { cursor: grabbing; }
+  .link { stroke: var(--line); stroke-opacity: .55; }
+  .link.l-mov { stroke: var(--mov); stroke-opacity: .35; stroke-width: 1.4; }
+  .link.hl { stroke: #fff; stroke-opacity: .9; }
+  .node { cursor: pointer; }
+  .node circle { stroke: rgba(255,255,255,.25); stroke-width: .8; }
+  .node.hub circle { fill: var(--hub); filter: url(#glow); }
+  .node.mov circle { fill: var(--mov); filter: url(#glow); }
+  .node.aut circle { fill: var(--aut); }
+  .node.obra circle { fill: var(--obra); }
+  .node.dim { opacity: .12; }
+  .node circle.hit { fill: transparent; stroke: none; filter: none; }
+  .node.sel circle:not(.hit) { stroke: #fff; stroke-width: 2.5; }
+  .label { fill: var(--text); pointer-events: none; paint-order: stroke;
+    stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
+  .label.hub { font-weight: bold; fill: var(--hub); }
+  .label.mov { font-weight: bold; }
+  .label.aut { font-size: 10px; fill: #cdd8ff; }
+  .label.obra { font-size: 8px; fill: #bfeccf; }
+  header { position: fixed; top: 14px; left: 16px; z-index: 2; max-width: 360px; }
+  header h1 { margin: 0; font-size: 22px; font-weight: normal; letter-spacing: .02em; }
+  header p { margin: 2px 0 10px; color: var(--muted); font-size: 13px; }
+  #search { width: 100%; padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line);
+    background: var(--panel); color: var(--text); font: inherit; font-size: 14px; }
+  #results { list-style: none; margin: 4px 0 0; padding: 0; background: var(--panel); border-radius: 8px;
+    max-height: 260px; overflow: auto; border: 1px solid var(--line); display: none; }
+  #results li { padding: 6px 10px; cursor: pointer; font-size: 14px; }
+  #results li:hover, #results li.act { background: #1d2746; }
+  #results small { color: var(--muted); }
+  .legend { position: fixed; bottom: 14px; left: 16px; z-index: 2; color: var(--muted); font-size: 13px;
+    display: flex; gap: 14px; flex-wrap: wrap; }
+  .legend span::before { content: ""; display: inline-block; width: 10px; height: 10px; border-radius: 50%;
+    margin-right: 6px; vertical-align: -1px; background: var(--c); }
+  #panel { position: fixed; top: 0; right: 0; bottom: 0; width: min(440px, 100%); background: var(--panel);
+    border-left: 1px solid var(--line); z-index: 3; transform: translateX(100%); transition: transform .25s;
+    overflow-y: auto; padding: 22px 24px 40px; }
+  #panel.open { transform: none; }
+  #close { position: absolute; top: 10px; right: 12px; background: none; border: 0; color: var(--muted);
+    font-size: 26px; cursor: pointer; line-height: 1; }
+  #panel h2 { margin: 0 28px 4px 0; font-size: 24px; font-weight: normal; }
+  #panel .kind { text-transform: uppercase; letter-spacing: .12em; font-size: 11px; color: var(--muted); }
+  #panel h3 { font-size: 13px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted);
+    margin: 22px 0 6px; font-weight: normal; border-bottom: 1px solid var(--line); padding-bottom: 4px; }
+  #panel .lead { font-style: italic; color: #cfd5e6; }
+  #panel p { margin: 0 0 10px; }
+  #panel a { color: #9cc0ff; }
+  #panel .go { color: #9cc0ff; cursor: pointer; text-decoration: underline dotted; }
+  #panel ul { margin: 0; padding-left: 18px; }
+  #panel li { margin: 2px 0; }
+  .obra-item { margin: 6px 0; }
+  .obra-item .meta { color: var(--muted); font-size: 13px; }
+  .chip { display: inline-block; font-size: 12px; padding: 1px 8px; border-radius: 10px; margin-left: 4px;
+    border: 1px solid var(--line); color: var(--text); text-decoration: none !important; }
+  .muted { color: var(--muted); }
+  .src { font-size: 12px; color: var(--muted); margin-top: 8px; }
+  footer { position: fixed; bottom: 14px; right: 16px; z-index: 1; font-size: 11px; color: #5d6683; max-width: 46ch; text-align: right; }
+  footer a { color: #7c87a8; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<header>
+  <h1>Mapa de la poesía chilena</h1>
+  <p>Según el índice de Naín Nómez, <i>Antología crítica de la poesía chilena</i>. Haz clic en una estrella.</p>
+  <input id="search" type="search" placeholder="Buscar poeta, movimiento u obra…" autocomplete="off">
+  <ul id="results"></ul>
+</header>
+<div class="legend">
+  <span style="--c:var(--hub)">Centro</span><span style="--c:var(--mov)">Movimientos</span>
+  <span style="--c:var(--aut)">Poetas</span><span style="--c:var(--obra)">Obras</span>
+</div>
+<footer>Descripciones: <a href="https://www.memoriachilena.gob.cl" target="_blank" rel="noopener">Memoria Chilena</a>,
+  Biblioteca Nacional de Chile (CC BY-SA 3.0).</footer>
+<aside id="panel"><button id="close" aria-label="Cerrar">×</button><div id="content"></div></aside>
+
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script src="data.js"></script>
+<script>
+const {movs, autores} = window.DATA;
+const HUB = "Poesía chilena";
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+// ---------- grafo ----------
+const nodes = [], links = [], byId = new Map();
+const add = n => (nodes.push(n), byId.set(n.id, n), n);
+add({id: HUB, kind: "hub", r: 26, fx: 0, fy: 0});
+const R_MOV = 900;
+const jit = d3.randomLcg(42);  // mismo cielo en cada visita
+// estrellas fijas: los 12 movimientos repartidos de forma pareja en el círculo
+movs.forEach((m, i) => {
+  const ang = -Math.PI / 2 + 2 * Math.PI * i / movs.length;
+  add({id: m.id, kind: "mov", r: 16, sub: m.sub, ang, fx: R_MOV * Math.cos(ang), fy: R_MOV * Math.sin(ang)});
+  links.push({source: HUB, target: m.id, cls: "l-mov"});
+});
+autores.forEach(a => {
+  const m = byId.get(a.mov);
+  add({id: a.id, kind: "aut", r: 4.5 + Math.min(5, a.obras.length * .35), data: a,
+       x: (R_MOV + 330) * Math.cos(m.ang) + jit() * 40, y: (R_MOV + 330) * Math.sin(m.ang) + jit() * 40});
+  links.push({source: a.mov, target: a.id});
+  a.obras.forEach((o, i) => {
+    const id = `obra:${a.id}:${i}`;
+    add({id, kind: "obra", r: 2.6, data: o, autor: a.id, label: o.t,
+         x: (R_MOV + 360) * Math.cos(m.ang), y: (R_MOV + 360) * Math.sin(m.ang)});
+    links.push({source: a.id, target: id});
+  });
+});
+
+const sim = d3.forceSimulation(nodes)
+  .force("link", d3.forceLink(links).id(d => d.id)
+    .distance(l => l.target.kind === "obra" ? 26 : l.target.kind === "aut" ? 190 : R_MOV)
+    .strength(l => l.target.kind === "mov" ? 0 : l.target.kind === "obra" ? 1 : .35))
+  .force("charge", d3.forceManyBody().strength(d => d.kind === "obra" ? -14 : -70).distanceMax(400))
+  .force("collide", d3.forceCollide(d => d.r + (d.kind === "obra" ? 2 : 6)))
+  .force("radial", d3.forceRadial(d => d.kind === "aut" ? R_MOV + 330 : d.kind === "obra" ? R_MOV + 470 : 0)
+    .strength(d => d.kind === "aut" ? .15 : d.kind === "obra" ? .04 : 0))
+  .stop();
+for (let i = 0; i < 400; i++) sim.tick();
+// estrellas fijas: tras ordenar el cielo, todo queda quieto
+nodes.forEach(n => { n.fx = n.x; n.fy = n.y; });
+
+// ---------- dibujo ----------
+const svg = d3.select("#map").append("svg");
+const defs = svg.append("defs");
+const f = defs.append("filter").attr("id", "glow").attr("x", "-100%").attr("y", "-100%").attr("width", "300%").attr("height", "300%");
+f.append("feGaussianBlur").attr("stdDeviation", 4).attr("result", "b");
+const fm = f.append("feMerge"); fm.append("feMergeNode").attr("in", "b"); fm.append("feMergeNode").attr("in", "SourceGraphic");
+
+const world = svg.append("g");
+// fondo de estrellas
+const rnd = d3.randomLcg(7);
+world.append("g").selectAll("circle").data(d3.range(900)).join("circle")
+  .attr("cx", () => (rnd() - .5) * 4200).attr("cy", () => (rnd() - .5) * 4200)
+  .attr("r", () => rnd() * 1.1 + .2).attr("fill", "#fff").attr("opacity", () => rnd() * .35 + .05);
+
+const linkSel = world.append("g").selectAll("line").data(links).join("line")
+  .attr("class", d => "link " + (d.cls || ""))
+  .attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+
+const nodeSel = world.append("g").selectAll("g").data(nodes).join("g")
+  .attr("class", d => "node " + d.kind).attr("transform", d => `translate(${d.x},${d.y})`)
+  .on("click", (e, d) => { e.stopPropagation(); select(d); })
+  .on("mouseenter", (e, d) => hover(d)).on("mouseleave", () => hover(null));
+nodeSel.append("circle").attr("r", d => d.r);
+nodeSel.append("circle").attr("class", "hit").attr("r", d => d.r + 6);  // área de clic más generosa
+nodeSel.append("title").text(d => d.label || d.id);
+
+const labelSel = world.append("g").selectAll("text").data(nodes).join("text")
+  .attr("class", d => "label " + d.kind).attr("x", d => d.x).attr("y", d => d.y - d.r - 5)
+  .text(d => d.kind === "obra" ? (d.label.length > 40 ? d.label.slice(0, 38) + "…" : d.label) : d.id);
+
+let k = 1;
+let selected = null, hovered = null, focusSet = null;
+const zoom = d3.zoom().clickDistance(6).scaleExtent([.08, 8]).on("zoom", e => {
+  world.attr("transform", e.transform); k = e.transform.k; updateLabels();
+});
+svg.call(zoom).on("dblclick.zoom", null).on("click", () => select(null));
+function fit() {
+  const w = innerWidth, h = innerHeight, s = Math.min(w / 3600, h / 3000);
+  svg.call(zoom.transform, d3.zoomIdentity.translate(w / 2, h / 2).scale(s));
+}
+fit();
+
+function neighbors(d) {
+  const s = new Set([d.id]);
+  links.forEach(l => { if (l.source.id === d.id) s.add(l.target.id); if (l.target.id === d.id) s.add(l.source.id); });
+  if (d.kind === "aut") s.add(d.data.mov);
+  if (d.kind === "obra") { s.add(d.autor); }
+  if (d.kind === "mov") nodes.forEach(n => { if (n.kind === "obra" && s.has(n.autor)) s.add(n.id); });
+  return s;
+}
+function updateLabels() {
+  const big = d => d.kind === "hub" ? 18 : d.kind === "mov" ? 13 : d.kind === "aut" ? 10 : 8;
+  const fixed = d => d.kind === "hub" || d.kind === "mov";
+  const sc = 1 / Math.min(1, k);
+  // centro y movimientos: tamaño constante en pantalla; nombres de movimientos hacia afuera del círculo
+  labelSel.attr("font-size", d => fixed(d) ? big(d) * sc : big(d))
+    .attr("text-anchor", d => d.kind === "mov" ? (Math.abs(Math.cos(d.ang)) < .3 ? "middle" : Math.cos(d.ang) > 0 ? "start" : "end") : "middle")
+    .attr("x", d => d.kind === "mov" ? d.x + Math.cos(d.ang) * (d.r + 8 * sc) : d.x)
+    .attr("y", d => d.kind === "mov" ? d.y + Math.sin(d.ang) * (d.r + 14 * sc) + 4 * sc
+                  : d.y - d.r - (fixed(d) ? 8 * sc : 5));
+  labelSel.style("display", d => {
+    if (d.kind === "obra") return (d === hovered || d === selected) ? null : "none";
+    if (focusSet && !focusSet.has(d.id) && d.kind !== "hub" && d.kind !== "mov") return "none";
+    if (focusSet && focusSet.has(d.id) && d.kind !== "obra") return null;
+    if (focusSet && focusSet.has(d.id) && d.kind === "obra" && (hovered?.kind !== "mov") && (selected?.kind !== "mov")) return null;
+    if (d.kind === "hub" || d.kind === "mov") return null;
+    if (d.kind === "aut") return k > .55 ? null : "none";
+    return k > 2 ? null : "none";
+  });
+}
+function paint() {
+  const d = hovered || selected;
+  focusSet = d && d.kind !== "hub" ? neighbors(d) : null;
+  nodeSel.classed("dim", n => focusSet ? !focusSet.has(n.id) : false).classed("sel", n => n === selected);
+  linkSel.classed("hl", l => focusSet ? focusSet.has(l.source.id) && focusSet.has(l.target.id) : false);
+  updateLabels();
+}
+function hover(d) { hovered = d; paint(); }
+
+// ---------- panel ----------
+const panel = document.getElementById("panel"), content = document.getElementById("content");
+document.getElementById("close").onclick = () => select(null);
+function go(id) { return `<span class="go" data-id="${esc(id)}">${esc(id)}</span>`; }
+content.addEventListener("click", e => {
+  const t = e.target.closest("[data-id]");
+  if (t) { const n = byId.get(t.dataset.id); if (n) { select(n); centerOn(n); } }
+});
+function paras(t) {
+  return esc(t).replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, id, lab) =>
+    byId.has(id) ? `<span class="go" data-id="${esc(id)}">${lab}</span>` : lab)
+    .split(/\n\s*\n/).map(p => `<p>${p.replace(/\n/g, " ")}</p>`).join("");
+}
+function obraHTML(o) {
+  return `<div class="obra-item">${esc(o.t)}${o.y ? ` <span class="muted">(${o.y})</span>` : ""}
+    <a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha</a>
+    <a class="chip" href="${o.p}" target="_blank" rel="noopener">PDF</a></div>`;
+}
+function render(d) {
+  if (d.kind === "hub") {
+    content.innerHTML = `<div class="kind">Centro</div><h2>${HUB}</h2>
+      <p>Los movimientos del índice de Naín Nómez, <i>Antología crítica de la poesía chilena</i>.</p>
+      <h3>Movimientos</h3><ul>${movs.map(m => `<li>${go(m.id)}</li>`).join("")}</ul>`;
+  } else if (d.kind === "mov") {
+    const as = autores.filter(a => a.mov === d.id);
+    content.innerHTML = `<div class="kind">Movimiento</div><h2>${esc(d.id)}</h2><p class="lead">${esc(d.sub)}</p>
+      <h3>Poetas (${as.length})</h3><ul>${as.map(a => `<li>${go(a.id)} <span class="muted">${esc(a.f ? "(" + a.f + ")" : "")}</span></li>`).join("")}</ul>`;
+  } else if (d.kind === "aut") {
+    const a = d.data, poe = a.obras.filter(o => o.poe), otras = a.obras.filter(o => !o.poe);
+    content.innerHTML = `<div class="kind">Poeta · ${go(a.mov)}</div><h2>${esc(a.id)}</h2>
+      ${a.f ? `<div class="muted">${esc(a.f)}</div>` : ""}
+      <h3>Descripción (Memoria Chilena)</h3>
+      ${a.lead ? `<p class="lead">${esc(a.lead)}</p>` : ""}
+      ${a.pres ? paras(a.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}
+      ${a.mc ? `<div class="src">Fuente: <a href="${a.mc}" target="_blank" rel="noopener">Memoria Chilena</a></div>` : ""}
+      <h3>Poemas en la antología</h3><ul>${a.poemas.map(p => `<li>${esc(p)}</li>`).join("")}</ul>
+      <h3>Obras en Memoria Chilena</h3>
+      ${a.obras.length ? (poe.length ? `<div class="muted">Poesía</div>${poe.map(obraHTML).join("")}` : "")
+        + (otras.length ? `<div class="muted" style="margin-top:10px">Otras obras</div>${otras.map(obraHTML).join("")}` : "")
+        : `<p class="muted">No hay libros de este poeta digitalizados en Memoria Chilena.</p>`}`;
+  } else {
+    const o = d.data;
+    content.innerHTML = `<div class="kind">Obra · ${go(d.autor)}</div><h2>${esc(o.t)}</h2>
+      ${o.y ? `<div class="muted">${esc(o.y)}</div>` : ""}${o.pub ? `<p>${esc(o.pub)}</p>` : ""}
+      <p><a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha en Memoria Chilena</a>
+         <a class="chip" href="${o.p}" target="_blank" rel="noopener">Abrir PDF</a></p>`;
+  }
+  panel.scrollTop = 0;
+}
+function select(d) {
+  selected = d; paint();
+  if (d) { render(d); panel.classList.add("open"); } else panel.classList.remove("open");
+}
+function centerOn(n) {
+  const s = Math.max(k, n.kind === "obra" ? 3 : n.kind === "aut" ? 1.6 : 1);
+  svg.transition().duration(600).call(zoom.transform,
+    d3.zoomIdentity.translate(innerWidth / 2 - (panel.classList.contains("open") ? 200 : 0), innerHeight / 2).scale(s).translate(-n.x, -n.y));
+}
+
+// ---------- búsqueda ----------
+const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const index = nodes.map(n => ({n, s: norm(n.label || n.id)}));
+const input = document.getElementById("search"), results = document.getElementById("results");
+let act = 0, hits = [];
+input.addEventListener("input", () => {
+  const q = norm(input.value.trim());
+  hits = q.length < 2 ? [] : index.filter(x => x.s.includes(q))
+    .sort((a, b) => "hubmovautobra".indexOf(a.n.kind) - "hubmovautobra".indexOf(b.n.kind)).slice(0, 30);
+  act = 0; drawResults();
+});
+input.addEventListener("keydown", e => {
+  if (e.key === "ArrowDown") { act = Math.min(act + 1, hits.length - 1); drawResults(); e.preventDefault(); }
+  if (e.key === "ArrowUp") { act = Math.max(act - 1, 0); drawResults(); e.preventDefault(); }
+  if (e.key === "Enter" && hits[act]) pick(hits[act].n);
+  if (e.key === "Escape") { input.value = ""; hits = []; drawResults(); }
+});
+function drawResults() {
+  results.style.display = hits.length ? "block" : "none";
+  const kind = {hub: "centro", mov: "movimiento", aut: "poeta", obra: "obra"};
+  results.innerHTML = hits.map((h, i) => `<li class="${i === act ? "act" : ""}" data-i="${i}">${esc(h.n.label || h.n.id)}
+    <small>· ${kind[h.n.kind]}${h.n.kind === "obra" ? " de " + esc(h.n.autor) : ""}</small></li>`).join("");
+}
+results.addEventListener("click", e => { const li = e.target.closest("li"); if (li) pick(hits[+li.dataset.i].n); });
+function pick(n) { hits = []; drawResults(); input.value = ""; select(n); centerOn(n); }
+addEventListener("resize", fit);
+</script>
+</body>
+</html>

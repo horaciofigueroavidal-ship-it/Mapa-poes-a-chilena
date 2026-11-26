@@ -1,0 +1,2323 @@
+[
+ {
+  "tomo": "Tomo I",
+  "titulo": "Origen y desarrollo de la poesía chilena moderna",
+  "partes": [
+   {
+    "nombre": "Neoclásicos y románticos",
+    "titulo": "Parte I. Neoclásicos y románticos: antecedentes de la poesía chilena moderna",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Andrés Bello",
+        "anio": null,
+        "poemas": [
+         "La agricultura de la zona tórrida (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Salvador Sanfuentes",
+        "anio": null,
+        "poemas": [
+         "El campanario (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Guillermo Matta",
+        "anio": null,
+        "poemas": [
+         "Lo que dicen las olas"
+        ]
+       },
+       {
+        "nombre": "Guillermo Blest Gana",
+        "anio": null,
+        "poemas": [
+         "Voy quedando tan solo",
+         "A la muerte",
+         "Mirada retrospectiva"
+        ]
+       },
+       {
+        "nombre": "Eduardo de la Barra",
+        "anio": null,
+        "poemas": [
+         "Ensueños",
+         "El vaso roto"
+        ]
+       },
+       {
+        "nombre": "José Antonio Soffia",
+        "anio": null,
+        "poemas": [
+         "La niña de los ojos azules",
+         "Cielo"
+        ]
+       },
+       {
+        "nombre": "Juan Rafael Allende",
+        "anio": null,
+        "poemas": [
+         "Cuando rico y cuando pobre"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Emergencia del modernismo",
+    "titulo": "Parte II. Emergencia del modernismo: Darío y los primeros poetas «modernos»",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Rubén Darío",
+        "anio": null,
+        "poemas": [
+         "El rey burgués (cuento alegre)",
+         "Caupolicán",
+         "De invierno"
+        ]
+       },
+       {
+        "nombre": "Narciso Tondreau",
+        "anio": null,
+        "poemas": [
+         "Ars Relligio Mea (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Leonardo Eliz",
+        "anio": null,
+        "poemas": [
+         "Anacreóntica",
+         "Sensitiva"
+        ]
+       },
+       {
+        "nombre": "Ricardo Fernández Montalva",
+        "anio": null,
+        "poemas": [
+         "Cuerdas rotas",
+         "La estatua",
+         "Haydée"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Tradición nacional y modernidad cosmopolita",
+    "titulo": "Parte III. Tradición nacional y modernidad cosmopolita: las múltiples voces de la poesía chilena moderna",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Pedro Antonio González",
+        "anio": null,
+        "poemas": [
+         "Mi vela",
+         "Asteroides XXXIX, XL",
+         "Las perlas y las uvas",
+         "El pacto",
+         "Confidencias",
+         "Triunfal",
+         "Roxana y Estatira",
+         "El alba"
+        ]
+       },
+       {
+        "nombre": "Julio Vicuña Cifuentes",
+        "anio": null,
+        "poemas": [
+         "El asno",
+         "La ocasión",
+         "Aún es tiempo que venga",
+         "Huéspedes eternos",
+         "Cantares",
+         "Introito"
+        ]
+       },
+       {
+        "nombre": "Augusto Winter",
+        "anio": null,
+        "poemas": [
+         "La fuga de los cisnes",
+         "No te manches",
+         "Las gualas"
+        ]
+       },
+       {
+        "nombre": "Samuel Lillo",
+        "anio": null,
+        "poemas": [
+         "Paisaje de estío",
+         "El gaucho",
+         "La mina abandonada"
+        ]
+       },
+       {
+        "nombre": "Gustavo Valledor Sánchez",
+        "anio": null,
+        "poemas": [
+         "Aurora",
+         "Melancolía"
+        ]
+       },
+       {
+        "nombre": "Abelardo Varela",
+        "anio": null,
+        "poemas": [
+         "Entre las ramas",
+         "La novia",
+         "Invierno"
+        ]
+       },
+       {
+        "nombre": "Horacio Olivos y Carrasco",
+        "anio": null,
+        "poemas": [
+         "De alba",
+         "En la sombra",
+         "La agonía del sátiro",
+         "Las cantáridas"
+        ]
+       },
+       {
+        "nombre": "Antonio Bórquez Solar",
+        "anio": null,
+        "poemas": [
+         "Los carpinteros",
+         "El castillo",
+         "El romance del guerrillero (fragmento)",
+         "Los huelguistas"
+        ]
+       },
+       {
+        "nombre": "Zoilo Escobar",
+        "anio": null,
+        "poemas": [
+         "Cuando me acuerdo de Jesús",
+         "Mar, sol y viento",
+         "Ante un retrato de mujer",
+         "Doce aspectos de mi vida celeste"
+        ]
+       },
+       {
+        "nombre": "Luis A. Hurtado",
+        "anio": null,
+        "poemas": [
+         "Del crepúsculo",
+         "Risa femenina",
+         "Tengo el vino alegre"
+        ]
+       },
+       {
+        "nombre": "Diego Dublé Urrutia",
+        "anio": null,
+        "poemas": [
+         "Piedad",
+         "En el fondo del lago",
+         "El lanzamiento",
+         "Fontana cándida",
+         "El caracol",
+         "Tienen las capuchinas...",
+         "La procesión de San Pedro y la bendición del mar (fragmento)",
+         "Las minas (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Miguel Luis Rocuant",
+        "anio": null,
+        "poemas": [
+         "Momento rojo",
+         "El sueño del árbol",
+         "La visión del calvario",
+         "Día gris",
+         "Crepuscular"
+        ]
+       },
+       {
+        "nombre": "Francisco Contreras",
+        "anio": null,
+        "poemas": [
+         "El turco",
+         "Encanto de las lluvias",
+         "Las crisantemas",
+         "El puñal antiguo",
+         "Gretchen",
+         "Joyel",
+         "Remembranza",
+         "Luna de la patria...",
+         "Sinfonía"
+        ]
+       },
+       {
+        "nombre": "Ernesto A. Guzmán",
+        "anio": null,
+        "poemas": [
+         "Las malas palabras",
+         "Agua de riego",
+         "Ojos",
+         "Contigo",
+         "La fiesta del camino"
+        ]
+       },
+       {
+        "nombre": "Manuel Magallanes Moure",
+        "anio": null,
+        "poemas": [
+         "Tarde de enero",
+         "Adoración",
+         "Jamás...",
+         "¡Recuerdas!",
+         "El barco viejo",
+         "Por la orilla de la mar",
+         "Viaje de ensueño",
+         "Amor",
+         "El manantial"
+        ]
+       },
+       {
+        "nombre": "Carlos Keymer",
+        "anio": null,
+        "poemas": [
+         "El ritual",
+         "La piedra",
+         "Dentro del círculo"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Nacionalismo, mundonovismo y crítica social",
+    "titulo": "Parte IV. Nacionalismo, mundonovismo y crítica social en la poesía chilena moderna: las contradicciones del sujeto de la modernidad",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Carlos Pezoa Véliz",
+        "anio": null,
+        "poemas": [
+         "A una morena",
+         "Cuerdas heridas",
+         "Al amor de la lumbre",
+         "El pintor Pereza",
+         "El perro vagabundo",
+         "Teodorinda",
+         "Pancho y Tomás (fragmento)",
+         "Entierro de campo",
+         "Nada",
+         "Tarde en el hospital",
+         "Fecundidad",
+         "El organillo"
+        ]
+       },
+       {
+        "nombre": "Jorge González Bastías",
+        "anio": null,
+        "poemas": [
+         "El poema de las tierras pobres (fragmento)",
+         "Cerca del mar la música es más sabia",
+         "Misa de primavera",
+         "Égloga del camino",
+         "Elegía sencilla"
+        ]
+       },
+       {
+        "nombre": "Abel González",
+        "anio": null,
+        "poemas": [
+         "La roza",
+         "La siembra"
+        ]
+       },
+       {
+        "nombre": "Luis Felipe Contardo",
+        "anio": null,
+        "poemas": [
+         "Mysterium sacro",
+         "En el lago de Genezareth",
+         "Pequeños",
+         "Rincón isleño"
+        ]
+       },
+       {
+        "nombre": "Alberto Mauret Caamaño",
+        "anio": null,
+        "poemas": [
+         "Viaje romántico",
+         "El alma de las rosas"
+        ]
+       },
+       {
+        "nombre": "Carlos Mondaca",
+        "anio": null,
+        "poemas": [
+         "Lejana",
+         "La luna entre los árboles",
+         "Los pianos viejos",
+         "Soledad",
+         "El reloj",
+         "Elegía"
+        ]
+       },
+       {
+        "nombre": "Víctor Domingo Silva",
+        "anio": null,
+        "poemas": [
+         "Balada matinal",
+         "Alas",
+         "Balada del violín",
+         "¡Nunca ya!",
+         "La Nueva Marsellesa (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Jerónimo Lagos Lisboa",
+        "anio": null,
+        "poemas": [
+         "Tarde",
+         "Croquis lugareño",
+         "Claridad nocturna",
+         "Senda de gracia",
+         "Apunte",
+         "Ceniza y humo"
+        ]
+       },
+       {
+        "nombre": "Andrés Silva Humeres",
+        "anio": null,
+        "poemas": [
+         "El suicida",
+         "Pobre mujer"
+        ]
+       },
+       {
+        "nombre": "Juan Manuel Rodríguez",
+        "anio": null,
+        "poemas": [
+         "Día de lluvia"
+        ]
+       },
+       {
+        "nombre": "Pedro Prado",
+        "anio": null,
+        "poemas": [
+         "Con un lento vagar ensimismado",
+         "Los largos años de mi vida oscura",
+         "De qué mundo ignorado habré venido",
+         "La rosa inefable",
+         "Soneto VI",
+         "Cabalgando por suave serranía",
+         "La llave",
+         "La ventana encendida",
+         "Si el amor nos posee",
+         "Mi verso",
+         "Convaleciente",
+         "Ausencia",
+         "Los pájaros errantes"
+        ]
+       },
+       {
+        "nombre": "Max Jara",
+        "anio": null,
+        "poemas": [
+         "Pero llega la noche",
+         "Agua viva",
+         "Ojitos de pena",
+         "Yerbas buenas",
+         "La senda"
+        ]
+       },
+       {
+        "nombre": "Alberto Moreno",
+        "anio": null,
+        "poemas": [
+         "Mi giganta",
+         "Musa moderna",
+         "Agonía de una belleza"
+        ]
+       },
+       {
+        "nombre": "Carlos Acuña",
+        "anio": null,
+        "poemas": [
+         "Flauta rústica",
+         "Diego de la noche",
+         "Cantaba el pidén",
+         "Vendimia"
+        ]
+       },
+       {
+        "nombre": "Ignacio Verdugo Cavada",
+        "anio": null,
+        "poemas": [
+         "Copihues"
+        ]
+       },
+       {
+        "nombre": "Julio Munizaga Ossandón",
+        "anio": null,
+        "poemas": [
+         "Esta caja de sándalo",
+         "Caupolicán"
+        ]
+       },
+       {
+        "nombre": "Guillermo Muñoz Medina",
+        "anio": null,
+        "poemas": [
+         "Sugestiva"
+        ]
+       },
+       {
+        "nombre": "Carlos Préndez Saldías",
+        "anio": null,
+        "poemas": [
+         "Emilio Cortés",
+         "La canción del río",
+         "Mía",
+         "Cirilo"
+        ]
+       },
+       {
+        "nombre": "Jorge Hübner Bezanilla",
+        "anio": null,
+        "poemas": [
+         "Prólogo",
+         "El árbol",
+         "La luz",
+         "Remordimiento",
+         "Estas transformaciones"
+        ]
+       },
+       {
+        "nombre": "Daniel de la Vega",
+        "anio": null,
+        "poemas": [
+         "Las palabras",
+         "Ceniza y cera",
+         "La puerta",
+         "Ya se va la farándula"
+        ]
+       },
+       {
+        "nombre": "Enrique Ponce",
+        "anio": null,
+        "poemas": [
+         "Los gatos",
+         "Vicio supremo",
+         "Despertar",
+         "La siesta"
+        ]
+       },
+       {
+        "nombre": "Carlos Barella",
+        "anio": null,
+        "poemas": [
+         "El suicidio de las rosas",
+         "Cuadros del puerto"
+        ]
+       },
+       {
+        "nombre": "Ángel Cruchaga Santa María",
+        "anio": null,
+        "poemas": [
+         "Afán del corazón",
+         "Canto al Bío Bío",
+         "Acuarela",
+         "Himno al arroz",
+         "El aroma tenaz",
+         "La muerte suya",
+         "El canto de los mares solos",
+         "El amor junto al mar",
+         "La evocación de Job",
+         "Canto a Chile",
+         "En el éxtasis",
+         "Creadora del mundo"
+        ]
+       },
+       {
+        "nombre": "Teresa Wilms Montt",
+        "anio": null,
+        "poemas": [
+         "Páginas de diario",
+         "De «Inquietudes sentimentales» (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Pedro Sienna",
+        "anio": null,
+        "poemas": [
+         "Esta vieja herida",
+         "Cuando cae el telón",
+         "La farándula se va"
+        ]
+       },
+       {
+        "nombre": "Sady Zañartu",
+        "anio": null,
+        "poemas": [
+         "El prodigio de las campanas",
+         "Santiago antiguo"
+        ]
+       },
+       {
+        "nombre": "Elías Arze Bastidas",
+        "anio": null,
+        "poemas": [
+         "En el lago",
+         "Fumadora",
+         "Flor de fango"
+        ]
+       },
+       {
+        "nombre": "Luciano Morgado",
+        "anio": null,
+        "poemas": [
+         "Esta tarde",
+         "En el cielo una nube"
+        ]
+       },
+       {
+        "nombre": "Francisco Donoso González",
+        "anio": null,
+        "poemas": [
+         "La luz",
+         "La cigarra",
+         "Lluvia",
+         "Fiesta"
+        ]
+       },
+       {
+        "nombre": "Alberto Valdivia",
+        "anio": null,
+        "poemas": [
+         "Todo se irá...",
+         "Las rosas del crepúsculo"
+        ]
+       },
+       {
+        "nombre": "Juan Guzmán Cruchaga",
+        "anio": null,
+        "poemas": [
+         "Otoño",
+         "Con la tarde ha venido",
+         "Invierno",
+         "La fuente escondida",
+         "Momento",
+         "Haruko Sam",
+         "Canción",
+         "La balada del príncipe solo",
+         "Romance del agua dormida"
+        ]
+       },
+       {
+        "nombre": "Augusto Iglesias",
+        "anio": null,
+        "poemas": [
+         "Romance de ciego"
+        ]
+       },
+       {
+        "nombre": "Lautaro García",
+        "anio": null,
+        "poemas": [
+         "Tríptico de evocación a Marta Cuevas",
+         "La diuca",
+         "El maestro de escuela"
+        ]
+       },
+       {
+        "nombre": "Miriam Elim",
+        "anio": null,
+        "poemas": [
+         "Los ojos extasiados",
+         "Imprecación",
+         "Por qué amo yo la muerte"
+        ]
+       },
+       {
+        "nombre": "Olga Acevedo",
+        "anio": null,
+        "poemas": [
+         "Serenata",
+         "Los malos vientos",
+         "Sitio"
+        ]
+       },
+       {
+        "nombre": "María Antonieta Le Quesne",
+        "anio": null,
+        "poemas": [
+         "Recodo azul",
+         "Alma que mueres de amor",
+         "Y todo pasará"
+        ]
+       },
+       {
+        "nombre": "José Domingo Gómez Rojas",
+        "anio": null,
+        "poemas": [
+         "Divinidad",
+         "Motivo",
+         "Autoretrato",
+         "Renegación",
+         "Miserere",
+         "Elegía"
+        ]
+       },
+       {
+        "nombre": "David Enrique Perry",
+        "anio": null,
+        "poemas": [
+         "El espino",
+         "Los potros",
+         "Como un ciego",
+         "Spleen"
+        ]
+       },
+       {
+        "nombre": "Gerardo Moraga Bustamante",
+        "anio": null,
+        "poemas": [
+         "Lo irreparable",
+         "Alma"
+        ]
+       },
+       {
+        "nombre": "Gabriela Mistral",
+        "anio": null,
+        "poemas": [
+         "Los sonetos de la muerte",
+         "Tarde",
+         "Los versos de noviembre",
+         "La maestra rural",
+         "Interrogaciones",
+         "Ceras eternas",
+         "Himno al árbol",
+         "El ruego"
+        ]
+       },
+       {
+        "nombre": "Vicente Huidobro",
+        "anio": null,
+        "poemas": [
+         "La alcoba",
+         "La obsesión de los dientes",
+         "La capilla aldeana",
+         "El caos",
+         "El espejo de agua",
+         "Triángulo armónico",
+         "Arte poética"
+        ]
+       },
+       {
+        "nombre": "Winétt de Rokha",
+        "anio": null,
+        "poemas": [
+         "De «Lo que me dijo el silencio» VII, X",
+         "Psicología pesimista",
+         "De «Horas de sol» (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Pablo de Rokha",
+        "anio": null,
+        "poemas": [
+         "Apunte",
+         "Carne triste",
+         "Sobre el cuerpo que todavía se mueve, ahí"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tomo": "Tomo II",
+  "titulo": "Auge y disolución de las vanguardias. Poesía social y poesía popular",
+  "partes": [
+   {
+    "nombre": "De la vanguardia a la poesía social y popular",
+    "titulo": "Parte I. De la vanguardia a la poesía social y popular",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": []
+     },
+     {
+      "nombre": "Grupo I",
+      "autores": [
+       {
+        "nombre": "Omar Cáceres",
+        "anio": "1906",
+        "poemas": [
+         "Azul deshabitado",
+         "Insomnio junto al alba",
+         "Palabras a un espejo",
+         "Iluminación del yo",
+         "Extremos visitantes"
+        ]
+       },
+       {
+        "nombre": "Juan Negro",
+        "anio": "1906",
+        "poemas": [
+         "Canto vespertino",
+         "Viernes",
+         "Nocturno en el océano",
+         "Responso",
+         "Elegía",
+         "Mano cortada",
+         "Víbora de espumas",
+         "Las albas"
+        ]
+       },
+       {
+        "nombre": "Óscar Castro",
+        "anio": "1910",
+        "poemas": [
+         "Romance del vendedor de canciones",
+         "Romance de barco y junco",
+         "Raíz del canto",
+         "La cabra",
+         "Nocturno de la sangre sin reposo",
+         "Casa de las guitarras",
+         "Muerte de Alfonsina Storni",
+         "La lluvia empuja nostalgias",
+         "El vino"
+        ]
+       },
+       {
+        "nombre": "Victoriano Vicario",
+        "anio": "1911",
+        "poemas": [
+         "Canto profundo para Ángeles Abienzo",
+         "Tercer silencio",
+         "Episodio",
+         "Viaje sin retorno",
+         "Introducción al olvido",
+         "La soledad y el humo",
+         "Expedición a la soledad",
+         "Viaje final"
+        ]
+       },
+       {
+        "nombre": "Gustavo Ossorio",
+        "anio": "1912",
+        "poemas": [
+         "El cimiento interior",
+         "El huésped y el fuego",
+         "La presencia abatida",
+         "Imagen recobrada",
+         "Presencia y memoria",
+         "Contacto terrestre (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Braulio Arenas",
+        "anio": "1913",
+        "poemas": [
+         "La Mandrágora (fragmento)",
+         "El puente",
+         "La simple vista",
+         "La palabra del enigma (fragmento)",
+         "Todo es posible cuando la vida es imposible",
+         "A las bellas alucinadas",
+         "Discurso del Gran Poder (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Eduardo Anguita",
+        "anio": "1914",
+        "poemas": [
+         "Sonetos del extranjero",
+         "Mi muchacha se va a casar",
+         "Arte poética y práctica",
+         "Poema de odio",
+         "Venus en el pudridero (fragmento)",
+         "La visita",
+         "Dos rostros se reúnen en el amor",
+         "El verdadero momento"
+        ]
+       },
+       {
+        "nombre": "Teófilo Cid",
+        "anio": "1914",
+        "poemas": [
+         "Camino del Ñielol (fragmento)",
+         "Las madres",
+         "El retorno",
+         "Venus Vitrix",
+         "Lo que soy"
+        ]
+       },
+       {
+        "nombre": "Roque Esteban Scarpa",
+        "anio": "1914",
+        "poemas": [
+         "Soneto",
+         "Oda menor",
+         "Yo he nacido, amor",
+         "Elegía romántica",
+         "Encuentro del antiguo amor",
+         "Cumpleaños",
+         "El café de noche",
+         "Mujer sentada al borde del mar",
+         "No tengo tiempo",
+         "Variación del querer morir",
+         "Sólo me encontrarás"
+        ]
+       },
+       {
+        "nombre": "Enrique Gómez-Correa",
+        "anio": "1915",
+        "poemas": [
+         "El marqués de Sade o el amor considerado como un vicio espléndido (fragmentos)",
+         "Testimonio de un poeta negro (fragmentos)",
+         "La bella durmiente",
+         "Las perezosas",
+         "Mandrágora, siglo XX",
+         "La noche al desnudo (fragmentos)",
+         "Las flores del mal",
+         "Reencuentro y pérdida de la mandrágora",
+         "Íntimo",
+         "La certidumbre del terror",
+         "Ondina habla de las ondinas"
+        ]
+       },
+       {
+        "nombre": "Mahfud Massís",
+        "anio": "1916",
+        "poemas": [
+         "Ahora que te llamo Agata",
+         "Búsqueda del príncipe degollado",
+         "Sonata del gallo negro",
+         "Elegía del oro",
+         "Última tarde",
+         "Carta a Lukó desde el aserradero",
+         "Otro traje",
+         "Poema 3",
+         "Poema 16",
+         "Llanto del exiliado (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Jorge Cáceres",
+        "anio": "1923",
+        "poemas": [
+         "Ciertos labios",
+         "Poema I",
+         "Un fantasma",
+         "Hacia el gran día negro",
+         "Poema II",
+         "Justine",
+         "Jamás"
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Grupo II",
+      "autores": [
+       {
+        "nombre": "Antonio de Undurraga",
+        "anio": "1911",
+        "poemas": [
+         "Arte poética",
+         "El muro de los espejos",
+         "Comuna del tiempo caído",
+         "La primavera bajo el espejo",
+         "Alejandrino del bosque plantado junto al mar",
+         "Sinfonía del traje único",
+         "Elegía incorporada en el agua"
+        ]
+       },
+       {
+        "nombre": "Stella Corvalán",
+        "anio": "1911",
+        "poemas": [
+         "Poema para el hijo que vendrá",
+         "Escúchame Alfonsina",
+         "Sinfonía de la angustia (fragmentos)",
+         "Preludio"
+        ]
+       },
+       {
+        "nombre": "Luis Merino Reyes",
+        "anio": "1912",
+        "poemas": [
+         "Coloquio de los goces (fragmentos)",
+         "El ímpetu",
+         "Oda",
+         "Soneto final",
+         "Dos sonetos de olvido",
+         "Nuevo crepúsculo"
+        ]
+       },
+       {
+        "nombre": "Mila Oyarzún",
+        "anio": "1912",
+        "poemas": [
+         "Palabras al hijo distante",
+         "Orden del corazón",
+         "Desesperanza",
+         "Última soledad",
+         "Solamente",
+         "Demasiado tarde",
+         "Nada más",
+         "Destino vegetal"
+        ]
+       },
+       {
+        "nombre": "Andrés Sabella",
+        "anio": "1912",
+        "poemas": [
+         "La «mona» de Ño Noé",
+         "Payaduras del vino tinto y del vino blanco",
+         "Cantata escondida en un cacharro alto en el desierto de Atacama",
+         "Momias de Chiu-Chiu",
+         "Información del goce",
+         "Cosas de la sangre",
+         "Ruta",
+         "Día de fiesta"
+        ]
+       },
+       {
+        "nombre": "Carlos René Correa",
+        "anio": "1912",
+        "poemas": [
+         "Lluvia en la ciudad",
+         "Amor de la noche y el río",
+         "Viaje",
+         "Comienza la luz (fragmentos)",
+         "Todo se destruye",
+         "Último hueso",
+         "Ardido de tu voz",
+         "Detenida la sangre"
+        ]
+       },
+       {
+        "nombre": "María Cristina Menares",
+        "anio": "1914",
+        "poemas": [
+         "Jazmín de María Carlota",
+         "De espaldas a la tierra",
+         "A plena luz",
+         "Presencia del milagro",
+         "Cielo adentro",
+         "Detrás del día",
+         "Poema en blanco",
+         "Ha llegado el olvido"
+        ]
+       },
+       {
+        "nombre": "Alberto Baeza Flores",
+        "anio": "1914",
+        "poemas": [
+         "He sido solamente el pastor de los años",
+         "Oigo caer el agua que es un hilo de asombro",
+         "El amor de pronto",
+         "Retorno",
+         "La vida ¿quién la entiende, Nicanor Parra?",
+         "Nunca se sabe la última noche destinada",
+         "¿Llevarme?, ¿qué me puedo llevar?"
+        ]
+       },
+       {
+        "nombre": "Luis Oyarzún",
+        "anio": "1920",
+        "poemas": [
+         "Canto a un poeta",
+         "Las murallas del sueño",
+         "El suicida",
+         "Verso final",
+         "Ensalmo",
+         "Abandono",
+         "Olvido"
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Grupo III",
+      "autores": [
+       {
+        "nombre": "Victoria Contreras Falcón",
+        "anio": "1900",
+        "poemas": [
+         "Balada de la luna sobre los techos",
+         "Romance del viento en Valparaíso",
+         "Diapasón sin sonido (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Patricia Morgan",
+        "anio": "1904",
+        "poemas": [
+         "El Salto del Laja",
+         "Álamos de otoño",
+         "Anunciación"
+        ]
+       },
+       {
+        "nombre": "Alejandro Galaz",
+        "anio": "1905",
+        "poemas": [
+         "Romance de infancia",
+         "Romance de la tejedora",
+         "Entierro de Federico Kuhlman",
+         "El fantasma de los espejos"
+        ]
+       },
+       {
+        "nombre": "Hermelo Arabena Williams",
+        "anio": "1905",
+        "poemas": [
+         "Las agustinas",
+         "Lámpara encendida",
+         "En mis noventa y dos años"
+        ]
+       },
+       {
+        "nombre": "Róbinson Saavedra Gómez",
+        "anio": "1907",
+        "poemas": [
+         "Interior",
+         "Oficio de cantar",
+         "Ciegos",
+         "Cuando se abre una flor"
+        ]
+       },
+       {
+        "nombre": "Javier Vergara Huneeus",
+        "anio": "1907",
+        "poemas": [
+         "Ciclo de ternura",
+         "Vida segura",
+         "Pero un día"
+        ]
+       },
+       {
+        "nombre": "Hernán Cañas",
+        "anio": "1910",
+        "poemas": [
+         "Evocación de un poeta asesinado",
+         "Oda en honor de la espiga",
+         "Pronta mejoría para Oscar Castro",
+         "Último adiós al almirante del mundo"
+        ]
+       },
+       {
+        "nombre": "Francisco Santana",
+        "anio": "1910",
+        "poemas": [
+         "Viento de la infancia",
+         "Cuando a través de la sementera",
+         "He de buscarte en los días del pasado",
+         "Amorosa te arrastras inútilmente lasciva"
+        ]
+       },
+       {
+        "nombre": "Aldo Torres Púa",
+        "anio": "1910",
+        "poemas": [
+         "Maderas de mi tierra",
+         "Alarido de fuego",
+         "Respiración",
+         "Círculo",
+         "Las dos serpientes"
+        ]
+       },
+       {
+        "nombre": "Carlos Collins Bunster",
+        "anio": "1912",
+        "poemas": [
+         "Corazón abierto",
+         "Palabras para una tarde de soledad",
+         "Matilde"
+        ]
+       },
+       {
+        "nombre": "Carlos Poblete",
+        "anio": "1914",
+        "poemas": [
+         "Amarte",
+         "La patria herida",
+         "Minuto de mi llaga"
+        ]
+       },
+       {
+        "nombre": "Joaquín Martínez Arenas",
+        "anio": "1914",
+        "poemas": [
+         "Retorno a lo perdido",
+         "Todo se va y no vuelve",
+         "Alegoría del árbol muerto",
+         "Transfiguración del fuego",
+         "Génesis del canto",
+         "Si fuera hombre bailaría"
+        ]
+       },
+       {
+        "nombre": "Víctor Franzani",
+        "anio": "1916",
+        "poemas": [
+         "Expresión de la noche",
+         "Último tránsito",
+         "Vida y muerte",
+         "Presencia"
+        ]
+       },
+       {
+        "nombre": "Jaime Rayo",
+        "anio": "1916",
+        "poemas": [
+         "La hora apartada",
+         "Narciso"
+        ]
+       },
+       {
+        "nombre": "Volodia Teitelboim",
+        "anio": "1916",
+        "poemas": [
+         "Canto gregoriano por una mujer",
+         "Fundación de la vida"
+        ]
+       },
+       {
+        "nombre": "Juan Arcos",
+        "anio": "1917",
+        "poemas": [
+         "Canción de los álamos",
+         "Epopeya del tiempo"
+        ]
+       },
+       {
+        "nombre": "Julio Moncada",
+        "anio": "1919",
+        "poemas": [
+         "Sueño e invitación al campesino",
+         "Poema IV",
+         "César Vallejo"
+        ]
+       },
+       {
+        "nombre": "María Silva Ossa",
+        "anio": "1920",
+        "poemas": [
+         "Huir",
+         "Muerte en el mar",
+         "Materia viva",
+         "Homo sapiens"
+        ]
+       },
+       {
+        "nombre": "Heriberto Rocuant",
+        "anio": "1920",
+        "poemas": [
+         "Sinfonía extrema",
+         "El beso"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "La disolución de las vanguardias",
+    "titulo": "Parte II. La disolución de las vanguardias: otras exploraciones poéticas",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": []
+     },
+     {
+      "nombre": "Grupo I (Parte II)",
+      "autores": [
+       {
+        "nombre": "Miguel Arteche",
+        "anio": "1926",
+        "poemas": [
+         "Quevedo habla de sus llagas",
+         "El café",
+         "Comedor",
+         "Lluvia",
+         "El agua",
+         "El joven torturado",
+         "Cuando se fue Magdalena",
+         "La ascensión",
+         "La última casa",
+         "Sólo el nombre"
+        ]
+       },
+       {
+        "nombre": "David Rosenmann-Taub",
+        "anio": "1927",
+        "poemas": [
+         "Preludio",
+         "Cosecha en sosiego",
+         "Impromptu",
+         "XXXIV",
+         "XLVIII",
+         "LV",
+         "Friso de Isabel",
+         "La raíz"
+        ]
+       },
+       {
+        "nombre": "Alberto Rubio",
+        "anio": "1928",
+        "poemas": [
+         "Comensal",
+         "Mesa del alba",
+         "El almuerzo",
+         "Señoriales señoras",
+         "Mosquerío",
+         "¡Colmado de comida revolcarme en la hierba!",
+         "Desciende, sol, desciende",
+         "La abuela"
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Grupo II (Parte II)",
+      "autores": [
+       {
+        "nombre": "Escilda Greve",
+        "anio": "1916",
+        "poemas": [
+         "Cada litro de tiempo es un suicidio",
+         "Viviré en mis campanas",
+         "El embargo final",
+         "Hombre",
+         "Transmutación",
+         "Cómo andar por la risa",
+         "Razón del universo"
+        ]
+       },
+       {
+        "nombre": "Irma Astorga",
+        "anio": "1920",
+        "poemas": [
+         "Viaje a la garganta de la luz (fragmentos)",
+         "Poema",
+         "Capullito Carmela",
+         "Auto-retrato",
+         "Fondo de agua",
+         "Ceniza quebrada",
+         "Todo me queda raro en la memoria",
+         "Duda"
+        ]
+       },
+       {
+        "nombre": "Víctor Castro",
+        "anio": "1920",
+        "poemas": [
+         "Retornos",
+         "Griselda",
+         "Para un nocturno más",
+         "Mudanzas",
+         "Desaliento",
+         "Presagio"
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Grupo III (Parte II)",
+      "autores": [
+       {
+        "nombre": "Bernardo Cruz",
+        "anio": "1904",
+        "poemas": [
+         "Soledad última",
+         "Muerte interior",
+         "Conformidad"
+        ]
+       },
+       {
+        "nombre": "Matilde Ladrón de Guevara",
+        "anio": "1908",
+        "poemas": [
+         "Desnuda",
+         "El silencio de las cosas",
+         "Mulata flor",
+         "Todo ha muerto"
+        ]
+       },
+       {
+        "nombre": "Alfonso Gómez Líbano",
+        "anio": "1918",
+        "poemas": [
+         "Vaivén de la manzanilla",
+         "Los pájaros de piedra",
+         "La forma y el deseo",
+         "Clima de arañas",
+         "Enemiga del sol"
+        ]
+       },
+       {
+        "nombre": "Julio Molina",
+        "anio": "1918",
+        "poemas": [
+         "Ars Amandi",
+         "Lugares en asedio",
+         "Soneto americano"
+        ]
+       },
+       {
+        "nombre": "Fernando Onfray",
+        "anio": "1918",
+        "poemas": [
+         "El párpado cerrado",
+         "Cartones y óleos",
+         "Marina con alambradas de púas",
+         "Novenas del antiguo Perú (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Nina Donoso",
+        "anio": "1920",
+        "poemas": [
+         "Resignación",
+         "No me ha valido",
+         "Poema de la esposa",
+         "Los tiempos se reúnen"
+        ]
+       },
+       {
+        "nombre": "Armando Solari",
+        "anio": "1921",
+        "poemas": [
+         "XXIV",
+         "Nadie elige la forma",
+         "Vendimia"
+        ]
+       },
+       {
+        "nombre": "Claudio Solar",
+        "anio": "1925",
+        "poemas": [
+         "Nardo sobre el nardo",
+         "Hojas de tierra con recuerdos rojos",
+         "Hombre en el autobús",
+         "Y cae la niebla",
+         "Todo es verdad"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "tomo": "Tomo III",
+  "titulo": "La poesía chilena entre 1953 y 1973",
+  "partes": [
+   {
+    "nombre": "Los fundadores de los cincuenta",
+    "titulo": "Parte I (1953-1963). Los fundadores de los cincuenta",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Nicanor Parra",
+        "anio": null,
+        "poemas": [
+         "Hay un día feliz",
+         "Autorretrato",
+         "Los vicios del mundo moderno",
+         "Soliloquio del individuo",
+         "Versos sueltos",
+         "Test",
+         "El hombre imaginario",
+         "Manifiesto",
+         "Padre nuestro",
+         "Me retracto de todo lo dicho",
+         "Quédate con tu Borges",
+         "El anti-lázaro",
+         "Artefactos"
+        ]
+       },
+       {
+        "nombre": "Gonzalo Rojas",
+        "anio": null,
+        "poemas": [
+         "Los días van tan rápidos",
+         "¿Qué se ama cuando se ama?",
+         "Contra la muerte",
+         "Carbón",
+         "Para órgano",
+         "Versículos",
+         "Réquiem de la mariposa",
+         "El alumbrado",
+         "Guardo en casa con llave",
+         "Ningunos",
+         "Pablo de Rokha",
+         "Qedeshim qedeshoth",
+         "80 veces nadie"
+        ]
+       },
+       {
+        "nombre": "Violeta Parra",
+        "anio": null,
+        "poemas": [
+         "Talento para cantar",
+         "Muda, triste y pensativa",
+         "Pero pensándolo bien",
+         "Aquí presento a mi abuelo",
+         "Mi abuelo por parte 'e maire",
+         "La cena ya se sirvió",
+         "Mas van pasando los años",
+         "La suerte mía fatal",
+         "Aquí empiezan mis quebrantos",
+         "Por ese tiempo el destino",
+         "Qué pena tuv'en Quirihue",
+         "No lloro yo por llorar",
+         "Casamiento de negros",
+         "Gracias a la vida"
+        ]
+       },
+       {
+        "nombre": "Enrique Lihn",
+        "anio": null,
+        "poemas": [
+         "La vejez de Narciso",
+         "Monólogo del viejo con la muerte",
+         "La pieza oscura",
+         "La despedida",
+         "Nunca salí del horroroso Chile",
+         "Destiempo",
+         "Desenlace",
+         "Alicia en el país de las pesadillas",
+         "Porque escribí",
+         "Nada tiene que ver el dolor..."
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Las tendencias láricas",
+    "titulo": "Parte I (1953-1963). Las tendencias láricas: orígenes y desarrollo",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Efraín Barquero",
+        "anio": null,
+        "poemas": [
+         "Arte poética",
+         "Sólo quieren rescatar el cuerpo amado",
+         "Granero",
+         "Fogón",
+         "Vasija",
+         "Tema 13 (Poética)",
+         "Está sólo el culpable",
+         "Bandos marciales",
+         "La mesa servida",
+         "El cuchillo enterrado",
+         "El poema en el poema (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Jorge Teillier",
+        "anio": null,
+        "poemas": [
+         "Sentados frente al fuego",
+         "Cuando todos se vayan",
+         "Despedida",
+         "Un desconocido silba en el bosque",
+         "En la secreta casa de la noche",
+         "Los dominios perdidos",
+         "La Portadora",
+         "Para hablar con los muertos",
+         "Bajo el cielo nacido tras la lluvia",
+         "Mi amor por ti",
+         "Pequeña confesión",
+         "A un viejo púgil"
+        ]
+       },
+       {
+        "nombre": "Rolando Cárdenas",
+        "anio": null,
+        "poemas": [
+         "Búsqueda",
+         "Mensaje de piedra para Magallanes",
+         "Leyenda de invierno",
+         "Antepasados",
+         "Fueguinos",
+         "Viaja la tierra y la circunda el mar",
+         "Selk Nam",
+         "Puertas",
+         "Hoy murió Ángela Lois"
+        ]
+       },
+       {
+        "nombre": "Luis Vulliamy",
+        "anio": null,
+        "poemas": [
+         "Küla",
+         "Mari Kayu",
+         "Mari Ailla",
+         "Epu Mari Meli",
+         "Epu Mari Pura",
+         "Küla Mari",
+         "Tripantuhue",
+         "El cementerio",
+         "El poeta",
+         "El alto",
+         "El último paso"
+        ]
+       },
+       {
+        "nombre": "Marino Muñoz Lagos",
+        "anio": null,
+        "poemas": [
+         "La muerte sobre el trébol",
+         "Retrato vivo de mi padre muerto",
+         "Almacén La Fortuna",
+         "Primeras noticias de mi muerte",
+         "Noche final"
+        ]
+       },
+       {
+        "nombre": "Pablo Guíñez",
+        "anio": null,
+        "poemas": [
+         "Miraje solitario",
+         "Otoño",
+         "A Therese",
+         "Preparación y crecimiento (fragmento)",
+         "La fuga del venado",
+         "Mar de Arauco (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Alfonso Calderón",
+        "anio": null,
+        "poemas": [
+         "La copa vacía",
+         "Medusa",
+         "Tardes de verano",
+         "Manzana sola",
+         "Leyenda",
+         "Bunker",
+         "Canción",
+         "Tú sin mí",
+         "Despedida",
+         "Opinión",
+         "Discurso fúnebre",
+         "Santiago",
+         "Prudente",
+         "Muerte",
+         "Colaboración",
+         "Sospechoso",
+         "Patria",
+         "Poema póstumo"
+        ]
+       },
+       {
+        "nombre": "Delia Domínguez",
+        "anio": null,
+        "poemas": [
+         "A salto de mata",
+         "La ropa limpia",
+         "De noche se vuelve",
+         "Hablaremos con calma ese día",
+         "El sol mira para atrás",
+         "Pido que vuelva mi ángel",
+         "Veo la suerte por las yeguas",
+         "Adiós dientes de leche"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Temporalidad y existencia",
+    "titulo": "Parte I (1953-1963). Temporalidad y existencia: la memoria fragmentada",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Armando Uribe Arce",
+        "anio": null,
+        "poemas": [
+         "Elegía",
+         "Tú alzas la cabeza",
+         "Tengo una rabia sin gusto a rabia",
+         "Llego a la mesa y cierro los ojos",
+         "El apagado mundo",
+         "No sé mi nombre",
+         "Oh, tu zapato que acaricio dulce",
+         "No te amo, amo los celos que te tengo",
+         "¿Jovencito? Yo nunca he sido joven",
+         "Describo un día entero",
+         "El Dios que me huasquea no es un Dios",
+         "No sé quién eres y no sé quién soy",
+         "Dios mío, si es que hay Dios, Dios hay, Dios mío",
+         "Los muertos que fuimos ya se aburrieron",
+         "Miedo a la noche, miedo a no dormir",
+         "Cuando me muera quedará –qué quedará– fotografías",
+         "Nos sabemos mortales; no creemos",
+         "Qué edad tengo, quién soy, cómo me llamo",
+         "Vosotros que creíais que la tierra os pertenece",
+         "Qué fue de la mujer"
+        ]
+       },
+       {
+        "nombre": "Alfonso Alcalde",
+        "anio": null,
+        "poemas": [
+         "Habíamos nacido el uno para el otro",
+         "Autorretrato Nº 1",
+         "Les habla el tutor de su sombra",
+         "Salmo de las preguntas",
+         "Salmo de la muerte",
+         "Salmo de los suicidas"
+        ]
+       },
+       {
+        "nombre": "Guillermo Trejo",
+        "anio": null,
+        "poemas": [
+         "La carcoma",
+         "Grito polvo",
+         "Testimonio",
+         "Fulgor de la A",
+         "Atisbo de torturado",
+         "Ars poética",
+         "Volvamos nuestros ojos en procura de aquellos",
+         "Licantropía",
+         "Donde ven lo invisible nuestros ojos",
+         "Por intersticios que el dolor ha hecho",
+         "¿Qué hacer con este día demasiado",
+         "Ya no será lo mismo",
+         "Para nada",
+         "Hombresperpento"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Las tendencias neosurrealistas",
+    "titulo": "Parte I (1953-1963). Las tendencias neosurrealistas: realidad y trascendencia",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Carlos de Rokha",
+        "anio": null,
+        "poemas": [
+         "Los campos magnéticos",
+         "Cascada de copa",
+         "Origen",
+         "Tránsito solo",
+         "Segunda agonía y alabanza",
+         "Invisible comarca",
+         "Pavana",
+         "Pavana del gallo y el arlequín",
+         "Las revelaciones del furor"
+        ]
+       },
+       {
+        "nombre": "Antonio Campaña",
+        "anio": null,
+        "poemas": [
+         "Ceñidora",
+         "XIII",
+         "Hombre por dentro",
+         "No me dan a elegir",
+         "Todo parece perfecto",
+         "Ahora pido al mar",
+         "Conocimientos últimos",
+         "Poema 3"
+        ]
+       },
+       {
+        "nombre": "Stella Díaz Varín",
+        "anio": null,
+        "poemas": [
+         "Advenimiento",
+         "Sinfonía del hombre fósil",
+         "Introducción al vértigo (fragmento IV)",
+         "La casa",
+         "Ven de la luz hijo",
+         "Del espacio hacia acá, como dos tiempos",
+         "Los dones previsibles (fragmentos III, IX)"
+        ]
+       },
+       {
+        "nombre": "Ludwig Zeller",
+        "anio": null,
+        "poemas": [
+         "Éxodo",
+         "A un demonio-lamento",
+         "Libertad en Sudáfrica, libertad para Breyten Breytenbach",
+         "Último puerto del capitán Cook",
+         "Salvar la poesía quemar las naves",
+         "¿Pero, qué especie somos?",
+         "El espejo cansado",
+         "De un escriba a otro"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Las otras tendencias de los cincuenta",
+    "titulo": "Parte I (1953-1963). Las otras tendencias de los cincuenta",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Emma Jauch",
+        "anio": null,
+        "poemas": [
+         "Aromo",
+         "Balada para la niña",
+         "Reloj de arena",
+         "Inquilinos",
+         "Quince obsesiones sobre un espejo (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "María Urzúa",
+        "anio": null,
+        "poemas": [
+         "En blanco",
+         "Una ventana",
+         "El sillón de la loca",
+         "Nació una niña",
+         "El desolado",
+         "Neurosis"
+        ]
+       },
+       {
+        "nombre": "Jorge Jobet",
+        "anio": null,
+        "poemas": [
+         "Un pájaro menos",
+         "Visita a mis hermanas",
+         "La ración",
+         "Sonando están mis horas",
+         "Decálogo del médico escrito por un paciente",
+         "Sismo de grado siete"
+        ]
+       },
+       {
+        "nombre": "Ángel Custodio González",
+        "anio": null,
+        "poemas": [
+         "Tanta palabra herida y sin sonido",
+         "Bástenle, amor, la entera servidumbre",
+         "Soledad destrozada (fragmento 9)",
+         "Elegía final",
+         "Testimonio de los pájaros (fragmentos 3, 4 y 5)"
+        ]
+       },
+       {
+        "nombre": "Venancio Lisboa",
+        "anio": null,
+        "poemas": [
+         "Arribo a la tierra",
+         "El origen de la indecisión",
+         "Muerte segunda",
+         "Poemas de amor (fragmentos 1 y 3)",
+         "Apuntes para un poema"
+        ]
+       },
+       {
+        "nombre": "Altenor Guerrero",
+        "anio": null,
+        "poemas": [
+         "Labriegos tan desnudos en la tierra",
+         "Escuela para alados",
+         "Dancing de pájaros",
+         "Fuego defendido (fragmentos 1, 9, 15 y 17)"
+        ]
+       },
+       {
+        "nombre": "Carmen Ábalos",
+        "anio": null,
+        "poemas": [
+         "Azogue para el espejo (fragmento VIII)",
+         "Poemas en prosa (fragmentos V, VII, X, XIII, XIV)",
+         "Viaje",
+         "Memoria involuntaria (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Mario Ferrero",
+        "anio": null,
+        "poemas": [
+         "Floración del sonámbulo",
+         "Los cretinos iluminados",
+         "El gallo rojo",
+         "María Barzola",
+         "Soneto casi humano",
+         "Explicaciones al jurado",
+         "Nocturno irreparable"
+        ]
+       },
+       {
+        "nombre": "José Miguel Vicuña",
+        "anio": null,
+        "poemas": [
+         "Eterna",
+         "Aquí está Dios",
+         "Canto a la muerte",
+         "Yo te recuerdo",
+         "Los gallos",
+         "El hombre de Cromagnon se despereza (fragmentos)",
+         "Eliana / 4"
+        ]
+       },
+       {
+        "nombre": "Eliana Navarro",
+        "anio": null,
+        "poemas": [
+         "Soneto",
+         "Huésped nocturno",
+         "La flor de la montaña",
+         "Quinteto en la menor",
+         "La oración en el huerto",
+         "La pasión según San Juan (fragmento)",
+         "Angelus de mediodía",
+         "Esta hora"
+        ]
+       },
+       {
+        "nombre": "Fernando González Urízar",
+        "anio": null,
+        "poemas": [
+         "Apenas cántico",
+         "Regreso",
+         "El padre",
+         "Ahora eres el mar",
+         "Qué somos, Dios, qué somos",
+         "Musgo de soledad",
+         "Que calle el tiempo",
+         "Soliloquio del amador impenitente"
+        ]
+       },
+       {
+        "nombre": "Manuel Francisco Mesa Seco",
+        "anio": null,
+        "poemas": [
+         "A un falucho",
+         "Un río, una mujer",
+         "Regresar no es morir",
+         "Recodo",
+         "Padre Lacunza",
+         "Mandamiento",
+         "Vuelo"
+        ]
+       },
+       {
+        "nombre": "Francisca Ossandón",
+        "anio": null,
+        "poemas": [
+         "Humo lento",
+         "Restituyó orígenes",
+         "Círculo",
+         "Noche con tierra al fondo",
+         "Sangre bajo las aguas",
+         "Inquietante pacto"
+        ]
+       },
+       {
+        "nombre": "Cecilia Casanova",
+        "anio": null,
+        "poemas": [
+         "Ya es tiempo",
+         "Igual a cuando éramos niños",
+         "Cambio",
+         "Tiempo de despedirnos",
+         "Por los caminantes",
+         "Ángeles sobre las viñas",
+         "Juntos",
+         "Mientras llueve de abajo para arriba",
+         "El despertar de una montaña (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Fernando Lamberg",
+        "anio": null,
+        "poemas": [
+         "Despertar",
+         "Tántalo",
+         "El ángel herido",
+         "Muñeca rusa",
+         "Señoras y señores (fragmentos V, XVIII, XXIX, XLVIII, LXII)"
+        ]
+       },
+       {
+        "nombre": "Matías Rafide",
+        "anio": null,
+        "poemas": [
+         "Cabalgan por la ruta",
+         "Como invisible aguja",
+         "Ritual de soledad",
+         "Preferible la ausencia",
+         "Itinerario del olvido",
+         "El huésped",
+         "Transeúnte negro",
+         "Te pienso distinta",
+         "Amaba el mar",
+         "No sé quién soy"
+        ]
+       },
+       {
+        "nombre": "Edmundo Herrera",
+        "anio": null,
+        "poemas": [
+         "Lento pájaro ciego",
+         "El cielo en el bolsillo",
+         "Puede la muerte aparecer",
+         "Centella herida",
+         "Rueda errante",
+         "Fiat 600",
+         "Huesos perdidos",
+         "La camisa pura"
+        ]
+       },
+       {
+        "nombre": "Ximena Adriasola",
+        "anio": null,
+        "poemas": [
+         "Ausente",
+         "El tiempo se reúne",
+         "Amanece y lluvia",
+         "El último hombre",
+         "Arte moderno",
+         "Tiempo detenido (fragmentos 4, 14, 26, 31)",
+         "Edén",
+         "Morir",
+         "Paraíso de leyendas",
+         "Realismo"
+        ]
+       },
+       {
+        "nombre": "Eugenio García-Díaz",
+        "anio": null,
+        "poemas": [
+         "Iniciación de la hoguera (fragmentos IV, XI, XV, L)",
+         "A cada instante que se desliza",
+         "Las manchas del vino se dibujan",
+         "Nuevamente un secreto",
+         "En la heredad del deseo"
+        ]
+       },
+       {
+        "nombre": "Sara Vial",
+        "anio": "1931",
+        "poemas": [
+         "La ciudad indecible",
+         "Organillo en lo alto",
+         "En ti el primer amor",
+         "Natural ejemplo",
+         "Un árbol gris y rosa"
+        ]
+       },
+       {
+        "nombre": "Ennio Moltedo",
+        "anio": null,
+        "poemas": [
+         "Poeta",
+         "Concreto azul",
+         "Cambio",
+         "Mariposa",
+         "Dónde están",
+         "No importa",
+         "La noche (fragmentos 3, 12, 13, 54, 81, 82, 92, 98, 113)",
+         "Viña del Mar"
+        ]
+       },
+       {
+        "nombre": "Rosa Cruchaga de Walker",
+        "anio": null,
+        "poemas": [
+         "Hojas",
+         "Reses",
+         "La despedida",
+         "Avenida La Paz",
+         "Sé que me voy",
+         "Origen",
+         "Microbús Pila Cementerio"
+        ]
+       },
+       {
+        "nombre": "Pedro Lastra",
+        "anio": null,
+        "poemas": [
+         "Deshabitado",
+         "Discurso acerca de la palabra",
+         "Algo",
+         "Dices el mar",
+         "Ya hablaremos de nuestra juventud",
+         "Balada para una historia secreta",
+         "Casi letanía",
+         "Diario"
+        ]
+       },
+       {
+        "nombre": "José Miguel Ibáñez Langlois",
+        "anio": null,
+        "poemas": [
+         "La muerte",
+         "Vivo en la sombra de Dios",
+         "Le Défroqué",
+         "Mujer",
+         "Teología de la historia",
+         "Úsame",
+         "Misa de alba",
+         "El rey David",
+         "Abominaciones",
+         "A la orilla del pozo de Sicar"
+        ]
+       },
+       {
+        "nombre": "Hernán Montealegre",
+        "anio": null,
+        "poemas": [
+         "Destino de ángel",
+         "Tu poema",
+         "El silencio de Dios",
+         "La vigilia",
+         "Mujer ante el espejo",
+         "Resistencia humana",
+         "Tres sabios y ninguna respuesta"
+        ]
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "nombre": "Los inicios de la poesía de los sesenta",
+    "titulo": "Parte II (1964-1973). Coda final: los inicios de la poesía de los sesenta",
+    "grupos": [
+     {
+      "nombre": null,
+      "autores": [
+       {
+        "nombre": "Hernán Valdés",
+        "anio": null,
+        "poemas": [
+         "Cementerio judío",
+         "Qué hacías qué hacías",
+         "Al mismo tiempo que"
+        ]
+       },
+       {
+        "nombre": "Óscar Hahn",
+        "anio": null,
+        "poemas": [
+         "Ciudad en llamas",
+         "Agua final",
+         "Gladiolos junto al mar",
+         "Reencarnación de los carniceros",
+         "Visión de Hiroshima"
+        ]
+       },
+       {
+        "nombre": "Hernán Lavín Cerda",
+        "anio": null,
+        "poemas": [
+         "Cómanse todo su oro",
+         "Ya no eres el hombre",
+         "Eliminen los aplausos",
+         "Me volvería perro, asno, lobo, zorro, lechuza",
+         "La vida es así",
+         "Acuerdo de paz",
+         "Eva"
+        ]
+       },
+       {
+        "nombre": "Waldo Rojas",
+        "anio": null,
+        "poemas": [
+         "Príncipe de naipes",
+         "Pájaro en tierra",
+         "Ajedrez",
+         "La perpetración",
+         "Cormoranes"
+        ]
+       },
+       {
+        "nombre": "Omar Lara",
+        "anio": null,
+        "poemas": [
+         "Ya está bueno de puertas",
+         "Vuelvo a tu redil",
+         "Jugada maestra",
+         "Los centros de la tierra",
+         "Fotografía"
+        ]
+       },
+       {
+        "nombre": "Jaime Giordano",
+        "anio": null,
+        "poemas": [
+         "Eres leyenda (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Floridor Pérez",
+        "anio": null,
+        "poemas": [
+         "Poema en dos actos",
+         "Donde crecimos",
+         "Años después",
+         "P.D. para la Cenicienta",
+         "Elogio y elegía de la señora Celmira"
+        ]
+       },
+       {
+        "nombre": "Jaime Quezada",
+        "anio": null,
+        "poemas": [
+         "La tentación",
+         "La mujer adúltera",
+         "La herencia",
+         "El accidente",
+         "La fuga",
+         "No hace mucho estaba en un parque público"
+        ]
+       },
+       {
+        "nombre": "Carlos Cortínez",
+        "anio": null,
+        "poemas": [
+         "Mudanza",
+         "Cuando la noche cae",
+         "Eros",
+         "Regalo un reloj a Raimundo",
+         "Miércoles"
+        ]
+       },
+       {
+        "nombre": "Federico Schopf",
+        "anio": null,
+        "poemas": [
+         "«Devoraos los unos a los otros»",
+         "La pira",
+         "Viento imaginario",
+         "Retrato de un poeta",
+         "El espía que regresó del frío"
+        ]
+       },
+       {
+        "nombre": "Jaime Gómez Rogers (Jonás)",
+        "anio": null,
+        "poemas": [
+         "Cuando la luz se escapaba de tus manos",
+         "Contra la muerte",
+         "Lenguaje",
+         "Pequeña anécdota familiar que también podría llamar primeros pasos hacia la tierra prometida"
+        ]
+       },
+       {
+        "nombre": "Gonzalo Millán",
+        "anio": null,
+        "poemas": [
+         "Historia del blanco niño gordo y una langosta",
+         "Y como una mala canción de moda te nombro y te repito",
+         "Si me abrieras el puño, me hallarías sucia la palma de la mano",
+         "Y tu piel me es doblemente extraña",
+         "Tu quebrado vidrio rojo",
+         "Los aros de hierro del triciclo sin gomas y el rascar de un clavo",
+         "Y ahora el sol destiñe el fondo rosado de tu concha",
+         "Me casé con la reina",
+         "El automóvil"
+        ]
+       },
+       {
+        "nombre": "Hernán Miranda",
+        "anio": null,
+        "poemas": [
+         "Estamos en la ciudad",
+         "Insectario",
+         "Para que se sepa que es verdad todo esto",
+         "Buscad y hallaréis"
+        ]
+       },
+       {
+        "nombre": "Manuel Silva Acevedo",
+        "anio": null,
+        "poemas": [
+         "Lobos y ovejas (fragmentos 1, 2, 3, 4, 5)",
+         "Abel",
+         "Las águilas",
+         "Breve tiempo"
+        ]
+       },
+       {
+        "nombre": "Oliver Welden",
+        "anio": null,
+        "poemas": [
+         "Credenciales",
+         "Advertencia",
+         "Sobremesa",
+         "La fiesta",
+         "Reincidencia",
+         "La muerte en boca de alguien",
+         "Aquelarre"
+        ]
+       },
+       {
+        "nombre": "Claudio Bertoni",
+        "anio": null,
+        "poemas": [
+         "Mi baño de tina",
+         "Please",
+         "Sopa",
+         "Biografía de Clovis Trouille"
+        ]
+       },
+       {
+        "nombre": "Cecilia Vicuña",
+        "anio": null,
+        "poemas": [
+         "Retrato físico",
+         "Luminosidad de los orificios",
+         "Número telefónico",
+         "El centro Mandala",
+         "Desviaciones naturales"
+        ]
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,12 @@
+# PDFs descargados de Memoria Chilena (pesados; cada nota de obra enlaza al PDF en línea)
+Obras/PDF/
+*.pdf
+# Caché de páginas descargadas y temporales
+_trabajo/cache/
+*.part
+*.tmp
+__pycache__/
+# Estado personal de Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.trash/

@@ -1,0 +1,24 @@
+---
+tipo: autor
+movimiento: "[[La disolución de las vanguardias]]"
+fechas: "1918"
+tags: [autor]
+---
+# Fernando Onfray (1918)
+
+**Movimiento:** [[La disolución de las vanguardias]] · Sección III
+
+## Descripción (Memoria Chilena)
+
+> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+
+## Poemas en la antología de Nómez
+
+- El párpado cerrado
+- Cartones y óleos
+- Marina con alambradas de púas
+- Novenas del antiguo Perú (fragmentos)
+
+## Obras digitalizadas en Memoria Chilena
+
+*No hay libros de este autor descargables en Memoria Chilena.*

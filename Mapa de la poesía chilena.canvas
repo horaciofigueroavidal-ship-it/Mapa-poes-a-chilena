@@ -1,0 +1,9952 @@
+{
+ "nodes": [
+  {
+   "id": "hub",
+   "type": "text",
+   "text": "# [[Poesía chilena]]",
+   "x": -260,
+   "y": -70,
+   "width": 520,
+   "height": 140,
+   "color": "3"
+  },
+  {
+   "id": "m0",
+   "type": "text",
+   "text": "## [[Neoclásicos y románticos]]",
+   "x": 254,
+   "y": -4528,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a0",
+   "type": "text",
+   "text": "**[[Andrés Bello]]**",
+   "x": 31,
+   "y": -13033,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o0_0",
+   "type": "text",
+   "text": "[[Antología de Andrés Bello — Andrés Bello (1970)|Antología de Andrés Bello]]",
+   "x": 19,
+   "y": -13528,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_1",
+   "type": "text",
+   "text": "[[Filosofía del entendimiento — Andrés Bello|Filosofía del entendimiento]]",
+   "x": 21,
+   "y": -13635,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_2",
+   "type": "text",
+   "text": "[[Proyecto inédito del código civil — Andrés Bello|Proyecto inédito del código civil]]",
+   "x": 23,
+   "y": -13742,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_3",
+   "type": "text",
+   "text": "[[Opúsculos literarios i críticos I — Andrés Bello|Opúsculos literarios i críticos I]]",
+   "x": 25,
+   "y": -13849,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_4",
+   "type": "text",
+   "text": "[[Miscelánea — Andrés Bello|Miscelánea]]",
+   "x": 27,
+   "y": -13956,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_5",
+   "type": "text",
+   "text": "[[Opúsculos literarios i críticos II — Andrés Bello|Opúsculos literarios i críticos II]]",
+   "x": 28,
+   "y": -14064,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_6",
+   "type": "text",
+   "text": "[[Gramática de la lengua castellana destinada al uso de los americanos — Andrés Bello (1847)|Gramática de la lengua castellana destinada al uso de los americanos]]",
+   "x": 30,
+   "y": -14171,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_7",
+   "type": "text",
+   "text": "[[Gramática de la lengua castellana — Andrés Bello|Gramática de la lengua castellana]]",
+   "x": 32,
+   "y": -14278,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_8",
+   "type": "text",
+   "text": "[[Poema del Cid — Andrés Bello|Poema del Cid]]",
+   "x": 34,
+   "y": -14385,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_9",
+   "type": "text",
+   "text": "[[Opúsculos jurídicos — Andrés Bello|Opúsculos jurídicos]]",
+   "x": 36,
+   "y": -14492,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_10",
+   "type": "text",
+   "text": "[[Opúsculos científicos — Andrés Bello|Opúsculos científicos]]",
+   "x": 37,
+   "y": -14599,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_11",
+   "type": "text",
+   "text": "[[Proyectos del código civil — Andrés Bello|Proyectos del código civil]]",
+   "x": 39,
+   "y": -14706,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_12",
+   "type": "text",
+   "text": "[[Poesías — Andrés Bello|Poesías]]",
+   "x": 41,
+   "y": -14813,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_13",
+   "type": "text",
+   "text": "[[Proyecto del código civil 1853 — Andrés Bello|Proyecto del código civil 1853]]",
+   "x": 43,
+   "y": -14920,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o0_14",
+   "type": "text",
+   "text": "[[Opúsculos gramaticales — Andrés Bello|Opúsculos gramaticales]]",
+   "x": 45,
+   "y": -15028,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a1",
+   "type": "text",
+   "text": "**[[Salvador Sanfuentes]]**",
+   "x": 472,
+   "y": -13018,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o1_0",
+   "type": "text",
+   "text": "[[Chile desde la batalla de Chacabuco hasta la de Maipo — Salvador Sanfuentes (1850)|Chile desde la batalla de Chacabuco hasta la de Maipo]]",
+   "x": 477,
+   "y": -13512,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o1_1",
+   "type": "text",
+   "text": "[[Obras escogidas de d. Salvador Sanfuentes — Salvador Sanfuentes (1921)|Obras escogidas de d. Salvador Sanfuentes]]",
+   "x": 484,
+   "y": -13634,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o1_2",
+   "type": "text",
+   "text": "[[Dramas inéditos — Salvador Sanfuentes (1863)|Dramas inéditos]]",
+   "x": 490,
+   "y": -13755,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o1_3",
+   "type": "text",
+   "text": "[[Ricardo i Lucia o La destrucción de la Imperial tomo 1 — Salvador Sanfuentes (1857)|Ricardo i Lucia o La destrucción de la Imperial tomo 1]]",
+   "x": 496,
+   "y": -13876,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o1_4",
+   "type": "text",
+   "text": "[[Leyendas nacionales — Salvador Sanfuentes (1885)|Leyendas nacionales]]",
+   "x": 502,
+   "y": -13997,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o1_5",
+   "type": "text",
+   "text": "[[Ricardo i Lucia o La destrucción de la Imperial tomo 2 — Salvador Sanfuentes (1857)|Ricardo i Lucia o La destrucción de la Imperial tomo 2]]",
+   "x": 508,
+   "y": -14118,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a2",
+   "type": "text",
+   "text": "**[[Guillermo Matta]]**",
+   "x": 912,
+   "y": -12988,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o2_0",
+   "type": "text",
+   "text": "[[A la América — Guillermo Matta (1857)|A la América]]",
+   "x": 935,
+   "y": -13481,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_1",
+   "type": "text",
+   "text": "[[Cuentos en versos — Guillermo Matta (1853)|Cuentos en versos]]",
+   "x": 946,
+   "y": -13616,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_2",
+   "type": "text",
+   "text": "[[Educación del Pueblo — Guillermo Matta (1863)|Educación del Pueblo]]",
+   "x": 958,
+   "y": -13751,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_3",
+   "type": "text",
+   "text": "[[La Constituyente canción popular — Guillermo Matta (1859)|La Constituyente canción popular]]",
+   "x": 969,
+   "y": -13886,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_4",
+   "type": "text",
+   "text": "[[Nuevas poesías de Guillermo Matta tomo segundo — Guillermo Matta (1887)|Nuevas poesías de Guillermo Matta tomo segundo]]",
+   "x": 981,
+   "y": -14021,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_5",
+   "type": "text",
+   "text": "[[Nuevas poesías de Guillermo Matta tomo primero — Guillermo Matta (1887)|Nuevas poesías de Guillermo Matta tomo primero]]",
+   "x": 992,
+   "y": -14156,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_6",
+   "type": "text",
+   "text": "[[A la patria canto — Guillermo Matta (1864)|A la patria canto]]",
+   "x": 1004,
+   "y": -14291,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_7",
+   "type": "text",
+   "text": "[[Apoteosis del sabio (a la memoria de don Andrés Bello) — Guillermo Matta (1866)|Apoteosis del sabio (a la memoria de don Andrés Bello)]]",
+   "x": 1015,
+   "y": -14426,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o2_8",
+   "type": "text",
+   "text": "[[A Méjico poesías — Guillermo Matta (1867)|A Méjico poesías]]",
+   "x": 1027,
+   "y": -14561,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a3",
+   "type": "text",
+   "text": "**[[Guillermo Blest Gana]]**",
+   "x": 1352,
+   "y": -12943,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o3_0",
+   "type": "text",
+   "text": "[[La conjuración de Almagro drama histórico en cuatro actos i en verso — Guillermo Blest Gana (1858)|La conjuración de Almagro drama histórico en cuatro actos i en verso]]",
+   "x": 1391,
+   "y": -13435,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_1",
+   "type": "text",
+   "text": "[[Obras completas de Guillermo Blest Gana tomo II — Guillermo Blest Gana|Obras completas de Guillermo Blest Gana tomo II]]",
+   "x": 1409,
+   "y": -13583,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_2",
+   "type": "text",
+   "text": "[[Obras completas de Guillermo Blest Gana tomo III — Guillermo Blest Gana|Obras completas de Guillermo Blest Gana tomo III]]",
+   "x": 1426,
+   "y": -13731,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_3",
+   "type": "text",
+   "text": "[[La flor de la Soledad — Guillermo Blest Gana (1857)|La flor de la Soledad]]",
+   "x": 1444,
+   "y": -13880,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_4",
+   "type": "text",
+   "text": "[[El pasaporte zarzuela en un acto — Guillermo Blest Gana (1865)|El pasaporte zarzuela en un acto]]",
+   "x": 1462,
+   "y": -14028,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_5",
+   "type": "text",
+   "text": "[[Obras completas de Guillermo Blest Gana tomo I — Guillermo Blest Gana|Obras completas de Guillermo Blest Gana tomo I]]",
+   "x": 1480,
+   "y": -14176,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_6",
+   "type": "text",
+   "text": "[[Armonías — Guillermo Blest Gana (1884)|Armonías]]",
+   "x": 1497,
+   "y": -14325,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o3_7",
+   "type": "text",
+   "text": "[[El número trece novela — Guillermo Blest Gana (1869)|El número trece novela]]",
+   "x": 1515,
+   "y": -14473,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a4",
+   "type": "text",
+   "text": "**[[Eduardo de la Barra]]**",
+   "x": 1789,
+   "y": -12883,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o4_0",
+   "type": "text",
+   "text": "[[Francisco Bilbao ante la sacristía refutación de un folleto — Eduardo de la Barra (1872)|Francisco Bilbao ante la sacristía refutación de un folleto]]",
+   "x": 1845,
+   "y": -13373,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o4_1",
+   "type": "text",
+   "text": "[[Tratado de ortografía reformada — Eduardo de la Barra (1897)|Tratado de ortografía reformada]]",
+   "x": 1870,
+   "y": -13534,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o4_2",
+   "type": "text",
+   "text": "[[Ensayos filológicos americanos — Eduardo de la Barra (1894)|Ensayos filológicos americanos]]",
+   "x": 1895,
+   "y": -13695,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o4_3",
+   "type": "text",
+   "text": "[[La reforma ortográfica su historia i su alcance — Eduardo de la Barra (1897)|La reforma ortográfica su historia i su alcance]]",
+   "x": 1920,
+   "y": -13857,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o4_4",
+   "type": "text",
+   "text": "[[Ortografía fonética para el Cuarto Congreso Científico de Chile — Eduardo de la Barra (1897)|Ortografía fonética para el Cuarto Congreso Científico de Chile]]",
+   "x": 1945,
+   "y": -14018,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a5",
+   "type": "text",
+   "text": "**[[José Antonio Soffia]]**",
+   "x": 2224,
+   "y": -12809,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a6",
+   "type": "text",
+   "text": "**[[Juan Rafael Allende]]**",
+   "x": 2657,
+   "y": -12720,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o6_0",
+   "type": "text",
+   "text": "[[La República de Jauja traji-comedia en cuatro actos i ocho cuadros, escrita en verso — Juan Rafael Allende (1889)|La República de Jauja traji-comedia en cuatro actos i ocho cuadros, escrita en verso]]",
+   "x": 2746,
+   "y": -13202,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_1",
+   "type": "text",
+   "text": "[[Obreros i patrones conflicto entre el capital i el trabajo en Chile, su única solución — Juan Rafael Allende (1904)|Obreros i patrones conflicto entre el capital i el trabajo en Chile, su única solución]]",
+   "x": 2788,
+   "y": -13388,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_2",
+   "type": "text",
+   "text": "[[De la taberna al cadalso drama en cuatro actos y en verso — Juan Rafael Allende (1901)|De la taberna al cadalso drama en cuatro actos y en verso]]",
+   "x": 2830,
+   "y": -13574,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_3",
+   "type": "text",
+   "text": "[[Memorias de un perro escritas por su propia pata — Juan Rafael Allende (1893)|Memorias de un perro escritas por su propia pata]]",
+   "x": 2871,
+   "y": -13760,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_4",
+   "type": "text",
+   "text": "[[Cartas del escultor José Miguel Blanco. Enviadas a su familia desde sus estadías en Europa — Juan Rafael Allende (1907)|Cartas del escultor José Miguel Blanco. Enviadas a su familia desde sus estadías en Europa]]",
+   "x": 2913,
+   "y": -13946,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_5",
+   "type": "text",
+   "text": "[[Poesías populares de El Pequén — Juan Rafael Allende (1911)|Poesías populares de El Pequén]]",
+   "x": 2955,
+   "y": -14132,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_6",
+   "type": "text",
+   "text": "[[Poesías populares de El Pequén tomo 9 — Juan Rafael Allende (1886)|Poesías populares de El Pequén tomo 9]]",
+   "x": 2996,
+   "y": -14318,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_7",
+   "type": "text",
+   "text": "[[Poesías populares de El Pequén tomo 8 — Juan Rafael Allende (1883)|Poesías populares de El Pequén tomo 8]]",
+   "x": 3038,
+   "y": -14504,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_8",
+   "type": "text",
+   "text": "[[Las mujeres de la India drama en tres actos, en verso — Juan Rafael Allende (1888)|Las mujeres de la India drama en tres actos, en verso]]",
+   "x": 3080,
+   "y": -14689,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_9",
+   "type": "text",
+   "text": "[[Poesías populares de El Pequén tomo 7 — Juan Rafael Allende (1882)|Poesías populares de El Pequén tomo 7]]",
+   "x": 3122,
+   "y": -14875,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_10",
+   "type": "text",
+   "text": "[[Poesías populares de El Pequén tomo 10 — Juan Rafael Allende (1886)|Poesías populares de El Pequén tomo 10]]",
+   "x": 3163,
+   "y": -15061,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_11",
+   "type": "text",
+   "text": "[[Moro viejo juguete cómico en un acto i en verso — Juan Rafael Allende (1892)|Moro viejo juguete cómico en un acto i en verso]]",
+   "x": 3205,
+   "y": -15247,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_12",
+   "type": "text",
+   "text": "[[El cuento del tío juguete cómico en prosa y en un acto — Juan Rafael Allende (1904)|El cuento del tío juguete cómico en prosa y en un acto]]",
+   "x": 3247,
+   "y": -15433,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o6_13",
+   "type": "text",
+   "text": "[[El Jeneral Daza juguete cómico en un acto i en verso — Juan Rafael Allende (1879)|El Jeneral Daza juguete cómico en un acto i en verso]]",
+   "x": 3288,
+   "y": -15619,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m1",
+   "type": "text",
+   "text": "## [[Emergencia del modernismo]]",
+   "x": 1074,
+   "y": -4351,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a7",
+   "type": "text",
+   "text": "**[[Rubén Darío]]**",
+   "x": 3086,
+   "y": -12616,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o7_0",
+   "type": "text",
+   "text": "[[Azul — Rubén Darío (1888)|Azul]]",
+   "x": 3192,
+   "y": -13094,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_1",
+   "type": "text",
+   "text": "[[Autobiografía — Rubén Darío (1918)|Autobiografía]]",
+   "x": 3243,
+   "y": -13292,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_2",
+   "type": "text",
+   "text": "[[Emelina — Rubén Darío (1887)|Emelina]]",
+   "x": 3294,
+   "y": -13489,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_3",
+   "type": "text",
+   "text": "[[Abrojos — Rubén Darío (1887)|Abrojos]]",
+   "x": 3346,
+   "y": -13686,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_4",
+   "type": "text",
+   "text": "[[A. de Gilbert — Rubén Darío (1889)|A. de Gilbert]]",
+   "x": 3397,
+   "y": -13884,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_5",
+   "type": "text",
+   "text": "[[Obras desconocidas de Rubén Darío escritas en Chile y no recopiladas en ninguno de sus lib — Rubén Darío (1934)|Obras desconocidas de Rubén Darío escritas en Chile y no recopiladas en ninguno de sus lib]]",
+   "x": 3449,
+   "y": -14081,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_6",
+   "type": "text",
+   "text": "[[Epistolario selecto — Rubén Darío (1999)|Epistolario selecto]]",
+   "x": 3500,
+   "y": -14278,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o7_7",
+   "type": "text",
+   "text": "[[Obras de juventud de Rubén Darío — Rubén Darío (1927)|Obras de juventud de Rubén Darío]]",
+   "x": 3551,
+   "y": -14476,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a8",
+   "type": "text",
+   "text": "**[[Narciso Tondreau]]**",
+   "x": 3511,
+   "y": -12497,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a9",
+   "type": "text",
+   "text": "**[[Leonardo Eliz]]**",
+   "x": 3932,
+   "y": -12364,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a10",
+   "type": "text",
+   "text": "**[[Ricardo Fernández Montalva]]**",
+   "x": 4348,
+   "y": -12217,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "m2",
+   "type": "text",
+   "text": "## [[Tradición nacional y modernidad cosmopolita]]",
+   "x": 2426,
+   "y": -3655,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a11",
+   "type": "text",
+   "text": "**[[Pedro Antonio González]]**",
+   "x": 4759,
+   "y": -12056,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o11_0",
+   "type": "text",
+   "text": "[[Poesías — Pedro Antonio González (1905)|Poesías]]",
+   "x": 4930,
+   "y": -12513,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o11_1",
+   "type": "text",
+   "text": "[[Ritmos — Pedro Antonio González (1895)|Ritmos]]",
+   "x": 5027,
+   "y": -12749,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o11_2",
+   "type": "text",
+   "text": "[[El monje y otros poemas — Pedro Antonio González (1953)|El monje y otros poemas]]",
+   "x": 5124,
+   "y": -12986,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o11_3",
+   "type": "text",
+   "text": "[[Poesías — Pedro Antonio González (1917)|Poesías]]",
+   "x": 5221,
+   "y": -13222,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o11_4",
+   "type": "text",
+   "text": "[[Poesías — Pedro Antonio González (1927)|Poesías]]",
+   "x": 5319,
+   "y": -13458,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a12",
+   "type": "text",
+   "text": "**[[Julio Vicuña Cifuentes]]**",
+   "x": 5165,
+   "y": -11881,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o12_0",
+   "type": "text",
+   "text": "[[Romances populares y vulgares — Julio Vicuña Cifuentes (1912)|Romances populares y vulgares]]",
+   "x": 5351,
+   "y": -12332,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o12_1",
+   "type": "text",
+   "text": "[[Coa jerga de los delincuentes chilenos estudio y vocabulario — Julio Vicuña Cifuentes (1910)|Coa jerga de los delincuentes chilenos estudio y vocabulario]]",
+   "x": 5461,
+   "y": -12575,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o12_2",
+   "type": "text",
+   "text": "[[Mitos y supersticiones recogidos de la tradición oral chilena con referencias comparativas — Julio Vicuña Cifuentes (1915)|Mitos y supersticiones recogidos de la tradición oral chilena con referencias comparativas]]",
+   "x": 5571,
+   "y": -12819,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a13",
+   "type": "text",
+   "text": "**[[Augusto Winter]]**",
+   "x": 5564,
+   "y": -11692,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a14",
+   "type": "text",
+   "text": "**[[Samuel Lillo]]**",
+   "x": 5956,
+   "y": -11490,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o14_0",
+   "type": "text",
+   "text": "[[Bajo la cruz del sur — Samuel Lillo (1926)|Bajo la cruz del sur]]",
+   "x": 6173,
+   "y": -11926,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_1",
+   "type": "text",
+   "text": "[[Espejo del pasado memorias literarias — Samuel Lillo (1947)|Espejo del pasado memorias literarias]]",
+   "x": 6311,
+   "y": -12183,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_2",
+   "type": "text",
+   "text": "[[Fuente secreta poesías líricas — Samuel Lillo (1933)|Fuente secreta poesías líricas]]",
+   "x": 6448,
+   "y": -12439,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_3",
+   "type": "text",
+   "text": "[[Canto a la América Latina — Samuel Lillo (1913)|Canto a la América Latina]]",
+   "x": 6586,
+   "y": -12696,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_4",
+   "type": "text",
+   "text": "[[Poesías — Samuel Lillo (1900)|Poesías]]",
+   "x": 6724,
+   "y": -12953,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_5",
+   "type": "text",
+   "text": "[[Literatura chilena — Samuel Lillo (1918)|Literatura chilena]]",
+   "x": 6862,
+   "y": -13210,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_6",
+   "type": "text",
+   "text": "[[Chile heroico — Samuel Lillo (1911)|Chile heroico]]",
+   "x": 7000,
+   "y": -13467,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_7",
+   "type": "text",
+   "text": "[[Literatura chilena — Samuel Lillo (1924)|Literatura chilena]]",
+   "x": 7137,
+   "y": -13723,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_8",
+   "type": "text",
+   "text": "[[Canciones de Arauco — Samuel Lillo (1900)|Canciones de Arauco]]",
+   "x": 7275,
+   "y": -13980,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_9",
+   "type": "text",
+   "text": "[[Canto lírico a la lengua castellana — Samuel Lillo (1916)|Canto lírico a la lengua castellana]]",
+   "x": 7413,
+   "y": -14237,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o14_10",
+   "type": "text",
+   "text": "[[Ercilla y La Araucana — Samuel Lillo (1928)|Ercilla y La Araucana]]",
+   "x": 7551,
+   "y": -14494,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a15",
+   "type": "text",
+   "text": "**[[Gustavo Valledor Sánchez]]**",
+   "x": 6342,
+   "y": -11275,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a16",
+   "type": "text",
+   "text": "**[[Abelardo Varela]]**",
+   "x": 6720,
+   "y": -11047,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a17",
+   "type": "text",
+   "text": "**[[Horacio Olivos y Carrasco]]**",
+   "x": 7090,
+   "y": -10806,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a18",
+   "type": "text",
+   "text": "**[[Antonio Bórquez Solar]]**",
+   "x": 7451,
+   "y": -10552,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o18_0",
+   "type": "text",
+   "text": "[[La belleza del demonio, La Quintrala novela histórica, dramática y bárbara ... y que premi — Antonio Bórquez Solar (1914)|La belleza del demonio, La Quintrala novela histórica, dramática y bárbara ... y que premi]]",
+   "x": 7725,
+   "y": -10952,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a19",
+   "type": "text",
+   "text": "**[[Zoilo Escobar]]**",
+   "x": 7804,
+   "y": -10287,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a20",
+   "type": "text",
+   "text": "**[[Luis A. Hurtado]]**",
+   "x": 8147,
+   "y": -10009,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a21",
+   "type": "text",
+   "text": "**[[Diego Dublé Urrutia]]**",
+   "x": 8481,
+   "y": -9720,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o21_0",
+   "type": "text",
+   "text": "[[Fontana cándida poemas (1895-1952) — Diego Dublé Urrutia (1953)|Fontana cándida poemas (1895-1952)]]",
+   "x": 8795,
+   "y": -10088,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a22",
+   "type": "text",
+   "text": "**[[Miguel Luis Rocuant]]**",
+   "x": 8805,
+   "y": -9420,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o22_0",
+   "type": "text",
+   "text": "[[Las blancuras sagradas escultura chilena — Miguel Luis Rocuant (1921)|Las blancuras sagradas escultura chilena]]",
+   "x": 9131,
+   "y": -9776,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a23",
+   "type": "text",
+   "text": "**[[Francisco Contreras]]**",
+   "x": 9119,
+   "y": -9110,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o23_0",
+   "type": "text",
+   "text": "[[Romances de hoy Blanca Vargas Tulio Aguirre Margarita Artigas Preliminar sobre el arte de — Francisco Contreras (1907)|Romances de hoy Blanca Vargas Tulio Aguirre Margarita Artigas Preliminar sobre el arte de]]",
+   "x": 9457,
+   "y": -9454,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o23_1",
+   "type": "text",
+   "text": "[[Rubén Darío su vida y su obra — Francisco Contreras (1930)|Rubén Darío su vida y su obra]]",
+   "x": 9731,
+   "y": -9721,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o23_2",
+   "type": "text",
+   "text": "[[Los Modernos — Francisco Contreras (1909)|Los Modernos]]",
+   "x": 10005,
+   "y": -9988,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o23_3",
+   "type": "text",
+   "text": "[[Raul — Francisco Contreras (1902)|Raul]]",
+   "x": 10279,
+   "y": -10255,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o23_4",
+   "type": "text",
+   "text": "[[Toison — Francisco Contreras (1906)|Toison]]",
+   "x": 10553,
+   "y": -10522,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o23_5",
+   "type": "text",
+   "text": "[[El pueblo maravilloso novela — Francisco Contreras (1927)|El pueblo maravilloso novela]]",
+   "x": 10827,
+   "y": -10789,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a24",
+   "type": "text",
+   "text": "**[[Ernesto A. Guzmán]]**",
+   "x": 9421,
+   "y": -8788,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a25",
+   "type": "text",
+   "text": "**[[Manuel Magallanes Moure]]**",
+   "x": 9713,
+   "y": -8457,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o25_0",
+   "type": "text",
+   "text": "[[Facetas — Manuel Magallanes Moure (1902)|Facetas]]",
+   "x": 10074,
+   "y": -8776,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o25_1",
+   "type": "text",
+   "text": "[[Qué es amor — Manuel Magallanes Moure (1914)|Qué es amor]]",
+   "x": 10378,
+   "y": -9034,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o25_2",
+   "type": "text",
+   "text": "[[La jornada (versos) — Manuel Magallanes Moure (1910)|La jornada (versos)]]",
+   "x": 10682,
+   "y": -9292,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o25_3",
+   "type": "text",
+   "text": "[[Matices — Manuel Magallanes Moure (1904)|Matices]]",
+   "x": 10986,
+   "y": -9551,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a26",
+   "type": "text",
+   "text": "**[[Carlos Keymer]]**",
+   "x": 9993,
+   "y": -8116,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "m3",
+   "type": "text",
+   "text": "## [[Nacionalismo, mundonovismo y crítica social]]",
+   "x": 4207,
+   "y": 284,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a27",
+   "type": "text",
+   "text": "**[[Carlos Pezoa Véliz]]**",
+   "x": 10262,
+   "y": -7765,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o27_0",
+   "type": "text",
+   "text": "[[Las campanas de oro — Carlos Pezoa Véliz|Las campanas de oro]]",
+   "x": 10644,
+   "y": -8058,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o27_1",
+   "type": "text",
+   "text": "[[Campanas de oro — Carlos Pezoa Véliz (1998)|Campanas de oro]]",
+   "x": 10976,
+   "y": -8303,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o27_2",
+   "type": "text",
+   "text": "[[Alma chilena — Carlos Pezoa Véliz (1912)|Alma chilena]]",
+   "x": 11309,
+   "y": -8549,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o27_3",
+   "type": "text",
+   "text": "[[Poesías cuentos y artículos — Carlos Pezoa Véliz (1927)|Poesías cuentos y artículos]]",
+   "x": 11641,
+   "y": -8795,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o27_4",
+   "type": "text",
+   "text": "[[Antología de Carlos Pezoa Véliz (poesía y prosa) — Carlos Pezoa Véliz (1957)|Antología de Carlos Pezoa Véliz (poesía y prosa)]]",
+   "x": 11973,
+   "y": -9041,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a28",
+   "type": "text",
+   "text": "**[[Jorge González Bastías]]**",
+   "x": 10518,
+   "y": -7406,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o28_0",
+   "type": "text",
+   "text": "[[Misas de primavera. Horas lentas. Elegías sencillas. Bajo el alero. Poemas de otoño. Joyel — Jorge González Bastías (1911)|Misas de primavera. Horas lentas. Elegías sencillas. Bajo el alero. Poemas de otoño. Joyel]]",
+   "x": 10910,
+   "y": -7684,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o28_1",
+   "type": "text",
+   "text": "[[Del venero nativo — Jorge González Bastías (1940)|Del venero nativo]]",
+   "x": 11256,
+   "y": -7922,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o28_2",
+   "type": "text",
+   "text": "[[Vera rústica — Jorge González Bastías (1933)|Vera rústica]]",
+   "x": 11602,
+   "y": -8161,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o28_3",
+   "type": "text",
+   "text": "[[El poema de las tierras pobres — Jorge González Bastías (1924)|El poema de las tierras pobres]]",
+   "x": 11948,
+   "y": -8399,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a29",
+   "type": "text",
+   "text": "**[[Abel González]]**",
+   "x": 10763,
+   "y": -7038,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a30",
+   "type": "text",
+   "text": "**[[Luis Felipe Contardo]]**",
+   "x": 10994,
+   "y": -6662,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o30_0",
+   "type": "text",
+   "text": "[[Si no oyes misa, no puedes llamarte católico — Luis Felipe Contardo (1900)|Si no oyes misa, no puedes llamarte católico]]",
+   "x": 11404,
+   "y": -6912,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o30_1",
+   "type": "text",
+   "text": "[[El catolicismo ante la vida moderna — Luis Felipe Contardo (1910)|El catolicismo ante la vida moderna]]",
+   "x": 11776,
+   "y": -7132,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o30_2",
+   "type": "text",
+   "text": "[[Cantos del camino — Luis Felipe Contardo (1941)|Cantos del camino]]",
+   "x": 12147,
+   "y": -7352,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o30_3",
+   "type": "text",
+   "text": "[[La mujer y la iglesia — Luis Felipe Contardo (1918)|La mujer y la iglesia]]",
+   "x": 12519,
+   "y": -7572,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a31",
+   "type": "text",
+   "text": "**[[Alberto Mauret Caamaño]]**",
+   "x": 11213,
+   "y": -6278,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a32",
+   "type": "text",
+   "text": "**[[Carlos Mondaca]]**",
+   "x": 11418,
+   "y": -5888,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o32_0",
+   "type": "text",
+   "text": "[[Por los caminos ; Recogimientos poesías — Carlos Mondaca (1931)|Por los caminos ; Recogimientos poesías]]",
+   "x": 11844,
+   "y": -6108,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a33",
+   "type": "text",
+   "text": "**[[Víctor Domingo Silva]]**",
+   "x": 11610,
+   "y": -5490,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o33_0",
+   "type": "text",
+   "text": "[[Hacia allá... poemas orijinales — Víctor Domingo Silva (1905)|Hacia allá... poemas orijinales]]",
+   "x": 12044,
+   "y": -5695,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o33_1",
+   "type": "text",
+   "text": "[[La criollita segunda parte y final de El mestizo Alejo — Víctor Domingo Silva|La criollita segunda parte y final de El mestizo Alejo]]",
+   "x": 12449,
+   "y": -5882,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o33_2",
+   "type": "text",
+   "text": "[[La tempestad se avecina el momento internacional sudamericano — Víctor Domingo Silva (1936)|La tempestad se avecina el momento internacional sudamericano]]",
+   "x": 12854,
+   "y": -6070,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o33_3",
+   "type": "text",
+   "text": "[[Palomilla brava novela — Víctor Domingo Silva (1923)|Palomilla brava novela]]",
+   "x": 13260,
+   "y": -6257,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o33_4",
+   "type": "text",
+   "text": "[[Golondrina de invierno — Víctor Domingo Silva (1912)|Golondrina de invierno]]",
+   "x": 13665,
+   "y": -6444,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a34",
+   "type": "text",
+   "text": "**[[Jerónimo Lagos Lisboa]]**",
+   "x": 11789,
+   "y": -5086,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a35",
+   "type": "text",
+   "text": "**[[Andrés Silva Humeres]]**",
+   "x": 11953,
+   "y": -4677,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a36",
+   "type": "text",
+   "text": "**[[Juan Manuel Rodríguez]]**",
+   "x": 12104,
+   "y": -4262,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a37",
+   "type": "text",
+   "text": "**[[Pedro Prado]]**",
+   "x": 12240,
+   "y": -3842,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o37_0",
+   "type": "text",
+   "text": "[[Camino de las horas — Pedro Prado (1934)|Camino de las horas]]",
+   "x": 12698,
+   "y": -3983,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_1",
+   "type": "text",
+   "text": "[[Flores de cardo. Pláticas amigas. Humanas. Los dolores. Conmigo. Íntimas — Pedro Prado (1908)|Flores de cardo. Pláticas amigas. Humanas. Los dolores. Conmigo. Íntimas]]",
+   "x": 13137,
+   "y": -4118,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_2",
+   "type": "text",
+   "text": "[[Un juez rural — Pedro Prado (1924)|Un juez rural]]",
+   "x": 13576,
+   "y": -4252,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_3",
+   "type": "text",
+   "text": "[[Cartas a Manuel Magallanes Moure — Pedro Prado (1986)|Cartas a Manuel Magallanes Moure]]",
+   "x": 14015,
+   "y": -4386,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_4",
+   "type": "text",
+   "text": "[[Sus mejores poemas — Pedro Prado (1926)|Sus mejores poemas]]",
+   "x": 14454,
+   "y": -4521,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_5",
+   "type": "text",
+   "text": "[[Ensayos sobre la arquitectura y la poesía — Pedro Prado (1916)|Ensayos sobre la arquitectura y la poesía]]",
+   "x": 14893,
+   "y": -4655,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_6",
+   "type": "text",
+   "text": "[[La reina de Rapa Nui — Pedro Prado (1914)|La reina de Rapa Nui]]",
+   "x": 15332,
+   "y": -4790,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_7",
+   "type": "text",
+   "text": "[[Viejos poemas inéditos, antología de homenaje — Pedro Prado (1949)|Viejos poemas inéditos, antología de homenaje]]",
+   "x": 15771,
+   "y": -4924,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_8",
+   "type": "text",
+   "text": "[[Otoño en las dunas — Pedro Prado (1940)|Otoño en las dunas]]",
+   "x": 16211,
+   "y": -5059,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_9",
+   "type": "text",
+   "text": "[[Los pájaros errantes (poemas menores i breves divagaciones) — Pedro Prado (1915)|Los pájaros errantes (poemas menores i breves divagaciones)]]",
+   "x": 16650,
+   "y": -5193,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_10",
+   "type": "text",
+   "text": "[[Las estancias del amor — Pedro Prado (1949)|Las estancias del amor]]",
+   "x": 17089,
+   "y": -5328,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_11",
+   "type": "text",
+   "text": "[[Esta bella ciudad envenenada — Pedro Prado (1945)|Esta bella ciudad envenenada]]",
+   "x": 17528,
+   "y": -5462,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_12",
+   "type": "text",
+   "text": "[[No más que una rosa — Pedro Prado (1946)|No más que una rosa]]",
+   "x": 17967,
+   "y": -5597,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o37_13",
+   "type": "text",
+   "text": "[[Alsino — Pedro Prado (1920)|Alsino]]",
+   "x": 18406,
+   "y": -5731,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a38",
+   "type": "text",
+   "text": "**[[Max Jara]]**",
+   "x": 12362,
+   "y": -3417,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o38_0",
+   "type": "text",
+   "text": "[[Juventud poesía romántica — Max Jara (1909)|Juventud poesía romántica]]",
+   "x": 12825,
+   "y": -3543,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o38_1",
+   "type": "text",
+   "text": "[[Asonantes (tono menor) — Max Jara (1922)|Asonantes (tono menor)]]",
+   "x": 13270,
+   "y": -3662,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o38_2",
+   "type": "text",
+   "text": "[[¿Poesias — Max Jara (1914)|¿Poesias]]",
+   "x": 13716,
+   "y": -3782,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a39",
+   "type": "text",
+   "text": "**[[Alberto Moreno]]**",
+   "x": 12470,
+   "y": -2989,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o39_0",
+   "type": "text",
+   "text": "[[De las zonas vírgenes poemas completos — Alberto Moreno (1926)|De las zonas vírgenes poemas completos]]",
+   "x": 12937,
+   "y": -3098,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a40",
+   "type": "text",
+   "text": "**[[Carlos Acuña]]**",
+   "x": 12563,
+   "y": -2558,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a41",
+   "type": "text",
+   "text": "**[[Ignacio Verdugo Cavada]]**",
+   "x": 12641,
+   "y": -2123,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a42",
+   "type": "text",
+   "text": "**[[Julio Munizaga Ossandón]]**",
+   "x": 12705,
+   "y": -1686,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a43",
+   "type": "text",
+   "text": "**[[Guillermo Muñoz Medina]]**",
+   "x": 12753,
+   "y": -1247,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a44",
+   "type": "text",
+   "text": "**[[Carlos Préndez Saldías]]**",
+   "x": 12787,
+   "y": -807,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a45",
+   "type": "text",
+   "text": "**[[Jorge Hübner Bezanilla]]**",
+   "x": 12806,
+   "y": -366,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a46",
+   "type": "text",
+   "text": "**[[Daniel de la Vega]]**",
+   "x": 12810,
+   "y": 75,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o46_0",
+   "type": "text",
+   "text": "[[Luz de candilejas el teatro y sus miserias — Daniel de la Vega (1930)|Luz de candilejas el teatro y sus miserias]]",
+   "x": 13290,
+   "y": 85,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o46_1",
+   "type": "text",
+   "text": "[[Los momentos — Daniel de la Vega (1918)|Los momentos]]",
+   "x": 13750,
+   "y": 89,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o46_2",
+   "type": "text",
+   "text": "[[Confesiones imperdonables 1a. serie — Daniel de la Vega|Confesiones imperdonables 1a. serie]]",
+   "x": 14210,
+   "y": 92,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a47",
+   "type": "text",
+   "text": "**[[Enrique Ponce]]**",
+   "x": 12798,
+   "y": 517,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a48",
+   "type": "text",
+   "text": "**[[Carlos Barella]]**",
+   "x": 12772,
+   "y": 957,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a49",
+   "type": "text",
+   "text": "**[[Ángel Cruchaga Santa María]]**",
+   "x": 12731,
+   "y": 1397,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o49_0",
+   "type": "text",
+   "text": "[[Antología — Ángel Cruchaga Santa María (1946)|Antología]]",
+   "x": 13208,
+   "y": 1457,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o49_1",
+   "type": "text",
+   "text": "[[Job poema — Ángel Cruchaga Santa María (1922)|Job poema]]",
+   "x": 13669,
+   "y": 1508,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o49_2",
+   "type": "text",
+   "text": "[[Anillo de jade poemas de China — Ángel Cruchaga Santa María (1959)|Anillo de jade poemas de China]]",
+   "x": 14130,
+   "y": 1559,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o49_3",
+   "type": "text",
+   "text": "[[Las manos juntas — Ángel Cruchaga Santa María (1915)|Las manos juntas]]",
+   "x": 14592,
+   "y": 1610,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a50",
+   "type": "text",
+   "text": "**[[Teresa Wilms Montt]]**",
+   "x": 12675,
+   "y": 1835,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o50_0",
+   "type": "text",
+   "text": "[[En la quietud de mármol — Teresa Wilms Montt (1918)|En la quietud de mármol]]",
+   "x": 13150,
+   "y": 1912,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o50_1",
+   "type": "text",
+   "text": "[[Inquietudes sentimentales — Teresa Wilms Montt (1918)|Inquietudes sentimentales]]",
+   "x": 13609,
+   "y": 1979,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o50_2",
+   "type": "text",
+   "text": "[[Lo que no se ha dicho — Teresa Wilms Montt (1922)|Lo que no se ha dicho]]",
+   "x": 14068,
+   "y": 2045,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o50_3",
+   "type": "text",
+   "text": "[[Los tres cantos — Teresa Wilms Montt (1917)|Los tres cantos]]",
+   "x": 14528,
+   "y": 2112,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a51",
+   "type": "text",
+   "text": "**[[Pedro Sienna]]**",
+   "x": 12604,
+   "y": 2271,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o51_0",
+   "type": "text",
+   "text": "[[La vida pintoresca de Arturo Bührle con 25 dibujos de Víctor Bianchi — Pedro Sienna (1929)|La vida pintoresca de Arturo Bührle con 25 dibujos de Víctor Bianchi]]",
+   "x": 13076,
+   "y": 2364,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o51_1",
+   "type": "text",
+   "text": "[[El tinglado de la farsa — Pedro Sienna (1922)|El tinglado de la farsa]]",
+   "x": 13533,
+   "y": 2447,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o51_2",
+   "type": "text",
+   "text": "[[Muecas en la sombra — Pedro Sienna (1917)|Muecas en la sombra]]",
+   "x": 13989,
+   "y": 2529,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o51_3",
+   "type": "text",
+   "text": "[[Un disparo de revólver comedia en un acto — Pedro Sienna (1932)|Un disparo de revólver comedia en un acto]]",
+   "x": 14446,
+   "y": 2611,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o51_4",
+   "type": "text",
+   "text": "[[La caverna de los murciélagos novela — Pedro Sienna (1924)|La caverna de los murciélagos novela]]",
+   "x": 14902,
+   "y": 2694,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a52",
+   "type": "text",
+   "text": "**[[Sady Zañartu]]**",
+   "x": 12518,
+   "y": 2704,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o52_0",
+   "type": "text",
+   "text": "[[Color de América nuevos cuentos latinoamericanos — Sady Zañartu (1969)|Color de América nuevos cuentos latinoamericanos]]",
+   "x": 12987,
+   "y": 2814,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o52_1",
+   "type": "text",
+   "text": "[[Historia del vendedor de libros — Sady Zañartu (1937)|Historia del vendedor de libros]]",
+   "x": 13440,
+   "y": 2912,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o52_2",
+   "type": "text",
+   "text": "[[Santiago calles viejas historias de cuando sus nombres salieron del barro materno con la f — Sady Zañartu (1975)|Santiago calles viejas historias de cuando sus nombres salieron del barro materno con la f]]",
+   "x": 13893,
+   "y": 3009,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o52_3",
+   "type": "text",
+   "text": "[[La sombra del corregidor novela de los tiempos coloniales — Sady Zañartu (1927)|La sombra del corregidor novela de los tiempos coloniales]]",
+   "x": 14345,
+   "y": 3107,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a53",
+   "type": "text",
+   "text": "**[[Elías Arze Bastidas]]**",
+   "x": 12418,
+   "y": 3134,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a54",
+   "type": "text",
+   "text": "**[[Luciano Morgado]]**",
+   "x": 12303,
+   "y": 3560,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a55",
+   "type": "text",
+   "text": "**[[Francisco Donoso González]]**",
+   "x": 12174,
+   "y": 3982,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a56",
+   "type": "text",
+   "text": "**[[Alberto Valdivia]]**",
+   "x": 12030,
+   "y": 4400,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a57",
+   "type": "text",
+   "text": "**[[Juan Guzmán Cruchaga]]**",
+   "x": 11873,
+   "y": 4812,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o57_0",
+   "type": "text",
+   "text": "[[Agua de cielo poemas — Juan Guzmán Cruchaga (1920)|Agua de cielo poemas]]",
+   "x": 12317,
+   "y": 5004,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o57_1",
+   "type": "text",
+   "text": "[[Sed — Juan Guzmán Cruchaga (1978)|Sed]]",
+   "x": 12736,
+   "y": 5172,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o57_2",
+   "type": "text",
+   "text": "[[Altasombra — Juan Guzmán Cruchaga (1958)|Altasombra]]",
+   "x": 13155,
+   "y": 5341,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o57_3",
+   "type": "text",
+   "text": "[[Junto al brasero — Juan Guzmán Cruchaga (1913)|Junto al brasero]]",
+   "x": 13575,
+   "y": 5509,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a58",
+   "type": "text",
+   "text": "**[[Augusto Iglesias]]**",
+   "x": 11701,
+   "y": 5219,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a59",
+   "type": "text",
+   "text": "**[[Lautaro García]]**",
+   "x": 11516,
+   "y": 5620,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a60",
+   "type": "text",
+   "text": "**[[Miriam Elim]]**",
+   "x": 11317,
+   "y": 6014,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a61",
+   "type": "text",
+   "text": "**[[Olga Acevedo]]**",
+   "x": 11105,
+   "y": 6401,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a62",
+   "type": "text",
+   "text": "**[[María Antonieta Le Quesne]]**",
+   "x": 10880,
+   "y": 6781,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a63",
+   "type": "text",
+   "text": "**[[José Domingo Gómez Rojas]]**",
+   "x": 10642,
+   "y": 7153,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o63_0",
+   "type": "text",
+   "text": "[[Elegías — José Domingo Gómez Rojas (1935)|Elegías]]",
+   "x": 11039,
+   "y": 7434,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o63_1",
+   "type": "text",
+   "text": "[[Rebeldías líricas — José Domingo Gómez Rojas (1920)|Rebeldías líricas]]",
+   "x": 11391,
+   "y": 7668,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o63_2",
+   "type": "text",
+   "text": "[[Rebeldías líricas — José Domingo Gómez Rojas (1940)|Rebeldías líricas]]",
+   "x": 11744,
+   "y": 7902,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o63_3",
+   "type": "text",
+   "text": "[[Popularización de Gómez Rojas — José Domingo Gómez Rojas (1939)|Popularización de Gómez Rojas]]",
+   "x": 12096,
+   "y": 8136,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o63_4",
+   "type": "text",
+   "text": "[[Rebeldías líricas — José Domingo Gómez Rojas (1913)|Rebeldías líricas]]",
+   "x": 12449,
+   "y": 8370,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a64",
+   "type": "text",
+   "text": "**[[David Enrique Perry]]**",
+   "x": 10392,
+   "y": 7517,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a65",
+   "type": "text",
+   "text": "**[[Gerardo Moraga Bustamante]]**",
+   "x": 10129,
+   "y": 7872,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a66",
+   "type": "text",
+   "text": "**[[Gabriela Mistral]]**",
+   "x": 9855,
+   "y": 8217,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o66_0",
+   "type": "text",
+   "text": "[[Desolación en germen facsimilares de primeros manuscritos (1914-1921) — Gabriela Mistral (1980)|Desolación en germen facsimilares de primeros manuscritos (1914-1921)]]",
+   "x": 10221,
+   "y": 8540,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_1",
+   "type": "text",
+   "text": "[[Gabriela Mistral en La Voz de Elqui — Gabriela Mistral (1992)|Gabriela Mistral en La Voz de Elqui]]",
+   "x": 10532,
+   "y": 8795,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_2",
+   "type": "text",
+   "text": "[[Poema de Chile — Gabriela Mistral (1967)|Poema de Chile]]",
+   "x": 10843,
+   "y": 9051,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_3",
+   "type": "text",
+   "text": "[[Lagar II — Gabriela Mistral (1992)|Lagar II]]",
+   "x": 11154,
+   "y": 9307,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_4",
+   "type": "text",
+   "text": "[[Desolación — Gabriela Mistral (1923)|Desolación]]",
+   "x": 11465,
+   "y": 9562,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_5",
+   "type": "text",
+   "text": "[[Desolación poemas de Gabriela Mistral — Gabriela Mistral (1922)|Desolación poemas de Gabriela Mistral]]",
+   "x": 11777,
+   "y": 9818,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_6",
+   "type": "text",
+   "text": "[[Bendita mi lengua sea diario íntimo de Gabriela Mistral — Gabriela Mistral (2002)|Bendita mi lengua sea diario íntimo de Gabriela Mistral]]",
+   "x": 12088,
+   "y": 10073,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_7",
+   "type": "text",
+   "text": "[[Gabriela Mistral en El Coquimbo — Gabriela Mistral (1994)|Gabriela Mistral en El Coquimbo]]",
+   "x": 12399,
+   "y": 10329,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_8",
+   "type": "text",
+   "text": "[[Magisterio y niño — Gabriela Mistral (1979)|Magisterio y niño]]",
+   "x": 12710,
+   "y": 10584,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_9",
+   "type": "text",
+   "text": "[[Motivos de San Francisco — Gabriela Mistral (1965)|Motivos de San Francisco]]",
+   "x": 13021,
+   "y": 10840,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_10",
+   "type": "text",
+   "text": "[[Poemas de las madres — Gabriela Mistral (2015)|Poemas de las madres]]",
+   "x": 13332,
+   "y": 11096,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_11",
+   "type": "text",
+   "text": "[[Ternura — Gabriela Mistral (1945)|Ternura]]",
+   "x": 13643,
+   "y": 11351,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_12",
+   "type": "text",
+   "text": "[[Tala poemas — Gabriela Mistral (1938)|Tala poemas]]",
+   "x": 13954,
+   "y": 11607,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_13",
+   "type": "text",
+   "text": "[[Ternura canciones de niños — Gabriela Mistral (1924)|Ternura canciones de niños]]",
+   "x": 14265,
+   "y": 11862,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o66_14",
+   "type": "text",
+   "text": "[[Lagar — Gabriela Mistral (1954)|Lagar]]",
+   "x": 14576,
+   "y": 12118,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a67",
+   "type": "text",
+   "text": "**[[Vicente Huidobro]]**",
+   "x": 9569,
+   "y": 8554,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o67_0",
+   "type": "text",
+   "text": "[[Últimos poemas — Vicente Huidobro (1948)|Últimos poemas]]",
+   "x": 9924,
+   "y": 8889,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_1",
+   "type": "text",
+   "text": "[[Ecos del alma — Vicente Huidobro (1911)|Ecos del alma]]",
+   "x": 10221,
+   "y": 9150,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_2",
+   "type": "text",
+   "text": "[[El ciudadano del olvido 1924-1934 — Vicente Huidobro (1941)|El ciudadano del olvido 1924-1934]]",
+   "x": 10517,
+   "y": 9411,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_3",
+   "type": "text",
+   "text": "[[Las pagodas ocultas — Vicente Huidobro (1914)|Las pagodas ocultas]]",
+   "x": 10813,
+   "y": 9672,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_4",
+   "type": "text",
+   "text": "[[Manifestes, Manifeste, Manifest, Manifes, Manife, Manif, Mani, Man, Ma, M — Vicente Huidobro (1925)|Manifestes, Manifeste, Manifest, Manifes, Manife, Manif, Mani, Man, Ma, M]]",
+   "x": 11110,
+   "y": 9933,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_5",
+   "type": "text",
+   "text": "[[Adán poema — Vicente Huidobro (1916)|Adán poema]]",
+   "x": 11406,
+   "y": 10194,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_6",
+   "type": "text",
+   "text": "[[Ecuatorial — Vicente Huidobro (1918)|Ecuatorial]]",
+   "x": 11703,
+   "y": 10455,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_7",
+   "type": "text",
+   "text": "[[Sátiro, o, El poder de las palabras — Vicente Huidobro (1938)|Sátiro, o, El poder de las palabras]]",
+   "x": 11999,
+   "y": 10716,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_8",
+   "type": "text",
+   "text": "[[Tout á coup poémes — Vicente Huidobro (1925)|Tout á coup poémes]]",
+   "x": 12296,
+   "y": 10976,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_9",
+   "type": "text",
+   "text": "[[Ver y palpar 1923-1933 — Vicente Huidobro (1941)|Ver y palpar 1923-1933]]",
+   "x": 12592,
+   "y": 11237,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_10",
+   "type": "text",
+   "text": "[[La próxima (historia que pasó en poco tiempo más) — Vicente Huidobro (1934)|La próxima (historia que pasó en poco tiempo más)]]",
+   "x": 12889,
+   "y": 11498,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_11",
+   "type": "text",
+   "text": "[[Poemas árticos — Vicente Huidobro (1918)|Poemas árticos]]",
+   "x": 13185,
+   "y": 11759,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_12",
+   "type": "text",
+   "text": "[[Altazor poema — Vicente Huidobro (1931)|Altazor poema]]",
+   "x": 13482,
+   "y": 12020,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_13",
+   "type": "text",
+   "text": "[[En la luna pequeño guignol en cuatro actos y trece cuadros — Vicente Huidobro (1934)|En la luna pequeño guignol en cuatro actos y trece cuadros]]",
+   "x": 13778,
+   "y": 12281,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_14",
+   "type": "text",
+   "text": "[[Saisons choisies poémes — Vicente Huidobro (1921)|Saisons choisies poémes]]",
+   "x": 14074,
+   "y": 12542,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_15",
+   "type": "text",
+   "text": "[[La gruta del silencio — Vicente Huidobro (1913)|La gruta del silencio]]",
+   "x": 14371,
+   "y": 12803,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_16",
+   "type": "text",
+   "text": "[[Vientos contrarios — Vicente Huidobro (1926)|Vientos contrarios]]",
+   "x": 14667,
+   "y": 13064,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_17",
+   "type": "text",
+   "text": "[[Finis Britannia — Vicente Huidobro (1923)|Finis Britannia]]",
+   "x": 14964,
+   "y": 13325,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_18",
+   "type": "text",
+   "text": "[[Automne régulier poémes — Vicente Huidobro (1925)|Automne régulier poémes]]",
+   "x": 15260,
+   "y": 13586,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_19",
+   "type": "text",
+   "text": "[[Cagliostro novela-film — Vicente Huidobro (1934)|Cagliostro novela-film]]",
+   "x": 15557,
+   "y": 13847,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_20",
+   "type": "text",
+   "text": "[[Papá, o, El diario de Alicia Mir — Vicente Huidobro (1934)|Papá, o, El diario de Alicia Mir]]",
+   "x": 15853,
+   "y": 14107,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_21",
+   "type": "text",
+   "text": "[[Epistolario — Vicente Huidobro (1997)|Epistolario]]",
+   "x": 16150,
+   "y": 14368,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_22",
+   "type": "text",
+   "text": "[[Atentado celeste facsimilares — Vicente Huidobro (2000)|Atentado celeste facsimilares]]",
+   "x": 16446,
+   "y": 14629,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_23",
+   "type": "text",
+   "text": "[[Temblor de cielo — Vicente Huidobro (1942)|Temblor de cielo]]",
+   "x": 16743,
+   "y": 14890,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_24",
+   "type": "text",
+   "text": "[[Mío Cid campeador Hazaña — Vicente Huidobro (1929)|Mío Cid campeador Hazaña]]",
+   "x": 17039,
+   "y": 15151,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_25",
+   "type": "text",
+   "text": "[[Gilles de Raiz — Vicente Huidobro (1988)|Gilles de Raiz]]",
+   "x": 17336,
+   "y": 15412,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_26",
+   "type": "text",
+   "text": "[[Pasando y pasando crónicas y comentarios — Vicente Huidobro (1914)|Pasando y pasando crónicas y comentarios]]",
+   "x": 17632,
+   "y": 15673,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o67_27",
+   "type": "text",
+   "text": "[[Canciones en la noche — Vicente Huidobro (1913)|Canciones en la noche]]",
+   "x": 17928,
+   "y": 15934,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a68",
+   "type": "text",
+   "text": "**[[Winétt de Rokha]]**",
+   "x": 9271,
+   "y": 8880,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o68_0",
+   "type": "text",
+   "text": "[[Oniromancia — Winétt de Rokha (1943)|Oniromancia]]",
+   "x": 9615,
+   "y": 9228,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o68_1",
+   "type": "text",
+   "text": "[[Cantoral poemas 1925-1936 — Winétt de Rokha (1936)|Cantoral poemas 1925-1936]]",
+   "x": 9897,
+   "y": 9493,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o68_2",
+   "type": "text",
+   "text": "[[Suma y destino antología — Winétt de Rokha (1951)|Suma y destino antología]]",
+   "x": 10178,
+   "y": 9759,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o68_3",
+   "type": "text",
+   "text": "[[Lo que me dijo el silencio — Winétt de Rokha (1915)|Lo que me dijo el silencio]]",
+   "x": 10460,
+   "y": 10024,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o68_4",
+   "type": "text",
+   "text": "[[Horas de sol prosas breves — Winétt de Rokha (1915)|Horas de sol prosas breves]]",
+   "x": 10742,
+   "y": 10289,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a69",
+   "type": "text",
+   "text": "**[[Pablo de Rokha]]**",
+   "x": 8963,
+   "y": 9196,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o69_0",
+   "type": "text",
+   "text": "[[Mis grandes poemas antología — Pablo de Rokha (1969)|Mis grandes poemas antología]]",
+   "x": 9295,
+   "y": 9556,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_1",
+   "type": "text",
+   "text": "[[Morfología del espanto — Pablo de Rokha (1942)|Morfología del espanto]]",
+   "x": 9562,
+   "y": 9825,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_2",
+   "type": "text",
+   "text": "[[U poemas — Pablo de Rokha (1926)|U poemas]]",
+   "x": 9828,
+   "y": 10094,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_3",
+   "type": "text",
+   "text": "[[Antología 1916-1953 — Pablo de Rokha (1954)|Antología 1916-1953]]",
+   "x": 10094,
+   "y": 10362,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_4",
+   "type": "text",
+   "text": "[[Mundo a mundo epopeya popular realista estadio primero Francia — Pablo de Rokha (1966)|Mundo a mundo epopeya popular realista estadio primero Francia]]",
+   "x": 10361,
+   "y": 10631,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_5",
+   "type": "text",
+   "text": "[[Fuego negro poética facsimilares — Pablo de Rokha (2000)|Fuego negro poética facsimilares]]",
+   "x": 10627,
+   "y": 10900,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_6",
+   "type": "text",
+   "text": "[[Epopeya de las comidas y las bebidas de Chile, o, Ensueño del infierno ; Canto del macho a — Pablo de Rokha (1965)|Epopeya de las comidas y las bebidas de Chile, o, Ensueño del infierno ; Canto del macho a]]",
+   "x": 10894,
+   "y": 11168,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o69_7",
+   "type": "text",
+   "text": "[[Los gemidos — Pablo de Rokha (1922)|Los gemidos]]",
+   "x": 11160,
+   "y": 11437,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m4",
+   "type": "text",
+   "text": "## [[De la vanguardia a la poesía social y popular]]",
+   "x": 102,
+   "y": 4424,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a70",
+   "type": "text",
+   "text": "**[[Omar Cáceres]]**",
+   "x": 8645,
+   "y": 9502,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a71",
+   "type": "text",
+   "text": "**[[Juan Negro]]**",
+   "x": 8316,
+   "y": 9796,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a72",
+   "type": "text",
+   "text": "**[[Óscar Castro]]**",
+   "x": 7977,
+   "y": 10079,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o72_0",
+   "type": "text",
+   "text": "[[Huellas en la tierra cuentos — Óscar Castro (1940)|Huellas en la tierra cuentos]]",
+   "x": 8271,
+   "y": 10473,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o72_1",
+   "type": "text",
+   "text": "[[Comarca del jazmín — Óscar Castro (1945)|Comarca del jazmín]]",
+   "x": 8491,
+   "y": 10746,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o72_2",
+   "type": "text",
+   "text": "[[Viaje del alba a la noche poemas — Óscar Castro (1940)|Viaje del alba a la noche poemas]]",
+   "x": 8711,
+   "y": 11019,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o72_3",
+   "type": "text",
+   "text": "[[Glosario Gongorino — Óscar Castro (1948)|Glosario Gongorino]]",
+   "x": 8932,
+   "y": 11292,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o72_4",
+   "type": "text",
+   "text": "[[Epistolario íntimo de Oscar Castro — Óscar Castro (2000)|Epistolario íntimo de Oscar Castro]]",
+   "x": 9152,
+   "y": 11564,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a73",
+   "type": "text",
+   "text": "**[[Victoriano Vicario]]**",
+   "x": 7629,
+   "y": 10351,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a74",
+   "type": "text",
+   "text": "**[[Gustavo Ossorio]]**",
+   "x": 7272,
+   "y": 10610,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a75",
+   "type": "text",
+   "text": "**[[Braulio Arenas]]**",
+   "x": 6906,
+   "y": 10858,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o75_0",
+   "type": "text",
+   "text": "[[Mandrágora la raíz de la protesta o el refugio inconcluso — Braulio Arenas (2001)|Mandrágora la raíz de la protesta o el refugio inconcluso]]",
+   "x": 7159,
+   "y": 11282,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o75_1",
+   "type": "text",
+   "text": "[[Adiós a la familia — Braulio Arenas (1961)|Adiós a la familia]]",
+   "x": 7333,
+   "y": 11549,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o75_2",
+   "type": "text",
+   "text": "[[El juego de ajedrez, o, Visiones del país de las maravillas — Braulio Arenas (1966)|El juego de ajedrez, o, Visiones del país de las maravillas]]",
+   "x": 7507,
+   "y": 11817,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o75_3",
+   "type": "text",
+   "text": "[[La mujer mnemotécnica — Braulio Arenas (1941)|La mujer mnemotécnica]]",
+   "x": 7682,
+   "y": 12085,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o75_4",
+   "type": "text",
+   "text": "[[Discurso del gran poder — Braulio Arenas (1952)|Discurso del gran poder]]",
+   "x": 7856,
+   "y": 12353,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o75_5",
+   "type": "text",
+   "text": "[[Pequeña meditación al atardecer en un cementerio junto al mar — Braulio Arenas (1966)|Pequeña meditación al atardecer en un cementerio junto al mar]]",
+   "x": 8031,
+   "y": 12620,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o75_6",
+   "type": "text",
+   "text": "[[El a g c de la Mandrágora — Braulio Arenas (1957)|El a g c de la Mandrágora]]",
+   "x": 8205,
+   "y": 12888,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a76",
+   "type": "text",
+   "text": "**[[Eduardo Anguita]]**",
+   "x": 6532,
+   "y": 11092,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a77",
+   "type": "text",
+   "text": "**[[Teófilo Cid]]**",
+   "x": 6150,
+   "y": 11314,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o77_0",
+   "type": "text",
+   "text": "[[Hasta Mapocho no más! — Teófilo Cid (1976)|Hasta Mapocho no más!]]",
+   "x": 6374,
+   "y": 11756,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o77_1",
+   "type": "text",
+   "text": "[[Bouldroud — Teófilo Cid (1942)|Bouldroud]]",
+   "x": 6519,
+   "y": 12015,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o77_2",
+   "type": "text",
+   "text": "[[Camino del Ñielol — Teófilo Cid (1954)|Camino del Ñielol]]",
+   "x": 6664,
+   "y": 12275,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o77_3",
+   "type": "text",
+   "text": "[[Alicia ya no sueña teatro, comedia dramática en tres actos — Teófilo Cid (1964)|Alicia ya no sueña teatro, comedia dramática en tres actos]]",
+   "x": 6809,
+   "y": 12534,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o77_4",
+   "type": "text",
+   "text": "[[El tiempo de la sospecha — Teófilo Cid (1952)|El tiempo de la sospecha]]",
+   "x": 6954,
+   "y": 12794,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a78",
+   "type": "text",
+   "text": "**[[Roque Esteban Scarpa]]**",
+   "x": 5761,
+   "y": 11523,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o78_0",
+   "type": "text",
+   "text": "[[Dos poetas españoles Federico García Lorca, Rafael Alberti — Roque Esteban Scarpa (1935)|Dos poetas españoles Federico García Lorca, Rafael Alberti]]",
+   "x": 5970,
+   "y": 11972,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o78_1",
+   "type": "text",
+   "text": "[[Quién soy — Roque Esteban Scarpa (1977)|Quién soy]]",
+   "x": 6101,
+   "y": 12226,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o78_2",
+   "type": "text",
+   "text": "[[Teatro escolar — Roque Esteban Scarpa (1985)|Teatro escolar]]",
+   "x": 6231,
+   "y": 12480,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o78_3",
+   "type": "text",
+   "text": "[[Una mujer nada de tonta — Roque Esteban Scarpa (1976)|Una mujer nada de tonta]]",
+   "x": 6362,
+   "y": 12734,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o78_4",
+   "type": "text",
+   "text": "[[El laberinto sin muros — Roque Esteban Scarpa (1981)|El laberinto sin muros]]",
+   "x": 6493,
+   "y": 12988,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o78_5",
+   "type": "text",
+   "text": "[[Mortal mantenimiento poemas — Roque Esteban Scarpa (1942)|Mortal mantenimiento poemas]]",
+   "x": 6624,
+   "y": 13242,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a79",
+   "type": "text",
+   "text": "**[[Enrique Gómez-Correa]]**",
+   "x": 5365,
+   "y": 11718,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o79_0",
+   "type": "text",
+   "text": "[[Sociología de la locura — Enrique Gómez-Correa (1942)|Sociología de la locura]]",
+   "x": 5559,
+   "y": 12175,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_1",
+   "type": "text",
+   "text": "[[Mother darkness — Enrique Gómez-Correa (1975)|Mother darkness]]",
+   "x": 5676,
+   "y": 12423,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_2",
+   "type": "text",
+   "text": "[[Cataclismo en los ojos — Enrique Gómez-Correa (1942)|Cataclismo en los ojos]]",
+   "x": 5793,
+   "y": 12670,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_3",
+   "type": "text",
+   "text": "[[To Mayo — Enrique Gómez-Correa (1980)|To Mayo]]",
+   "x": 5910,
+   "y": 12918,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_4",
+   "type": "text",
+   "text": "[[Los pordioseros — Enrique Gómez-Correa (1992)|Los pordioseros]]",
+   "x": 6027,
+   "y": 13165,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_5",
+   "type": "text",
+   "text": "[[El espectro de René Magritte — Enrique Gómez-Correa (1948)|El espectro de René Magritte]]",
+   "x": 6144,
+   "y": 13413,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_6",
+   "type": "text",
+   "text": "[[Carta elegía a Jorge Cáceres — Enrique Gómez-Correa (1952)|Carta elegía a Jorge Cáceres]]",
+   "x": 6261,
+   "y": 13660,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_7",
+   "type": "text",
+   "text": "[[Reencuentro y pérdida de la Mandrágora — Enrique Gómez-Correa (1953)|Reencuentro y pérdida de la Mandrágora]]",
+   "x": 6378,
+   "y": 13908,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_8",
+   "type": "text",
+   "text": "[[Mandrágora, siglo XX — Enrique Gómez-Correa (1946)|Mandrágora, siglo XX]]",
+   "x": 6494,
+   "y": 14155,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_9",
+   "type": "text",
+   "text": "[[El calor animal — Enrique Gómez-Correa (1973)|El calor animal]]",
+   "x": 6611,
+   "y": 14403,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_10",
+   "type": "text",
+   "text": "[[Poesía explosiva (1935-1973) — Enrique Gómez-Correa (1973)|Poesía explosiva (1935-1973)]]",
+   "x": 6728,
+   "y": 14650,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_11",
+   "type": "text",
+   "text": "[[La pareja real — Enrique Gómez-Correa (1985)|La pareja real]]",
+   "x": 6845,
+   "y": 14898,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o79_12",
+   "type": "text",
+   "text": "[[Las hijas de la memoria — Enrique Gómez-Correa|Las hijas de la memoria]]",
+   "x": 6962,
+   "y": 15145,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a80",
+   "type": "text",
+   "text": "**[[Mahfud Massís]]**",
+   "x": 4963,
+   "y": 11900,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o80_0",
+   "type": "text",
+   "text": "[[Elegía bajo la tierra — Mahfud Massís (1955)|Elegía bajo la tierra]]",
+   "x": 5141,
+   "y": 12364,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o80_1",
+   "type": "text",
+   "text": "[[Antología poemas 1942-1988 — Mahfud Massís (1990)|Antología poemas 1942-1988]]",
+   "x": 5245,
+   "y": 12604,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a81",
+   "type": "text",
+   "text": "**[[Jorge Cáceres]]**",
+   "x": 4555,
+   "y": 12068,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o81_0",
+   "type": "text",
+   "text": "[[Pasada libre — Jorge Cáceres (1941)|Pasada libre]]",
+   "x": 4717,
+   "y": 12539,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o81_1",
+   "type": "text",
+   "text": "[[Textos inéditos — Jorge Cáceres (1979)|Textos inéditos]]",
+   "x": 4808,
+   "y": 12771,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o81_2",
+   "type": "text",
+   "text": "[[Cáceres el mediodía eterno y la tira de pruebas. Obra completa — Jorge Cáceres (2005)|Cáceres el mediodía eterno y la tira de pruebas. Obra completa]]",
+   "x": 4899,
+   "y": 13003,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a82",
+   "type": "text",
+   "text": "**[[Antonio de Undurraga]]**",
+   "x": 4141,
+   "y": 12222,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a83",
+   "type": "text",
+   "text": "**[[Stella Corvalán]]**",
+   "x": 3722,
+   "y": 12362,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a84",
+   "type": "text",
+   "text": "**[[Luis Merino Reyes]]**",
+   "x": 3299,
+   "y": 12488,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a85",
+   "type": "text",
+   "text": "**[[Mila Oyarzún]]**",
+   "x": 2872,
+   "y": 12599,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a86",
+   "type": "text",
+   "text": "**[[Andrés Sabella]]**",
+   "x": 2441,
+   "y": 12696,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o86_0",
+   "type": "text",
+   "text": "[[Norte grande novela del salitre — Andrés Sabella (1959)|Norte grande novela del salitre]]",
+   "x": 2522,
+   "y": 13191,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o86_1",
+   "type": "text",
+   "text": "[[Crónica mínima de una gran poesía Chile en la poesía y expresión social de sus poetas libr — Andrés Sabella (1941)|Crónica mínima de una gran poesía Chile en la poesía y expresión social de sus poetas libr]]",
+   "x": 2559,
+   "y": 13371,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o86_2",
+   "type": "text",
+   "text": "[[Juan Marín y la nueva inspiración — Andrés Sabella (1975)|Juan Marín y la nueva inspiración]]",
+   "x": 2596,
+   "y": 13551,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o86_3",
+   "type": "text",
+   "text": "[[Hombre de cuatro rumbos antologia del Norte grande — Andrés Sabella (1966)|Hombre de cuatro rumbos antologia del Norte grande]]",
+   "x": 2634,
+   "y": 13731,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a87",
+   "type": "text",
+   "text": "**[[Carlos René Correa]]**",
+   "x": 2007,
+   "y": 12778,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o87_0",
+   "type": "text",
+   "text": "[[Quién soy — Carlos René Correa (1980)|Quién soy]]",
+   "x": 2072,
+   "y": 13276,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a88",
+   "type": "text",
+   "text": "**[[María Cristina Menares]]**",
+   "x": 1571,
+   "y": 12845,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a89",
+   "type": "text",
+   "text": "**[[Alberto Baeza Flores]]**",
+   "x": 1132,
+   "y": 12898,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a90",
+   "type": "text",
+   "text": "**[[Luis Oyarzún]]**",
+   "x": 692,
+   "y": 12935,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o90_0",
+   "type": "text",
+   "text": "[[Epistolario familiar — Luis Oyarzún (2000)|Epistolario familiar]]",
+   "x": 706,
+   "y": 13439,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o90_1",
+   "type": "text",
+   "text": "[[Mediodía — Luis Oyarzún (1958)|Mediodía]]",
+   "x": 715,
+   "y": 13567,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o90_2",
+   "type": "text",
+   "text": "[[Meditaciones estéticas — Luis Oyarzún (1981)|Meditaciones estéticas]]",
+   "x": 724,
+   "y": 13695,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o90_3",
+   "type": "text",
+   "text": "[[Diario íntimo — Luis Oyarzún (1995)|Diario íntimo]]",
+   "x": 732,
+   "y": 13823,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o90_4",
+   "type": "text",
+   "text": "[[Necesidad del arcoiris poesía selecta — Luis Oyarzún (2002)|Necesidad del arcoiris poesía selecta]]",
+   "x": 741,
+   "y": 13951,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o90_5",
+   "type": "text",
+   "text": "[[Temas de la cultura chilena — Luis Oyarzún (1967)|Temas de la cultura chilena]]",
+   "x": 750,
+   "y": 14079,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a91",
+   "type": "text",
+   "text": "**[[Victoria Contreras Falcón]]**",
+   "x": 251,
+   "y": 12958,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a92",
+   "type": "text",
+   "text": "**[[Patricia Morgan]]**",
+   "x": -190,
+   "y": 12965,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a93",
+   "type": "text",
+   "text": "**[[Alejandro Galaz]]**",
+   "x": -631,
+   "y": 12958,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a94",
+   "type": "text",
+   "text": "**[[Hermelo Arabena Williams]]**",
+   "x": -1072,
+   "y": 12935,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a95",
+   "type": "text",
+   "text": "**[[Róbinson Saavedra Gómez]]**",
+   "x": -1512,
+   "y": 12898,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a96",
+   "type": "text",
+   "text": "**[[Javier Vergara Huneeus]]**",
+   "x": -1951,
+   "y": 12845,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a97",
+   "type": "text",
+   "text": "**[[Hernán Cañas]]**",
+   "x": -2387,
+   "y": 12778,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a98",
+   "type": "text",
+   "text": "**[[Francisco Santana]]**",
+   "x": -2821,
+   "y": 12696,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a99",
+   "type": "text",
+   "text": "**[[Aldo Torres Púa]]**",
+   "x": -3252,
+   "y": 12599,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a100",
+   "type": "text",
+   "text": "**[[Carlos Collins Bunster]]**",
+   "x": -3679,
+   "y": 12488,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a101",
+   "type": "text",
+   "text": "**[[Carlos Poblete]]**",
+   "x": -4102,
+   "y": 12362,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a102",
+   "type": "text",
+   "text": "**[[Joaquín Martínez Arenas]]**",
+   "x": -4521,
+   "y": 12222,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a103",
+   "type": "text",
+   "text": "**[[Víctor Franzani]]**",
+   "x": -4935,
+   "y": 12068,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a104",
+   "type": "text",
+   "text": "**[[Jaime Rayo]]**",
+   "x": -5343,
+   "y": 11900,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a105",
+   "type": "text",
+   "text": "**[[Volodia Teitelboim]]**",
+   "x": -5745,
+   "y": 11718,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o105_0",
+   "type": "text",
+   "text": "[[Neruda — Volodia Teitelboim (2003)|Neruda]]",
+   "x": -5979,
+   "y": 12175,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a106",
+   "type": "text",
+   "text": "**[[Juan Arcos]]**",
+   "x": -6141,
+   "y": 11523,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a107",
+   "type": "text",
+   "text": "**[[Julio Moncada]]**",
+   "x": -6530,
+   "y": 11314,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a108",
+   "type": "text",
+   "text": "**[[María Silva Ossa]]**",
+   "x": -6912,
+   "y": 11092,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o108_0",
+   "type": "text",
+   "text": "[[Poemas para Carlos René Correa — María Silva Ossa (1998)|Poemas para Carlos René Correa]]",
+   "x": -7190,
+   "y": 11525,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o108_1",
+   "type": "text",
+   "text": "[[¿Quién soy — María Silva Ossa (1978)|¿Quién soy]]",
+   "x": -7350,
+   "y": 11789,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o108_2",
+   "type": "text",
+   "text": "[[De la tierra y el aire — María Silva Ossa (1942)|De la tierra y el aire]]",
+   "x": -7509,
+   "y": 12053,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a109",
+   "type": "text",
+   "text": "**[[Heriberto Rocuant]]**",
+   "x": -7286,
+   "y": 10858,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "m5",
+   "type": "text",
+   "text": "## [[La disolución de las vanguardias]]",
+   "x": -3607,
+   "y": 2970,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a110",
+   "type": "text",
+   "text": "**[[Miguel Arteche]]**",
+   "x": -7652,
+   "y": 10610,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o110_0",
+   "type": "text",
+   "text": "[[Destierros y tinieblas (1952-1962) — Miguel Arteche (1963)|Destierros y tinieblas (1952-1962)]]",
+   "x": -7958,
+   "y": 11025,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o110_1",
+   "type": "text",
+   "text": "[[Fénix de madrugada (1975-1992) — Miguel Arteche (1994)|Fénix de madrugada (1975-1992)]]",
+   "x": -8148,
+   "y": 11295,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o110_2",
+   "type": "text",
+   "text": "[[La invitación al olvido — Miguel Arteche (1947)|La invitación al olvido]]",
+   "x": -8338,
+   "y": 11566,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o110_3",
+   "type": "text",
+   "text": "[[Jardín de relojes — Miguel Arteche (2002)|Jardín de relojes]]",
+   "x": -8527,
+   "y": 11836,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o110_4",
+   "type": "text",
+   "text": "[[Quién soy — Miguel Arteche (1977)|Quién soy]]",
+   "x": -8717,
+   "y": 12106,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a111",
+   "type": "text",
+   "text": "**[[David Rosenmann-Taub]]**",
+   "x": -8009,
+   "y": 10351,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a112",
+   "type": "text",
+   "text": "**[[Alberto Rubio]]**",
+   "x": -8357,
+   "y": 10079,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o112_0",
+   "type": "text",
+   "text": "[[Trances — Alberto Rubio (1987)|Trances]]",
+   "x": -8691,
+   "y": 10473,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o112_1",
+   "type": "text",
+   "text": "[[La greda vasija — Alberto Rubio (1952)|La greda vasija]]",
+   "x": -8911,
+   "y": 10746,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a113",
+   "type": "text",
+   "text": "**[[Escilda Greve]]**",
+   "x": -8696,
+   "y": 9796,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a114",
+   "type": "text",
+   "text": "**[[Irma Astorga]]**",
+   "x": -9025,
+   "y": 9502,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a115",
+   "type": "text",
+   "text": "**[[Víctor Castro]]**",
+   "x": -9343,
+   "y": 9196,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a116",
+   "type": "text",
+   "text": "**[[Bernardo Cruz]]**",
+   "x": -9651,
+   "y": 8880,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a117",
+   "type": "text",
+   "text": "**[[Matilde Ladrón de Guevara]]**",
+   "x": -9949,
+   "y": 8554,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a118",
+   "type": "text",
+   "text": "**[[Alfonso Gómez Líbano]]**",
+   "x": -10235,
+   "y": 8217,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a119",
+   "type": "text",
+   "text": "**[[Julio Molina]]**",
+   "x": -10509,
+   "y": 7872,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a120",
+   "type": "text",
+   "text": "**[[Fernando Onfray]]**",
+   "x": -10772,
+   "y": 7517,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a121",
+   "type": "text",
+   "text": "**[[Nina Donoso]]**",
+   "x": -11022,
+   "y": 7153,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a122",
+   "type": "text",
+   "text": "**[[Armando Solari]]**",
+   "x": -11260,
+   "y": 6781,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a123",
+   "type": "text",
+   "text": "**[[Claudio Solar]]**",
+   "x": -11485,
+   "y": 6401,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "m6",
+   "type": "text",
+   "text": "## [[Los fundadores de los cincuenta]]",
+   "x": -4365,
+   "y": 1828,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a124",
+   "type": "text",
+   "text": "**[[Nicanor Parra]]**",
+   "x": -11697,
+   "y": 6014,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o124_0",
+   "type": "text",
+   "text": "[[Poemas y antipoemas — Nicanor Parra (1954)|Poemas y antipoemas]]",
+   "x": -12160,
+   "y": 6252,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o124_1",
+   "type": "text",
+   "text": "[[Artefactos visuales, dirección obligada — Nicanor Parra (2002)|Artefactos visuales, dirección obligada]]",
+   "x": -12549,
+   "y": 6456,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o124_2",
+   "type": "text",
+   "text": "[[Sermones y prédicas del Cristo de Elqui — Nicanor Parra (1977)|Sermones y prédicas del Cristo de Elqui]]",
+   "x": -12938,
+   "y": 6661,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o124_3",
+   "type": "text",
+   "text": "[[Obra gruesa texto completo — Nicanor Parra (1969)|Obra gruesa texto completo]]",
+   "x": -13327,
+   "y": 6865,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a125",
+   "type": "text",
+   "text": "**[[Gonzalo Rojas]]**",
+   "x": -11896,
+   "y": 5620,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o125_0",
+   "type": "text",
+   "text": "[[Réquiem de la mariposa — Gonzalo Rojas (2002)|Réquiem de la mariposa]]",
+   "x": -12366,
+   "y": 5842,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a126",
+   "type": "text",
+   "text": "**[[Violeta Parra]]**",
+   "x": -12081,
+   "y": 5219,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a127",
+   "type": "text",
+   "text": "**[[Enrique Lihn]]**",
+   "x": -12253,
+   "y": 4812,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o127_0",
+   "type": "text",
+   "text": "[[La musiquilla de las pobres esferas poemas — Enrique Lihn (1969)|La musiquilla de las pobres esferas poemas]]",
+   "x": -12737,
+   "y": 5004,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o127_1",
+   "type": "text",
+   "text": "[[El Paseo Ahumada poema — Enrique Lihn (1983)|El Paseo Ahumada poema]]",
+   "x": -13156,
+   "y": 5172,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o127_2",
+   "type": "text",
+   "text": "[[Un comic — Enrique Lihn (1992)|Un comic]]",
+   "x": -13575,
+   "y": 5341,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o127_3",
+   "type": "text",
+   "text": "[[La pieza oscura 1855-1962 — Enrique Lihn (1963)|La pieza oscura 1855-1962]]",
+   "x": -13995,
+   "y": 5509,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o127_4",
+   "type": "text",
+   "text": "[[A partir de Manhattan — Enrique Lihn (1979)|A partir de Manhattan]]",
+   "x": -14414,
+   "y": 5678,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o127_5",
+   "type": "text",
+   "text": "[[Diario de muerte — Enrique Lihn (1989)|Diario de muerte]]",
+   "x": -14834,
+   "y": 5846,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m7",
+   "type": "text",
+   "text": "## [[Las tendencias láricas]]",
+   "x": -4662,
+   "y": 963,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a128",
+   "type": "text",
+   "text": "**[[Efraín Barquero]]**",
+   "x": -12410,
+   "y": 4400,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a129",
+   "type": "text",
+   "text": "**[[Jorge Teillier]]**",
+   "x": -12554,
+   "y": 3982,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o129_0",
+   "type": "text",
+   "text": "[[Poemas secretos — Jorge Teillier (1966)|Poemas secretos]]",
+   "x": -13049,
+   "y": 4142,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o129_1",
+   "type": "text",
+   "text": "[[Para ángeles y gorriones 1953-1956 — Jorge Teillier (1956)|Para ángeles y gorriones 1953-1956]]",
+   "x": -13485,
+   "y": 4283,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o129_2",
+   "type": "text",
+   "text": "[[Los trenes de la noche y otros poemas — Jorge Teillier (1964)|Los trenes de la noche y otros poemas]]",
+   "x": -13920,
+   "y": 4425,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a130",
+   "type": "text",
+   "text": "**[[Rolando Cárdenas]]**",
+   "x": -12683,
+   "y": 3560,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o130_0",
+   "type": "text",
+   "text": "[[Que, tras esos muros — Rolando Cárdenas (1986)|Que, tras esos muros]]",
+   "x": -13184,
+   "y": 3703,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o130_1",
+   "type": "text",
+   "text": "[[Vastos imperios — Rolando Cárdenas|Vastos imperios]]",
+   "x": -13626,
+   "y": 3831,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o130_2",
+   "type": "text",
+   "text": "[[Poemas migratorios — Rolando Cárdenas (1974)|Poemas migratorios]]",
+   "x": -14068,
+   "y": 3958,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o130_3",
+   "type": "text",
+   "text": "[[En el invierno de la provincia poemas — Rolando Cárdenas (1963)|En el invierno de la provincia poemas]]",
+   "x": -14510,
+   "y": 4085,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o130_4",
+   "type": "text",
+   "text": "[[Tránsito breve — Rolando Cárdenas (1961)|Tránsito breve]]",
+   "x": -14953,
+   "y": 4212,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a131",
+   "type": "text",
+   "text": "**[[Luis Vulliamy]]**",
+   "x": -12798,
+   "y": 3134,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a132",
+   "type": "text",
+   "text": "**[[Marino Muñoz Lagos]]**",
+   "x": -12898,
+   "y": 2704,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a133",
+   "type": "text",
+   "text": "**[[Pablo Guíñez]]**",
+   "x": -12984,
+   "y": 2271,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a134",
+   "type": "text",
+   "text": "**[[Alfonso Calderón]]**",
+   "x": -13055,
+   "y": 1835,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o134_0",
+   "type": "text",
+   "text": "[[25 años y algo más (cuentos) — Alfonso Calderón (1985)|25 años y algo más (cuentos)]]",
+   "x": -13570,
+   "y": 1912,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_1",
+   "type": "text",
+   "text": "[[Cuando Chile cumplió 100 años — Alfonso Calderón (1973)|Cuando Chile cumplió 100 años]]",
+   "x": -14029,
+   "y": 1979,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_2",
+   "type": "text",
+   "text": "[[260 años del correo en Chile 1747-2007 — Alfonso Calderón (2007)|260 años del correo en Chile 1747-2007]]",
+   "x": -14488,
+   "y": 2045,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_3",
+   "type": "text",
+   "text": "[[Palabras sobre palabras — Alfonso Calderón (1997)|Palabras sobre palabras]]",
+   "x": -14948,
+   "y": 2112,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_4",
+   "type": "text",
+   "text": "[[Isla de los bienaventurados — Alfonso Calderón (1977)|Isla de los bienaventurados]]",
+   "x": -15407,
+   "y": 2179,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_5",
+   "type": "text",
+   "text": "[[Traje de arlequín (diarios 1993-1995) — Alfonso Calderón (2002)|Traje de arlequín (diarios 1993-1995)]]",
+   "x": -15867,
+   "y": 2246,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_6",
+   "type": "text",
+   "text": "[[Antología de la poesía chilena contemporánea — Alfonso Calderón (1971)|Antología de la poesía chilena contemporánea]]",
+   "x": -16326,
+   "y": 2313,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_7",
+   "type": "text",
+   "text": "[[Una invisible comparsa — Alfonso Calderón (1987)|Una invisible comparsa]]",
+   "x": -16786,
+   "y": 2379,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_8",
+   "type": "text",
+   "text": "[[Ideas sobre el ensayo — Alfonso Calderón (1993)|Ideas sobre el ensayo]]",
+   "x": -17245,
+   "y": 2446,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_9",
+   "type": "text",
+   "text": "[[Memorias y otras confidencias — Alfonso Calderón (1971)|Memorias y otras confidencias]]",
+   "x": -17705,
+   "y": 2513,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_10",
+   "type": "text",
+   "text": "[[La ciudad de los césares, Hugo Silva y algo más — Alfonso Calderón (1988)|La ciudad de los césares, Hugo Silva y algo más]]",
+   "x": -18164,
+   "y": 2580,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_11",
+   "type": "text",
+   "text": "[[Memorial de la Estación Mapocho — Alfonso Calderón (2005)|Memorial de la Estación Mapocho]]",
+   "x": -18623,
+   "y": 2646,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o134_12",
+   "type": "text",
+   "text": "[[Máscaras sobre máscaras (diarios, 1991-1992) — Alfonso Calderón (1993)|Máscaras sobre máscaras (diarios, 1991-1992)]]",
+   "x": -19083,
+   "y": 2713,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a135",
+   "type": "text",
+   "text": "**[[Delia Domínguez]]**",
+   "x": -13111,
+   "y": 1397,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o135_0",
+   "type": "text",
+   "text": "[[Simbólico retorno — Delia Domínguez (1955)|Simbólico retorno]]",
+   "x": -13628,
+   "y": 1457,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m8",
+   "type": "text",
+   "text": "## [[Temporalidad y existencia]]",
+   "x": -4776,
+   "y": 131,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a136",
+   "type": "text",
+   "text": "**[[Armando Uribe Arce]]**",
+   "x": -13152,
+   "y": 957,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o136_0",
+   "type": "text",
+   "text": "[[Pound — Armando Uribe Arce (1963)|Pound]]",
+   "x": -13671,
+   "y": 1001,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_1",
+   "type": "text",
+   "text": "[[Por ser vos quien sois — Armando Uribe Arce (1989)|Por ser vos quien sois]]",
+   "x": -14133,
+   "y": 1036,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_2",
+   "type": "text",
+   "text": "[[El engañoso laúd — Armando Uribe Arce (1956)|El engañoso laúd]]",
+   "x": -14595,
+   "y": 1071,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_3",
+   "type": "text",
+   "text": "[[Odio lo que odio, rabio como rabio — Armando Uribe Arce (1998)|Odio lo que odio, rabio como rabio]]",
+   "x": -15057,
+   "y": 1107,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_4",
+   "type": "text",
+   "text": "[[Transeúnte pálido — Armando Uribe Arce (1954)|Transeúnte pálido]]",
+   "x": -15519,
+   "y": 1142,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_5",
+   "type": "text",
+   "text": "[[Las críticas de Chile — Armando Uribe Arce (1999)|Las críticas de Chile]]",
+   "x": -15981,
+   "y": 1177,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_6",
+   "type": "text",
+   "text": "[[No hay lugar — Armando Uribe Arce (1971)|No hay lugar]]",
+   "x": -16443,
+   "y": 1213,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_7",
+   "type": "text",
+   "text": "[[El Libro Negro de la Intervención Norteamericana en Chile — Armando Uribe Arce (1974)|El Libro Negro de la Intervención Norteamericana en Chile]]",
+   "x": -16905,
+   "y": 1248,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o136_8",
+   "type": "text",
+   "text": "[[El fantasma de la sinrazón & El secreto de la poesía — Armando Uribe Arce (2001)|El fantasma de la sinrazón & El secreto de la poesía]]",
+   "x": -17367,
+   "y": 1284,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a137",
+   "type": "text",
+   "text": "**[[Alfonso Alcalde]]**",
+   "x": -13178,
+   "y": 517,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o137_0",
+   "type": "text",
+   "text": "[[Gente de carne y hueso — Alfonso Alcalde (1971)|Gente de carne y hueso]]",
+   "x": -13698,
+   "y": 543,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_1",
+   "type": "text",
+   "text": "[[Comidas y bebidas de Chile — Alfonso Alcalde (1972)|Comidas y bebidas de Chile]]",
+   "x": -14160,
+   "y": 563,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_2",
+   "type": "text",
+   "text": "[[Balada para la ciudad muerta — Alfonso Alcalde (1947)|Balada para la ciudad muerta]]",
+   "x": -14621,
+   "y": 582,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_3",
+   "type": "text",
+   "text": "[[El panorama ante nosotros — Alfonso Alcalde (1969)|El panorama ante nosotros]]",
+   "x": -15083,
+   "y": 602,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_4",
+   "type": "text",
+   "text": "[[Marilyn Monroe que estás en el cielo — Alfonso Alcalde (1972)|Marilyn Monroe que estás en el cielo]]",
+   "x": -15545,
+   "y": 621,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_5",
+   "type": "text",
+   "text": "[[El peregrino del golfo — Alfonso Alcalde (1982)|El peregrino del golfo]]",
+   "x": -16007,
+   "y": 641,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_6",
+   "type": "text",
+   "text": "[[El sentimiento que te di — Alfonso Alcalde (1972)|El sentimiento que te di]]",
+   "x": -16468,
+   "y": 661,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_7",
+   "type": "text",
+   "text": "[[Puertas adentro — Alfonso Alcalde (1969)|Puertas adentro]]",
+   "x": -16930,
+   "y": 680,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_8",
+   "type": "text",
+   "text": "[[Así trabajo yo — Alfonso Alcalde (1978)|Así trabajo yo]]",
+   "x": -17392,
+   "y": 700,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_9",
+   "type": "text",
+   "text": "[[Vivir o morir — Alfonso Alcalde (1973)|Vivir o morir]]",
+   "x": -17854,
+   "y": 719,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_10",
+   "type": "text",
+   "text": "[[El Auriga Tristán Cardenilla — Alfonso Alcalde (1967)|El Auriga Tristán Cardenilla]]",
+   "x": -18315,
+   "y": 739,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_11",
+   "type": "text",
+   "text": "[[Alegría provisoria — Alfonso Alcalde (1968)|Alegría provisoria]]",
+   "x": -18777,
+   "y": 759,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_12",
+   "type": "text",
+   "text": "[[Alfonso Alcalde en cuento antología — Alfonso Alcalde (1992)|Alfonso Alcalde en cuento antología]]",
+   "x": -19239,
+   "y": 778,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_13",
+   "type": "text",
+   "text": "[[Ejercicios con el tema de la rosa — Alfonso Alcalde (1969)|Ejercicios con el tema de la rosa]]",
+   "x": -19701,
+   "y": 798,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_14",
+   "type": "text",
+   "text": "[[Epifanía cruda — Alfonso Alcalde (1974)|Epifanía cruda]]",
+   "x": -20162,
+   "y": 818,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o137_15",
+   "type": "text",
+   "text": "[[Variaciones sobre el tema del amor y de la muerte — Alfonso Alcalde (1963)|Variaciones sobre el tema del amor y de la muerte]]",
+   "x": -20624,
+   "y": 837,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a138",
+   "type": "text",
+   "text": "**[[Guillermo Trejo]]**",
+   "x": -13190,
+   "y": 75,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o138_0",
+   "type": "text",
+   "text": "[[Quién soy — Guillermo Trejo (1983)|Quién soy]]",
+   "x": -13710,
+   "y": 85,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m9",
+   "type": "text",
+   "text": "## [[Las tendencias neosurrealistas]]",
+   "x": -4767,
+   "y": -404,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a139",
+   "type": "text",
+   "text": "**[[Carlos de Rokha]]**",
+   "x": -13186,
+   "y": -366,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o139_0",
+   "type": "text",
+   "text": "[[Pavana del gallo y el arlequín — Carlos de Rokha (1967)|Pavana del gallo y el arlequín]]",
+   "x": -13706,
+   "y": -374,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o139_1",
+   "type": "text",
+   "text": "[[Cántico profético al primer mundo 1940-1944 — Carlos de Rokha (1943)|Cántico profético al primer mundo 1940-1944]]",
+   "x": -14167,
+   "y": -386,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o139_2",
+   "type": "text",
+   "text": "[[Memorial y llaves poemas (1949-1961) — Carlos de Rokha (1964)|Memorial y llaves poemas (1949-1961)]]",
+   "x": -14628,
+   "y": -397,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o139_3",
+   "type": "text",
+   "text": "[[El orden visible Poemas 1934-1955 — Carlos de Rokha (1956)|El orden visible Poemas 1934-1955]]",
+   "x": -15089,
+   "y": -409,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a140",
+   "type": "text",
+   "text": "**[[Antonio Campaña]]**",
+   "x": -13167,
+   "y": -807,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a141",
+   "type": "text",
+   "text": "**[[Stella Díaz Varín]]**",
+   "x": -13133,
+   "y": -1247,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o141_0",
+   "type": "text",
+   "text": "[[Los dones previsibles — Stella Díaz Varín (1992)|Los dones previsibles]]",
+   "x": -13651,
+   "y": -1289,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o141_1",
+   "type": "text",
+   "text": "[[Tiempo, medida imaginaria — Stella Díaz Varín (1959)|Tiempo, medida imaginaria]]",
+   "x": -14113,
+   "y": -1332,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a142",
+   "type": "text",
+   "text": "**[[Ludwig Zeller]]**",
+   "x": -13085,
+   "y": -1686,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o142_0",
+   "type": "text",
+   "text": "[[Río Loa, estación de los sueños — Ludwig Zeller (1994)|Río Loa, estación de los sueños]]",
+   "x": -13601,
+   "y": -1745,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o142_1",
+   "type": "text",
+   "text": "[[Las reglas del juego — Ludwig Zeller (1968)|Las reglas del juego]]",
+   "x": -14061,
+   "y": -1804,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o142_2",
+   "type": "text",
+   "text": "[[Exodo y otras soledades — Ludwig Zeller (1957)|Exodo y otras soledades]]",
+   "x": -14522,
+   "y": -1863,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o142_3",
+   "type": "text",
+   "text": "[[In the country of the antipodes poems 1964-1979 — Ludwig Zeller (1979)|In the country of the antipodes poems 1964-1979]]",
+   "x": -14982,
+   "y": -1922,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o142_4",
+   "type": "text",
+   "text": "[[Imágenes en el ojo llameante — Ludwig Zeller (1999)|Imágenes en el ojo llameante]]",
+   "x": -15442,
+   "y": -1981,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "m10",
+   "type": "text",
+   "text": "## [[Las otras tendencias de los cincuenta]]",
+   "x": -4071,
+   "y": -2484,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a143",
+   "type": "text",
+   "text": "**[[Emma Jauch]]**",
+   "x": -13021,
+   "y": -2123,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o143_0",
+   "type": "text",
+   "text": "[[Quién soy — Emma Jauch (1978)|Quién soy]]",
+   "x": -13535,
+   "y": -2198,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a144",
+   "type": "text",
+   "text": "**[[María Urzúa]]**",
+   "x": -12943,
+   "y": -2558,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o144_0",
+   "type": "text",
+   "text": "[[Quién soy — María Urzúa (1978)|Quién soy]]",
+   "x": -13453,
+   "y": -2650,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a145",
+   "type": "text",
+   "text": "**[[Jorge Jobet]]**",
+   "x": -12850,
+   "y": -2989,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a146",
+   "type": "text",
+   "text": "**[[Ángel Custodio González]]**",
+   "x": -12742,
+   "y": -3417,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o146_0",
+   "type": "text",
+   "text": "[[Quién soy — Ángel Custodio González (1981)|Quién soy]]",
+   "x": -13245,
+   "y": -3543,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a147",
+   "type": "text",
+   "text": "**[[Venancio Lisboa]]**",
+   "x": -12620,
+   "y": -3842,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a148",
+   "type": "text",
+   "text": "**[[Altenor Guerrero]]**",
+   "x": -12484,
+   "y": -4262,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a149",
+   "type": "text",
+   "text": "**[[Carmen Ábalos]]**",
+   "x": -12333,
+   "y": -4677,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a150",
+   "type": "text",
+   "text": "**[[Mario Ferrero]]**",
+   "x": -12169,
+   "y": -5086,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o150_0",
+   "type": "text",
+   "text": "[[La prosa chilena del medio siglo — Mario Ferrero (1960)|La prosa chilena del medio siglo]]",
+   "x": -12649,
+   "y": -5276,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a151",
+   "type": "text",
+   "text": "**[[José Miguel Vicuña]]**",
+   "x": -11990,
+   "y": -5490,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a152",
+   "type": "text",
+   "text": "**[[Eliana Navarro]]**",
+   "x": -11798,
+   "y": -5888,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o152_0",
+   "type": "text",
+   "text": "[[La pasión según San Juan poema para voces y coro — Eliana Navarro (1980)|La pasión según San Juan poema para voces y coro]]",
+   "x": -12264,
+   "y": -6108,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o152_1",
+   "type": "text",
+   "text": "[[Antiguas voces llaman — Eliana Navarro (1955)|Antiguas voces llaman]]",
+   "x": -12659,
+   "y": -6307,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o152_2",
+   "type": "text",
+   "text": "[[La ciudad que fue poemas — Eliana Navarro (1965)|La ciudad que fue poemas]]",
+   "x": -13054,
+   "y": -6506,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a153",
+   "type": "text",
+   "text": "**[[Fernando González Urízar]]**",
+   "x": -11593,
+   "y": -6278,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o153_0",
+   "type": "text",
+   "text": "[[Quién soy — Fernando González Urízar (1977)|Quién soy]]",
+   "x": -12051,
+   "y": -6514,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a154",
+   "type": "text",
+   "text": "**[[Manuel Francisco Mesa Seco]]**",
+   "x": -11374,
+   "y": -6662,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o154_0",
+   "type": "text",
+   "text": "[[Quién soy — Manuel Francisco Mesa Seco (1977)|Quién soy]]",
+   "x": -11824,
+   "y": -6912,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a155",
+   "type": "text",
+   "text": "**[[Francisca Ossandón]]**",
+   "x": -11143,
+   "y": -7038,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a156",
+   "type": "text",
+   "text": "**[[Cecilia Casanova]]**",
+   "x": -10898,
+   "y": -7406,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o156_0",
+   "type": "text",
+   "text": "[[¿Quién soy — Cecilia Casanova (1977)|¿Quién soy]]",
+   "x": -11330,
+   "y": -7684,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a157",
+   "type": "text",
+   "text": "**[[Fernando Lamberg]]**",
+   "x": -10642,
+   "y": -7765,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a158",
+   "type": "text",
+   "text": "**[[Matías Rafide]]**",
+   "x": -10373,
+   "y": -8116,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o158_0",
+   "type": "text",
+   "text": "[[Quién soy — Matías Rafide (1981)|Quién soy]]",
+   "x": -10785,
+   "y": -8421,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o158_1",
+   "type": "text",
+   "text": "[[Diccionario de autores de la región del Maule bio-bibliográfico y crítico — Matías Rafide (1984)|Diccionario de autores de la región del Maule bio-bibliográfico y crítico]]",
+   "x": -11103,
+   "y": -8674,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o158_2",
+   "type": "text",
+   "text": "[[Andrés Sabella Galvez (1912-1989) — Matías Rafide (2003)|Andrés Sabella Galvez (1912-1989)]]",
+   "x": -11422,
+   "y": -8927,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a159",
+   "type": "text",
+   "text": "**[[Edmundo Herrera]]**",
+   "x": -10093,
+   "y": -8457,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a160",
+   "type": "text",
+   "text": "**[[Ximena Adriasola]]**",
+   "x": -9801,
+   "y": -8788,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a161",
+   "type": "text",
+   "text": "**[[Eugenio García-Díaz]]**",
+   "x": -9499,
+   "y": -9110,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o161_0",
+   "type": "text",
+   "text": "[[Quién soy — Eugenio García-Díaz (1985)|Quién soy]]",
+   "x": -9877,
+   "y": -9454,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a162",
+   "type": "text",
+   "text": "**[[Sara Vial]]**",
+   "x": -9185,
+   "y": -9420,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a163",
+   "type": "text",
+   "text": "**[[Ennio Moltedo]]**",
+   "x": -8861,
+   "y": -9720,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a164",
+   "type": "text",
+   "text": "**[[Rosa Cruchaga de Walker]]**",
+   "x": -8527,
+   "y": -10009,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o164_0",
+   "type": "text",
+   "text": "[[Quién soy — Rosa Cruchaga de Walker (1984)|Quién soy]]",
+   "x": -8868,
+   "y": -10388,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a165",
+   "type": "text",
+   "text": "**[[Pedro Lastra]]**",
+   "x": -8184,
+   "y": -10287,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a166",
+   "type": "text",
+   "text": "**[[José Miguel Ibáñez Langlois]]**",
+   "x": -7831,
+   "y": -10552,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a167",
+   "type": "text",
+   "text": "**[[Hernán Montealegre]]**",
+   "x": -7470,
+   "y": -10806,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "m11",
+   "type": "text",
+   "text": "## [[Los inicios de la poesía de los sesenta]]",
+   "x": -1561,
+   "y": -4374,
+   "width": 560,
+   "height": 120,
+   "color": "1"
+  },
+  {
+   "id": "a168",
+   "type": "text",
+   "text": "**[[Hernán Valdés]]**",
+   "x": -7100,
+   "y": -11047,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a169",
+   "type": "text",
+   "text": "**[[Óscar Hahn]]**",
+   "x": -6722,
+   "y": -11275,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o169_0",
+   "type": "text",
+   "text": "[[Esta rosa negra — Óscar Hahn (1961)|Esta rosa negra]]",
+   "x": -6993,
+   "y": -11702,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a170",
+   "type": "text",
+   "text": "**[[Hernán Lavín Cerda]]**",
+   "x": -6336,
+   "y": -11490,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a171",
+   "type": "text",
+   "text": "**[[Waldo Rojas]]**",
+   "x": -5944,
+   "y": -11692,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o171_0",
+   "type": "text",
+   "text": "[[Poesía y cultura poética en Chile aportes críticos — Waldo Rojas (2001)|Poesía y cultura poética en Chile aportes críticos]]",
+   "x": -6185,
+   "y": -12136,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_1",
+   "type": "text",
+   "text": "[[El puente oculto poemas, 1966-1980 — Waldo Rojas (1981)|El puente oculto poemas, 1966-1980]]",
+   "x": -6309,
+   "y": -12386,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_2",
+   "type": "text",
+   "text": "[[Trece lunas — Waldo Rojas (1997)|Trece lunas]]",
+   "x": -6433,
+   "y": -12637,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_3",
+   "type": "text",
+   "text": "[[Agua removida poemas — Waldo Rojas (1964)|Agua removida poemas]]",
+   "x": -6557,
+   "y": -12888,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_4",
+   "type": "text",
+   "text": "[[Chiffré a la villa d'Hadrien — Waldo Rojas (1984)|Chiffré a la villa d'Hadrien]]",
+   "x": -6680,
+   "y": -13139,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_5",
+   "type": "text",
+   "text": "[[Príncipe de naipes =(Prince du jeu de cartes) — Waldo Rojas (1985)|Príncipe de naipes =(Prince du jeu de cartes)]]",
+   "x": -6804,
+   "y": -13390,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_6",
+   "type": "text",
+   "text": "[[Cielorraso — Waldo Rojas (1971)|Cielorraso]]",
+   "x": -6928,
+   "y": -13641,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_7",
+   "type": "text",
+   "text": "[[Fuente itálica — Waldo Rojas (1991)|Fuente itálica]]",
+   "x": -7052,
+   "y": -13891,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_8",
+   "type": "text",
+   "text": "[[Almenara poemas — Waldo Rojas (1985)|Almenara poemas]]",
+   "x": -7176,
+   "y": -14142,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o171_9",
+   "type": "text",
+   "text": "[[Poesía continua (antología, 1965-1995) — Waldo Rojas (1995)|Poesía continua (antología, 1965-1995)]]",
+   "x": -7299,
+   "y": -14393,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a172",
+   "type": "text",
+   "text": "**[[Omar Lara]]**",
+   "x": -5545,
+   "y": -11881,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o172_0",
+   "type": "text",
+   "text": "[[Argumento del día — Omar Lara (1964)|Argumento del día]]",
+   "x": -5771,
+   "y": -12332,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o172_1",
+   "type": "text",
+   "text": "[[Crónica del Reyno de Chile — Omar Lara (1976)|Crónica del Reyno de Chile]]",
+   "x": -5881,
+   "y": -12575,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o172_2",
+   "type": "text",
+   "text": "[[Serpientes, habitantes y otros bichos — Omar Lara (1987)|Serpientes, habitantes y otros bichos]]",
+   "x": -5991,
+   "y": -12819,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o172_3",
+   "type": "text",
+   "text": "[[Oh buenas maneras — Omar Lara (1975)|Oh buenas maneras]]",
+   "x": -6101,
+   "y": -13063,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o172_4",
+   "type": "text",
+   "text": "[[Los enemigos — Omar Lara (1967)|Los enemigos]]",
+   "x": -6212,
+   "y": -13307,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o172_5",
+   "type": "text",
+   "text": "[[Los buenos días — Omar Lara (1972)|Los buenos días]]",
+   "x": -6322,
+   "y": -13551,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a173",
+   "type": "text",
+   "text": "**[[Jaime Giordano]]**",
+   "x": -5139,
+   "y": -12056,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a174",
+   "type": "text",
+   "text": "**[[Floridor Pérez]]**",
+   "x": -4728,
+   "y": -12217,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o174_0",
+   "type": "text",
+   "text": "[[Quién soy — Floridor Pérez (1981)|Quién soy]]",
+   "x": -4923,
+   "y": -12681,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o174_1",
+   "type": "text",
+   "text": "[[Para saber y cantar — Floridor Pérez (1965)|Para saber y cantar]]",
+   "x": -5008,
+   "y": -12908,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a175",
+   "type": "text",
+   "text": "**[[Jaime Quezada]]**",
+   "x": -4312,
+   "y": -12364,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o175_0",
+   "type": "text",
+   "text": "[[Premios Nobel de Literatura — Jaime Quezada (1974)|Premios Nobel de Literatura]]",
+   "x": -4491,
+   "y": -12833,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_1",
+   "type": "text",
+   "text": "[[Astrolabio — Jaime Quezada (1976)|Astrolabio]]",
+   "x": -4564,
+   "y": -13052,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_2",
+   "type": "text",
+   "text": "[[¿Quién soy — Jaime Quezada (1978)|¿Quién soy]]",
+   "x": -4636,
+   "y": -13270,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_3",
+   "type": "text",
+   "text": "[[Huerfanías — Jaime Quezada (1985)|Huerfanías]]",
+   "x": -4709,
+   "y": -13488,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_4",
+   "type": "text",
+   "text": "[[La frontera — Jaime Quezada (1973)|La frontera]]",
+   "x": -4782,
+   "y": -13706,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_5",
+   "type": "text",
+   "text": "[[Poemas de las cosas olvidadas — Jaime Quezada (1965)|Poemas de las cosas olvidadas]]",
+   "x": -4855,
+   "y": -13924,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_6",
+   "type": "text",
+   "text": "[[Las palabras del fabulador poemas — Jaime Quezada (1968)|Las palabras del fabulador poemas]]",
+   "x": -4928,
+   "y": -14143,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_7",
+   "type": "text",
+   "text": "[[Un viaje por Solentiname — Jaime Quezada (1987)|Un viaje por Solentiname]]",
+   "x": -5001,
+   "y": -14361,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_8",
+   "type": "text",
+   "text": "[[Literatura chilena, apuntes de un tiempo 1970-1995 — Jaime Quezada (1997)|Literatura chilena, apuntes de un tiempo 1970-1995]]",
+   "x": -5074,
+   "y": -14579,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o175_9",
+   "type": "text",
+   "text": "[[El año de la ira diario de un poeta chileno en Chile septiembre 1973-septiembre 1974 — Jaime Quezada (2003)|El año de la ira diario de un poeta chileno en Chile septiembre 1973-septiembre 1974]]",
+   "x": -5147,
+   "y": -14797,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a176",
+   "type": "text",
+   "text": "**[[Carlos Cortínez]]**",
+   "x": -3891,
+   "y": -12497,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a177",
+   "type": "text",
+   "text": "**[[Federico Schopf]]**",
+   "x": -3466,
+   "y": -12616,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a178",
+   "type": "text",
+   "text": "**[[Jaime Gómez Rogers (Jonás)]]**",
+   "x": -3037,
+   "y": -12720,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "a179",
+   "type": "text",
+   "text": "**[[Gonzalo Millán]]**",
+   "x": -2604,
+   "y": -12809,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o179_0",
+   "type": "text",
+   "text": "[[Veneno de escorpión azul diario de vida y de muerte — Gonzalo Millán (2008)|Veneno de escorpión azul diario de vida y de muerte]]",
+   "x": -2717,
+   "y": -13295,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o179_1",
+   "type": "text",
+   "text": "[[La Ciudad — Gonzalo Millán (1979)|La Ciudad]]",
+   "x": -2750,
+   "y": -13469,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o179_2",
+   "type": "text",
+   "text": "[[Strange houses — Gonzalo Millán (1991)|Strange houses]]",
+   "x": -2783,
+   "y": -13643,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o179_3",
+   "type": "text",
+   "text": "[[Relación personal — Gonzalo Millán (1968)|Relación personal]]",
+   "x": -2816,
+   "y": -13817,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a180",
+   "type": "text",
+   "text": "**[[Hernán Miranda]]**",
+   "x": -2169,
+   "y": -12883,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o180_0",
+   "type": "text",
+   "text": "[[De este anodino tiempo diurno — Hernán Miranda (1990)|De este anodino tiempo diurno]]",
+   "x": -2265,
+   "y": -13373,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o180_1",
+   "type": "text",
+   "text": "[[Arte de vaticinar — Hernán Miranda (1970)|Arte de vaticinar]]",
+   "x": -2290,
+   "y": -13534,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o180_2",
+   "type": "text",
+   "text": "[[La moneda y otros poemas — Hernán Miranda (1976)|La moneda y otros poemas]]",
+   "x": -2315,
+   "y": -13695,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a181",
+   "type": "text",
+   "text": "**[[Manuel Silva Acevedo]]**",
+   "x": -1732,
+   "y": -12943,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o181_0",
+   "type": "text",
+   "text": "[[Mester de bastardia — Manuel Silva Acevedo (1977)|Mester de bastardia]]",
+   "x": -1811,
+   "y": -13435,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o181_1",
+   "type": "text",
+   "text": "[[Canto rodado — Manuel Silva Acevedo (1995)|Canto rodado]]",
+   "x": -1829,
+   "y": -13583,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o181_2",
+   "type": "text",
+   "text": "[[Palos de ciego (1979-1985) — Manuel Silva Acevedo (1986)|Palos de ciego (1979-1985)]]",
+   "x": -1846,
+   "y": -13731,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o181_3",
+   "type": "text",
+   "text": "[[Monte de venus — Manuel Silva Acevedo (1980)|Monte de venus]]",
+   "x": -1864,
+   "y": -13880,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o181_4",
+   "type": "text",
+   "text": "[[Desandar lo andado poemas — Manuel Silva Acevedo|Desandar lo andado poemas]]",
+   "x": -1882,
+   "y": -14028,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a182",
+   "type": "text",
+   "text": "**[[Oliver Welden]]**",
+   "x": -1292,
+   "y": -12988,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o182_0",
+   "type": "text",
+   "text": "[[Anhista poemas 1962-1964 — Oliver Welden (1965)|Anhista poemas 1962-1964]]",
+   "x": -1355,
+   "y": -13481,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o182_1",
+   "type": "text",
+   "text": "[[Perro del amor — Oliver Welden (1970)|Perro del amor]]",
+   "x": -1366,
+   "y": -13616,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a183",
+   "type": "text",
+   "text": "**[[Claudio Bertoni]]**",
+   "x": -852,
+   "y": -13018,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o183_0",
+   "type": "text",
+   "text": "[[No faltaba más — Claudio Bertoni (2005)|No faltaba más]]",
+   "x": -897,
+   "y": -13512,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_1",
+   "type": "text",
+   "text": "[[El cansador intrabajable (II) — Claudio Bertoni (1986)|El cansador intrabajable (II)]]",
+   "x": -904,
+   "y": -13634,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_2",
+   "type": "text",
+   "text": "[[Una carta — Claudio Bertoni (1999)|Una carta]]",
+   "x": -910,
+   "y": -13755,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_3",
+   "type": "text",
+   "text": "[[Qué se ama cuando se ama — Claudio Bertoni (2000)|Qué se ama cuando se ama]]",
+   "x": -916,
+   "y": -13876,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_4",
+   "type": "text",
+   "text": "[[Sentado en la cuneta — Claudio Bertoni (1990)|Sentado en la cuneta]]",
+   "x": -922,
+   "y": -13997,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_5",
+   "type": "text",
+   "text": "[[Harakiri — Claudio Bertoni (2005)|Harakiri]]",
+   "x": -928,
+   "y": -14118,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_6",
+   "type": "text",
+   "text": "[[Rápido, antes de llorar cuadernos 1976-1978 — Claudio Bertoni (2007)|Rápido, antes de llorar cuadernos 1976-1978]]",
+   "x": -935,
+   "y": -14239,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o183_7",
+   "type": "text",
+   "text": "[[Ni yo — Claudio Bertoni (1996)|Ni yo]]",
+   "x": -941,
+   "y": -14361,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "a184",
+   "type": "text",
+   "text": "**[[Cecilia Vicuña]]**",
+   "x": -411,
+   "y": -13033,
+   "width": 380,
+   "height": 70,
+   "color": "5"
+  },
+  {
+   "id": "o184_0",
+   "type": "text",
+   "text": "[[Palabrarmas — Cecilia Vicuña (2005)|Palabrarmas]]",
+   "x": -439,
+   "y": -13528,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o184_1",
+   "type": "text",
+   "text": "[[I tú — Cecilia Vicuña (2004)|I tú]]",
+   "x": -441,
+   "y": -13635,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o184_2",
+   "type": "text",
+   "text": "[[Palabra e hilo = Word & thread — Cecilia Vicuña (1996)|Palabra e hilo = Word & thread]]",
+   "x": -443,
+   "y": -13742,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o184_3",
+   "type": "text",
+   "text": "[[Sabor a mí — Cecilia Vicuña (1973)|Sabor a mí]]",
+   "x": -445,
+   "y": -13849,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o184_4",
+   "type": "text",
+   "text": "[[La wik'uña — Cecilia Vicuña (1990)|La wik'uña]]",
+   "x": -447,
+   "y": -13956,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  },
+  {
+   "id": "o184_5",
+   "type": "text",
+   "text": "[[Luxumei o el traspie de la doctrina poemas 1966-1972 — Cecilia Vicuña (1983)|Luxumei o el traspie de la doctrina poemas 1966-1972]]",
+   "x": -448,
+   "y": -14064,
+   "width": 420,
+   "height": 60,
+   "color": "4"
+  }
+ ],
+ "edges": [
+  {
+   "id": "e0",
+   "fromNode": "hub",
+   "toNode": "m0",
+   "color": "1"
+  },
+  {
+   "id": "e1",
+   "fromNode": "m0",
+   "toNode": "a0",
+   "color": "5"
+  },
+  {
+   "id": "e2",
+   "fromNode": "a0",
+   "toNode": "o0_0",
+   "color": "4"
+  },
+  {
+   "id": "e3",
+   "fromNode": "a0",
+   "toNode": "o0_1",
+   "color": "4"
+  },
+  {
+   "id": "e4",
+   "fromNode": "a0",
+   "toNode": "o0_2",
+   "color": "4"
+  },
+  {
+   "id": "e5",
+   "fromNode": "a0",
+   "toNode": "o0_3",
+   "color": "4"
+  },
+  {
+   "id": "e6",
+   "fromNode": "a0",
+   "toNode": "o0_4",
+   "color": "4"
+  },
+  {
+   "id": "e7",
+   "fromNode": "a0",
+   "toNode": "o0_5",
+   "color": "4"
+  },
+  {
+   "id": "e8",
+   "fromNode": "a0",
+   "toNode": "o0_6",
+   "color": "4"
+  },
+  {
+   "id": "e9",
+   "fromNode": "a0",
+   "toNode": "o0_7",
+   "color": "4"
+  },
+  {
+   "id": "e10",
+   "fromNode": "a0",
+   "toNode": "o0_8",
+   "color": "4"
+  },
+  {
+   "id": "e11",
+   "fromNode": "a0",
+   "toNode": "o0_9",
+   "color": "4"
+  },
+  {
+   "id": "e12",
+   "fromNode": "a0",
+   "toNode": "o0_10",
+   "color": "4"
+  },
+  {
+   "id": "e13",
+   "fromNode": "a0",
+   "toNode": "o0_11",
+   "color": "4"
+  },
+  {
+   "id": "e14",
+   "fromNode": "a0",
+   "toNode": "o0_12",
+   "color": "4"
+  },
+  {
+   "id": "e15",
+   "fromNode": "a0",
+   "toNode": "o0_13",
+   "color": "4"
+  },
+  {
+   "id": "e16",
+   "fromNode": "a0",
+   "toNode": "o0_14",
+   "color": "4"
+  },
+  {
+   "id": "e17",
+   "fromNode": "m0",
+   "toNode": "a1",
+   "color": "5"
+  },
+  {
+   "id": "e18",
+   "fromNode": "a1",
+   "toNode": "o1_0",
+   "color": "4"
+  },
+  {
+   "id": "e19",
+   "fromNode": "a1",
+   "toNode": "o1_1",
+   "color": "4"
+  },
+  {
+   "id": "e20",
+   "fromNode": "a1",
+   "toNode": "o1_2",
+   "color": "4"
+  },
+  {
+   "id": "e21",
+   "fromNode": "a1",
+   "toNode": "o1_3",
+   "color": "4"
+  },
+  {
+   "id": "e22",
+   "fromNode": "a1",
+   "toNode": "o1_4",
+   "color": "4"
+  },
+  {
+   "id": "e23",
+   "fromNode": "a1",
+   "toNode": "o1_5",
+   "color": "4"
+  },
+  {
+   "id": "e24",
+   "fromNode": "m0",
+   "toNode": "a2",
+   "color": "5"
+  },
+  {
+   "id": "e25",
+   "fromNode": "a2",
+   "toNode": "o2_0",
+   "color": "4"
+  },
+  {
+   "id": "e26",
+   "fromNode": "a2",
+   "toNode": "o2_1",
+   "color": "4"
+  },
+  {
+   "id": "e27",
+   "fromNode": "a2",
+   "toNode": "o2_2",
+   "color": "4"
+  },
+  {
+   "id": "e28",
+   "fromNode": "a2",
+   "toNode": "o2_3",
+   "color": "4"
+  },
+  {
+   "id": "e29",
+   "fromNode": "a2",
+   "toNode": "o2_4",
+   "color": "4"
+  },
+  {
+   "id": "e30",
+   "fromNode": "a2",
+   "toNode": "o2_5",
+   "color": "4"
+  },
+  {
+   "id": "e31",
+   "fromNode": "a2",
+   "toNode": "o2_6",
+   "color": "4"
+  },
+  {
+   "id": "e32",
+   "fromNode": "a2",
+   "toNode": "o2_7",
+   "color": "4"
+  },
+  {
+   "id": "e33",
+   "fromNode": "a2",
+   "toNode": "o2_8",
+   "color": "4"
+  },
+  {
+   "id": "e34",
+   "fromNode": "m0",
+   "toNode": "a3",
+   "color": "5"
+  },
+  {
+   "id": "e35",
+   "fromNode": "a3",
+   "toNode": "o3_0",
+   "color": "4"
+  },
+  {
+   "id": "e36",
+   "fromNode": "a3",
+   "toNode": "o3_1",
+   "color": "4"
+  },
+  {
+   "id": "e37",
+   "fromNode": "a3",
+   "toNode": "o3_2",
+   "color": "4"
+  },
+  {
+   "id": "e38",
+   "fromNode": "a3",
+   "toNode": "o3_3",
+   "color": "4"
+  },
+  {
+   "id": "e39",
+   "fromNode": "a3",
+   "toNode": "o3_4",
+   "color": "4"
+  },
+  {
+   "id": "e40",
+   "fromNode": "a3",
+   "toNode": "o3_5",
+   "color": "4"
+  },
+  {
+   "id": "e41",
+   "fromNode": "a3",
+   "toNode": "o3_6",
+   "color": "4"
+  },
+  {
+   "id": "e42",
+   "fromNode": "a3",
+   "toNode": "o3_7",
+   "color": "4"
+  },
+  {
+   "id": "e43",
+   "fromNode": "m0",
+   "toNode": "a4",
+   "color": "5"
+  },
+  {
+   "id": "e44",
+   "fromNode": "a4",
+   "toNode": "o4_0",
+   "color": "4"
+  },
+  {
+   "id": "e45",
+   "fromNode": "a4",
+   "toNode": "o4_1",
+   "color": "4"
+  },
+  {
+   "id": "e46",
+   "fromNode": "a4",
+   "toNode": "o4_2",
+   "color": "4"
+  },
+  {
+   "id": "e47",
+   "fromNode": "a4",
+   "toNode": "o4_3",
+   "color": "4"
+  },
+  {
+   "id": "e48",
+   "fromNode": "a4",
+   "toNode": "o4_4",
+   "color": "4"
+  },
+  {
+   "id": "e49",
+   "fromNode": "m0",
+   "toNode": "a5",
+   "color": "5"
+  },
+  {
+   "id": "e50",
+   "fromNode": "m0",
+   "toNode": "a6",
+   "color": "5"
+  },
+  {
+   "id": "e51",
+   "fromNode": "a6",
+   "toNode": "o6_0",
+   "color": "4"
+  },
+  {
+   "id": "e52",
+   "fromNode": "a6",
+   "toNode": "o6_1",
+   "color": "4"
+  },
+  {
+   "id": "e53",
+   "fromNode": "a6",
+   "toNode": "o6_2",
+   "color": "4"
+  },
+  {
+   "id": "e54",
+   "fromNode": "a6",
+   "toNode": "o6_3",
+   "color": "4"
+  },
+  {
+   "id": "e55",
+   "fromNode": "a6",
+   "toNode": "o6_4",
+   "color": "4"
+  },
+  {
+   "id": "e56",
+   "fromNode": "a6",
+   "toNode": "o6_5",
+   "color": "4"
+  },
+  {
+   "id": "e57",
+   "fromNode": "a6",
+   "toNode": "o6_6",
+   "color": "4"
+  },
+  {
+   "id": "e58",
+   "fromNode": "a6",
+   "toNode": "o6_7",
+   "color": "4"
+  },
+  {
+   "id": "e59",
+   "fromNode": "a6",
+   "toNode": "o6_8",
+   "color": "4"
+  },
+  {
+   "id": "e60",
+   "fromNode": "a6",
+   "toNode": "o6_9",
+   "color": "4"
+  },
+  {
+   "id": "e61",
+   "fromNode": "a6",
+   "toNode": "o6_10",
+   "color": "4"
+  },
+  {
+   "id": "e62",
+   "fromNode": "a6",
+   "toNode": "o6_11",
+   "color": "4"
+  },
+  {
+   "id": "e63",
+   "fromNode": "a6",
+   "toNode": "o6_12",
+   "color": "4"
+  },
+  {
+   "id": "e64",
+   "fromNode": "a6",
+   "toNode": "o6_13",
+   "color": "4"
+  },
+  {
+   "id": "e65",
+   "fromNode": "hub",
+   "toNode": "m1",
+   "color": "1"
+  },
+  {
+   "id": "e66",
+   "fromNode": "m1",
+   "toNode": "a7",
+   "color": "5"
+  },
+  {
+   "id": "e67",
+   "fromNode": "a7",
+   "toNode": "o7_0",
+   "color": "4"
+  },
+  {
+   "id": "e68",
+   "fromNode": "a7",
+   "toNode": "o7_1",
+   "color": "4"
+  },
+  {
+   "id": "e69",
+   "fromNode": "a7",
+   "toNode": "o7_2",
+   "color": "4"
+  },
+  {
+   "id": "e70",
+   "fromNode": "a7",
+   "toNode": "o7_3",
+   "color": "4"
+  },
+  {
+   "id": "e71",
+   "fromNode": "a7",
+   "toNode": "o7_4",
+   "color": "4"
+  },
+  {
+   "id": "e72",
+   "fromNode": "a7",
+   "toNode": "o7_5",
+   "color": "4"
+  },
+  {
+   "id": "e73",
+   "fromNode": "a7",
+   "toNode": "o7_6",
+   "color": "4"
+  },
+  {
+   "id": "e74",
+   "fromNode": "a7",
+   "toNode": "o7_7",
+   "color": "4"
+  },
+  {
+   "id": "e75",
+   "fromNode": "m1",
+   "toNode": "a8",
+   "color": "5"
+  },
+  {
+   "id": "e76",
+   "fromNode": "m1",
+   "toNode": "a9",
+   "color": "5"
+  },
+  {
+   "id": "e77",
+   "fromNode": "m1",
+   "toNode": "a10",
+   "color": "5"
+  },
+  {
+   "id": "e78",
+   "fromNode": "hub",
+   "toNode": "m2",
+   "color": "1"
+  },
+  {
+   "id": "e79",
+   "fromNode": "m2",
+   "toNode": "a11",
+   "color": "5"
+  },
+  {
+   "id": "e80",
+   "fromNode": "a11",
+   "toNode": "o11_0",
+   "color": "4"
+  },
+  {
+   "id": "e81",
+   "fromNode": "a11",
+   "toNode": "o11_1",
+   "color": "4"
+  },
+  {
+   "id": "e82",
+   "fromNode": "a11",
+   "toNode": "o11_2",
+   "color": "4"
+  },
+  {
+   "id": "e83",
+   "fromNode": "a11",
+   "toNode": "o11_3",
+   "color": "4"
+  },
+  {
+   "id": "e84",
+   "fromNode": "a11",
+   "toNode": "o11_4",
+   "color": "4"
+  },
+  {
+   "id": "e85",
+   "fromNode": "m2",
+   "toNode": "a12",
+   "color": "5"
+  },
+  {
+   "id": "e86",
+   "fromNode": "a12",
+   "toNode": "o12_0",
+   "color": "4"
+  },
+  {
+   "id": "e87",
+   "fromNode": "a12",
+   "toNode": "o12_1",
+   "color": "4"
+  },
+  {
+   "id": "e88",
+   "fromNode": "a12",
+   "toNode": "o12_2",
+   "color": "4"
+  },
+  {
+   "id": "e89",
+   "fromNode": "m2",
+   "toNode": "a13",
+   "color": "5"
+  },
+  {
+   "id": "e90",
+   "fromNode": "m2",
+   "toNode": "a14",
+   "color": "5"
+  },
+  {
+   "id": "e91",
+   "fromNode": "a14",
+   "toNode": "o14_0",
+   "color": "4"
+  },
+  {
+   "id": "e92",
+   "fromNode": "a14",
+   "toNode": "o14_1",
+   "color": "4"
+  },
+  {
+   "id": "e93",
+   "fromNode": "a14",
+   "toNode": "o14_2",
+   "color": "4"
+  },
+  {
+   "id": "e94",
+   "fromNode": "a14",
+   "toNode": "o14_3",
+   "color": "4"
+  },
+  {
+   "id": "e95",
+   "fromNode": "a14",
+   "toNode": "o14_4",
+   "color": "4"
+  },
+  {
+   "id": "e96",
+   "fromNode": "a14",
+   "toNode": "o14_5",
+   "color": "4"
+  },
+  {
+   "id": "e97",
+   "fromNode": "a14",
+   "toNode": "o14_6",
+   "color": "4"
+  },
+  {
+   "id": "e98",
+   "fromNode": "a14",
+   "toNode": "o14_7",
+   "color": "4"
+  },
+  {
+   "id": "e99",
+   "fromNode": "a14",
+   "toNode": "o14_8",
+   "color": "4"
+  },
+  {
+   "id": "e100",
+   "fromNode": "a14",
+   "toNode": "o14_9",
+   "color": "4"
+  },
+  {
+   "id": "e101",
+   "fromNode": "a14",
+   "toNode": "o14_10",
+   "color": "4"
+  },
+  {
+   "id": "e102",
+   "fromNode": "m2",
+   "toNode": "a15",
+   "color": "5"
+  },
+  {
+   "id": "e103",
+   "fromNode": "m2",
+   "toNode": "a16",
+   "color": "5"
+  },
+  {
+   "id": "e104",
+   "fromNode": "m2",
+   "toNode": "a17",
+   "color": "5"
+  },
+  {
+   "id": "e105",
+   "fromNode": "m2",
+   "toNode": "a18",
+   "color": "5"
+  },
+  {
+   "id": "e106",
+   "fromNode": "a18",
+   "toNode": "o18_0",
+   "color": "4"
+  },
+  {
+   "id": "e107",
+   "fromNode": "m2",
+   "toNode": "a19",
+   "color": "5"
+  },
+  {
+   "id": "e108",
+   "fromNode": "m2",
+   "toNode": "a20",
+   "color": "5"
+  },
+  {
+   "id": "e109",
+   "fromNode": "m2",
+   "toNode": "a21",
+   "color": "5"
+  },
+  {
+   "id": "e110",
+   "fromNode": "a21",
+   "toNode": "o21_0",
+   "color": "4"
+  },
+  {
+   "id": "e111",
+   "fromNode": "m2",
+   "toNode": "a22",
+   "color": "5"
+  },
+  {
+   "id": "e112",
+   "fromNode": "a22",
+   "toNode": "o22_0",
+   "color": "4"
+  },
+  {
+   "id": "e113",
+   "fromNode": "m2",
+   "toNode": "a23",
+   "color": "5"
+  },
+  {
+   "id": "e114",
+   "fromNode": "a23",
+   "toNode": "o23_0",
+   "color": "4"
+  },
+  {
+   "id": "e115",
+   "fromNode": "a23",
+   "toNode": "o23_1",
+   "color": "4"
+  },
+  {
+   "id": "e116",
+   "fromNode": "a23",
+   "toNode": "o23_2",
+   "color": "4"
+  },
+  {
+   "id": "e117",
+   "fromNode": "a23",
+   "toNode": "o23_3",
+   "color": "4"
+  },
+  {
+   "id": "e118",
+   "fromNode": "a23",
+   "toNode": "o23_4",
+   "color": "4"
+  },
+  {
+   "id": "e119",
+   "fromNode": "a23",
+   "toNode": "o23_5",
+   "color": "4"
+  },
+  {
+   "id": "e120",
+   "fromNode": "m2",
+   "toNode": "a24",
+   "color": "5"
+  },
+  {
+   "id": "e121",
+   "fromNode": "m2",
+   "toNode": "a25",
+   "color": "5"
+  },
+  {
+   "id": "e122",
+   "fromNode": "a25",
+   "toNode": "o25_0",
+   "color": "4"
+  },
+  {
+   "id": "e123",
+   "fromNode": "a25",
+   "toNode": "o25_1",
+   "color": "4"
+  },
+  {
+   "id": "e124",
+   "fromNode": "a25",
+   "toNode": "o25_2",
+   "color": "4"
+  },
+  {
+   "id": "e125",
+   "fromNode": "a25",
+   "toNode": "o25_3",
+   "color": "4"
+  },
+  {
+   "id": "e126",
+   "fromNode": "m2",
+   "toNode": "a26",
+   "color": "5"
+  },
+  {
+   "id": "e127",
+   "fromNode": "hub",
+   "toNode": "m3",
+   "color": "1"
+  },
+  {
+   "id": "e128",
+   "fromNode": "m3",
+   "toNode": "a27",
+   "color": "5"
+  },
+  {
+   "id": "e129",
+   "fromNode": "a27",
+   "toNode": "o27_0",
+   "color": "4"
+  },
+  {
+   "id": "e130",
+   "fromNode": "a27",
+   "toNode": "o27_1",
+   "color": "4"
+  },
+  {
+   "id": "e131",
+   "fromNode": "a27",
+   "toNode": "o27_2",
+   "color": "4"
+  },
+  {
+   "id": "e132",
+   "fromNode": "a27",
+   "toNode": "o27_3",
+   "color": "4"
+  },
+  {
+   "id": "e133",
+   "fromNode": "a27",
+   "toNode": "o27_4",
+   "color": "4"
+  },
+  {
+   "id": "e134",
+   "fromNode": "m3",
+   "toNode": "a28",
+   "color": "5"
+  },
+  {
+   "id": "e135",
+   "fromNode": "a28",
+   "toNode": "o28_0",
+   "color": "4"
+  },
+  {
+   "id": "e136",
+   "fromNode": "a28",
+   "toNode": "o28_1",
+   "color": "4"
+  },
+  {
+   "id": "e137",
+   "fromNode": "a28",
+   "toNode": "o28_2",
+   "color": "4"
+  },
+  {
+   "id": "e138",
+   "fromNode": "a28",
+   "toNode": "o28_3",
+   "color": "4"
+  },
+  {
+   "id": "e139",
+   "fromNode": "m3",
+   "toNode": "a29",
+   "color": "5"
+  },
+  {
+   "id": "e140",
+   "fromNode": "m3",
+   "toNode": "a30",
+   "color": "5"
+  },
+  {
+   "id": "e141",
+   "fromNode": "a30",
+   "toNode": "o30_0",
+   "color": "4"
+  },
+  {
+   "id": "e142",
+   "fromNode": "a30",
+   "toNode": "o30_1",
+   "color": "4"
+  },
+  {
+   "id": "e143",
+   "fromNode": "a30",
+   "toNode": "o30_2",
+   "color": "4"
+  },
+  {
+   "id": "e144",
+   "fromNode": "a30",
+   "toNode": "o30_3",
+   "color": "4"
+  },
+  {
+   "id": "e145",
+   "fromNode": "m3",
+   "toNode": "a31",
+   "color": "5"
+  },
+  {
+   "id": "e146",
+   "fromNode": "m3",
+   "toNode": "a32",
+   "color": "5"
+  },
+  {
+   "id": "e147",
+   "fromNode": "a32",
+   "toNode": "o32_0",
+   "color": "4"
+  },
+  {
+   "id": "e148",
+   "fromNode": "m3",
+   "toNode": "a33",
+   "color": "5"
+  },
+  {
+   "id": "e149",
+   "fromNode": "a33",
+   "toNode": "o33_0",
+   "color": "4"
+  },
+  {
+   "id": "e150",
+   "fromNode": "a33",
+   "toNode": "o33_1",
+   "color": "4"
+  },
+  {
+   "id": "e151",
+   "fromNode": "a33",
+   "toNode": "o33_2",
+   "color": "4"
+  },
+  {
+   "id": "e152",
+   "fromNode": "a33",
+   "toNode": "o33_3",
+   "color": "4"
+  },
+  {
+   "id": "e153",
+   "fromNode": "a33",
+   "toNode": "o33_4",
+   "color": "4"
+  },
+  {
+   "id": "e154",
+   "fromNode": "m3",
+   "toNode": "a34",
+   "color": "5"
+  },
+  {
+   "id": "e155",
+   "fromNode": "m3",
+   "toNode": "a35",
+   "color": "5"
+  },
+  {
+   "id": "e156",
+   "fromNode": "m3",
+   "toNode": "a36",
+   "color": "5"
+  },
+  {
+   "id": "e157",
+   "fromNode": "m3",
+   "toNode": "a37",
+   "color": "5"
+  },
+  {
+   "id": "e158",
+   "fromNode": "a37",
+   "toNode": "o37_0",
+   "color": "4"
+  },
+  {
+   "id": "e159",
+   "fromNode": "a37",
+   "toNode": "o37_1",
+   "color": "4"
+  },
+  {
+   "id": "e160",
+   "fromNode": "a37",
+   "toNode": "o37_2",
+   "color": "4"
+  },
+  {
+   "id": "e161",
+   "fromNode": "a37",
+   "toNode": "o37_3",
+   "color": "4"
+  },
+  {
+   "id": "e162",
+   "fromNode": "a37",
+   "toNode": "o37_4",
+   "color": "4"
+  },
+  {
+   "id": "e163",
+   "fromNode": "a37",
+   "toNode": "o37_5",
+   "color": "4"
+  },
+  {
+   "id": "e164",
+   "fromNode": "a37",
+   "toNode": "o37_6",
+   "color": "4"
+  },
+  {
+   "id": "e165",
+   "fromNode": "a37",
+   "toNode": "o37_7",
+   "color": "4"
+  },
+  {
+   "id": "e166",
+   "fromNode": "a37",
+   "toNode": "o37_8",
+   "color": "4"
+  },
+  {
+   "id": "e167",
+   "fromNode": "a37",
+   "toNode": "o37_9",
+   "color": "4"
+  },
+  {
+   "id": "e168",
+   "fromNode": "a37",
+   "toNode": "o37_10",
+   "color": "4"
+  },
+  {
+   "id": "e169",
+   "fromNode": "a37",
+   "toNode": "o37_11",
+   "color": "4"
+  },
+  {
+   "id": "e170",
+   "fromNode": "a37",
+   "toNode": "o37_12",
+   "color": "4"
+  },
+  {
+   "id": "e171",
+   "fromNode": "a37",
+   "toNode": "o37_13",
+   "color": "4"
+  },
+  {
+   "id": "e172",
+   "fromNode": "m3",
+   "toNode": "a38",
+   "color": "5"
+  },
+  {
+   "id": "e173",
+   "fromNode": "a38",
+   "toNode": "o38_0",
+   "color": "4"
+  },
+  {
+   "id": "e174",
+   "fromNode": "a38",
+   "toNode": "o38_1",
+   "color": "4"
+  },
+  {
+   "id": "e175",
+   "fromNode": "a38",
+   "toNode": "o38_2",
+   "color": "4"
+  },
+  {
+   "id": "e176",
+   "fromNode": "m3",
+   "toNode": "a39",
+   "color": "5"
+  },
+  {
+   "id": "e177",
+   "fromNode": "a39",
+   "toNode": "o39_0",
+   "color": "4"
+  },
+  {
+   "id": "e178",
+   "fromNode": "m3",
+   "toNode": "a40",
+   "color": "5"
+  },
+  {
+   "id": "e179",
+   "fromNode": "m3",
+   "toNode": "a41",
+   "color": "5"
+  },
+  {
+   "id": "e180",
+   "fromNode": "m3",
+   "toNode": "a42",
+   "color": "5"
+  },
+  {
+   "id": "e181",
+   "fromNode": "m3",
+   "toNode": "a43",
+   "color": "5"
+  },
+  {
+   "id": "e182",
+   "fromNode": "m3",
+   "toNode": "a44",
+   "color": "5"
+  },
+  {
+   "id": "e183",
+   "fromNode": "m3",
+   "toNode": "a45",
+   "color": "5"
+  },
+  {
+   "id": "e184",
+   "fromNode": "m3",
+   "toNode": "a46",
+   "color": "5"
+  },
+  {
+   "id": "e185",
+   "fromNode": "a46",
+   "toNode": "o46_0",
+   "color": "4"
+  },
+  {
+   "id": "e186",
+   "fromNode": "a46",
+   "toNode": "o46_1",
+   "color": "4"
+  },
+  {
+   "id": "e187",
+   "fromNode": "a46",
+   "toNode": "o46_2",
+   "color": "4"
+  },
+  {
+   "id": "e188",
+   "fromNode": "m3",
+   "toNode": "a47",
+   "color": "5"
+  },
+  {
+   "id": "e189",
+   "fromNode": "m3",
+   "toNode": "a48",
+   "color": "5"
+  },
+  {
+   "id": "e190",
+   "fromNode": "m3",
+   "toNode": "a49",
+   "color": "5"
+  },
+  {
+   "id": "e191",
+   "fromNode": "a49",
+   "toNode": "o49_0",
+   "color": "4"
+  },
+  {
+   "id": "e192",
+   "fromNode": "a49",
+   "toNode": "o49_1",
+   "color": "4"
+  },
+  {
+   "id": "e193",
+   "fromNode": "a49",
+   "toNode": "o49_2",
+   "color": "4"
+  },
+  {
+   "id": "e194",
+   "fromNode": "a49",
+   "toNode": "o49_3",
+   "color": "4"
+  },
+  {
+   "id": "e195",
+   "fromNode": "m3",
+   "toNode": "a50",
+   "color": "5"
+  },
+  {
+   "id": "e196",
+   "fromNode": "a50",
+   "toNode": "o50_0",
+   "color": "4"
+  },
+  {
+   "id": "e197",
+   "fromNode": "a50",
+   "toNode": "o50_1",
+   "color": "4"
+  },
+  {
+   "id": "e198",
+   "fromNode": "a50",
+   "toNode": "o50_2",
+   "color": "4"
+  },
+  {
+   "id": "e199",
+   "fromNode": "a50",
+   "toNode": "o50_3",
+   "color": "4"
+  },
+  {
+   "id": "e200",
+   "fromNode": "m3",
+   "toNode": "a51",
+   "color": "5"
+  },
+  {
+   "id": "e201",
+   "fromNode": "a51",
+   "toNode": "o51_0",
+   "color": "4"
+  },
+  {
+   "id": "e202",
+   "fromNode": "a51",
+   "toNode": "o51_1",
+   "color": "4"
+  },
+  {
+   "id": "e203",
+   "fromNode": "a51",
+   "toNode": "o51_2",
+   "color": "4"
+  },
+  {
+   "id": "e204",
+   "fromNode": "a51",
+   "toNode": "o51_3",
+   "color": "4"
+  },
+  {
+   "id": "e205",
+   "fromNode": "a51",
+   "toNode": "o51_4",
+   "color": "4"
+  },
+  {
+   "id": "e206",
+   "fromNode": "m3",
+   "toNode": "a52",
+   "color": "5"
+  },
+  {
+   "id": "e207",
+   "fromNode": "a52",
+   "toNode": "o52_0",
+   "color": "4"
+  },
+  {
+   "id": "e208",
+   "fromNode": "a52",
+   "toNode": "o52_1",
+   "color": "4"
+  },
+  {
+   "id": "e209",
+   "fromNode": "a52",
+   "toNode": "o52_2",
+   "color": "4"
+  },
+  {
+   "id": "e210",
+   "fromNode": "a52",
+   "toNode": "o52_3",
+   "color": "4"
+  },
+  {
+   "id": "e211",
+   "fromNode": "m3",
+   "toNode": "a53",
+   "color": "5"
+  },
+  {
+   "id": "e212",
+   "fromNode": "m3",
+   "toNode": "a54",
+   "color": "5"
+  },
+  {
+   "id": "e213",
+   "fromNode": "m3",
+   "toNode": "a55",
+   "color": "5"
+  },
+  {
+   "id": "e214",
+   "fromNode": "m3",
+   "toNode": "a56",
+   "color": "5"
+  },
+  {
+   "id": "e215",
+   "fromNode": "m3",
+   "toNode": "a57",
+   "color": "5"
+  },
+  {
+   "id": "e216",
+   "fromNode": "a57",
+   "toNode": "o57_0",
+   "color": "4"
+  },
+  {
+   "id": "e217",
+   "fromNode": "a57",
+   "toNode": "o57_1",
+   "color": "4"
+  },
+  {
+   "id": "e218",
+   "fromNode": "a57",
+   "toNode": "o57_2",
+   "color": "4"
+  },
+  {
+   "id": "e219",
+   "fromNode": "a57",
+   "toNode": "o57_3",
+   "color": "4"
+  },
+  {
+   "id": "e220",
+   "fromNode": "m3",
+   "toNode": "a58",
+   "color": "5"
+  },
+  {
+   "id": "e221",
+   "fromNode": "m3",
+   "toNode": "a59",
+   "color": "5"
+  },
+  {
+   "id": "e222",
+   "fromNode": "m3",
+   "toNode": "a60",
+   "color": "5"
+  },
+  {
+   "id": "e223",
+   "fromNode": "m3",
+   "toNode": "a61",
+   "color": "5"
+  },
+  {
+   "id": "e224",
+   "fromNode": "m3",
+   "toNode": "a62",
+   "color": "5"
+  },
+  {
+   "id": "e225",
+   "fromNode": "m3",
+   "toNode": "a63",
+   "color": "5"
+  },
+  {
+   "id": "e226",
+   "fromNode": "a63",
+   "toNode": "o63_0",
+   "color": "4"
+  },
+  {
+   "id": "e227",
+   "fromNode": "a63",
+   "toNode": "o63_1",
+   "color": "4"
+  },
+  {
+   "id": "e228",
+   "fromNode": "a63",
+   "toNode": "o63_2",
+   "color": "4"
+  },
+  {
+   "id": "e229",
+   "fromNode": "a63",
+   "toNode": "o63_3",
+   "color": "4"
+  },
+  {
+   "id": "e230",
+   "fromNode": "a63",
+   "toNode": "o63_4",
+   "color": "4"
+  },
+  {
+   "id": "e231",
+   "fromNode": "m3",
+   "toNode": "a64",
+   "color": "5"
+  },
+  {
+   "id": "e232",
+   "fromNode": "m3",
+   "toNode": "a65",
+   "color": "5"
+  },
+  {
+   "id": "e233",
+   "fromNode": "m3",
+   "toNode": "a66",
+   "color": "5"
+  },
+  {
+   "id": "e234",
+   "fromNode": "a66",
+   "toNode": "o66_0",
+   "color": "4"
+  },
+  {
+   "id": "e235",
+   "fromNode": "a66",
+   "toNode": "o66_1",
+   "color": "4"
+  },
+  {
+   "id": "e236",
+   "fromNode": "a66",
+   "toNode": "o66_2",
+   "color": "4"
+  },
+  {
+   "id": "e237",
+   "fromNode": "a66",
+   "toNode": "o66_3",
+   "color": "4"
+  },
+  {
+   "id": "e238",
+   "fromNode": "a66",
+   "toNode": "o66_4",
+   "color": "4"
+  },
+  {
+   "id": "e239",
+   "fromNode": "a66",
+   "toNode": "o66_5",
+   "color": "4"
+  },
+  {
+   "id": "e240",
+   "fromNode": "a66",
+   "toNode": "o66_6",
+   "color": "4"
+  },
+  {
+   "id": "e241",
+   "fromNode": "a66",
+   "toNode": "o66_7",
+   "color": "4"
+  },
+  {
+   "id": "e242",
+   "fromNode": "a66",
+   "toNode": "o66_8",
+   "color": "4"
+  },
+  {
+   "id": "e243",
+   "fromNode": "a66",
+   "toNode": "o66_9",
+   "color": "4"
+  },
+  {
+   "id": "e244",
+   "fromNode": "a66",
+   "toNode": "o66_10",
+   "color": "4"
+  },
+  {
+   "id": "e245",
+   "fromNode": "a66",
+   "toNode": "o66_11",
+   "color": "4"
+  },
+  {
+   "id": "e246",
+   "fromNode": "a66",
+   "toNode": "o66_12",
+   "color": "4"
+  },
+  {
+   "id": "e247",
+   "fromNode": "a66",
+   "toNode": "o66_13",
+   "color": "4"
+  },
+  {
+   "id": "e248",
+   "fromNode": "a66",
+   "toNode": "o66_14",
+   "color": "4"
+  },
+  {
+   "id": "e249",
+   "fromNode": "m3",
+   "toNode": "a67",
+   "color": "5"
+  },
+  {
+   "id": "e250",
+   "fromNode": "a67",
+   "toNode": "o67_0",
+   "color": "4"
+  },
+  {
+   "id": "e251",
+   "fromNode": "a67",
+   "toNode": "o67_1",
+   "color": "4"
+  },
+  {
+   "id": "e252",
+   "fromNode": "a67",
+   "toNode": "o67_2",
+   "color": "4"
+  },
+  {
+   "id": "e253",
+   "fromNode": "a67",
+   "toNode": "o67_3",
+   "color": "4"
+  },
+  {
+   "id": "e254",
+   "fromNode": "a67",
+   "toNode": "o67_4",
+   "color": "4"
+  },
+  {
+   "id": "e255",
+   "fromNode": "a67",
+   "toNode": "o67_5",
+   "color": "4"
+  },
+  {
+   "id": "e256",
+   "fromNode": "a67",
+   "toNode": "o67_6",
+   "color": "4"
+  },
+  {
+   "id": "e257",
+   "fromNode": "a67",
+   "toNode": "o67_7",
+   "color": "4"
+  },
+  {
+   "id": "e258",
+   "fromNode": "a67",
+   "toNode": "o67_8",
+   "color": "4"
+  },
+  {
+   "id": "e259",
+   "fromNode": "a67",
+   "toNode": "o67_9",
+   "color": "4"
+  },
+  {
+   "id": "e260",
+   "fromNode": "a67",
+   "toNode": "o67_10",
+   "color": "4"
+  },
+  {
+   "id": "e261",
+   "fromNode": "a67",
+   "toNode": "o67_11",
+   "color": "4"
+  },
+  {
+   "id": "e262",
+   "fromNode": "a67",
+   "toNode": "o67_12",
+   "color": "4"
+  },
+  {
+   "id": "e263",
+   "fromNode": "a67",
+   "toNode": "o67_13",
+   "color": "4"
+  },
+  {
+   "id": "e264",
+   "fromNode": "a67",
+   "toNode": "o67_14",
+   "color": "4"
+  },
+  {
+   "id": "e265",
+   "fromNode": "a67",
+   "toNode": "o67_15",
+   "color": "4"
+  },
+  {
+   "id": "e266",
+   "fromNode": "a67",
+   "toNode": "o67_16",
+   "color": "4"
+  },
+  {
+   "id": "e267",
+   "fromNode": "a67",
+   "toNode": "o67_17",
+   "color": "4"
+  },
+  {
+   "id": "e268",
+   "fromNode": "a67",
+   "toNode": "o67_18",
+   "color": "4"
+  },
+  {
+   "id": "e269",
+   "fromNode": "a67",
+   "toNode": "o67_19",
+   "color": "4"
+  },
+  {
+   "id": "e270",
+   "fromNode": "a67",
+   "toNode": "o67_20",
+   "color": "4"
+  },
+  {
+   "id": "e271",
+   "fromNode": "a67",
+   "toNode": "o67_21",
+   "color": "4"
+  },
+  {
+   "id": "e272",
+   "fromNode": "a67",
+   "toNode": "o67_22",
+   "color": "4"
+  },
+  {
+   "id": "e273",
+   "fromNode": "a67",
+   "toNode": "o67_23",
+   "color": "4"
+  },
+  {
+   "id": "e274",
+   "fromNode": "a67",
+   "toNode": "o67_24",
+   "color": "4"
+  },
+  {
+   "id": "e275",
+   "fromNode": "a67",
+   "toNode": "o67_25",
+   "color": "4"
+  },
+  {
+   "id": "e276",
+   "fromNode": "a67",
+   "toNode": "o67_26",
+   "color": "4"
+  },
+  {
+   "id": "e277",
+   "fromNode": "a67",
+   "toNode": "o67_27",
+   "color": "4"
+  },
+  {
+   "id": "e278",
+   "fromNode": "m3",
+   "toNode": "a68",
+   "color": "5"
+  },
+  {
+   "id": "e279",
+   "fromNode": "a68",
+   "toNode": "o68_0",
+   "color": "4"
+  },
+  {
+   "id": "e280",
+   "fromNode": "a68",
+   "toNode": "o68_1",
+   "color": "4"
+  },
+  {
+   "id": "e281",
+   "fromNode": "a68",
+   "toNode": "o68_2",
+   "color": "4"
+  },
+  {
+   "id": "e282",
+   "fromNode": "a68",
+   "toNode": "o68_3",
+   "color": "4"
+  },
+  {
+   "id": "e283",
+   "fromNode": "a68",
+   "toNode": "o68_4",
+   "color": "4"
+  },
+  {
+   "id": "e284",
+   "fromNode": "m3",
+   "toNode": "a69",
+   "color": "5"
+  },
+  {
+   "id": "e285",
+   "fromNode": "a69",
+   "toNode": "o69_0",
+   "color": "4"
+  },
+  {
+   "id": "e286",
+   "fromNode": "a69",
+   "toNode": "o69_1",
+   "color": "4"
+  },
+  {
+   "id": "e287",
+   "fromNode": "a69",
+   "toNode": "o69_2",
+   "color": "4"
+  },
+  {
+   "id": "e288",
+   "fromNode": "a69",
+   "toNode": "o69_3",
+   "color": "4"
+  },
+  {
+   "id": "e289",
+   "fromNode": "a69",
+   "toNode": "o69_4",
+   "color": "4"
+  },
+  {
+   "id": "e290",
+   "fromNode": "a69",
+   "toNode": "o69_5",
+   "color": "4"
+  },
+  {
+   "id": "e291",
+   "fromNode": "a69",
+   "toNode": "o69_6",
+   "color": "4"
+  },
+  {
+   "id": "e292",
+   "fromNode": "a69",
+   "toNode": "o69_7",
+   "color": "4"
+  },
+  {
+   "id": "e293",
+   "fromNode": "hub",
+   "toNode": "m4",
+   "color": "1"
+  },
+  {
+   "id": "e294",
+   "fromNode": "m4",
+   "toNode": "a70",
+   "color": "5"
+  },
+  {
+   "id": "e295",
+   "fromNode": "m4",
+   "toNode": "a71",
+   "color": "5"
+  },
+  {
+   "id": "e296",
+   "fromNode": "m4",
+   "toNode": "a72",
+   "color": "5"
+  },
+  {
+   "id": "e297",
+   "fromNode": "a72",
+   "toNode": "o72_0",
+   "color": "4"
+  },
+  {
+   "id": "e298",
+   "fromNode": "a72",
+   "toNode": "o72_1",
+   "color": "4"
+  },
+  {
+   "id": "e299",
+   "fromNode": "a72",
+   "toNode": "o72_2",
+   "color": "4"
+  },
+  {
+   "id": "e300",
+   "fromNode": "a72",
+   "toNode": "o72_3",
+   "color": "4"
+  },
+  {
+   "id": "e301",
+   "fromNode": "a72",
+   "toNode": "o72_4",
+   "color": "4"
+  },
+  {
+   "id": "e302",
+   "fromNode": "m4",
+   "toNode": "a73",
+   "color": "5"
+  },
+  {
+   "id": "e303",
+   "fromNode": "m4",
+   "toNode": "a74",
+   "color": "5"
+  },
+  {
+   "id": "e304",
+   "fromNode": "m4",
+   "toNode": "a75",
+   "color": "5"
+  },
+  {
+   "id": "e305",
+   "fromNode": "a75",
+   "toNode": "o75_0",
+   "color": "4"
+  },
+  {
+   "id": "e306",
+   "fromNode": "a75",
+   "toNode": "o75_1",
+   "color": "4"
+  },
+  {
+   "id": "e307",
+   "fromNode": "a75",
+   "toNode": "o75_2",
+   "color": "4"
+  },
+  {
+   "id": "e308",
+   "fromNode": "a75",
+   "toNode": "o75_3",
+   "color": "4"
+  },
+  {
+   "id": "e309",
+   "fromNode": "a75",
+   "toNode": "o75_4",
+   "color": "4"
+  },
+  {
+   "id": "e310",
+   "fromNode": "a75",
+   "toNode": "o75_5",
+   "color": "4"
+  },
+  {
+   "id": "e311",
+   "fromNode": "a75",
+   "toNode": "o75_6",
+   "color": "4"
+  },
+  {
+   "id": "e312",
+   "fromNode": "m4",
+   "toNode": "a76",
+   "color": "5"
+  },
+  {
+   "id": "e313",
+   "fromNode": "m4",
+   "toNode": "a77",
+   "color": "5"
+  },
+  {
+   "id": "e314",
+   "fromNode": "a77",
+   "toNode": "o77_0",
+   "color": "4"
+  },
+  {
+   "id": "e315",
+   "fromNode": "a77",
+   "toNode": "o77_1",
+   "color": "4"
+  },
+  {
+   "id": "e316",
+   "fromNode": "a77",
+   "toNode": "o77_2",
+   "color": "4"
+  },
+  {
+   "id": "e317",
+   "fromNode": "a77",
+   "toNode": "o77_3",
+   "color": "4"
+  },
+  {
+   "id": "e318",
+   "fromNode": "a77",
+   "toNode": "o77_4",
+   "color": "4"
+  },
+  {
+   "id": "e319",
+   "fromNode": "m4",
+   "toNode": "a78",
+   "color": "5"
+  },
+  {
+   "id": "e320",
+   "fromNode": "a78",
+   "toNode": "o78_0",
+   "color": "4"
+  },
+  {
+   "id": "e321",
+   "fromNode": "a78",
+   "toNode": "o78_1",
+   "color": "4"
+  },
+  {
+   "id": "e322",
+   "fromNode": "a78",
+   "toNode": "o78_2",
+   "color": "4"
+  },
+  {
+   "id": "e323",
+   "fromNode": "a78",
+   "toNode": "o78_3",
+   "color": "4"
+  },
+  {
+   "id": "e324",
+   "fromNode": "a78",
+   "toNode": "o78_4",
+   "color": "4"
+  },
+  {
+   "id": "e325",
+   "fromNode": "a78",
+   "toNode": "o78_5",
+   "color": "4"
+  },
+  {
+   "id": "e326",
+   "fromNode": "m4",
+   "toNode": "a79",
+   "color": "5"
+  },
+  {
+   "id": "e327",
+   "fromNode": "a79",
+   "toNode": "o79_0",
+   "color": "4"
+  },
+  {
+   "id": "e328",
+   "fromNode": "a79",
+   "toNode": "o79_1",
+   "color": "4"
+  },
+  {
+   "id": "e329",
+   "fromNode": "a79",
+   "toNode": "o79_2",
+   "color": "4"
+  },
+  {
+   "id": "e330",
+   "fromNode": "a79",
+   "toNode": "o79_3",
+   "color": "4"
+  },
+  {
+   "id": "e331",
+   "fromNode": "a79",
+   "toNode": "o79_4",
+   "color": "4"
+  },
+  {
+   "id": "e332",
+   "fromNode": "a79",
+   "toNode": "o79_5",
+   "color": "4"
+  },
+  {
+   "id": "e333",
+   "fromNode": "a79",
+   "toNode": "o79_6",
+   "color": "4"
+  },
+  {
+   "id": "e334",
+   "fromNode": "a79",
+   "toNode": "o79_7",
+   "color": "4"
+  },
+  {
+   "id": "e335",
+   "fromNode": "a79",
+   "toNode": "o79_8",
+   "color": "4"
+  },
+  {
+   "id": "e336",
+   "fromNode": "a79",
+   "toNode": "o79_9",
+   "color": "4"
+  },
+  {
+   "id": "e337",
+   "fromNode": "a79",
+   "toNode": "o79_10",
+   "color": "4"
+  },
+  {
+   "id": "e338",
+   "fromNode": "a79",
+   "toNode": "o79_11",
+   "color": "4"
+  },
+  {
+   "id": "e339",
+   "fromNode": "a79",
+   "toNode": "o79_12",
+   "color": "4"
+  },
+  {
+   "id": "e340",
+   "fromNode": "m4",
+   "toNode": "a80",
+   "color": "5"
+  },
+  {
+   "id": "e341",
+   "fromNode": "a80",
+   "toNode": "o80_0",
+   "color": "4"
+  },
+  {
+   "id": "e342",
+   "fromNode": "a80",
+   "toNode": "o80_1",
+   "color": "4"
+  },
+  {
+   "id": "e343",
+   "fromNode": "m4",
+   "toNode": "a81",
+   "color": "5"
+  },
+  {
+   "id": "e344",
+   "fromNode": "a81",
+   "toNode": "o81_0",
+   "color": "4"
+  },
+  {
+   "id": "e345",
+   "fromNode": "a81",
+   "toNode": "o81_1",
+   "color": "4"
+  },
+  {
+   "id": "e346",
+   "fromNode": "a81",
+   "toNode": "o81_2",
+   "color": "4"
+  },
+  {
+   "id": "e347",
+   "fromNode": "m4",
+   "toNode": "a82",
+   "color": "5"
+  },
+  {
+   "id": "e348",
+   "fromNode": "m4",
+   "toNode": "a83",
+   "color": "5"
+  },
+  {
+   "id": "e349",
+   "fromNode": "m4",
+   "toNode": "a84",
+   "color": "5"
+  },
+  {
+   "id": "e350",
+   "fromNode": "m4",
+   "toNode": "a85",
+   "color": "5"
+  },
+  {
+   "id": "e351",
+   "fromNode": "m4",
+   "toNode": "a86",
+   "color": "5"
+  },
+  {
+   "id": "e352",
+   "fromNode": "a86",
+   "toNode": "o86_0",
+   "color": "4"
+  },
+  {
+   "id": "e353",
+   "fromNode": "a86",
+   "toNode": "o86_1",
+   "color": "4"
+  },
+  {
+   "id": "e354",
+   "fromNode": "a86",
+   "toNode": "o86_2",
+   "color": "4"
+  },
+  {
+   "id": "e355",
+   "fromNode": "a86",
+   "toNode": "o86_3",
+   "color": "4"
+  },
+  {
+   "id": "e356",
+   "fromNode": "m4",
+   "toNode": "a87",
+   "color": "5"
+  },
+  {
+   "id": "e357",
+   "fromNode": "a87",
+   "toNode": "o87_0",
+   "color": "4"
+  },
+  {
+   "id": "e358",
+   "fromNode": "m4",
+   "toNode": "a88",
+   "color": "5"
+  },
+  {
+   "id": "e359",
+   "fromNode": "m4",
+   "toNode": "a89",
+   "color": "5"
+  },
+  {
+   "id": "e360",
+   "fromNode": "m4",
+   "toNode": "a90",
+   "color": "5"
+  },
+  {
+   "id": "e361",
+   "fromNode": "a90",
+   "toNode": "o90_0",
+   "color": "4"
+  },
+  {
+   "id": "e362",
+   "fromNode": "a90",
+   "toNode": "o90_1",
+   "color": "4"
+  },
+  {
+   "id": "e363",
+   "fromNode": "a90",
+   "toNode": "o90_2",
+   "color": "4"
+  },
+  {
+   "id": "e364",
+   "fromNode": "a90",
+   "toNode": "o90_3",
+   "color": "4"
+  },
+  {
+   "id": "e365",
+   "fromNode": "a90",
+   "toNode": "o90_4",
+   "color": "4"
+  },
+  {
+   "id": "e366",
+   "fromNode": "a90",
+   "toNode": "o90_5",
+   "color": "4"
+  },
+  {
+   "id": "e367",
+   "fromNode": "m4",
+   "toNode": "a91",
+   "color": "5"
+  },
+  {
+   "id": "e368",
+   "fromNode": "m4",
+   "toNode": "a92",
+   "color": "5"
+  },
+  {
+   "id": "e369",
+   "fromNode": "m4",
+   "toNode": "a93",
+   "color": "5"
+  },
+  {
+   "id": "e370",
+   "fromNode": "m4",
+   "toNode": "a94",
+   "color": "5"
+  },
+  {
+   "id": "e371",
+   "fromNode": "m4",
+   "toNode": "a95",
+   "color": "5"
+  },
+  {
+   "id": "e372",
+   "fromNode": "m4",
+   "toNode": "a96",
+   "color": "5"
+  },
+  {
+   "id": "e373",
+   "fromNode": "m4",
+   "toNode": "a97",
+   "color": "5"
+  },
+  {
+   "id": "e374",
+   "fromNode": "m4",
+   "toNode": "a98",
+   "color": "5"
+  },
+  {
+   "id": "e375",
+   "fromNode": "m4",
+   "toNode": "a99",
+   "color": "5"
+  },
+  {
+   "id": "e376",
+   "fromNode": "m4",
+   "toNode": "a100",
+   "color": "5"
+  },
+  {
+   "id": "e377",
+   "fromNode": "m4",
+   "toNode": "a101",
+   "color": "5"
+  },
+  {
+   "id": "e378",
+   "fromNode": "m4",
+   "toNode": "a102",
+   "color": "5"
+  },
+  {
+   "id": "e379",
+   "fromNode": "m4",
+   "toNode": "a103",
+   "color": "5"
+  },
+  {
+   "id": "e380",
+   "fromNode": "m4",
+   "toNode": "a104",
+   "color": "5"
+  },
+  {
+   "id": "e381",
+   "fromNode": "m4",
+   "toNode": "a105",
+   "color": "5"
+  },
+  {
+   "id": "e382",
+   "fromNode": "a105",
+   "toNode": "o105_0",
+   "color": "4"
+  },
+  {
+   "id": "e383",
+   "fromNode": "m4",
+   "toNode": "a106",
+   "color": "5"
+  },
+  {
+   "id": "e384",
+   "fromNode": "m4",
+   "toNode": "a107",
+   "color": "5"
+  },
+  {
+   "id": "e385",
+   "fromNode": "m4",
+   "toNode": "a108",
+   "color": "5"
+  },
+  {
+   "id": "e386",
+   "fromNode": "a108",
+   "toNode": "o108_0",
+   "color": "4"
+  },
+  {
+   "id": "e387",
+   "fromNode": "a108",
+   "toNode": "o108_1",
+   "color": "4"
+  },
+  {
+   "id": "e388",
+   "fromNode": "a108",
+   "toNode": "o108_2",
+   "color": "4"
+  },
+  {
+   "id": "e389",
+   "fromNode": "m4",
+   "toNode": "a109",
+   "color": "5"
+  },
+  {
+   "id": "e390",
+   "fromNode": "hub",
+   "toNode": "m5",
+   "color": "1"
+  },
+  {
+   "id": "e391",
+   "fromNode": "m5",
+   "toNode": "a110",
+   "color": "5"
+  },
+  {
+   "id": "e392",
+   "fromNode": "a110",
+   "toNode": "o110_0",
+   "color": "4"
+  },
+  {
+   "id": "e393",
+   "fromNode": "a110",
+   "toNode": "o110_1",
+   "color": "4"
+  },
+  {
+   "id": "e394",
+   "fromNode": "a110",
+   "toNode": "o110_2",
+   "color": "4"
+  },
+  {
+   "id": "e395",
+   "fromNode": "a110",
+   "toNode": "o110_3",
+   "color": "4"
+  },
+  {
+   "id": "e396",
+   "fromNode": "a110",
+   "toNode": "o110_4",
+   "color": "4"
+  },
+  {
+   "id": "e397",
+   "fromNode": "m5",
+   "toNode": "a111",
+   "color": "5"
+  },
+  {
+   "id": "e398",
+   "fromNode": "m5",
+   "toNode": "a112",
+   "color": "5"
+  },
+  {
+   "id": "e399",
+   "fromNode": "a112",
+   "toNode": "o112_0",
+   "color": "4"
+  },
+  {
+   "id": "e400",
+   "fromNode": "a112",
+   "toNode": "o112_1",
+   "color": "4"
+  },
+  {
+   "id": "e401",
+   "fromNode": "m5",
+   "toNode": "a113",
+   "color": "5"
+  },
+  {
+   "id": "e402",
+   "fromNode": "m5",
+   "toNode": "a114",
+   "color": "5"
+  },
+  {
+   "id": "e403",
+   "fromNode": "m5",
+   "toNode": "a115",
+   "color": "5"
+  },
+  {
+   "id": "e404",
+   "fromNode": "m5",
+   "toNode": "a116",
+   "color": "5"
+  },
+  {
+   "id": "e405",
+   "fromNode": "m5",
+   "toNode": "a117",
+   "color": "5"
+  },
+  {
+   "id": "e406",
+   "fromNode": "m5",
+   "toNode": "a118",
+   "color": "5"
+  },
+  {
+   "id": "e407",
+   "fromNode": "m5",
+   "toNode": "a119",
+   "color": "5"
+  },
+  {
+   "id": "e408",
+   "fromNode": "m5",
+   "toNode": "a120",
+   "color": "5"
+  },
+  {
+   "id": "e409",
+   "fromNode": "m5",
+   "toNode": "a121",
+   "color": "5"
+  },
+  {
+   "id": "e410",
+   "fromNode": "m5",
+   "toNode": "a122",
+   "color": "5"
+  },
+  {
+   "id": "e411",
+   "fromNode": "m5",
+   "toNode": "a123",
+   "color": "5"
+  },
+  {
+   "id": "e412",
+   "fromNode": "hub",
+   "toNode": "m6",
+   "color": "1"
+  },
+  {
+   "id": "e413",
+   "fromNode": "m6",
+   "toNode": "a124",
+   "color": "5"
+  },
+  {
+   "id": "e414",
+   "fromNode": "a124",
+   "toNode": "o124_0",
+   "color": "4"
+  },
+  {
+   "id": "e415",
+   "fromNode": "a124",
+   "toNode": "o124_1",
+   "color": "4"
+  },
+  {
+   "id": "e416",
+   "fromNode": "a124",
+   "toNode": "o124_2",
+   "color": "4"
+  },
+  {
+   "id": "e417",
+   "fromNode": "a124",
+   "toNode": "o124_3",
+   "color": "4"
+  },
+  {
+   "id": "e418",
+   "fromNode": "m6",
+   "toNode": "a125",
+   "color": "5"
+  },
+  {
+   "id": "e419",
+   "fromNode": "a125",
+   "toNode": "o125_0",
+   "color": "4"
+  },
+  {
+   "id": "e420",
+   "fromNode": "m6",
+   "toNode": "a126",
+   "color": "5"
+  },
+  {
+   "id": "e421",
+   "fromNode": "m6",
+   "toNode": "a127",
+   "color": "5"
+  },
+  {
+   "id": "e422",
+   "fromNode": "a127",
+   "toNode": "o127_0",
+   "color": "4"
+  },
+  {
+   "id": "e423",
+   "fromNode": "a127",
+   "toNode": "o127_1",
+   "color": "4"
+  },
+  {
+   "id": "e424",
+   "fromNode": "a127",
+   "toNode": "o127_2",
+   "color": "4"
+  },
+  {
+   "id": "e425",
+   "fromNode": "a127",
+   "toNode": "o127_3",
+   "color": "4"
+  },
+  {
+   "id": "e426",
+   "fromNode": "a127",
+   "toNode": "o127_4",
+   "color": "4"
+  },
+  {
+   "id": "e427",
+   "fromNode": "a127",
+   "toNode": "o127_5",
+   "color": "4"
+  },
+  {
+   "id": "e428",
+   "fromNode": "hub",
+   "toNode": "m7",
+   "color": "1"
+  },
+  {
+   "id": "e429",
+   "fromNode": "m7",
+   "toNode": "a128",
+   "color": "5"
+  },
+  {
+   "id": "e430",
+   "fromNode": "m7",
+   "toNode": "a129",
+   "color": "5"
+  },
+  {
+   "id": "e431",
+   "fromNode": "a129",
+   "toNode": "o129_0",
+   "color": "4"
+  },
+  {
+   "id": "e432",
+   "fromNode": "a129",
+   "toNode": "o129_1",
+   "color": "4"
+  },
+  {
+   "id": "e433",
+   "fromNode": "a129",
+   "toNode": "o129_2",
+   "color": "4"
+  },
+  {
+   "id": "e434",
+   "fromNode": "m7",
+   "toNode": "a130",
+   "color": "5"
+  },
+  {
+   "id": "e435",
+   "fromNode": "a130",
+   "toNode": "o130_0",
+   "color": "4"
+  },
+  {
+   "id": "e436",
+   "fromNode": "a130",
+   "toNode": "o130_1",
+   "color": "4"
+  },
+  {
+   "id": "e437",
+   "fromNode": "a130",
+   "toNode": "o130_2",
+   "color": "4"
+  },
+  {
+   "id": "e438",
+   "fromNode": "a130",
+   "toNode": "o130_3",
+   "color": "4"
+  },
+  {
+   "id": "e439",
+   "fromNode": "a130",
+   "toNode": "o130_4",
+   "color": "4"
+  },
+  {
+   "id": "e440",
+   "fromNode": "m7",
+   "toNode": "a131",
+   "color": "5"
+  },
+  {
+   "id": "e441",
+   "fromNode": "m7",
+   "toNode": "a132",
+   "color": "5"
+  },
+  {
+   "id": "e442",
+   "fromNode": "m7",
+   "toNode": "a133",
+   "color": "5"
+  },
+  {
+   "id": "e443",
+   "fromNode": "m7",
+   "toNode": "a134",
+   "color": "5"
+  },
+  {
+   "id": "e444",
+   "fromNode": "a134",
+   "toNode": "o134_0",
+   "color": "4"
+  },
+  {
+   "id": "e445",
+   "fromNode": "a134",
+   "toNode": "o134_1",
+   "color": "4"
+  },
+  {
+   "id": "e446",
+   "fromNode": "a134",
+   "toNode": "o134_2",
+   "color": "4"
+  },
+  {
+   "id": "e447",
+   "fromNode": "a134",
+   "toNode": "o134_3",
+   "color": "4"
+  },
+  {
+   "id": "e448",
+   "fromNode": "a134",
+   "toNode": "o134_4",
+   "color": "4"
+  },
+  {
+   "id": "e449",
+   "fromNode": "a134",
+   "toNode": "o134_5",
+   "color": "4"
+  },
+  {
+   "id": "e450",
+   "fromNode": "a134",
+   "toNode": "o134_6",
+   "color": "4"
+  },
+  {
+   "id": "e451",
+   "fromNode": "a134",
+   "toNode": "o134_7",
+   "color": "4"
+  },
+  {
+   "id": "e452",
+   "fromNode": "a134",
+   "toNode": "o134_8",
+   "color": "4"
+  },
+  {
+   "id": "e453",
+   "fromNode": "a134",
+   "toNode": "o134_9",
+   "color": "4"
+  },
+  {
+   "id": "e454",
+   "fromNode": "a134",
+   "toNode": "o134_10",
+   "color": "4"
+  },
+  {
+   "id": "e455",
+   "fromNode": "a134",
+   "toNode": "o134_11",
+   "color": "4"
+  },
+  {
+   "id": "e456",
+   "fromNode": "a134",
+   "toNode": "o134_12",
+   "color": "4"
+  },
+  {
+   "id": "e457",
+   "fromNode": "m7",
+   "toNode": "a135",
+   "color": "5"
+  },
+  {
+   "id": "e458",
+   "fromNode": "a135",
+   "toNode": "o135_0",
+   "color": "4"
+  },
+  {
+   "id": "e459",
+   "fromNode": "hub",
+   "toNode": "m8",
+   "color": "1"
+  },
+  {
+   "id": "e460",
+   "fromNode": "m8",
+   "toNode": "a136",
+   "color": "5"
+  },
+  {
+   "id": "e461",
+   "fromNode": "a136",
+   "toNode": "o136_0",
+   "color": "4"
+  },
+  {
+   "id": "e462",
+   "fromNode": "a136",
+   "toNode": "o136_1",
+   "color": "4"
+  },
+  {
+   "id": "e463",
+   "fromNode": "a136",
+   "toNode": "o136_2",
+   "color": "4"
+  },
+  {
+   "id": "e464",
+   "fromNode": "a136",
+   "toNode": "o136_3",
+   "color": "4"
+  },
+  {
+   "id": "e465",
+   "fromNode": "a136",
+   "toNode": "o136_4",
+   "color": "4"
+  },
+  {
+   "id": "e466",
+   "fromNode": "a136",
+   "toNode": "o136_5",
+   "color": "4"
+  },
+  {
+   "id": "e467",
+   "fromNode": "a136",
+   "toNode": "o136_6",
+   "color": "4"
+  },
+  {
+   "id": "e468",
+   "fromNode": "a136",
+   "toNode": "o136_7",
+   "color": "4"
+  },
+  {
+   "id": "e469",
+   "fromNode": "a136",
+   "toNode": "o136_8",
+   "color": "4"
+  },
+  {
+   "id": "e470",
+   "fromNode": "m8",
+   "toNode": "a137",
+   "color": "5"
+  },
+  {
+   "id": "e471",
+   "fromNode": "a137",
+   "toNode": "o137_0",
+   "color": "4"
+  },
+  {
+   "id": "e472",
+   "fromNode": "a137",
+   "toNode": "o137_1",
+   "color": "4"
+  },
+  {
+   "id": "e473",
+   "fromNode": "a137",
+   "toNode": "o137_2",
+   "color": "4"
+  },
+  {
+   "id": "e474",
+   "fromNode": "a137",
+   "toNode": "o137_3",
+   "color": "4"
+  },
+  {
+   "id": "e475",
+   "fromNode": "a137",
+   "toNode": "o137_4",
+   "color": "4"
+  },
+  {
+   "id": "e476",
+   "fromNode": "a137",
+   "toNode": "o137_5",
+   "color": "4"
+  },
+  {
+   "id": "e477",
+   "fromNode": "a137",
+   "toNode": "o137_6",
+   "color": "4"
+  },
+  {
+   "id": "e478",
+   "fromNode": "a137",
+   "toNode": "o137_7",
+   "color": "4"
+  },
+  {
+   "id": "e479",
+   "fromNode": "a137",
+   "toNode": "o137_8",
+   "color": "4"
+  },
+  {
+   "id": "e480",
+   "fromNode": "a137",
+   "toNode": "o137_9",
+   "color": "4"
+  },
+  {
+   "id": "e481",
+   "fromNode": "a137",
+   "toNode": "o137_10",
+   "color": "4"
+  },
+  {
+   "id": "e482",
+   "fromNode": "a137",
+   "toNode": "o137_11",
+   "color": "4"
+  },
+  {
+   "id": "e483",
+   "fromNode": "a137",
+   "toNode": "o137_12",
+   "color": "4"
+  },
+  {
+   "id": "e484",
+   "fromNode": "a137",
+   "toNode": "o137_13",
+   "color": "4"
+  },
+  {
+   "id": "e485",
+   "fromNode": "a137",
+   "toNode": "o137_14",
+   "color": "4"
+  },
+  {
+   "id": "e486",
+   "fromNode": "a137",
+   "toNode": "o137_15",
+   "color": "4"
+  },
+  {
+   "id": "e487",
+   "fromNode": "m8",
+   "toNode": "a138",
+   "color": "5"
+  },
+  {
+   "id": "e488",
+   "fromNode": "a138",
+   "toNode": "o138_0",
+   "color": "4"
+  },
+  {
+   "id": "e489",
+   "fromNode": "hub",
+   "toNode": "m9",
+   "color": "1"
+  },
+  {
+   "id": "e490",
+   "fromNode": "m9",
+   "toNode": "a139",
+   "color": "5"
+  },
+  {
+   "id": "e491",
+   "fromNode": "a139",
+   "toNode": "o139_0",
+   "color": "4"
+  },
+  {
+   "id": "e492",
+   "fromNode": "a139",
+   "toNode": "o139_1",
+   "color": "4"
+  },
+  {
+   "id": "e493",
+   "fromNode": "a139",
+   "toNode": "o139_2",
+   "color": "4"
+  },
+  {
+   "id": "e494",
+   "fromNode": "a139",
+   "toNode": "o139_3",
+   "color": "4"
+  },
+  {
+   "id": "e495",
+   "fromNode": "m9",
+   "toNode": "a140",
+   "color": "5"
+  },
+  {
+   "id": "e496",
+   "fromNode": "m9",
+   "toNode": "a141",
+   "color": "5"
+  },
+  {
+   "id": "e497",
+   "fromNode": "a141",
+   "toNode": "o141_0",
+   "color": "4"
+  },
+  {
+   "id": "e498",
+   "fromNode": "a141",
+   "toNode": "o141_1",
+   "color": "4"
+  },
+  {
+   "id": "e499",
+   "fromNode": "m9",
+   "toNode": "a142",
+   "color": "5"
+  },
+  {
+   "id": "e500",
+   "fromNode": "a142",
+   "toNode": "o142_0",
+   "color": "4"
+  },
+  {
+   "id": "e501",
+   "fromNode": "a142",
+   "toNode": "o142_1",
+   "color": "4"
+  },
+  {
+   "id": "e502",
+   "fromNode": "a142",
+   "toNode": "o142_2",
+   "color": "4"
+  },
+  {
+   "id": "e503",
+   "fromNode": "a142",
+   "toNode": "o142_3",
+   "color": "4"
+  },
+  {
+   "id": "e504",
+   "fromNode": "a142",
+   "toNode": "o142_4",
+   "color": "4"
+  },
+  {
+   "id": "e505",
+   "fromNode": "hub",
+   "toNode": "m10",
+   "color": "1"
+  },
+  {
+   "id": "e506",
+   "fromNode": "m10",
+   "toNode": "a143",
+   "color": "5"
+  },
+  {
+   "id": "e507",
+   "fromNode": "a143",
+   "toNode": "o143_0",
+   "color": "4"
+  },
+  {
+   "id": "e508",
+   "fromNode": "m10",
+   "toNode": "a144",
+   "color": "5"
+  },
+  {
+   "id": "e509",
+   "fromNode": "a144",
+   "toNode": "o144_0",
+   "color": "4"
+  },
+  {
+   "id": "e510",
+   "fromNode": "m10",
+   "toNode": "a145",
+   "color": "5"
+  },
+  {
+   "id": "e511",
+   "fromNode": "m10",
+   "toNode": "a146",
+   "color": "5"
+  },
+  {
+   "id": "e512",
+   "fromNode": "a146",
+   "toNode": "o146_0",
+   "color": "4"
+  },
+  {
+   "id": "e513",
+   "fromNode": "m10",
+   "toNode": "a147",
+   "color": "5"
+  },
+  {
+   "id": "e514",
+   "fromNode": "m10",
+   "toNode": "a148",
+   "color": "5"
+  },
+  {
+   "id": "e515",
+   "fromNode": "m10",
+   "toNode": "a149",
+   "color": "5"
+  },
+  {
+   "id": "e516",
+   "fromNode": "m10",
+   "toNode": "a150",
+   "color": "5"
+  },
+  {
+   "id": "e517",
+   "fromNode": "a150",
+   "toNode": "o150_0",
+   "color": "4"
+  },
+  {
+   "id": "e518",
+   "fromNode": "m10",
+   "toNode": "a151",
+   "color": "5"
+  },
+  {
+   "id": "e519",
+   "fromNode": "m10",
+   "toNode": "a152",
+   "color": "5"
+  },
+  {
+   "id": "e520",
+   "fromNode": "a152",
+   "toNode": "o152_0",
+   "color": "4"
+  },
+  {
+   "id": "e521",
+   "fromNode": "a152",
+   "toNode": "o152_1",
+   "color": "4"
+  },
+  {
+   "id": "e522",
+   "fromNode": "a152",
+   "toNode": "o152_2",
+   "color": "4"
+  },
+  {
+   "id": "e523",
+   "fromNode": "m10",
+   "toNode": "a153",
+   "color": "5"
+  },
+  {
+   "id": "e524",
+   "fromNode": "a153",
+   "toNode": "o153_0",
+   "color": "4"
+  },
+  {
+   "id": "e525",
+   "fromNode": "m10",
+   "toNode": "a154",
+   "color": "5"
+  },
+  {
+   "id": "e526",
+   "fromNode": "a154",
+   "toNode": "o154_0",
+   "color": "4"
+  },
+  {
+   "id": "e527",
+   "fromNode": "m10",
+   "toNode": "a155",
+   "color": "5"
+  },
+  {
+   "id": "e528",
+   "fromNode": "m10",
+   "toNode": "a156",
+   "color": "5"
+  },
+  {
+   "id": "e529",
+   "fromNode": "a156",
+   "toNode": "o156_0",
+   "color": "4"
+  },
+  {
+   "id": "e530",
+   "fromNode": "m10",
+   "toNode": "a157",
+   "color": "5"
+  },
+  {
+   "id": "e531",
+   "fromNode": "m10",
+   "toNode": "a158",
+   "color": "5"
+  },
+  {
+   "id": "e532",
+   "fromNode": "a158",
+   "toNode": "o158_0",
+   "color": "4"
+  },
+  {
+   "id": "e533",
+   "fromNode": "a158",
+   "toNode": "o158_1",
+   "color": "4"
+  },
+  {
+   "id": "e534",
+   "fromNode": "a158",
+   "toNode": "o158_2",
+   "color": "4"
+  },
+  {
+   "id": "e535",
+   "fromNode": "m10",
+   "toNode": "a159",
+   "color": "5"
+  },
+  {
+   "id": "e536",
+   "fromNode": "m10",
+   "toNode": "a160",
+   "color": "5"
+  },
+  {
+   "id": "e537",
+   "fromNode": "m10",
+   "toNode": "a161",
+   "color": "5"
+  },
+  {
+   "id": "e538",
+   "fromNode": "a161",
+   "toNode": "o161_0",
+   "color": "4"
+  },
+  {
+   "id": "e539",
+   "fromNode": "m10",
+   "toNode": "a162",
+   "color": "5"
+  },
+  {
+   "id": "e540",
+   "fromNode": "m10",
+   "toNode": "a163",
+   "color": "5"
+  },
+  {
+   "id": "e541",
+   "fromNode": "m10",
+   "toNode": "a164",
+   "color": "5"
+  },
+  {
+   "id": "e542",
+   "fromNode": "a164",
+   "toNode": "o164_0",
+   "color": "4"
+  },
+  {
+   "id": "e543",
+   "fromNode": "m10",
+   "toNode": "a165",
+   "color": "5"
+  },
+  {
+   "id": "e544",
+   "fromNode": "m10",
+   "toNode": "a166",
+   "color": "5"
+  },
+  {
+   "id": "e545",
+   "fromNode": "m10",
+   "toNode": "a167",
+   "color": "5"
+  },
+  {
+   "id": "e546",
+   "fromNode": "hub",
+   "toNode": "m11",
+   "color": "1"
+  },
+  {
+   "id": "e547",
+   "fromNode": "m11",
+   "toNode": "a168",
+   "color": "5"
+  },
+  {
+   "id": "e548",
+   "fromNode": "m11",
+   "toNode": "a169",
+   "color": "5"
+  },
+  {
+   "id": "e549",
+   "fromNode": "a169",
+   "toNode": "o169_0",
+   "color": "4"
+  },
+  {
+   "id": "e550",
+   "fromNode": "m11",
+   "toNode": "a170",
+   "color": "5"
+  },
+  {
+   "id": "e551",
+   "fromNode": "m11",
+   "toNode": "a171",
+   "color": "5"
+  },
+  {
+   "id": "e552",
+   "fromNode": "a171",
+   "toNode": "o171_0",
+   "color": "4"
+  },
+  {
+   "id": "e553",
+   "fromNode": "a171",
+   "toNode": "o171_1",
+   "color": "4"
+  },
+  {
+   "id": "e554",
+   "fromNode": "a171",
+   "toNode": "o171_2",
+   "color": "4"
+  },
+  {
+   "id": "e555",
+   "fromNode": "a171",
+   "toNode": "o171_3",
+   "color": "4"
+  },
+  {
+   "id": "e556",
+   "fromNode": "a171",
+   "toNode": "o171_4",
+   "color": "4"
+  },
+  {
+   "id": "e557",
+   "fromNode": "a171",
+   "toNode": "o171_5",
+   "color": "4"
+  },
+  {
+   "id": "e558",
+   "fromNode": "a171",
+   "toNode": "o171_6",
+   "color": "4"
+  },
+  {
+   "id": "e559",
+   "fromNode": "a171",
+   "toNode": "o171_7",
+   "color": "4"
+  },
+  {
+   "id": "e560",
+   "fromNode": "a171",
+   "toNode": "o171_8",
+   "color": "4"
+  },
+  {
+   "id": "e561",
+   "fromNode": "a171",
+   "toNode": "o171_9",
+   "color": "4"
+  },
+  {
+   "id": "e562",
+   "fromNode": "m11",
+   "toNode": "a172",
+   "color": "5"
+  },
+  {
+   "id": "e563",
+   "fromNode": "a172",
+   "toNode": "o172_0",
+   "color": "4"
+  },
+  {
+   "id": "e564",
+   "fromNode": "a172",
+   "toNode": "o172_1",
+   "color": "4"
+  },
+  {
+   "id": "e565",
+   "fromNode": "a172",
+   "toNode": "o172_2",
+   "color": "4"
+  },
+  {
+   "id": "e566",
+   "fromNode": "a172",
+   "toNode": "o172_3",
+   "color": "4"
+  },
+  {
+   "id": "e567",
+   "fromNode": "a172",
+   "toNode": "o172_4",
+   "color": "4"
+  },
+  {
+   "id": "e568",
+   "fromNode": "a172",
+   "toNode": "o172_5",
+   "color": "4"
+  },
+  {
+   "id": "e569",
+   "fromNode": "m11",
+   "toNode": "a173",
+   "color": "5"
+  },
+  {
+   "id": "e570",
+   "fromNode": "m11",
+   "toNode": "a174",
+   "color": "5"
+  },
+  {
+   "id": "e571",
+   "fromNode": "a174",
+   "toNode": "o174_0",
+   "color": "4"
+  },
+  {
+   "id": "e572",
+   "fromNode": "a174",
+   "toNode": "o174_1",
+   "color": "4"
+  },
+  {
+   "id": "e573",
+   "fromNode": "m11",
+   "toNode": "a175",
+   "color": "5"
+  },
+  {
+   "id": "e574",
+   "fromNode": "a175",
+   "toNode": "o175_0",
+   "color": "4"
+  },
+  {
+   "id": "e575",
+   "fromNode": "a175",
+   "toNode": "o175_1",
+   "color": "4"
+  },
+  {
+   "id": "e576",
+   "fromNode": "a175",
+   "toNode": "o175_2",
+   "color": "4"
+  },
+  {
+   "id": "e577",
+   "fromNode": "a175",
+   "toNode": "o175_3",
+   "color": "4"
+  },
+  {
+   "id": "e578",
+   "fromNode": "a175",
+   "toNode": "o175_4",
+   "color": "4"
+  },
+  {
+   "id": "e579",
+   "fromNode": "a175",
+   "toNode": "o175_5",
+   "color": "4"
+  },
+  {
+   "id": "e580",
+   "fromNode": "a175",
+   "toNode": "o175_6",
+   "color": "4"
+  },
+  {
+   "id": "e581",
+   "fromNode": "a175",
+   "toNode": "o175_7",
+   "color": "4"
+  },
+  {
+   "id": "e582",
+   "fromNode": "a175",
+   "toNode": "o175_8",
+   "color": "4"
+  },
+  {
+   "id": "e583",
+   "fromNode": "a175",
+   "toNode": "o175_9",
+   "color": "4"
+  },
+  {
+   "id": "e584",
+   "fromNode": "m11",
+   "toNode": "a176",
+   "color": "5"
+  },
+  {
+   "id": "e585",
+   "fromNode": "m11",
+   "toNode": "a177",
+   "color": "5"
+  },
+  {
+   "id": "e586",
+   "fromNode": "m11",
+   "toNode": "a178",
+   "color": "5"
+  },
+  {
+   "id": "e587",
+   "fromNode": "m11",
+   "toNode": "a179",
+   "color": "5"
+  },
+  {
+   "id": "e588",
+   "fromNode": "a179",
+   "toNode": "o179_0",
+   "color": "4"
+  },
+  {
+   "id": "e589",
+   "fromNode": "a179",
+   "toNode": "o179_1",
+   "color": "4"
+  },
+  {
+   "id": "e590",
+   "fromNode": "a179",
+   "toNode": "o179_2",
+   "color": "4"
+  },
+  {
+   "id": "e591",
+   "fromNode": "a179",
+   "toNode": "o179_3",
+   "color": "4"
+  },
+  {
+   "id": "e592",
+   "fromNode": "m11",
+   "toNode": "a180",
+   "color": "5"
+  },
+  {
+   "id": "e593",
+   "fromNode": "a180",
+   "toNode": "o180_0",
+   "color": "4"
+  },
+  {
+   "id": "e594",
+   "fromNode": "a180",
+   "toNode": "o180_1",
+   "color": "4"
+  },
+  {
+   "id": "e595",
+   "fromNode": "a180",
+   "toNode": "o180_2",
+   "color": "4"
+  },
+  {
+   "id": "e596",
+   "fromNode": "m11",
+   "toNode": "a181",
+   "color": "5"
+  },
+  {
+   "id": "e597",
+   "fromNode": "a181",
+   "toNode": "o181_0",
+   "color": "4"
+  },
+  {
+   "id": "e598",
+   "fromNode": "a181",
+   "toNode": "o181_1",
+   "color": "4"
+  },
+  {
+   "id": "e599",
+   "fromNode": "a181",
+   "toNode": "o181_2",
+   "color": "4"
+  },
+  {
+   "id": "e600",
+   "fromNode": "a181",
+   "toNode": "o181_3",
+   "color": "4"
+  },
+  {
+   "id": "e601",
+   "fromNode": "a181",
+   "toNode": "o181_4",
+   "color": "4"
+  },
+  {
+   "id": "e602",
+   "fromNode": "m11",
+   "toNode": "a182",
+   "color": "5"
+  },
+  {
+   "id": "e603",
+   "fromNode": "a182",
+   "toNode": "o182_0",
+   "color": "4"
+  },
+  {
+   "id": "e604",
+   "fromNode": "a182",
+   "toNode": "o182_1",
+   "color": "4"
+  },
+  {
+   "id": "e605",
+   "fromNode": "m11",
+   "toNode": "a183",
+   "color": "5"
+  },
+  {
+   "id": "e606",
+   "fromNode": "a183",
+   "toNode": "o183_0",
+   "color": "4"
+  },
+  {
+   "id": "e607",
+   "fromNode": "a183",
+   "toNode": "o183_1",
+   "color": "4"
+  },
+  {
+   "id": "e608",
+   "fromNode": "a183",
+   "toNode": "o183_2",
+   "color": "4"
+  },
+  {
+   "id": "e609",
+   "fromNode": "a183",
+   "toNode": "o183_3",
+   "color": "4"
+  },
+  {
+   "id": "e610",
+   "fromNode": "a183",
+   "toNode": "o183_4",
+   "color": "4"
+  },
+  {
+   "id": "e611",
+   "fromNode": "a183",
+   "toNode": "o183_5",
+   "color": "4"
+  },
+  {
+   "id": "e612",
+   "fromNode": "a183",
+   "toNode": "o183_6",
+   "color": "4"
+  },
+  {
+   "id": "e613",
+   "fromNode": "a183",
+   "toNode": "o183_7",
+   "color": "4"
+  },
+  {
+   "id": "e614",
+   "fromNode": "m11",
+   "toNode": "a184",
+   "color": "5"
+  },
+  {
+   "id": "e615",
+   "fromNode": "a184",
+   "toNode": "o184_0",
+   "color": "4"
+  },
+  {
+   "id": "e616",
+   "fromNode": "a184",
+   "toNode": "o184_1",
+   "color": "4"
+  },
+  {
+   "id": "e617",
+   "fromNode": "a184",
+   "toNode": "o184_2",
+   "color": "4"
+  },
+  {
+   "id": "e618",
+   "fromNode": "a184",
+   "toNode": "o184_3",
+   "color": "4"
+  },
+  {
+   "id": "e619",
+   "fromNode": "a184",
+   "toNode": "o184_4",
+   "color": "4"
+  },
+  {
+   "id": "e620",
+   "fromNode": "a184",
+   "toNode": "o184_5",
+   "color": "4"
+  }
+ ]
+}

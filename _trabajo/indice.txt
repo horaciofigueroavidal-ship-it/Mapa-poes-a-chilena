@@ -1,0 +1,414 @@
+# Transcripción del índice de Naín Nómez, Antología crítica de la poesía chilena (3 tomos).
+# Formato:
+#   T: tomo | título
+#   P: parte (movimiento) | título
+#   S: subsección (opcional) | título
+#   A: autor | año de nacimiento (si el índice lo da)
+#   poemas: una línea por autor, separados por " | "
+#   N: poemas del autor (línea siguiente a A:)
+
+T: Tomo I | Origen y desarrollo de la poesía chilena moderna
+
+P: Neoclásicos y románticos | Parte I. Neoclásicos y románticos: antecedentes de la poesía chilena moderna
+A: Andrés Bello
+N: La agricultura de la zona tórrida (fragmento)
+A: Salvador Sanfuentes
+N: El campanario (fragmento)
+A: Guillermo Matta
+N: Lo que dicen las olas
+A: Guillermo Blest Gana
+N: Voy quedando tan solo | A la muerte | Mirada retrospectiva
+A: Eduardo de la Barra
+N: Ensueños | El vaso roto
+A: José Antonio Soffia
+N: La niña de los ojos azules | Cielo
+A: Juan Rafael Allende
+N: Cuando rico y cuando pobre
+
+P: Emergencia del modernismo | Parte II. Emergencia del modernismo: Darío y los primeros poetas «modernos»
+A: Rubén Darío
+N: El rey burgués (cuento alegre) | Caupolicán | De invierno
+A: Narciso Tondreau
+N: Ars Relligio Mea (fragmento)
+A: Leonardo Eliz
+N: Anacreóntica | Sensitiva
+A: Ricardo Fernández Montalva
+N: Cuerdas rotas | La estatua | Haydée
+
+P: Tradición nacional y modernidad cosmopolita | Parte III. Tradición nacional y modernidad cosmopolita: las múltiples voces de la poesía chilena moderna
+A: Pedro Antonio González
+N: Mi vela | Asteroides XXXIX, XL | Las perlas y las uvas | El pacto | Confidencias | Triunfal | Roxana y Estatira | El alba
+A: Julio Vicuña Cifuentes
+N: El asno | La ocasión | Aún es tiempo que venga | Huéspedes eternos | Cantares | Introito
+A: Augusto Winter
+N: La fuga de los cisnes | No te manches | Las gualas
+A: Samuel Lillo
+N: Paisaje de estío | El gaucho | La mina abandonada
+A: Gustavo Valledor Sánchez
+N: Aurora | Melancolía
+A: Abelardo Varela
+N: Entre las ramas | La novia | Invierno
+A: Horacio Olivos y Carrasco
+N: De alba | En la sombra | La agonía del sátiro | Las cantáridas
+A: Antonio Bórquez Solar
+N: Los carpinteros | El castillo | El romance del guerrillero (fragmento) | Los huelguistas
+A: Zoilo Escobar
+N: Cuando me acuerdo de Jesús | Mar, sol y viento | Ante un retrato de mujer | Doce aspectos de mi vida celeste
+A: Luis A. Hurtado
+N: Del crepúsculo | Risa femenina | Tengo el vino alegre
+A: Diego Dublé Urrutia
+N: Piedad | En el fondo del lago | El lanzamiento | Fontana cándida | El caracol | Tienen las capuchinas... | La procesión de San Pedro y la bendición del mar (fragmento) | Las minas (fragmento)
+A: Miguel Luis Rocuant
+N: Momento rojo | El sueño del árbol | La visión del calvario | Día gris | Crepuscular
+A: Francisco Contreras
+N: El turco | Encanto de las lluvias | Las crisantemas | El puñal antiguo | Gretchen | Joyel | Remembranza | Luna de la patria... | Sinfonía
+A: Ernesto A. Guzmán
+N: Las malas palabras | Agua de riego | Ojos | Contigo | La fiesta del camino
+A: Manuel Magallanes Moure
+N: Tarde de enero | Adoración | Jamás... | ¡Recuerdas! | El barco viejo | Por la orilla de la mar | Viaje de ensueño | Amor | El manantial
+A: Carlos Keymer
+N: El ritual | La piedra | Dentro del círculo
+
+P: Nacionalismo, mundonovismo y crítica social | Parte IV. Nacionalismo, mundonovismo y crítica social en la poesía chilena moderna: las contradicciones del sujeto de la modernidad
+A: Carlos Pezoa Véliz
+N: A una morena | Cuerdas heridas | Al amor de la lumbre | El pintor Pereza | El perro vagabundo | Teodorinda | Pancho y Tomás (fragmento) | Entierro de campo | Nada | Tarde en el hospital | Fecundidad | El organillo
+A: Jorge González Bastías
+N: El poema de las tierras pobres (fragmento) | Cerca del mar la música es más sabia | Misa de primavera | Égloga del camino | Elegía sencilla
+A: Abel González
+N: La roza | La siembra
+A: Luis Felipe Contardo
+N: Mysterium sacro | En el lago de Genezareth | Pequeños | Rincón isleño
+A: Alberto Mauret Caamaño
+N: Viaje romántico | El alma de las rosas
+A: Carlos Mondaca
+N: Lejana | La luna entre los árboles | Los pianos viejos | Soledad | El reloj | Elegía
+A: Víctor Domingo Silva
+N: Balada matinal | Alas | Balada del violín | ¡Nunca ya! | La Nueva Marsellesa (fragmento)
+A: Jerónimo Lagos Lisboa
+N: Tarde | Croquis lugareño | Claridad nocturna | Senda de gracia | Apunte | Ceniza y humo
+A: Andrés Silva Humeres
+N: El suicida | Pobre mujer
+A: Juan Manuel Rodríguez
+N: Día de lluvia
+A: Pedro Prado
+N: Con un lento vagar ensimismado | Los largos años de mi vida oscura | De qué mundo ignorado habré venido | La rosa inefable | Soneto VI | Cabalgando por suave serranía | La llave | La ventana encendida | Si el amor nos posee | Mi verso | Convaleciente | Ausencia | Los pájaros errantes
+A: Max Jara
+N: Pero llega la noche | Agua viva | Ojitos de pena | Yerbas buenas | La senda
+A: Alberto Moreno
+N: Mi giganta | Musa moderna | Agonía de una belleza
+A: Carlos Acuña
+N: Flauta rústica | Diego de la noche | Cantaba el pidén | Vendimia
+A: Ignacio Verdugo Cavada
+N: Copihues
+A: Julio Munizaga Ossandón
+N: Esta caja de sándalo | Caupolicán
+A: Guillermo Muñoz Medina
+N: Sugestiva
+A: Carlos Préndez Saldías
+N: Emilio Cortés | La canción del río | Mía | Cirilo
+A: Jorge Hübner Bezanilla
+N: Prólogo | El árbol | La luz | Remordimiento | Estas transformaciones
+A: Daniel de la Vega
+N: Las palabras | Ceniza y cera | La puerta | Ya se va la farándula
+A: Enrique Ponce
+N: Los gatos | Vicio supremo | Despertar | La siesta
+A: Carlos Barella
+N: El suicidio de las rosas | Cuadros del puerto
+A: Ángel Cruchaga Santa María
+N: Afán del corazón | Canto al Bío Bío | Acuarela | Himno al arroz | El aroma tenaz | La muerte suya | El canto de los mares solos | El amor junto al mar | La evocación de Job | Canto a Chile | En el éxtasis | Creadora del mundo
+A: Teresa Wilms Montt
+N: Páginas de diario | De «Inquietudes sentimentales» (fragmento)
+A: Pedro Sienna
+N: Esta vieja herida | Cuando cae el telón | La farándula se va
+A: Sady Zañartu
+N: El prodigio de las campanas | Santiago antiguo
+A: Elías Arze Bastidas
+N: En el lago | Fumadora | Flor de fango
+A: Luciano Morgado
+N: Esta tarde | En el cielo una nube
+A: Francisco Donoso González
+N: La luz | La cigarra | Lluvia | Fiesta
+A: Alberto Valdivia
+N: Todo se irá... | Las rosas del crepúsculo
+A: Juan Guzmán Cruchaga
+N: Otoño | Con la tarde ha venido | Invierno | La fuente escondida | Momento | Haruko Sam | Canción | La balada del príncipe solo | Romance del agua dormida
+A: Augusto Iglesias
+N: Romance de ciego
+A: Lautaro García
+N: Tríptico de evocación a Marta Cuevas | La diuca | El maestro de escuela
+A: Miriam Elim
+N: Los ojos extasiados | Imprecación | Por qué amo yo la muerte
+A: Olga Acevedo
+N: Serenata | Los malos vientos | Sitio
+A: María Antonieta Le Quesne
+N: Recodo azul | Alma que mueres de amor | Y todo pasará
+A: José Domingo Gómez Rojas
+N: Divinidad | Motivo | Autoretrato | Renegación | Miserere | Elegía
+A: David Enrique Perry
+N: El espino | Los potros | Como un ciego | Spleen
+A: Gerardo Moraga Bustamante
+N: Lo irreparable | Alma
+A: Gabriela Mistral
+N: Los sonetos de la muerte | Tarde | Los versos de noviembre | La maestra rural | Interrogaciones | Ceras eternas | Himno al árbol | El ruego
+A: Vicente Huidobro
+N: La alcoba | La obsesión de los dientes | La capilla aldeana | El caos | El espejo de agua | Triángulo armónico | Arte poética
+A: Winétt de Rokha
+N: De «Lo que me dijo el silencio» VII, X | Psicología pesimista | De «Horas de sol» (fragmento)
+A: Pablo de Rokha
+N: Apunte | Carne triste | Sobre el cuerpo que todavía se mueve, ahí
+
+T: Tomo II | Auge y disolución de las vanguardias. Poesía social y poesía popular
+
+P: De la vanguardia a la poesía social y popular | Parte I. De la vanguardia a la poesía social y popular
+S: Grupo I | I
+A: Omar Cáceres | 1906
+N: Azul deshabitado | Insomnio junto al alba | Palabras a un espejo | Iluminación del yo | Extremos visitantes
+A: Juan Negro | 1906
+N: Canto vespertino | Viernes | Nocturno en el océano | Responso | Elegía | Mano cortada | Víbora de espumas | Las albas
+A: Óscar Castro | 1910
+N: Romance del vendedor de canciones | Romance de barco y junco | Raíz del canto | La cabra | Nocturno de la sangre sin reposo | Casa de las guitarras | Muerte de Alfonsina Storni | La lluvia empuja nostalgias | El vino
+A: Victoriano Vicario | 1911
+N: Canto profundo para Ángeles Abienzo | Tercer silencio | Episodio | Viaje sin retorno | Introducción al olvido | La soledad y el humo | Expedición a la soledad | Viaje final
+A: Gustavo Ossorio | 1912
+N: El cimiento interior | El huésped y el fuego | La presencia abatida | Imagen recobrada | Presencia y memoria | Contacto terrestre (fragmento)
+A: Braulio Arenas | 1913
+N: La Mandrágora (fragmento) | El puente | La simple vista | La palabra del enigma (fragmento) | Todo es posible cuando la vida es imposible | A las bellas alucinadas | Discurso del Gran Poder (fragmento)
+A: Eduardo Anguita | 1914
+N: Sonetos del extranjero | Mi muchacha se va a casar | Arte poética y práctica | Poema de odio | Venus en el pudridero (fragmento) | La visita | Dos rostros se reúnen en el amor | El verdadero momento
+A: Teófilo Cid | 1914
+N: Camino del Ñielol (fragmento) | Las madres | El retorno | Venus Vitrix | Lo que soy
+A: Roque Esteban Scarpa | 1914
+N: Soneto | Oda menor | Yo he nacido, amor | Elegía romántica | Encuentro del antiguo amor | Cumpleaños | El café de noche | Mujer sentada al borde del mar | No tengo tiempo | Variación del querer morir | Sólo me encontrarás
+A: Enrique Gómez-Correa | 1915
+N: El marqués de Sade o el amor considerado como un vicio espléndido (fragmentos) | Testimonio de un poeta negro (fragmentos) | La bella durmiente | Las perezosas | Mandrágora, siglo XX | La noche al desnudo (fragmentos) | Las flores del mal | Reencuentro y pérdida de la mandrágora | Íntimo | La certidumbre del terror | Ondina habla de las ondinas
+A: Mahfud Massís | 1916
+N: Ahora que te llamo Agata | Búsqueda del príncipe degollado | Sonata del gallo negro | Elegía del oro | Última tarde | Carta a Lukó desde el aserradero | Otro traje | Poema 3 | Poema 16 | Llanto del exiliado (fragmentos)
+A: Jorge Cáceres | 1923
+N: Ciertos labios | Poema I | Un fantasma | Hacia el gran día negro | Poema II | Justine | Jamás
+S: Grupo II | II
+A: Antonio de Undurraga | 1911
+N: Arte poética | El muro de los espejos | Comuna del tiempo caído | La primavera bajo el espejo | Alejandrino del bosque plantado junto al mar | Sinfonía del traje único | Elegía incorporada en el agua
+A: Stella Corvalán | 1911
+N: Poema para el hijo que vendrá | Escúchame Alfonsina | Sinfonía de la angustia (fragmentos) | Preludio
+A: Luis Merino Reyes | 1912
+N: Coloquio de los goces (fragmentos) | El ímpetu | Oda | Soneto final | Dos sonetos de olvido | Nuevo crepúsculo
+A: Mila Oyarzún | 1912
+N: Palabras al hijo distante | Orden del corazón | Desesperanza | Última soledad | Solamente | Demasiado tarde | Nada más | Destino vegetal
+A: Andrés Sabella | 1912
+N: La «mona» de Ño Noé | Payaduras del vino tinto y del vino blanco | Cantata escondida en un cacharro alto en el desierto de Atacama | Momias de Chiu-Chiu | Información del goce | Cosas de la sangre | Ruta | Día de fiesta
+A: Carlos René Correa | 1912
+N: Lluvia en la ciudad | Amor de la noche y el río | Viaje | Comienza la luz (fragmentos) | Todo se destruye | Último hueso | Ardido de tu voz | Detenida la sangre
+A: María Cristina Menares | 1914
+N: Jazmín de María Carlota | De espaldas a la tierra | A plena luz | Presencia del milagro | Cielo adentro | Detrás del día | Poema en blanco | Ha llegado el olvido
+A: Alberto Baeza Flores | 1914
+N: He sido solamente el pastor de los años | Oigo caer el agua que es un hilo de asombro | El amor de pronto | Retorno | La vida ¿quién la entiende, Nicanor Parra? | Nunca se sabe la última noche destinada | ¿Llevarme?, ¿qué me puedo llevar?
+A: Luis Oyarzún | 1920
+N: Canto a un poeta | Las murallas del sueño | El suicida | Verso final | Ensalmo | Abandono | Olvido
+S: Grupo III | III
+A: Victoria Contreras Falcón | 1900
+N: Balada de la luna sobre los techos | Romance del viento en Valparaíso | Diapasón sin sonido (fragmentos)
+A: Patricia Morgan | 1904
+N: El Salto del Laja | Álamos de otoño | Anunciación
+A: Alejandro Galaz | 1905
+N: Romance de infancia | Romance de la tejedora | Entierro de Federico Kuhlman | El fantasma de los espejos
+A: Hermelo Arabena Williams | 1905
+N: Las agustinas | Lámpara encendida | En mis noventa y dos años
+A: Róbinson Saavedra Gómez | 1907
+N: Interior | Oficio de cantar | Ciegos | Cuando se abre una flor
+A: Javier Vergara Huneeus | 1907
+N: Ciclo de ternura | Vida segura | Pero un día
+A: Hernán Cañas | 1910
+N: Evocación de un poeta asesinado | Oda en honor de la espiga | Pronta mejoría para Oscar Castro | Último adiós al almirante del mundo
+A: Francisco Santana | 1910
+N: Viento de la infancia | Cuando a través de la sementera | He de buscarte en los días del pasado | Amorosa te arrastras inútilmente lasciva
+A: Aldo Torres Púa | 1910
+N: Maderas de mi tierra | Alarido de fuego | Respiración | Círculo | Las dos serpientes
+A: Carlos Collins Bunster | 1912
+N: Corazón abierto | Palabras para una tarde de soledad | Matilde
+A: Carlos Poblete | 1914
+N: Amarte | La patria herida | Minuto de mi llaga
+A: Joaquín Martínez Arenas | 1914
+N: Retorno a lo perdido | Todo se va y no vuelve | Alegoría del árbol muerto | Transfiguración del fuego | Génesis del canto | Si fuera hombre bailaría
+A: Víctor Franzani | 1916
+N: Expresión de la noche | Último tránsito | Vida y muerte | Presencia
+A: Jaime Rayo | 1916
+N: La hora apartada | Narciso
+A: Volodia Teitelboim | 1916
+N: Canto gregoriano por una mujer | Fundación de la vida
+A: Juan Arcos | 1917
+N: Canción de los álamos | Epopeya del tiempo
+A: Julio Moncada | 1919
+N: Sueño e invitación al campesino | Poema IV | César Vallejo
+A: María Silva Ossa | 1920
+N: Huir | Muerte en el mar | Materia viva | Homo sapiens
+A: Heriberto Rocuant | 1920
+N: Sinfonía extrema | El beso
+
+P: La disolución de las vanguardias | Parte II. La disolución de las vanguardias: otras exploraciones poéticas
+S: Grupo I (Parte II) | I
+A: Miguel Arteche | 1926
+N: Quevedo habla de sus llagas | El café | Comedor | Lluvia | El agua | El joven torturado | Cuando se fue Magdalena | La ascensión | La última casa | Sólo el nombre
+A: David Rosenmann-Taub | 1927
+N: Preludio | Cosecha en sosiego | Impromptu | XXXIV | XLVIII | LV | Friso de Isabel | La raíz
+A: Alberto Rubio | 1928
+N: Comensal | Mesa del alba | El almuerzo | Señoriales señoras | Mosquerío | ¡Colmado de comida revolcarme en la hierba! | Desciende, sol, desciende | La abuela
+S: Grupo II (Parte II) | II
+A: Escilda Greve | 1916
+N: Cada litro de tiempo es un suicidio | Viviré en mis campanas | El embargo final | Hombre | Transmutación | Cómo andar por la risa | Razón del universo
+A: Irma Astorga | 1920
+N: Viaje a la garganta de la luz (fragmentos) | Poema | Capullito Carmela | Auto-retrato | Fondo de agua | Ceniza quebrada | Todo me queda raro en la memoria | Duda
+A: Víctor Castro | 1920
+N: Retornos | Griselda | Para un nocturno más | Mudanzas | Desaliento | Presagio
+S: Grupo III (Parte II) | III
+A: Bernardo Cruz | 1904
+N: Soledad última | Muerte interior | Conformidad
+A: Matilde Ladrón de Guevara | 1908
+N: Desnuda | El silencio de las cosas | Mulata flor | Todo ha muerto
+A: Alfonso Gómez Líbano | 1918
+N: Vaivén de la manzanilla | Los pájaros de piedra | La forma y el deseo | Clima de arañas | Enemiga del sol
+A: Julio Molina | 1918
+N: Ars Amandi | Lugares en asedio | Soneto americano
+A: Fernando Onfray | 1918
+N: El párpado cerrado | Cartones y óleos | Marina con alambradas de púas | Novenas del antiguo Perú (fragmentos)
+A: Nina Donoso | 1920
+N: Resignación | No me ha valido | Poema de la esposa | Los tiempos se reúnen
+A: Armando Solari | 1921
+N: XXIV | Nadie elige la forma | Vendimia
+A: Claudio Solar | 1925
+N: Nardo sobre el nardo | Hojas de tierra con recuerdos rojos | Hombre en el autobús | Y cae la niebla | Todo es verdad
+
+T: Tomo III | La poesía chilena entre 1953 y 1973
+
+P: Los fundadores de los cincuenta | Parte I (1953-1963). Los fundadores de los cincuenta
+A: Nicanor Parra
+N: Hay un día feliz | Autorretrato | Los vicios del mundo moderno | Soliloquio del individuo | Versos sueltos | Test | El hombre imaginario | Manifiesto | Padre nuestro | Me retracto de todo lo dicho | Quédate con tu Borges | El anti-lázaro | Artefactos
+A: Gonzalo Rojas
+N: Los días van tan rápidos | ¿Qué se ama cuando se ama? | Contra la muerte | Carbón | Para órgano | Versículos | Réquiem de la mariposa | El alumbrado | Guardo en casa con llave | Ningunos | Pablo de Rokha | Qedeshim qedeshoth | 80 veces nadie
+A: Violeta Parra
+N: Talento para cantar | Muda, triste y pensativa | Pero pensándolo bien | Aquí presento a mi abuelo | Mi abuelo por parte 'e maire | La cena ya se sirvió | Mas van pasando los años | La suerte mía fatal | Aquí empiezan mis quebrantos | Por ese tiempo el destino | Qué pena tuv'en Quirihue | No lloro yo por llorar | Casamiento de negros | Gracias a la vida
+A: Enrique Lihn
+N: La vejez de Narciso | Monólogo del viejo con la muerte | La pieza oscura | La despedida | Nunca salí del horroroso Chile | Destiempo | Desenlace | Alicia en el país de las pesadillas | Porque escribí | Nada tiene que ver el dolor...
+
+P: Las tendencias láricas | Parte I (1953-1963). Las tendencias láricas: orígenes y desarrollo
+A: Efraín Barquero
+N: Arte poética | Sólo quieren rescatar el cuerpo amado | Granero | Fogón | Vasija | Tema 13 (Poética) | Está sólo el culpable | Bandos marciales | La mesa servida | El cuchillo enterrado | El poema en el poema (fragmento)
+A: Jorge Teillier
+N: Sentados frente al fuego | Cuando todos se vayan | Despedida | Un desconocido silba en el bosque | En la secreta casa de la noche | Los dominios perdidos | La Portadora | Para hablar con los muertos | Bajo el cielo nacido tras la lluvia | Mi amor por ti | Pequeña confesión | A un viejo púgil
+A: Rolando Cárdenas
+N: Búsqueda | Mensaje de piedra para Magallanes | Leyenda de invierno | Antepasados | Fueguinos | Viaja la tierra y la circunda el mar | Selk Nam | Puertas | Hoy murió Ángela Lois
+A: Luis Vulliamy
+N: Küla | Mari Kayu | Mari Ailla | Epu Mari Meli | Epu Mari Pura | Küla Mari | Tripantuhue | El cementerio | El poeta | El alto | El último paso
+A: Marino Muñoz Lagos
+N: La muerte sobre el trébol | Retrato vivo de mi padre muerto | Almacén La Fortuna | Primeras noticias de mi muerte | Noche final
+A: Pablo Guíñez
+N: Miraje solitario | Otoño | A Therese | Preparación y crecimiento (fragmento) | La fuga del venado | Mar de Arauco (fragmentos)
+A: Alfonso Calderón
+N: La copa vacía | Medusa | Tardes de verano | Manzana sola | Leyenda | Bunker | Canción | Tú sin mí | Despedida | Opinión | Discurso fúnebre | Santiago | Prudente | Muerte | Colaboración | Sospechoso | Patria | Poema póstumo
+A: Delia Domínguez
+N: A salto de mata | La ropa limpia | De noche se vuelve | Hablaremos con calma ese día | El sol mira para atrás | Pido que vuelva mi ángel | Veo la suerte por las yeguas | Adiós dientes de leche
+
+P: Temporalidad y existencia | Parte I (1953-1963). Temporalidad y existencia: la memoria fragmentada
+A: Armando Uribe Arce
+N: Elegía | Tú alzas la cabeza | Tengo una rabia sin gusto a rabia | Llego a la mesa y cierro los ojos | El apagado mundo | No sé mi nombre | Oh, tu zapato que acaricio dulce | No te amo, amo los celos que te tengo | ¿Jovencito? Yo nunca he sido joven | Describo un día entero | El Dios que me huasquea no es un Dios | No sé quién eres y no sé quién soy | Dios mío, si es que hay Dios, Dios hay, Dios mío | Los muertos que fuimos ya se aburrieron | Miedo a la noche, miedo a no dormir | Cuando me muera quedará –qué quedará– fotografías | Nos sabemos mortales; no creemos | Qué edad tengo, quién soy, cómo me llamo | Vosotros que creíais que la tierra os pertenece | Qué fue de la mujer
+A: Alfonso Alcalde
+N: Habíamos nacido el uno para el otro | Autorretrato Nº 1 | Les habla el tutor de su sombra | Salmo de las preguntas | Salmo de la muerte | Salmo de los suicidas
+A: Guillermo Trejo
+N: La carcoma | Grito polvo | Testimonio | Fulgor de la A | Atisbo de torturado | Ars poética | Volvamos nuestros ojos en procura de aquellos | Licantropía | Donde ven lo invisible nuestros ojos | Por intersticios que el dolor ha hecho | ¿Qué hacer con este día demasiado | Ya no será lo mismo | Para nada | Hombresperpento
+
+P: Las tendencias neosurrealistas | Parte I (1953-1963). Las tendencias neosurrealistas: realidad y trascendencia
+A: Carlos de Rokha
+N: Los campos magnéticos | Cascada de copa | Origen | Tránsito solo | Segunda agonía y alabanza | Invisible comarca | Pavana | Pavana del gallo y el arlequín | Las revelaciones del furor
+A: Antonio Campaña
+N: Ceñidora | XIII | Hombre por dentro | No me dan a elegir | Todo parece perfecto | Ahora pido al mar | Conocimientos últimos | Poema 3
+A: Stella Díaz Varín
+N: Advenimiento | Sinfonía del hombre fósil | Introducción al vértigo (fragmento IV) | La casa | Ven de la luz hijo | Del espacio hacia acá, como dos tiempos | Los dones previsibles (fragmentos III, IX)
+A: Ludwig Zeller
+N: Éxodo | A un demonio-lamento | Libertad en Sudáfrica, libertad para Breyten Breytenbach | Último puerto del capitán Cook | Salvar la poesía quemar las naves | ¿Pero, qué especie somos? | El espejo cansado | De un escriba a otro
+
+P: Las otras tendencias de los cincuenta | Parte I (1953-1963). Las otras tendencias de los cincuenta
+A: Emma Jauch
+N: Aromo | Balada para la niña | Reloj de arena | Inquilinos | Quince obsesiones sobre un espejo (fragmentos)
+A: María Urzúa
+N: En blanco | Una ventana | El sillón de la loca | Nació una niña | El desolado | Neurosis
+A: Jorge Jobet
+N: Un pájaro menos | Visita a mis hermanas | La ración | Sonando están mis horas | Decálogo del médico escrito por un paciente | Sismo de grado siete
+A: Ángel Custodio González
+N: Tanta palabra herida y sin sonido | Bástenle, amor, la entera servidumbre | Soledad destrozada (fragmento 9) | Elegía final | Testimonio de los pájaros (fragmentos 3, 4 y 5)
+A: Venancio Lisboa
+N: Arribo a la tierra | El origen de la indecisión | Muerte segunda | Poemas de amor (fragmentos 1 y 3) | Apuntes para un poema
+A: Altenor Guerrero
+N: Labriegos tan desnudos en la tierra | Escuela para alados | Dancing de pájaros | Fuego defendido (fragmentos 1, 9, 15 y 17)
+A: Carmen Ábalos
+N: Azogue para el espejo (fragmento VIII) | Poemas en prosa (fragmentos V, VII, X, XIII, XIV) | Viaje | Memoria involuntaria (fragmentos)
+A: Mario Ferrero
+N: Floración del sonámbulo | Los cretinos iluminados | El gallo rojo | María Barzola | Soneto casi humano | Explicaciones al jurado | Nocturno irreparable
+A: José Miguel Vicuña
+N: Eterna | Aquí está Dios | Canto a la muerte | Yo te recuerdo | Los gallos | El hombre de Cromagnon se despereza (fragmentos) | Eliana / 4
+A: Eliana Navarro
+N: Soneto | Huésped nocturno | La flor de la montaña | Quinteto en la menor | La oración en el huerto | La pasión según San Juan (fragmento) | Angelus de mediodía | Esta hora
+A: Fernando González Urízar
+N: Apenas cántico | Regreso | El padre | Ahora eres el mar | Qué somos, Dios, qué somos | Musgo de soledad | Que calle el tiempo | Soliloquio del amador impenitente
+A: Manuel Francisco Mesa Seco
+N: A un falucho | Un río, una mujer | Regresar no es morir | Recodo | Padre Lacunza | Mandamiento | Vuelo
+A: Francisca Ossandón
+N: Humo lento | Restituyó orígenes | Círculo | Noche con tierra al fondo | Sangre bajo las aguas | Inquietante pacto
+A: Cecilia Casanova
+N: Ya es tiempo | Igual a cuando éramos niños | Cambio | Tiempo de despedirnos | Por los caminantes | Ángeles sobre las viñas | Juntos | Mientras llueve de abajo para arriba | El despertar de una montaña (fragmentos)
+A: Fernando Lamberg
+N: Despertar | Tántalo | El ángel herido | Muñeca rusa | Señoras y señores (fragmentos V, XVIII, XXIX, XLVIII, LXII)
+A: Matías Rafide
+N: Cabalgan por la ruta | Como invisible aguja | Ritual de soledad | Preferible la ausencia | Itinerario del olvido | El huésped | Transeúnte negro | Te pienso distinta | Amaba el mar | No sé quién soy
+A: Edmundo Herrera
+N: Lento pájaro ciego | El cielo en el bolsillo | Puede la muerte aparecer | Centella herida | Rueda errante | Fiat 600 | Huesos perdidos | La camisa pura
+A: Ximena Adriasola
+N: Ausente | El tiempo se reúne | Amanece y lluvia | El último hombre | Arte moderno | Tiempo detenido (fragmentos 4, 14, 26, 31) | Edén | Morir | Paraíso de leyendas | Realismo
+A: Eugenio García-Díaz
+N: Iniciación de la hoguera (fragmentos IV, XI, XV, L) | A cada instante que se desliza | Las manchas del vino se dibujan | Nuevamente un secreto | En la heredad del deseo
+A: Sara Vial | 1931
+N: La ciudad indecible | Organillo en lo alto | En ti el primer amor | Natural ejemplo | Un árbol gris y rosa
+A: Ennio Moltedo
+N: Poeta | Concreto azul | Cambio | Mariposa | Dónde están | No importa | La noche (fragmentos 3, 12, 13, 54, 81, 82, 92, 98, 113) | Viña del Mar
+A: Rosa Cruchaga de Walker
+N: Hojas | Reses | La despedida | Avenida La Paz | Sé que me voy | Origen | Microbús Pila Cementerio
+A: Pedro Lastra
+N: Deshabitado | Discurso acerca de la palabra | Algo | Dices el mar | Ya hablaremos de nuestra juventud | Balada para una historia secreta | Casi letanía | Diario
+A: José Miguel Ibáñez Langlois
+N: La muerte | Vivo en la sombra de Dios | Le Défroqué | Mujer | Teología de la historia | Úsame | Misa de alba | El rey David | Abominaciones | A la orilla del pozo de Sicar
+A: Hernán Montealegre
+N: Destino de ángel | Tu poema | El silencio de Dios | La vigilia | Mujer ante el espejo | Resistencia humana | Tres sabios y ninguna respuesta
+
+P: Los inicios de la poesía de los sesenta | Parte II (1964-1973). Coda final: los inicios de la poesía de los sesenta
+A: Hernán Valdés
+N: Cementerio judío | Qué hacías qué hacías | Al mismo tiempo que
+A: Óscar Hahn
+N: Ciudad en llamas | Agua final | Gladiolos junto al mar | Reencarnación de los carniceros | Visión de Hiroshima
+A: Hernán Lavín Cerda
+N: Cómanse todo su oro | Ya no eres el hombre | Eliminen los aplausos | Me volvería perro, asno, lobo, zorro, lechuza | La vida es así | Acuerdo de paz | Eva
+A: Waldo Rojas
+N: Príncipe de naipes | Pájaro en tierra | Ajedrez | La perpetración | Cormoranes
+A: Omar Lara
+N: Ya está bueno de puertas | Vuelvo a tu redil | Jugada maestra | Los centros de la tierra | Fotografía
+A: Jaime Giordano
+N: Eres leyenda (fragmentos)
+A: Floridor Pérez
+N: Poema en dos actos | Donde crecimos | Años después | P.D. para la Cenicienta | Elogio y elegía de la señora Celmira
+A: Jaime Quezada
+N: La tentación | La mujer adúltera | La herencia | El accidente | La fuga | No hace mucho estaba en un parque público
+A: Carlos Cortínez
+N: Mudanza | Cuando la noche cae | Eros | Regalo un reloj a Raimundo | Miércoles
+A: Federico Schopf
+N: «Devoraos los unos a los otros» | La pira | Viento imaginario | Retrato de un poeta | El espía que regresó del frío
+A: Jaime Gómez Rogers (Jonás)
+N: Cuando la luz se escapaba de tus manos | Contra la muerte | Lenguaje | Pequeña anécdota familiar que también podría llamar primeros pasos hacia la tierra prometida
+A: Gonzalo Millán
+N: Historia del blanco niño gordo y una langosta | Y como una mala canción de moda te nombro y te repito | Si me abrieras el puño, me hallarías sucia la palma de la mano | Y tu piel me es doblemente extraña | Tu quebrado vidrio rojo | Los aros de hierro del triciclo sin gomas y el rascar de un clavo | Y ahora el sol destiñe el fondo rosado de tu concha | Me casé con la reina | El automóvil
+A: Hernán Miranda
+N: Estamos en la ciudad | Insectario | Para que se sepa que es verdad todo esto | Buscad y hallaréis
+A: Manuel Silva Acevedo
+N: Lobos y ovejas (fragmentos 1, 2, 3, 4, 5) | Abel | Las águilas | Breve tiempo
+A: Oliver Welden
+N: Credenciales | Advertencia | Sobremesa | La fiesta | Reincidencia | La muerte en boca de alguien | Aquelarre
+A: Claudio Bertoni
+N: Mi baño de tina | Please | Sopa | Biografía de Clovis Trouille
+A: Cecilia Vicuña
+N: Retrato físico | Luminosidad de los orificios | Número telefónico | El centro Mandala | Desviaciones naturales

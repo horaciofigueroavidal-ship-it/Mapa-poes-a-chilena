@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3638.html
 fechas: "1904-1973"
 tags: [autor]
 ---
 # Pablo Neruda (1904-1973)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -35,6 +35,16 @@ Pablo Neruda fue una figura clave de la cultura y política chilena del siglo XX
 
 ## Poemas en la antología de Nómez
 
+- Mariposa de otoño
+- Poema 20
+- Galope muerto
+- Barcarola
+- Agua sexual
+- Margarita Naranjo
+- Alturas de Macchu Picchu (fragmento)
+- Oda a la poesía
+- La palabra
+- No hay pura luz
 
 ## Obras
 

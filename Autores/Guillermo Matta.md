@@ -33,7 +33,6 @@ Guillermo Matta fue un reconocido poeta y político de su tiempo, pero también 
 
 ### Poesía
 
-- [[Diccionario histórico, Biográfico y Bibliográfico de Chile 1800-1928 — Guillermo Matta (1800)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diccionario%20hist%C3%B3rico%2C%20Biogr%C3%A1fico%20y%20Bibliogr%C3%A1fico%20de%20Chile%3A%20) · *sin PDF*
 - [[Cuentos en versos — Guillermo Matta (1853)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349242.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072341.pdf)
 - [[A la América — Guillermo Matta (1857)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349249.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072344.pdf)
 - [[A la patria canto — Guillermo Matta (1864)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349253.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072346.pdf)

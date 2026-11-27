@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-798.html
 fechas: "1901-1965"
 tags: [autor]
 ---
 # Rosamel del Valle (1901-1965)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -31,6 +31,12 @@ El año 2011, se estrenó la serie documental para televisión Los videntes, en 
 
 ## Poemas en la antología de Nómez
 
+- Más bello el árbol que el paraíso
+- Transparencia de la sangre
+- Orfeo (fragmentos)
+- Contigo se deshace tu imagen
+- El amor mágico
+- Los estropicios
 
 ## Obras
 

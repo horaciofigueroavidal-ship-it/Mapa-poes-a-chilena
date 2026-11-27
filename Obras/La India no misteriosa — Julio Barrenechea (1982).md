@@ -15,7 +15,7 @@ tags: [obra, sin-pdf]
 
 ## Introducción
 
-Libro de poesía de Julio Barrenechea, publicado en 1982. Le precede «El compadre mucho gusto» (1978) y le sigue «|nombre=Carlos |fecha=2000 |título=Enciclopedia de Chile, Diccionario |volumen=1 |editorial=Océano |ubicación=Santiago |ISBN=84-494-2336-8}}» (2000).
+Libro de poesía de Julio Barrenechea, publicado en 1982. Es el título más tardío de su bibliografía registrada. Le precede «El compadre mucho gusto» (1978).
 
 *Introducción generada con los datos de la bibliografía.*
 

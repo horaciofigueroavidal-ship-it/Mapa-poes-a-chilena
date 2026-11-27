@@ -13,7 +13,7 @@ Cada movimiento lleva a sus poetas; cada poeta, a sus libros digitalizados en Me
 - [[Emergencia del modernismo]]
 - [[Tradición nacional y modernidad cosmopolita]]
 - [[Nacionalismo, mundonovismo y crítica social]]
-- [[Las vanguardias y la generación del 38]]
+- [[Las transformaciones de la modernidad]]
 - [[De la vanguardia a la poesía social y popular]]
 - [[La disolución de las vanguardias]]
 - [[Los fundadores de los cincuenta]]

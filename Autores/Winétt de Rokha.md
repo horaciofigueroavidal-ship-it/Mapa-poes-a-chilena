@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Nacionalismo, mundonovismo y crítica social]]"
+movimiento: ["[[Nacionalismo, mundonovismo y crítica social]]", "[[Las transformaciones de la modernidad]]"]
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-7688.html
 fechas: "1892-1951"
 tags: [autor]
 ---
 # Winétt de Rokha (1892-1951)
 
-**Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
+**Movimientos:** [[Nacionalismo, mundonovismo y crítica social]]; [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -45,9 +45,23 @@ Winet de RokhaDocumentos
 
 ## Poemas en la antología de Nómez
 
+### Tomo I · [[Nacionalismo, mundonovismo y crítica social]]
+
 - De «Lo que me dijo el silencio» VII, X
 - Psicología pesimista
 - De «Horas de sol» (fragmento)
+
+### Tomo II · [[Las transformaciones de la modernidad]]
+
+- Miel y laureles de Chile
+- Casa de campo en Talagante
+- Cabeza de macho
+- Valse en la plaza de Yungay
+- Libro del pirata Knut Fjorson
+- Pueblo de abejas
+- Otoño en 1930
+- Santiago, ciudad
+- Planeta sin rumbo
 
 ## Obras
 

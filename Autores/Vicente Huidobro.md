@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Nacionalismo, mundonovismo y crítica social]]"
+movimiento: ["[[Nacionalismo, mundonovismo y crítica social]]", "[[Las transformaciones de la modernidad]]"]
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-7676.html
 fechas: "1893-1948"
 tags: [autor]
 ---
 # Vicente Huidobro (1893-1948)
 
-**Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
+**Movimientos:** [[Nacionalismo, mundonovismo y crítica social]]; [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -39,6 +39,8 @@ La actualización de este minisitio se publicó durante octubre de 2018, con mot
 
 ## Poemas en la antología de Nómez
 
+### Tomo I · [[Nacionalismo, mundonovismo y crítica social]]
+
 - La alcoba
 - La obsesión de los dientes
 - La capilla aldeana
@@ -46,6 +48,16 @@ La actualización de este minisitio se publicó durante octubre de 2018, con mot
 - El espejo de agua
 - Triángulo armónico
 - Arte poética
+
+### Tomo II · [[Las transformaciones de la modernidad]]
+
+- Arte poética
+- Caleidoscopio
+- Altazor (fragmentos)
+- El pasajero de su destino
+- Monumento al mar
+- Pasión pasión y muerte
+- Éramos los elegidos del sol
 
 ## Obras
 

@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Nacionalismo, mundonovismo y crítica social]]"
+movimiento: ["[[Nacionalismo, mundonovismo y crítica social]]", "[[Las transformaciones de la modernidad]]"]
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3429.html
 fechas: "1889-1957"
 tags: [autor]
 ---
 # Gabriela Mistral (1889-1957)
 
-**Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
+**Movimientos:** [[Nacionalismo, mundonovismo y crítica social]]; [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -47,6 +47,8 @@ La actualización de este minisitio se publicó durante el mes de julio de 2023.
 
 ## Poemas en la antología de Nómez
 
+### Tomo I · [[Nacionalismo, mundonovismo y crítica social]]
+
 - Los sonetos de la muerte
 - Tarde
 - Los versos de noviembre
@@ -55,6 +57,19 @@ La actualización de este minisitio se publicó durante el mes de julio de 2023.
 - Ceras eternas
 - Himno al árbol
 - El ruego
+
+### Tomo II · [[Las transformaciones de la modernidad]]
+
+- Los sonetos de la muerte
+- La otra
+- La cabalgata
+- La muerte-niña
+- Cordillera
+- La flor del aire
+- Pan
+- La fuga
+- La que camina
+- Una palabra
 
 ## Obras
 

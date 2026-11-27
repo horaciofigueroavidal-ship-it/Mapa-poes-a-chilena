@@ -73,6 +73,19 @@ obra_count = 0
 renombrados = 0
 canvas_obras = {}
 pin = {}
+# un poeta puede figurar en más de un tomo (Mistral, Huidobro…): una sola nota, varios movimientos
+ocurr = {}
+for t in tomos:
+    for pa in t["partes"]:
+        for g in pa["grupos"]:
+            for a in g["autores"]:
+                ocurr.setdefault(a["nombre"], []).append((t, pa, g, a))
+hechos = set()
+
+
+def seccion(g):
+    return f" · Sección {g['nombre'].split()[1]}" if g["nombre"] else ""
+
 
 for ti, t in enumerate(tomos):
     tnote = f"{t['tomo']} — {t['titulo']}"
@@ -97,9 +110,14 @@ for ti, t in enumerate(tomos):
                 if mini:
                     m = re.search(r"\((\d{4}[^)]*)\)", mini["titulo"])
                     fechas = f" ({m.group(1)})" if m else ""
-                elif a.get("anio"):
-                    fechas = f" ({a['anio']})"
+                else:
+                    anio = next((x[3]["anio"] for x in ocurr[n] if x[3].get("anio")), None)
+                    fechas = f" ({anio})" if anio else ""
                 cuerpo.append(f"- [[{n}]]{fechas}")
+                if n in hechos:
+                    continue
+                hechos.add(n)
+                occ = ocurr[n]
 
                 # ---- nota de obra (libros) ----
                 obras_poesia, obras_otras = [], []
@@ -166,14 +184,16 @@ for ti, t in enumerate(tomos):
                         (anio, onote, f"[ficha]({d['url']}) · [PDF en línea]({d['pdf']})"))
 
                 # ---- nota de autor ----
-                L = ["---", "tipo: autor", f"movimiento: \"[[{mnote}]]\""]
+                L = ["---", "tipo: autor",
+                     f"movimiento: \"[[{mnote}]]\"" if len(occ) == 1
+                     else "movimiento: [" + ", ".join(f"\"[[{x[1]['nombre']}]]\"" for x in occ) + "]"]
                 if mini:
                     L.append(f"memoria_chilena: {mini['url']}")
                 if fechas:
                     L.append(f"fechas: {json.dumps(fechas.strip(' ()'))}")
                 L += ["tags: [autor]", "---", f"# {n}{fechas}", "",
-                      f"**Movimiento:** [[{mnote}]]"
-                      + (f" · Sección {g['nombre'].split()[1]}" if g["nombre"] else ""), ""]
+                      ("**Movimiento:** " if len(occ) == 1 else "**Movimientos:** ")
+                      + "; ".join(f"[[{x[1]['nombre']}]]{seccion(x[2])}" for x in occ), ""]
                 L.append("## Descripción (Memoria Chilena)\n")
                 if mini:
                     lead = re.sub(r"^.*?\(\d{4}[^)]*\)\s*", "", mini["lead"]).strip()
@@ -197,8 +217,11 @@ for ti, t in enumerate(tomos):
                         L.append(("" if n in BIOS else "> ") + f"Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-{c['autoridad'][0]}.html")
                 L.append("")
                 L.append("## Poemas en la antología de Nómez\n")
-                L += [f"- {x}" for x in a["poemas"]]
-                L.append("")
+                for x in occ:
+                    if len(occ) > 1:
+                        L.append(f"### {x[0]['tomo']} · [[{x[1]['nombre']}]]\n")
+                    L += [f"- {p}" for p in x[3]["poemas"] if p]
+                    L.append("")
                 L.append("## Obras\n")
                 if obras_poesia or obras_otras:
                     if obras_poesia:
@@ -290,17 +313,23 @@ def edge(a, b, color=None):
 
 card("hub", f"# [[{HUB}]]", 0, 0, 520, 140, "3")
 movs_autores = [(pa["nombre"], [a["nombre"] for g in pa["grupos"] for a in g["autores"]]) for t in tomos for pa in t["partes"]]
-total = sum(len(al) for _, al in movs_autores)
+total = len(ocurr)
 R_MOV, R_AUT, R_OBRA = 4500, 13000, 13500
 idx = 0
+aut_id = {}
 for mi, (mv, al) in enumerate(movs_autores):
+    nuevos = [n for n in dict.fromkeys(al) if n not in aut_id]
     a0 = -math.pi / 2 + 2 * math.pi * idx / total
-    a1 = -math.pi / 2 + 2 * math.pi * (idx + len(al)) / total
+    a1 = -math.pi / 2 + 2 * math.pi * (idx + len(nuevos)) / total
     am = (a0 + a1) / 2
     mid = f"m{mi}"
     card(mid, f"## [[{mv}]]", R_MOV * math.cos(am), R_MOV * math.sin(am), 560, 120, "1")
     edge("hub", mid, "1")
-    for ai, n in enumerate(al):
+    for n in al:
+        if n in aut_id:  # ya dibujado en otro movimiento: solo la arista
+            edge(mid, aut_id[n], "5")
+            continue
+        aut_id[n] = f"a{idx}"
         ang = -math.pi / 2 + 2 * math.pi * (idx + 0.5) / total
         aid = f"a{idx}"
         card(aid, f"**[[{n}]]**", R_AUT * math.cos(ang), R_AUT * math.sin(ang), 380, 70, "5")

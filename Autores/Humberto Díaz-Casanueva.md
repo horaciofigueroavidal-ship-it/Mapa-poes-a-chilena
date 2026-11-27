@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3458.html
 fechas: "1906-1992"
 tags: [autor]
 ---
 # Humberto Díaz-Casanueva (1906-1992)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -31,6 +31,11 @@ El año 2011, Rodrigo Díaz, hijo de Humberto Díaz-Casanueva, realizó la serie
 
 ## Poemas en la antología de Nómez
 
+- La visión
+- Elevación de la sima
+- Réquiem (fragmento)
+- Los penitenciales (fragmento)
+- La aparición (fragmento III)
 
 ## Obras
 

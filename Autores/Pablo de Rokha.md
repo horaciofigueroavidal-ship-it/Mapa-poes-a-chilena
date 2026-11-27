@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Nacionalismo, mundonovismo y crítica social]]"
+movimiento: ["[[Nacionalismo, mundonovismo y crítica social]]", "[[Las transformaciones de la modernidad]]"]
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3636.html
 fechas: "1894-1968"
 tags: [autor]
 ---
 # Pablo de Rokha (1894-1968)
 
-**Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
+**Movimientos:** [[Nacionalismo, mundonovismo y crítica social]]; [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -33,9 +33,21 @@ Pablo de Rokha recibió el Premio Nacional de Literatura en 1965 por una obra si
 
 ## Poemas en la antología de Nómez
 
+### Tomo I · [[Nacionalismo, mundonovismo y crítica social]]
+
 - Apunte
 - Carne triste
 - Sobre el cuerpo que todavía se mueve, ahí
+
+### Tomo II · [[Las transformaciones de la modernidad]]
+
+- Genio y figura
+- Círculo
+- Epitalamio (fragmento)
+- El descubrimiento de la alegría
+- Epopeya de las comidas y las bebidas de Chile (fragmentos)
+- Canto del macho anciano (fragmento)
+- Carta perdida a Carlos de Rokha
 
 ## Obras
 

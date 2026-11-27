@@ -743,58 +743,476 @@
       ]
      }
     ]
-   },
+   }
+  ]
+ },
+ {
+  "tomo": "Tomo II",
+  "titulo": "Vanguardias [1]: las transformaciones de la modernidad (1916-1932)",
+  "partes": [
    {
-    "nombre": "Las vanguardias y la generación del 38",
-    "titulo": "Añadido al mapa (no figura en el índice de Nómez): las vanguardias de los años veinte y treinta y la generación del 38",
+    "nombre": "Las transformaciones de la modernidad",
+    "titulo": "Vanguardias [1]: las transformaciones de la modernidad (1916-1932)",
     "grupos": [
      {
       "nombre": null,
+      "autores": []
+     },
+     {
+      "nombre": "Grupo I",
       "autores": [
+       {
+        "nombre": "Gabriela Mistral",
+        "anio": "1889",
+        "poemas": [
+         "Los sonetos de la muerte",
+         "La otra",
+         "La cabalgata",
+         "La muerte-niña",
+         "Cordillera",
+         "La flor del aire",
+         "Pan",
+         "La fuga",
+         "La que camina",
+         "Una palabra"
+        ]
+       },
+       {
+        "nombre": "Vicente Huidobro",
+        "anio": "1893",
+        "poemas": [
+         "Arte poética",
+         "Caleidoscopio",
+         "Altazor (fragmentos)",
+         "El pasajero de su destino",
+         "Monumento al mar",
+         "Pasión pasión y muerte",
+         "Éramos los elegidos del sol"
+        ]
+       },
+       {
+        "nombre": "Pablo de Rokha",
+        "anio": "1894",
+        "poemas": [
+         "Genio y figura",
+         "Círculo",
+         "Epitalamio (fragmento)",
+         "El descubrimiento de la alegría",
+         "Epopeya de las comidas y las bebidas de Chile (fragmentos)",
+         "Canto del macho anciano (fragmento)",
+         "Carta perdida a Carlos de Rokha"
+        ]
+       },
        {
         "nombre": "Pablo Neruda",
         "anio": "1904",
-        "poemas": []
+        "poemas": [
+         "Mariposa de otoño",
+         "Poema 20",
+         "Galope muerto",
+         "Barcarola",
+         "Agua sexual",
+         "Margarita Naranjo",
+         "Alturas de Macchu Picchu (fragmento)",
+         "Oda a la poesía",
+         "La palabra",
+         "No hay pura luz"
+        ]
        },
        {
-        "nombre": "Rosamel del Valle",
-        "anio": "1901",
-        "poemas": []
+        "nombre": "Winétt de Rokha",
+        "anio": "1894",
+        "poemas": [
+         "Miel y laureles de Chile",
+         "Casa de campo en Talagante",
+         "Cabeza de macho",
+         "Valse en la plaza de Yungay",
+         "Libro del pirata Knut Fjorson",
+         "Pueblo de abejas",
+         "Otoño en 1930",
+         "Santiago, ciudad",
+         "Planeta sin rumbo"
+        ]
        },
        {
-        "nombre": "Humberto Díaz-Casanueva",
-        "anio": "1906",
-        "poemas": []
+        "nombre": "Olga Acevedo",
+        "anio": "1895",
+        "poemas": [
+         "Juan Sebastián Bach",
+         "Primavera",
+         "Sitio",
+         "Delirio",
+         "Luto",
+         "Ámame, compañero",
+         "Himno 2",
+         "Himno 3"
+        ]
+       },
+       {
+        "nombre": "María Monvel",
+        "anio": "1897",
+        "poemas": [
+         "Orgía",
+         "Mi hija juega en el jardín",
+         "No entendió",
+         "Un cuartito de hotel",
+         "Comunión pagana",
+         "Marineros",
+         "Y para amarte así...",
+         "Versos de amor",
+         "Invitación al viaje"
+        ]
        },
        {
         "nombre": "Juvencio Valle",
         "anio": "1900",
-        "poemas": []
+        "poemas": [
+         "Bosque",
+         "Margarita Petunia",
+         "El hijo del guardabosques",
+         "De los buenos oficios",
+         "Cantar de cantares",
+         "De donde se aconseja no volar más alto que los pájaros"
+        ]
        },
+       {
+        "nombre": "Rosamel del Valle",
+        "anio": "1900",
+        "poemas": [
+         "Más bello el árbol que el paraíso",
+         "Transparencia de la sangre",
+         "Orfeo (fragmentos)",
+         "Contigo se deshace tu imagen",
+         "El amor mágico",
+         "Los estropicios"
+        ]
+       },
+       {
+        "nombre": "Humberto Díaz-Casanueva",
+        "anio": "1906",
+        "poemas": [
+         "La visión",
+         "Elevación de la sima",
+         "Réquiem (fragmento)",
+         "Los penitenciales (fragmento)",
+         "La aparición (fragmento III)"
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Grupo II",
+      "autores": [
        {
         "nombre": "Alberto Rojas Jiménez",
         "anio": "1900",
-        "poemas": []
+        "poemas": [
+         "Primer Manifiesto «Agú»",
+         "Carta-Océano",
+         "Los niños de ámbar",
+         "Arribo",
+         "Deseo"
+        ]
        },
        {
-        "nombre": "Romeo Murga",
-        "anio": "1904",
-        "poemas": []
+        "nombre": "Guillermo Quiñonez",
+        "anio": "1899",
+        "poemas": [
+         "Canto al cartero",
+         "Primavera",
+         "Tránsito",
+         "Harlem"
+        ]
+       },
+       {
+        "nombre": "Pedro Plonka",
+        "anio": "1896",
+        "poemas": [
+         "Chaplin",
+         "Fuga de sol en la noche",
+         "El viento y la multitud en la metrópoli"
+        ]
+       },
+       {
+        "nombre": "Joaquín Cifuentes Sepúlveda",
+        "anio": "1900",
+        "poemas": [
+         "Mi perro y yo",
+         "Amada",
+         "Abismo",
+         "El hijo",
+         "Dame Señor que nunca"
+        ]
+       },
+       {
+        "nombre": "Juan Florit",
+        "anio": "1900",
+        "poemas": [
+         "Mirando el retrato de su abuelo",
+         "Presencia del aromo",
+         "Un gato muere en Pomaire",
+         "Remolienda en Pomaire",
+         "Zarabanda en Pomaire",
+         "Conjuro del diablo en Pomaire",
+         "Apunte con un sótano",
+         "Apunte con un balcón"
+        ]
+       },
+       {
+        "nombre": "Juan Marín",
+        "anio": "1900",
+        "poemas": [
+         "Boxing",
+         "Yankilandia",
+         "Wamp",
+         "Looping"
+        ]
+       },
+       {
+        "nombre": "Rubén Azócar",
+        "anio": "1900",
+        "poemas": [
+         "La vieja casa",
+         "Palabras de adiós",
+         "Las islas",
+         "La puerta"
+        ]
        },
        {
         "nombre": "Gerardo Seguel",
         "anio": "1902",
-        "poemas": []
+        "poemas": [
+         "Hacia adentro del verdadero día",
+         "Paisaje despierto (fragmento)",
+         "Historia de los minerales y vida de los mineros (fragmento)",
+         "Defensa del amor"
+        ]
        },
        {
-        "nombre": "María Monvel",
-        "anio": "1899",
-        "poemas": []
+        "nombre": "Romeo Murga",
+        "anio": "1904",
+        "poemas": [
+         "Una tristeza fiel",
+         "Madres de los poetas",
+         "La lejana",
+         "Canción en la hora del olvido",
+         "Cuando seamos viejos",
+         "Tu voz"
+        ]
+       },
+       {
+        "nombre": "Chela Reyes",
+        "anio": "1904",
+        "poemas": [
+         "Romance de la niña y el río",
+         "Tótem",
+         "Ventana ciega",
+         "Hipocampos",
+         "Casa de oro"
+        ]
+       },
+       {
+        "nombre": "Jacobo Danke",
+        "anio": "1905",
+        "poemas": [
+         "Proclama editorial de «Gong»",
+         "Breve letanía para algunos emigrantes muertos en esta tierra",
+         "Solo",
+         "Rueda del tiempo",
+         "Elegía de la botella de agua"
+        ]
+       },
+       {
+        "nombre": "Augusto Santelices",
+        "anio": "1907",
+        "poemas": [
+         "Pájaros blancos",
+         "Carta a Jorge González Bastías",
+         "Canción del viento en primavera",
+         "Soliloquio de un hombre gris",
+         "Viaje por los esteros de la noche",
+         "Sinfonía del tren"
+        ]
+       },
+       {
+        "nombre": "Benjamín Morgado",
+        "anio": "1909",
+        "poemas": [
+         "Soneto póstumo a la luna",
+         "Me vas a echar de menos",
+         "Puerto",
+         "Viajeros",
+         "La estación de las lluvias",
+         "Mis vecinas son viejas",
+         "La señorita fea que escribió una carta"
+        ]
+       },
+       {
+        "nombre": "Raúl Lara",
+        "anio": "1911",
+        "poemas": [
+         "Alameda esq. sn. Antonio",
+         "Navidad",
+         "Cablegramas",
+         "Farra",
+         "Melodía obscura",
+         "Señorita Liliana Harrinson, Jr. presente",
+         "Esquema de una novela"
+        ]
        },
        {
         "nombre": "Julio Barrenechea",
         "anio": "1910",
-        "poemas": []
+        "poemas": [
+         "Los seres del amor",
+         "Madrigal frágil",
+         "Esquina con flauta",
+         "Ronda de vírgenes muertas",
+         "Esfuerzo hacia la muerte",
+         "Recuerdo presentido",
+         "Diario morir"
+        ]
+       }
+      ]
+     },
+     {
+      "nombre": "Grupo III",
+      "autores": [
+       {
+        "nombre": "Manuel Rojas",
+        "anio": "1896",
+        "poemas": [
+         "Gusano",
+         "Deshecha rosa (fragmentos)"
+        ]
+       },
+       {
+        "nombre": "Aida Moreno Lagos",
+        "anio": "1896",
+        "poemas": [
+         "Bajo el sol de este huerto",
+         "Entre mis manos"
+        ]
+       },
+       {
+        "nombre": "Arturo Torres Rioseco",
+        "anio": "1897",
+        "poemas": [
+         "Versos de profecía",
+         "Romance a Jorge González Bastías",
+         "Romance del «Huaso Raimundo»"
+        ]
+       },
+       {
+        "nombre": "Neftalí Agrella",
+        "anio": "1898",
+        "poemas": [
+         "«Rosa Náutica»",
+         "«Revista Nguillatún»",
+         "El capitán abandonado",
+         "Partida"
+        ]
+       },
+       {
+        "nombre": "Eusebio Ibar",
+        "anio": "1898",
+        "poemas": [
+         "Bíblicos",
+         "La lecherita"
+        ]
+       },
+       {
+        "nombre": "Víctor Barberis",
+        "anio": "1899",
+        "poemas": [
+         "Noche",
+         "Pueblo",
+         "Amor",
+         "Paisaje"
+        ]
+       },
+       {
+        "nombre": "Roberto Meza Fuentes",
+        "anio": "1899",
+        "poemas": [
+         "La vida sencilla",
+         "Canta mi corazón como una fuente",
+         "La niña que fue a ver el mar",
+         "Balada del antiguo amor"
+        ]
+       },
+       {
+        "nombre": "María Tagle",
+        "anio": "1899",
+        "poemas": [
+         "Fragmentos de poemas"
+        ]
+       },
+       {
+        "nombre": "Salvador Reyes",
+        "anio": "1899",
+        "poemas": [
+         "Límite",
+         "Valparaíso",
+         "El tesoro",
+         "Reposo"
+        ]
+       },
+       {
+        "nombre": "Armando Ulloa",
+        "anio": "1899",
+        "poemas": [
+         "Soneto",
+         "Croquis de mi heredad",
+         "Atardecer"
+        ]
+       },
+       {
+        "nombre": "Carlos Cassasus",
+        "anio": "1899",
+        "poemas": [
+         "Destino de tierra y pueblo",
+         "Hombre de siempre"
+        ]
+       },
+       {
+        "nombre": "Fernando Binvignat",
+        "anio": "1903",
+        "poemas": [
+         "La ola",
+         "La muerte de la paloma",
+         "Compañía alta"
+        ]
+       },
+       {
+        "nombre": "María Isabel Peralta",
+        "anio": "1904",
+        "poemas": [
+         "La rada",
+         "Vacío",
+         "Corre el tren",
+         "Nave vieja",
+         "La barca"
+        ]
+       },
+       {
+        "nombre": "Fausto Soto",
+        "anio": "1906",
+        "poemas": [
+         "Aldea",
+         "El límite",
+         "Estudios por instantes (fragmento)"
+        ]
+       },
+       {
+        "nombre": "Gladys Thein",
+        "anio": "1911",
+        "poemas": [
+         "Territorio del fuego",
+         "¡Ah, las viejas palabras!",
+         "Del infinito ser",
+         "Medida imaginaria"
+        ]
        }
       ]
      }
@@ -803,7 +1221,7 @@
   ]
  },
  {
-  "tomo": "Tomo II",
+  "tomo": "Tomo III",
   "titulo": "Auge y disolución de las vanguardias. Poesía social y poesía popular",
   "partes": [
    {
@@ -1483,7 +1901,7 @@
   ]
  },
  {
-  "tomo": "Tomo III",
+  "tomo": "Tomo IV",
   "titulo": "La poesía chilena entre 1953 y 1973",
   "partes": [
    {

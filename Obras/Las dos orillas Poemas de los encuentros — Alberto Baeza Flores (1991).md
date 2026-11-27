@@ -15,7 +15,7 @@ tags: [obra, sin-pdf]
 
 ## Introducción
 
-Libro de poesía de Alberto Baeza Flores, publicado en 1991. Le precede «Chile, alero planetario» (1991) y le sigue «Enciclopedia de Chile, Diccionario, Tomo 1» (2000).
+Libro de poesía de Alberto Baeza Flores, publicado en 1991. Es el título más tardío de su bibliografía registrada. Le precede «Chile, alero planetario» (1991).
 
 *Introducción generada con los datos de la bibliografía.*
 

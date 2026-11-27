@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-670.html
 fechas: "1900-1999"
 tags: [autor]
 ---
 # Juvencio Valle (1900-1999)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -33,6 +33,12 @@ Juvencio Valle murió el 12 de febrero de 1999, en su casa de Santiago.
 
 ## Poemas en la antología de Nómez
 
+- Bosque
+- Margarita Petunia
+- El hijo del guardabosques
+- De los buenos oficios
+- Cantar de cantares
+- De donde se aconseja no volar más alto que los pájaros
 
 ## Obras
 

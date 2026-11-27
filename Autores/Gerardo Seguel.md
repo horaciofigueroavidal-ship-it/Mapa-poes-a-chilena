@@ -1,12 +1,12 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 fechas: "1902"
 tags: [autor]
 ---
 # Gerardo Seguel (1902)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección II
 
 ## Nota biográfica
 
@@ -17,6 +17,10 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 
 ## Poemas en la antología de Nómez
 
+- Hacia adentro del verdadero día
+- Paisaje despierto (fragmento)
+- Historia de los minerales y vida de los mineros (fragmento)
+- Defensa del amor
 
 ## Obras
 

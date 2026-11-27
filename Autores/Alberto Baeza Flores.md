@@ -95,7 +95,6 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - [[Chile, intimidad de un regreso — Alberto Baeza Flores (1989)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chile%2C%20intimidad%20de%20un%20regreso) · *sin PDF*
 - [[Chile, alero planetario — Alberto Baeza Flores (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chile%2C%20alero%20planetario) · *sin PDF*
 - [[Las dos orillas Poemas de los encuentros — Alberto Baeza Flores (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20dos%20orillas%3A%20Poemas%20de%20los%20encuentros) · *sin PDF*
-- [[Enciclopedia de Chile, Diccionario, Tomo 1 — Alberto Baeza Flores (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Enciclopedia%20de%20Chile%2C%20Diccionario%2C%20Tomo%201) · *sin PDF*
 
 ### Otras obras
 

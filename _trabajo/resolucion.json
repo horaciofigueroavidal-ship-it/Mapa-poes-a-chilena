@@ -974,6 +974,38 @@
    ]
   ]
  },
+ "María Monvel": {
+  "autoridad": [
+   [
+    143004,
+    "Monvel, María, 1889-1936"
+   ]
+  ],
+  "minisitio": [
+   [
+    3709,
+    "María Monvel (1899-1936)"
+   ]
+  ]
+ },
+ "Juvencio Valle": {
+  "autoridad": [
+   [
+    127282,
+    "Valle, Juvencio, 1900-1999"
+   ],
+   [
+    1241637,
+    "Valle, Juvencio"
+   ]
+  ],
+  "minisitio": [
+   [
+    670,
+    "Juvencio Valle (1900-1999)"
+   ]
+  ]
+ },
  "Rosamel del Valle": {
   "autoridad": [
    [
@@ -1006,24 +1038,6 @@
    ]
   ]
  },
- "Juvencio Valle": {
-  "autoridad": [
-   [
-    127282,
-    "Valle, Juvencio, 1900-1999"
-   ],
-   [
-    1241637,
-    "Valle, Juvencio"
-   ]
-  ],
-  "minisitio": [
-   [
-    670,
-    "Juvencio Valle (1900-1999)"
-   ]
-  ]
- },
  "Alberto Rojas Jiménez": {
   "autoridad": [
    [
@@ -1042,6 +1056,64 @@
    ]
   ]
  },
+ "Guillermo Quiñonez": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Pedro Plonka": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Joaquín Cifuentes Sepúlveda": {
+  "autoridad": [
+   [
+    127265,
+    "Cifuentes Sepúlveda, Joaquín"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Juan Florit": {
+  "autoridad": [
+   [
+    144874,
+    "Florit, Juan"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Juan Marín": {
+  "autoridad": [
+   [
+    174024,
+    "Marín, Juan, 1900-1963"
+   ]
+  ],
+  "minisitio": [
+   [
+    3490,
+    "Juan Marín (1900-1963)"
+   ]
+  ]
+ },
+ "Rubén Azócar": {
+  "autoridad": [
+   [
+    127957,
+    "Azócar, Rubén"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Gerardo Seguel": {
+  "autoridad": [
+   [
+    129274,
+    "Seguel, Gerardo"
+   ]
+  ],
+  "minisitio": []
+ },
  "Romeo Murga": {
   "autoridad": [
    [
@@ -1056,28 +1128,45 @@
    ]
   ]
  },
- "Gerardo Seguel": {
+ "Chela Reyes": {
   "autoridad": [
    [
-    129274,
-    "Seguel, Gerardo"
+    174026,
+    "Reyes, Chela, 1904-1988"
    ]
   ],
   "minisitio": []
  },
- "María Monvel": {
+ "Jacobo Danke": {
   "autoridad": [
    [
-    143004,
-    "Monvel, María, 1889-1936"
+    128614,
+    "Danke, Jacobo"
    ]
   ],
-  "minisitio": [
+  "minisitio": []
+ },
+ "Augusto Santelices": {
+  "autoridad": [
    [
-    3709,
-    "María Monvel (1899-1936)"
+    1230077,
+    "Santelices, Augusto"
    ]
-  ]
+  ],
+  "minisitio": []
+ },
+ "Benjamín Morgado": {
+  "autoridad": [
+   [
+    127739,
+    "Morgado, Benjamín"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Raúl Lara": {
+  "autoridad": [],
+  "minisitio": []
  },
  "Julio Barrenechea": {
   "autoridad": [
@@ -1092,6 +1181,158 @@
     "Julio Barrenechea (1910-1979)"
    ]
   ]
+ },
+ "Manuel Rojas": {
+  "autoridad": [
+   [
+    140811,
+    "Pizarro Rojas, José Manuel"
+   ],
+   [
+    1258361,
+    "Rojas, Manuel"
+   ],
+   [
+    166340,
+    "Rojas, Manuel, 1896-1973"
+   ]
+  ],
+  "minisitio": [
+   [
+    3592,
+    "Manuel Rojas (1896-1973)"
+   ]
+  ]
+ },
+ "Aida Moreno Lagos": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Arturo Torres Rioseco": {
+  "autoridad": [
+   [
+    128675,
+    "Torres Rioseco, Arturo"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Neftalí Agrella": {
+  "autoridad": [
+   [
+    1211304,
+    "Agrella, Neftalí (1896-1957)"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Eusebio Ibar": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Víctor Barberis": {
+  "autoridad": [
+   [
+    149277,
+    "Barberis, Víctor"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Roberto Meza Fuentes": {
+  "autoridad": [
+   [
+    805384,
+    "Meza Fuentes, Roberto, 1899-1987"
+   ]
+  ],
+  "minisitio": []
+ },
+ "María Tagle": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Salvador Reyes": {
+  "autoridad": [
+   [
+    1232666,
+    "Reyes, Salvador"
+   ],
+   [
+    174011,
+    "Reyes, Salvador, 1899-1970"
+   ]
+  ],
+  "minisitio": [
+   [
+    3702,
+    "Salvador Reyes (1899-1970)"
+   ]
+  ]
+ },
+ "Armando Ulloa": {
+  "autoridad": [
+   [
+    127263,
+    "Ulloa, Armando, 1899-1928"
+   ]
+  ],
+  "minisitio": [
+   [
+    3305,
+    "Armando Ulloa Muñoz (1899-1928)"
+   ]
+  ]
+ },
+ "Carlos Cassasus": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Fernando Binvignat": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "María Isabel Peralta": {
+  "autoridad": [
+   [
+    154849,
+    "Fernández, María Isabel"
+   ],
+   [
+    145028,
+    "Pavez Reyes, María Isabel"
+   ],
+   [
+    142853,
+    "González Pómes, María Isabel"
+   ],
+   [
+    141499,
+    "Gil, María Isabel"
+   ],
+   [
+    777152,
+    "Behrens P., María Isabel"
+   ],
+   [
+    1175869,
+    "Randolph, María Isabel"
+   ]
+  ],
+  "minisitio": []
+ },
+ "Fausto Soto": {
+  "autoridad": [],
+  "minisitio": []
+ },
+ "Gladys Thein": {
+  "autoridad": [
+   [
+    174017,
+    "Thein, Gladys, 1906-1969"
+   ]
+  ],
+  "minisitio": []
  },
  "Omar Cáceres": {
   "autoridad": [

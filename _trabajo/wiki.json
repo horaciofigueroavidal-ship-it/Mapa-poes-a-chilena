@@ -3763,6 +3763,116 @@
    }
   ]
  },
+ "María Monvel": {
+  "pagina": "María Monvel",
+  "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Monvel",
+  "extracto": "Ercilia (Tilda) Brito Letelier, conocida en la literatura como María Monvel (Iquique, 1899 – Santiago, 25 de septiembre de 1936), fue una poeta chilena, considerada uno de los talentos literarios de América Latina a comienzos del .",
+  "obras": [
+   {
+    "t": "Remansos del ensueño",
+    "y": "1918",
+    "g": "",
+    "nota": "''Remansos del ensueño'', Imprenta Universitaria, 1918."
+   },
+   {
+    "t": "Fue sí",
+    "y": "1922",
+    "g": "",
+    "nota": "''Fue sí'', Nascimento, Santiago, 1922."
+   },
+   {
+    "t": "El marido gringo",
+    "y": "1926",
+    "g": "",
+    "nota": "''El marido gringo'', Sociedad Boletín Comercial Salas & Cia., Santiago, 1926."
+   },
+   {
+    "t": "Poetisas de América",
+    "y": "1929",
+    "g": "",
+    "nota": "''Poetisas de América'', Nascimento, Santiago, 1929."
+   },
+   {
+    "t": "Sus mejores poemas",
+    "y": "1934",
+    "g": "",
+    "nota": "''Sus mejores poemas'', antología preparada por la misma autora, Nascimento, Santiago, 1934."
+   },
+   {
+    "t": "Últimos poemas",
+    "y": "1937",
+    "g": "",
+    "nota": "''Últimos poemas'', Nascimento, Santiago, 1937."
+   }
+  ]
+ },
+ "Juvencio Valle": {
+  "pagina": "Juvencio Valle",
+  "url": "https://es.wikipedia.org/wiki/Juvencio_Valle",
+  "extracto": "Juvencio Valle, seudónimo de Gilberto Concha Riffo, (Villa Almagro, Nueva Imperial, 6 de noviembre de 1900-Santiago, 12 de febrero de 1999) fue un poeta chileno.",
+  "obras": [
+   {
+    "t": "La flauta del hombre pan",
+    "y": "1929",
+    "g": "",
+    "nota": "''La flauta del hombre pan'', 1929."
+   },
+   {
+    "t": "El tratado del bosque",
+    "y": "1932",
+    "g": "",
+    "nota": "''El tratado del bosque'', 1932."
+   },
+   {
+    "t": "El libro primero de Margarita",
+    "y": "1937",
+    "g": "",
+    "nota": "''El libro primero de Margarita'', 1937."
+   },
+   {
+    "t": "Nimbo de piedra",
+    "y": "1941",
+    "g": "",
+    "nota": "''Nimbo de piedra'', 1941."
+   },
+   {
+    "t": "El hijo del guardabosque",
+    "y": "1951",
+    "g": "",
+    "nota": "''El hijo del guardabosque'', 1951."
+   },
+   {
+    "t": "Nuestra tierra se mueve",
+    "y": "1960",
+    "g": "",
+    "nota": "''Nuestra tierra se mueve'', 1960."
+   },
+   {
+    "t": "Del monte en la ladera",
+    "y": "1960",
+    "g": "",
+    "nota": "''Del monte en la ladera'', 1960."
+   },
+   {
+    "t": "El grito en el cielo",
+    "y": "1965",
+    "g": "",
+    "nota": "''El grito en el cielo, poesía'', 1965."
+   },
+   {
+    "t": "Estación al atardecer",
+    "y": "1971",
+    "g": "",
+    "nota": "''Estación al atardecer'', 1971."
+   },
+   {
+    "t": "Pajarería chilena",
+    "y": "1995",
+    "g": "",
+    "nota": "''Pajarería chilena'', 1995."
+   }
+  ]
+ },
  "Rosamel del Valle": {
   "pagina": "Rosamel del Valle",
   "url": "https://es.wikipedia.org/wiki/Rosamel_del_Valle",
@@ -3993,73 +4103,6 @@
    }
   ]
  },
- "Juvencio Valle": {
-  "pagina": "Juvencio Valle",
-  "url": "https://es.wikipedia.org/wiki/Juvencio_Valle",
-  "extracto": "Juvencio Valle, seudónimo de Gilberto Concha Riffo, (Villa Almagro, Nueva Imperial, 6 de noviembre de 1900-Santiago, 12 de febrero de 1999) fue un poeta chileno.",
-  "obras": [
-   {
-    "t": "La flauta del hombre pan",
-    "y": "1929",
-    "g": "",
-    "nota": "''La flauta del hombre pan'', 1929."
-   },
-   {
-    "t": "El tratado del bosque",
-    "y": "1932",
-    "g": "",
-    "nota": "''El tratado del bosque'', 1932."
-   },
-   {
-    "t": "El libro primero de Margarita",
-    "y": "1937",
-    "g": "",
-    "nota": "''El libro primero de Margarita'', 1937."
-   },
-   {
-    "t": "Nimbo de piedra",
-    "y": "1941",
-    "g": "",
-    "nota": "''Nimbo de piedra'', 1941."
-   },
-   {
-    "t": "El hijo del guardabosque",
-    "y": "1951",
-    "g": "",
-    "nota": "''El hijo del guardabosque'', 1951."
-   },
-   {
-    "t": "Nuestra tierra se mueve",
-    "y": "1960",
-    "g": "",
-    "nota": "''Nuestra tierra se mueve'', 1960."
-   },
-   {
-    "t": "Del monte en la ladera",
-    "y": "1960",
-    "g": "",
-    "nota": "''Del monte en la ladera'', 1960."
-   },
-   {
-    "t": "El grito en el cielo",
-    "y": "1965",
-    "g": "",
-    "nota": "''El grito en el cielo, poesía'', 1965."
-   },
-   {
-    "t": "Estación al atardecer",
-    "y": "1971",
-    "g": "",
-    "nota": "''Estación al atardecer'', 1971."
-   },
-   {
-    "t": "Pajarería chilena",
-    "y": "1995",
-    "g": "",
-    "nota": "''Pajarería chilena'', 1995."
-   }
-  ]
- },
  "Alberto Rojas Jiménez": {
   "pagina": "Alberto Rojas Jiménez",
   "url": "https://es.wikipedia.org/wiki/Alberto_Rojas_Jim%C3%A9nez",
@@ -4079,6 +4122,30 @@
    }
   ]
  },
+ "Guillermo Quiñonez": null,
+ "Pedro Plonka": null,
+ "Joaquín Cifuentes Sepúlveda": {
+  "pagina": "Joaquín Cifuentes Sepúlveda",
+  "url": "https://es.wikipedia.org/wiki/Joaqu%C3%ADn_Cifuentes_Sep%C3%BAlveda",
+  "extracto": "Joaquín Cifuentes Sepúlveda (San Clemente, Chile, 15 de marzo de 1899-Buenos Aires, Argentina, febrero de 1929) fue un poeta chileno, se le asocia a la Generación del 20 en donde es uno de los tantos poetas y prosistas chilenos que quedaron olvidados en el tiempo.",
+  "obras": []
+ },
+ "Juan Florit": null,
+ "Juan Marín": null,
+ "Rubén Azócar": {
+  "pagina": "Rubén Azócar",
+  "url": "https://es.wikipedia.org/wiki/Rub%C3%A9n_Az%C3%B3car",
+  "extracto": "Rubén Azócar (Arauco, 25 de marzo de 1901 - Santiago, 9 de abril de 1965) fue un escritor chileno.",
+  "obras": [
+   {
+    "t": "Enciclopedia de Chile, Diccionario, Tomo 1",
+    "y": "2000",
+    "g": "",
+    "nota": "Carlos Gispert (2000) - ''Enciclopedia de Chile, Diccionario, Tomo 1''. Editorial OCEANO. ISBN 84-494-2336-8"
+   }
+  ]
+ },
+ "Gerardo Seguel": null,
  "Romeo Murga": {
   "pagina": "Romeo Murga",
   "url": "https://es.wikipedia.org/wiki/Romeo_Murga",
@@ -4104,50 +4171,113 @@
    }
   ]
  },
- "Gerardo Seguel": null,
- "María Monvel": {
-  "pagina": "María Monvel",
-  "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Monvel",
-  "extracto": "Ercilia (Tilda) Brito Letelier, conocida en la literatura como María Monvel (Iquique, 1899 – Santiago, 25 de septiembre de 1936), fue una poeta chilena, considerada uno de los talentos literarios de América Latina a comienzos del .",
+ "Chela Reyes": {
+  "pagina": "Chela Reyes",
+  "url": "https://es.wikipedia.org/wiki/Chela_Reyes",
+  "extracto": "María Zulema Reyes Valledor (Santiago de Chile, 1904 - 1988) fue una escritora y poeta chilena, conocida por su pseudónimo Chela Reyes.",
   "obras": [
    {
-    "t": "Remansos del ensueño",
-    "y": "1918",
-    "g": "",
-    "nota": "''Remansos del ensueño'', Imprenta Universitaria, 1918."
-   },
-   {
-    "t": "Fue sí",
-    "y": "1922",
-    "g": "",
-    "nota": "''Fue sí'', Nascimento, Santiago, 1922."
-   },
-   {
-    "t": "El marido gringo",
+    "t": "Inquietud",
     "y": "1926",
-    "g": "",
-    "nota": "''El marido gringo'', Sociedad Boletín Comercial Salas & Cia., Santiago, 1926."
+    "g": "Poesía",
+    "nota": "''Inquietud'' (1926)"
    },
    {
-    "t": "Poetisas de América",
-    "y": "1929",
-    "g": "",
-    "nota": "''Poetisas de América'', Nascimento, Santiago, 1929."
+    "t": "Poesías",
+    "y": "1928",
+    "g": "Poesía",
+    "nota": "''Poesías'' (1928)"
    },
    {
-    "t": "Sus mejores poemas",
-    "y": "1934",
-    "g": "",
-    "nota": "''Sus mejores poemas'', antología preparada por la misma autora, Nascimento, Santiago, 1934."
-   },
-   {
-    "t": "Últimos poemas",
+    "t": "Época del alma",
     "y": "1937",
-    "g": "",
-    "nota": "''Últimos poemas'', Nascimento, Santiago, 1937."
+    "g": "Poesía",
+    "nota": "''Época del alma'' (1937)"
+   },
+   {
+    "t": "Ola nocturna",
+    "y": "1945",
+    "g": "Poesía",
+    "nota": "''Ola nocturna'' (1945)"
+   },
+   {
+    "t": "Elegías",
+    "y": "1962",
+    "g": "Poesía",
+    "nota": "''Elegías'' (1962)"
+   },
+   {
+    "t": "Bosque sonoro",
+    "y": "1952",
+    "g": "Cuentos",
+    "nota": "''Bosque sonoro'' (1952)"
+   },
+   {
+    "t": "La extranjera",
+    "y": "1953",
+    "g": "Cuentos",
+    "nota": "''La extranjera'' (1953)"
+   },
+   {
+    "t": "Las cadencias secretas",
+    "y": "1974",
+    "g": "Cuentos",
+    "nota": "''Las cadencias secretas'' (1974)"
+   },
+   {
+    "t": "Puertas verdes y caminos blancos",
+    "y": "1939",
+    "g": "Novela",
+    "nota": "''Puertas verdes y caminos blancos'' (1939)"
+   },
+   {
+    "t": "Tía Eulalia",
+    "y": "1951",
+    "g": "Novela",
+    "nota": "''Tía Eulalia'' (1951)."
+   },
+   {
+    "t": "La llama inmóvil",
+    "y": "1926",
+    "g": "Teatro",
+    "nota": "''La llama inmóvil'' (1926)"
+   },
+   {
+    "t": "Andacollo",
+    "y": "1930",
+    "g": "Teatro",
+    "nota": "''Andacollo'' (1930)"
+   },
+   {
+    "t": "Historia de una negrita blanca",
+    "y": "1950",
+    "g": "Literatura infantil",
+    "nota": "''Historia de una negrita blanca'' (1950)"
+   },
+   {
+    "t": "La pequeña historia de un pececito rojo",
+    "y": "1970",
+    "g": "Literatura infantil",
+    "nota": "''La pequeña historia de un pececito rojo'' (1970)"
+   },
+   {
+    "t": "La paloma paseadora",
+    "y": "1974",
+    "g": "Literatura infantil",
+    "nota": "''La paloma paseadora'' (1974)"
+   },
+   {
+    "t": "A la ronda, ronda, del agua redonda",
+    "y": "1977",
+    "g": "Literatura infantil",
+    "nota": "''A la ronda, ronda, del agua redonda'' (1977)."
    }
   ]
  },
+ "Jacobo Danke": null,
+ "Augusto Santelices": null,
+ "Benjamín Morgado": null,
+ "Raúl Lara": null,
  "Julio Barrenechea": {
   "pagina": "Julio Barrenechea",
   "url": "https://es.wikipedia.org/wiki/Julio_Barrenechea",
@@ -4275,6 +4405,386 @@
    }
   ]
  },
+ "Manuel Rojas": {
+  "pagina": "Manuel Rojas (escritor)",
+  "url": "https://es.wikipedia.org/wiki/Manuel_Rojas_%28escritor%29",
+  "extracto": "Manuel Rojas Sepúlveda (Buenos Aires, 8 de enero de 1896-Santiago, 11 de marzo de 1973) fue un escritor chileno, autor de más de una veintena de libros, que abarcaron cuentos, novelas, poemarios y ensayos. Es reconocido principalmente por su obra Hijo de ladrón, primer libro de la que sería una tetralogía sobre su protagonista Aniceto Hevia. En 1957 fue reconocido con el Premio Nacional de Literatura. \n\nAunque se le recuerda por su adhesión al anarquismo, Rojas fue también simpatizante del Partido Socialista de Chile, afiliándose en dos oportunidades. Su militancia fue breve y pasajera, abandonando el partido tras disentir el apoyo a los candidatos presidenciales de la época —Gabriel González Videla y Carlos Ibáñez del Campo, respectivamente—.",
+  "obras": [
+   {
+    "t": "Lanchas en la Bahía",
+    "y": "1932",
+    "g": "Novelas",
+    "nota": "''Lanchas en la Bahía'', novela, prólogo de Alone, Zig-Zag, Santiago (1932)"
+   },
+   {
+    "t": "La Ciudad de los Césares",
+    "y": "1936",
+    "g": "Novelas",
+    "nota": "''La Ciudad de los Césares'', novela, Ercilla, Santiago (1936)"
+   },
+   {
+    "t": "Hijo de Ladrón",
+    "y": "1951",
+    "g": "Novelas",
+    "nota": "''Hijo de Ladrón'', 1.ª novela de la tetrología de Aniceto Hevia, Nascimento, Santiago (1951)"
+   },
+   {
+    "t": "Mejor que el Vino",
+    "y": "1958",
+    "g": "Novelas",
+    "nota": "''Mejor que el Vino'', 2.ª novela de la tetrología de Aniceto Hevia, Zig-Zag, Santiago (1958)"
+   },
+   {
+    "t": "Punta de Rieles",
+    "y": "1960",
+    "g": "Novelas",
+    "nota": "''Punta de Rieles'', novela, Zig-Zag, Santiago (1960)"
+   },
+   {
+    "t": "Sombras Contra el Muro",
+    "y": "1964",
+    "g": "Novelas",
+    "nota": "''Sombras Contra el Muro'', 3.ª novela de la tetrología de Aniceto Hevia, Zig-Zag, Santiago (1964); descargable desde ''Memoria Chilena''"
+   },
+   {
+    "t": "La Oscura Vida Radiante",
+    "y": "1971",
+    "g": "Novelas",
+    "nota": "''La Oscura Vida Radiante'', 4.ª novela de la tetrología de Aniceto Hevia; Sudamericana, Buenos Aires (1971);"
+   },
+   {
+    "t": "Hombres del sur",
+    "y": "1926",
+    "g": "Cuentos",
+    "nota": "''Hombres del sur'', cuentos, prólogo de Raúl Silva Castro; Nascimento, Santiago (1926). Contiene 5 relatos:"
+   },
+   {
+    "t": "El hombre de los ojos azules",
+    "y": "1926",
+    "g": "Cuentos",
+    "nota": "''El hombre de los ojos azules'', cuento, Sociedad Boletín Comercial Salas & Cia., Santiago (1926)"
+   },
+   {
+    "t": "El delincuente",
+    "y": "1929",
+    "g": "Cuentos",
+    "nota": "''El delincuente'', cuentos, Sociedad Chilena de Ediciones, Imprenta Universitaria, Santiago (1929) (reeditado años más tarde por Zig-Zag con el título de ''El delincuente, el vaso de leche y otros cuentos''). Contiene 9 relatos:"
+   },
+   {
+    "t": "Travesía",
+    "y": "1934",
+    "g": "Cuentos",
+    "nota": "''Travesía'', 9 cuentos, Nascimento, Santiago (1934). Contiene 9 relatos:"
+   },
+   {
+    "t": "El bonete maulino",
+    "y": "1943",
+    "g": "Cuentos",
+    "nota": "''El bonete maulino'', cuentos, Cruz del Sur, Santiago (1943)"
+   },
+   {
+    "t": "Antología de cuentos",
+    "y": "1957",
+    "g": "Cuentos",
+    "nota": "''Antología de cuentos'', prólogo de Enrique Espinoza; Zig-Zag, Santiago (1957)"
+   },
+   {
+    "t": "El vaso de leche y sus mejores cuentos",
+    "y": "1959",
+    "g": "Cuentos",
+    "nota": "''El vaso de leche y sus mejores cuentos'', Nascimento, Santiago (1959)"
+   },
+   {
+    "t": "El hombre de la rosa",
+    "y": "1963",
+    "g": "Cuentos",
+    "nota": "''El hombre de la rosa'', cuentos, Losada, Buenos Aires (1963)"
+   },
+   {
+    "t": "Cuentos del Sur",
+    "y": "1963",
+    "g": "Cuentos",
+    "nota": "''Cuentos del Sur'' y ''Diario de México'', Ediciones Eras, México (1963)"
+   },
+   {
+    "t": "Cuentos",
+    "y": "1970",
+    "g": "Cuentos",
+    "nota": "''Cuentos'', Sudamericana, Buenos Aires (1970). En Chile el libro fue reeditado en 2016 por Ediciones Universidad Alberto Hurtado; Contiene un prólogo del autor —«Hablo de mis cuentos»— y 28 cuentos:"
+   },
+   {
+    "t": "El colocolo y otros cuentos",
+    "y": "1977",
+    "g": "Cuentos",
+    "nota": "''El colocolo y otros cuentos'', Ediciones Huracán, Editorial Arte y Literatura, La Habana (1977)"
+   },
+   {
+    "t": "Cuentos completos",
+    "y": "2019",
+    "g": "Cuentos",
+    "nota": "''Cuentos completos'', con prólogo de Marcelo Mellado, Alfaguara, Santiago (2019)"
+   },
+   {
+    "t": "Poéticas",
+    "y": "1921",
+    "g": "Poesía",
+    "nota": "''Poéticas'', poemas. Edición monográfica de la revista ''Ideas y Figuras''. Mendoza, Argentina (1921)"
+   },
+   {
+    "t": "Tonada del transeúnte",
+    "y": "1927",
+    "g": "Poesía",
+    "nota": "''Tonada del transeúnte'', poesía, Nascimento, Santiago (1927)"
+   },
+   {
+    "t": "Desecha rosa",
+    "y": "1954",
+    "g": "Poesía",
+    "nota": "''Desecha rosa'', poesía, Universitaria, Santiago (1954)"
+   },
+   {
+    "t": "Esencias del país chileno",
+    "y": "1963",
+    "g": "Poesía",
+    "nota": "''Esencias del país chileno'', poesías, UNAM, México (1963)"
+   },
+   {
+    "t": "Su voz viene con el viento. Poesía reunida",
+    "y": "2012",
+    "g": "Poesía",
+    "nota": "''Su voz viene con el viento. Poesía reunida'', recopilación, edición y prólogo de Rodrigo Carvacho Alfaro; LOM, Santiago 2012. Contiene los libros ''Tonada del transeúnte'' (1927) y ''Deshecha rosa'' (1954), más poemas publicados en distintos diarios y revistas de la primera mitad del"
+   },
+   {
+    "t": "De la poesía a la revolución",
+    "y": "1938",
+    "g": "Ensayos",
+    "nota": "''De la poesía a la revolución'', ensayos, Ercilla, Santiago (1938): descargable desde ''Memoria Chilena''"
+   },
+   {
+    "t": "Imágenes de infancia",
+    "y": "1950",
+    "g": "Ensayos",
+    "nota": "''Imágenes de infancia'', memorias, Universitaria, Santiago (1950)"
+   },
+   {
+    "t": "El árbol siempre verde",
+    "y": "1960",
+    "g": "Ensayos",
+    "nota": "''El árbol siempre verde'', ensayos, Zig-Zag, Santiago (1960)"
+   },
+   {
+    "t": "Historia breve de la literatura chilena",
+    "y": "1964",
+    "g": "Ensayos",
+    "nota": "''Historia breve de la literatura chilena'', Zig-Zag, Santiago (1964)"
+   },
+   {
+    "t": "Manual de literatura chilena",
+    "y": "1964",
+    "g": "Ensayos",
+    "nota": "''Manual de literatura chilena'', UNAM, México (1964)"
+   },
+   {
+    "t": "Pasé por México un día",
+    "y": "1965",
+    "g": "Ensayos",
+    "nota": "''Pasé por México un día'', ensayo, Zig-Zag, Santiago (1965)"
+   },
+   {
+    "t": "A pie por Chile",
+    "y": "1967",
+    "g": "Ensayos",
+    "nota": "''A pie por Chile'', ensayo, Editorial del Pacífico, Santiago (1967). La editorial Catalonia sacó en 2016 una edición ilustrada con fotografías y mapas; además a los 65 artículos originales escogidos por Rojas, se agregaron otros 27"
+   },
+   {
+    "t": "Viaje al país de los profetas",
+    "y": "1969",
+    "g": "Ensayos",
+    "nota": "''Viaje al país de los profetas'', ensayo, Zlotopioro, Buenos Aires (1969)"
+   },
+   {
+    "t": "Imágenes de infancia y adolescencia",
+    "y": "1983",
+    "g": "Memorias y crónicas",
+    "nota": "''Imágenes de infancia y adolescencia'', Zig-Zag, Santiago (1983)"
+   },
+   {
+    "t": "Un joven en la batalla",
+    "y": "2012",
+    "g": "Memorias y crónicas",
+    "nota": "''Un joven en la batalla'', crónicas, LOM, Santiago (2012)"
+   },
+   {
+    "t": "Chile: 5 navegantes y 1 astrónomo",
+    "y": "1956",
+    "g": "Otros",
+    "nota": "''Chile: 5 navegantes y 1 astrónomo'', antología, Zig-Zag, Santiago (1956)"
+   },
+   {
+    "t": "Los costumbristas chilenos",
+    "y": "1957",
+    "g": "Otros",
+    "nota": "''Los costumbristas chilenos'', estudio y selección de Manuel Rojas y Mary Canizzo, Zig-Zag, Santiago (1957)"
+   },
+   {
+    "t": "Obras completas",
+    "y": "1961",
+    "g": "Otros",
+    "nota": "''Obras completas'', Zig-Zag, Santiago (1961)"
+   },
+   {
+    "t": "Antología autobiográfica",
+    "y": "1962",
+    "g": "Otros",
+    "nota": "''Antología autobiográfica'', Ercilla, Santiago (1962) (reeditada por LOM, 1995)"
+   },
+   {
+    "t": "Población Esperanza",
+    "y": "1959",
+    "g": "Otros",
+    "nota": "''Población Esperanza'', obra teatro con Isidora Aguirre; estrenada en 1959"
+   },
+   {
+    "t": "Obras",
+    "y": "1973",
+    "g": "Otros",
+    "nota": "''Obras'', Aguilar, Madrid (1973)"
+   },
+   {
+    "t": "Páginas excluidas",
+    "y": "1997",
+    "g": "Otros",
+    "nota": "''Páginas excluidas'', Universitaria, Santiago (1997)"
+   },
+   {
+    "t": "Conversaciones con Manuel Rojas: entrevistas 1928-1972",
+    "y": "1928",
+    "g": "Otros",
+    "nota": "''Conversaciones con Manuel Rojas: entrevistas 1928-1972'', editado por Daniel Fuenzalida; Zig-Zag, Santiago (2012)"
+   },
+   {
+    "t": "La prosa nunca está terminada",
+    "y": "2013",
+    "g": "Otros",
+    "nota": "''La prosa nunca está terminada'', reúne una docena de textos dispersos y fragmentos de entrevistas; editado por Andrés Florit, Ediciones UDP, Santiago (2013)"
+   }
+  ]
+ },
+ "Aida Moreno Lagos": null,
+ "Arturo Torres Rioseco": {
+  "pagina": "Arturo Torres Rioseco",
+  "url": "https://es.wikipedia.org/wiki/Arturo_Torres_Rioseco",
+  "extracto": "Arturo Torres Rioseco (Talca, 17 de octubre de 1897-Berkeley, 3 de noviembre de 1970) fue un poeta, crítico literario y catedrático chileno con nacionalidad estadounidense. Fue fundador del Instituto Internacional de Literatura Iberoamericana y director de la Revista Iberoamericana, miembro de la Academia Mexicana de la Lengua y la Academia de la Lengua de Panamá y del Harvard Council on Spanish American Studies y profesor de la Universidad de California (Berkeley) amigo de Gabriela Mistral cultivo poemas como: El Encantamiento en 1921 y Ausencia en 1932 y ensayos como: Precursores del modernismo en 1925.",
+  "obras": []
+ },
+ "Neftalí Agrella": {
+  "pagina": "Neftalí Agrella",
+  "url": "https://es.wikipedia.org/wiki/Neftal%C3%AD_Agrella",
+  "extracto": "Neftalí Fructuoso de la Fuente Agrella (Mejillones, 21 de enero de 1896 - † Santiago, 24 de marzo de 1957) poeta, narrador, ensayista, autor teatral y periodista de Mejillones.",
+  "obras": [
+   {
+    "t": "Savia Roja",
+    "y": "1920",
+    "g": "",
+    "nota": "Savia Roja (1920)"
+   },
+   {
+    "t": "Poemas",
+    "y": "1925",
+    "g": "",
+    "nota": "Poemas (1925)"
+   },
+   {
+    "t": "El Alfarero Indio",
+    "y": "1933",
+    "g": "",
+    "nota": "El Alfarero Indio (1933)."
+   }
+  ]
+ },
+ "Eusebio Ibar": null,
+ "Víctor Barberis": null,
+ "Roberto Meza Fuentes": null,
+ "María Tagle": null,
+ "Salvador Reyes": null,
+ "Armando Ulloa": null,
+ "Carlos Cassasus": null,
+ "Fernando Binvignat": {
+  "pagina": "Fernando Binvignat",
+  "url": "https://es.wikipedia.org/wiki/Fernando_Binvignat",
+  "extracto": "Fernando Binvignat Marín (Coquimbo, 6 de junio de 1903-Coquimbo, 8 de febrero de 1977) fue un profesor de castellano y poeta chileno, reconocido con el Premio Regional de Literatura en 1975.",
+  "obras": [
+   {
+    "t": "Canto humilde",
+    "y": "1922",
+    "g": "",
+    "nota": "Canto humilde, poesía, 1922"
+   },
+   {
+    "t": "Elegía",
+    "y": "1924",
+    "g": "",
+    "nota": "Elegía, poesía, 1924"
+   },
+   {
+    "t": "La luna de oro",
+    "y": "1926",
+    "g": "",
+    "nota": "La luna de oro, poesía, 1926"
+   },
+   {
+    "t": "Ciudad de bronce",
+    "y": "1930",
+    "g": "",
+    "nota": "Ciudad de bronce, poesía, 1930"
+   },
+   {
+    "t": "Cántaro",
+    "y": "1934",
+    "g": "",
+    "nota": "Cántaro, poesía, 1934"
+   },
+   {
+    "t": "Calle de la Merced",
+    "y": "1940",
+    "g": "",
+    "nota": "Calle de la Merced, poesía, 1940"
+   },
+   {
+    "t": "Versos de amor",
+    "y": "1953",
+    "g": "",
+    "nota": "Versos de amor, poesía, 1953"
+   },
+   {
+    "t": "Madrigal de palomas",
+    "y": "1964",
+    "g": "",
+    "nota": "Madrigal de palomas, poesía, 1964"
+   },
+   {
+    "t": "El príncipe feliz",
+    "y": "1965",
+    "g": "",
+    "nota": "El príncipe feliz, poesía, (versificación de la obra de Oscar Wilde), 1965"
+   }
+  ]
+ },
+ "María Isabel Peralta": {
+  "pagina": "María Isabel Peralta",
+  "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Isabel_Peralta",
+  "extracto": "María Isabel Peralta (Paihuano, 20 de noviembre de 1904-Concepción, 19 de junio de 1926) fue una poeta chilena.",
+  "obras": [
+   {
+    "t": "Caravana parda",
+    "y": "1933",
+    "g": "",
+    "nota": "''Caravana parda'' (1933, obra póstuma)."
+   }
+  ]
+ },
+ "Fausto Soto": null,
+ "Gladys Thein": null,
  "Omar Cáceres": {
   "pagina": "Omar Cáceres",
   "url": "https://es.wikipedia.org/wiki/Omar_C%C3%A1ceres",

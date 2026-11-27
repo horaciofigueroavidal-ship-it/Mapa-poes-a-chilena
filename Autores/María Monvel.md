@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3709.html
 fechas: "1899-1936"
 tags: [autor]
 ---
 # María Monvel (1899-1936)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -45,6 +45,15 @@ La actualización de este minisitio se publicó durante el mes de octubre de 202
 
 ## Poemas en la antología de Nómez
 
+- Orgía
+- Mi hija juega en el jardín
+- No entendió
+- Un cuartito de hotel
+- Comunión pagana
+- Marineros
+- Y para amarte así...
+- Versos de amor
+- Invitación al viaje
 
 ## Obras
 

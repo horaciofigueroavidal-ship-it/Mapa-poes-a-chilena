@@ -1,0 +1,29 @@
+---
+tipo: autor
+movimiento: "[[Las transformaciones de la modernidad]]"
+fechas: "1911"
+tags: [autor]
+---
+# Raúl Lara (1911)
+
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección II
+
+## Nota biográfica
+
+Poeta (1911), registrado en algunas antologías como Raúl Lara Valle. Formó parte del runrunismo, el grupo de adolescentes nacidos hacia 1910 que en 1928 presentó en Santiago el «Cartel runrúnico» junto a Benjamín Morgado, Alfredo Pérez Santana y Clemente Andrade Marchant. Sus poemas, como «Cablegramas» y «Alameda esq. sn. Antonio», incorporan la ciudad, la prensa y el telégrafo. Los datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+
+## Poemas en la antología de Nómez
+
+- Alameda esq. sn. Antonio
+- Navidad
+- Cablegramas
+- Farra
+- Melodía obscura
+- Señorita Liliana Harrinson, Jr. presente
+- Esquema de una novela
+
+## Obras
+
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

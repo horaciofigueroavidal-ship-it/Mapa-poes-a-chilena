@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-797.html
 fechas: "1904-1925"
 tags: [autor]
 ---
 # Romeo Murga (1904-1925)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección II
 
 ## Descripción (Memoria Chilena)
 
@@ -15,7 +15,7 @@ tags: [autor]
 
 Romeo Murga nació el 17 de junio de 1904 en la ciudad de Copiapó. Fue el primogénito de la familia compuesta por José Murga Bravo, Ludomilia Sierralta Cortés, y sus hijas Berta y Marta. Fue alumno del colegio La Merced, donde realizó sus estudios básicos; posteriormente del Liceo Alemán y del liceo José Antonio Carvajal, donde cursó sus estudios secundarios.
 
-En el año 1920, se trasladó a Santiago e ingresó al Instituto Pedagógico de la Universidad de Chile, donde obtuvo el título de profesor de estado en la asignatura de francés. Fue aquí donde conoció a Eugenio González, [[Pablo Neruda|Pablo Neruda]], Armando Ulloa, Rubén Azócar, Eusebio Ibar, Víctor Barberis y Yolando Pino Saavedra, con quienes estableció un profundo lazo tanto en el ámbito personal como en el literario.
+En el año 1920, se trasladó a Santiago e ingresó al Instituto Pedagógico de la Universidad de Chile, donde obtuvo el título de profesor de estado en la asignatura de francés. Fue aquí donde conoció a Eugenio González, [[Pablo Neruda|Pablo Neruda]], [[Armando Ulloa|Armando Ulloa]], Rubén Azócar, Eusebio Ibar, Víctor Barberis y Yolando Pino Saavedra, con quienes estableció un profundo lazo tanto en el ámbito personal como en el literario.
 
 Fue un activo integrante del círculo que rodeaba a la Federación de Estudiantes de la Universidad de Chile. Allí junto a Neruda frecuentaban los restaurantes Zum Rhein y el Teutonia y encabezaban las luchas estudiantiles; especialmente recordado es el episodio de la expulsión de Eugenio González del Instituto Pedagógico, quien años más tarde llegaría a ser rector de la Universidad de Chile.
 
@@ -29,6 +29,12 @@ El 22 de mayo de 1925, la tuberculosis que desde hacía años lo aquejaba, termi
 
 ## Poemas en la antología de Nómez
 
+- Una tristeza fiel
+- Madres de los poetas
+- La lejana
+- Canción en la hora del olvido
+- Cuando seamos viejos
+- Tu voz
 
 ## Obras
 

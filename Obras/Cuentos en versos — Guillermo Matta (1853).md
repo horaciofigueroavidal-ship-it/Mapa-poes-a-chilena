@@ -18,7 +18,7 @@ tags: [obra]
 
 ## Introducción
 
-Libro de poesía de Guillermo Matta, publicado en 1853. Datos de edición: Santiago : Imprenta Chilena, 1853. Le precede «Diccionario histórico, Biográfico y Bibliográfico de Chile: 1800-1928» (1800) y le sigue «A la América» (1857).
+Libro de poesía de Guillermo Matta, publicado en 1853. Datos de edición: Santiago : Imprenta Chilena, 1853. Es el primer título de su bibliografía registrada.
 
 *Introducción generada con los datos de la ficha.*
 

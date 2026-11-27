@@ -15,7 +15,7 @@ tags: [obra, sin-pdf]
 
 ## Introducción
 
-Libro de poesía de Pedro Prado, publicado en 1952. Julio Arriagada A. y Hugo Goldsack. , separata de la revista Atenea, Nascimento, Santiago de Chile, 1952. Le precede «Viejos poemas inéditos, antología de homenaje» (1949) y le sigue «Diccionario de literatura española» (1953).
+Libro de poesía de Pedro Prado, publicado en 1952. Julio Arriagada A. y Hugo Goldsack. , separata de la revista Atenea, Nascimento, Santiago de Chile, 1952. Le precede «Viejos poemas inéditos, antología de homenaje» (1949) y le sigue «Elogio de Pedro Prado» (1953).
 
 *Introducción generada con los datos de la bibliografía.*
 

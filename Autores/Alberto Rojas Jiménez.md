@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3275.html
 fechas: "1900-1934"
 tags: [autor]
 ---
 # Alberto Rojas Jiménez (1900-1934)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección II
 
 ## Descripción (Memoria Chilena)
 
@@ -19,7 +19,7 @@ en el año triste en que los niños rompieron flores
 
 Alberto Rojas Jiménez
 
-Alberto Rojas Jiménez nació en Valparaíso el 21 de julio de 1900. Sus padres fueron Alberto Rojas Guajardo y Elena Jiménez Labarca. Alumno del Internado Nacional Barros Arana, realizó estudios en la Escuela de Arquitectura y Bellas Artes de la Universidad de Chile. Su producción literaria, la que lo define principalmente como poeta y cronista, comenzó en 1918 con la publicación de trabajos en prosa en la revista Zig-Zag bajo el seudónimo de Pierre Lhéry, y terminó con sus escritos publicados en el diario El Correo de Valdivia. Formó parte de la Generación Literaria de 1920 junto a Joaquín Cifuentes Sepúlveda, Armando Ulloa, Alejandro Vásquez, Rubén Azócar, Raimundo Echevarría Larrazábal y [[Pablo Neruda|Pablo Neruda]], quien le dedicó tras su muerte el poema "Alberto Rojas Jiménez viene volando".
+Alberto Rojas Jiménez nació en Valparaíso el 21 de julio de 1900. Sus padres fueron Alberto Rojas Guajardo y Elena Jiménez Labarca. Alumno del Internado Nacional Barros Arana, realizó estudios en la Escuela de Arquitectura y Bellas Artes de la Universidad de Chile. Su producción literaria, la que lo define principalmente como poeta y cronista, comenzó en 1918 con la publicación de trabajos en prosa en la revista Zig-Zag bajo el seudónimo de Pierre Lhéry, y terminó con sus escritos publicados en el diario El Correo de Valdivia. Formó parte de la Generación Literaria de 1920 junto a Joaquín Cifuentes Sepúlveda, [[Armando Ulloa|Armando Ulloa]], Alejandro Vásquez, Rubén Azócar, Raimundo Echevarría Larrazábal y [[Pablo Neruda|Pablo Neruda]], quien le dedicó tras su muerte el poema "Alberto Rojas Jiménez viene volando".
 
 Fue un eximio dibujante influenciado por la pintura de Chagall, y con sus dibujos contribuyó a la difusión de grandes pintores y escultores de vanguardia. Dirigió y colaboró en el periódico Claridad, cuyos directores en su período inicial fueron Raúl Silva Castro y Rafael Yépez. En Claridad publicó en 1920 junto a Martín Bunster el poema "Primer manifiesto Agú". También escribió en numerosas revistas y diarios nacionales. En la Revista de Educación contribuyó como crítico de arte y en Atenea hizo aportes como poeta y con artículos en los que expresó sus conocimientos sobre la vanguardia de la época. Escribió también en las revistas Gaceta de Chile y Revista de Arte. Asimismo, el diario La Nación lo tuvo como redactor en la página "Montparnasse", en la que colaboraron en su oportunidad Luis Vargas Rosas y Juan Emar. Además, en el diario La República de Valdivia fue encargado de la columna "Kaleidoscopio".
 
@@ -33,6 +33,11 @@ El poeta falleció en Santiago, el 25 de mayo de 1934. Sesenta años más tarde,
 
 ## Poemas en la antología de Nómez
 
+- Primer Manifiesto «Agú»
+- Carta-Océano
+- Los niños de ámbar
+- Arribo
+- Deseo
 
 ## Obras
 

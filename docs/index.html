@@ -114,7 +114,7 @@ autores.forEach(a => {
   const m = byId.get(a.mov);
   add({id: a.id, kind: "aut", r: 4.5 + Math.min(5, a.obras.length * .35), data: a,
        x: (R_MOV + 330) * Math.cos(m.ang) + jit() * 40, y: (R_MOV + 330) * Math.sin(m.ang) + jit() * 40});
-  links.push({source: a.mov, target: a.id});
+  a.movs.forEach(mv => links.push({source: mv, target: a.id}));  // un poeta puede estar en dos tomos
   a.obras.forEach((o, i) => {
     const id = `obra:${a.id}:${i}`;
     add({id, kind: "obra", r: 2.6, data: o, autor: a.id, label: o.t,
@@ -175,7 +175,7 @@ fit();
 function neighbors(d) {
   const s = new Set([d.id]);
   links.forEach(l => { if (l.source.id === d.id) s.add(l.target.id); if (l.target.id === d.id) s.add(l.source.id); });
-  if (d.kind === "aut") s.add(d.data.mov);
+  if (d.kind === "aut") d.data.movs.forEach(mv => s.add(mv));
   if (d.kind === "obra") { s.add(d.autor); }
   if (d.kind === "mov") nodes.forEach(n => { if (n.kind === "obra" && s.has(n.autor)) s.add(n.id); });
   return s;
@@ -234,18 +234,19 @@ function render(d) {
       <p>Los movimientos del índice de Naín Nómez, <i>Antología crítica de la poesía chilena</i>.</p>
       <h3>Movimientos</h3><ul>${movs.map(m => `<li>${go(m.id)}</li>`).join("")}</ul>`;
   } else if (d.kind === "mov") {
-    const as = autores.filter(a => a.mov === d.id);
+    const as = autores.filter(a => a.movs.includes(d.id));
     content.innerHTML = `<div class="kind">Movimiento</div><h2>${esc(d.id)}</h2><p class="lead">${esc(d.sub)}</p>
       <h3>Poetas (${as.length})</h3><ul>${as.map(a => `<li>${go(a.id)} <span class="muted">${esc(a.f ? "(" + a.f + ")" : "")}</span></li>`).join("")}</ul>`;
   } else if (d.kind === "aut") {
     const a = d.data, poe = a.obras.filter(o => o.poe), otras = a.obras.filter(o => !o.poe);
-    content.innerHTML = `<div class="kind">Poeta · ${go(a.mov)}</div><h2>${esc(a.id)}</h2>
+    content.innerHTML = `<div class="kind">Poeta · ${a.movs.map(go).join(" · ")}</div><h2>${esc(a.id)}</h2>
       ${a.f ? `<div class="muted">${esc(a.f)}</div>` : ""}
       ${a.bio ? `<h3>Nota biográfica</h3>${paras(a.bio)}<p class="muted">Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>` : `<h3>Descripción (Memoria Chilena)</h3>
       ${a.lead ? `<p class="lead">${esc(a.lead)}</p>` : ""}
       ${a.pres ? paras(a.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}`}
       ${a.mc ? `<div class="src">Fuente: <a href="${a.mc}" target="_blank" rel="noopener">Memoria Chilena</a></div>` : ""}
-      <h3>Poemas en la antología</h3><ul>${a.poemas.map(p => `<li>${esc(p)}</li>`).join("")}</ul>
+      <h3>Poemas en la antología</h3>${a.pg.map(g => (a.pg.length > 1 ? `<div class="muted">${esc(g.t)} · ${go(g.m)}</div>` : "")
+        + `<ul>${g.l.map(p => `<li>${esc(p)}</li>`).join("")}</ul>`).join("")}
       <h3>Obras (${a.obras.length})</h3>
       ${a.obras.length ? (poe.length ? `<div class="muted">Poesía</div>${poe.map(obraHTML).join("")}` : "")
         + (otras.length ? `<div class="muted" style="margin-top:10px">Otras obras</div>${otras.map(obraHTML).join("")}` : "")

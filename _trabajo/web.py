@@ -17,6 +17,13 @@ for t in tomos:
         for g in pa["grupos"]:
             for a in g["autores"]:
                 n = a["nombre"]
+                grupo = {"t": t["tomo"], "m": pa["nombre"], "l": [p for p in a["poemas"] if p]}
+                previo = next((x for x in autores if x["id"] == n), None)
+                if previo:  # el poeta figura en otro tomo: suma el movimiento y los poemas
+                    previo["movs"].append(pa["nombre"]); previo["pg"].append(grupo)
+                    if not previo["f"] and a.get("anio"):
+                        previo["f"] = a["anio"]
+                    continue
                 c = cosecha.get(n, {})
                 mini = c.get("minisitio")
                 fechas = ""
@@ -31,12 +38,12 @@ for t in tomos:
                                  | {"auto": not o["curada"]})
                 obras.sort(key=lambda o: (not o["poe"], o["y"] or "9999"))
                 autores.append({
-                    "id": n, "mov": pa["nombre"], "f": fechas,
+                    "id": n, "mov": pa["nombre"], "movs": [pa["nombre"]], "pg": [grupo], "f": fechas,
                     "lead": re.sub(r"^.*?\(\d{4}[^)]*\)\s*", "", mini["lead"]).strip() if mini else "",
                     "pres": limpiar_pres(mini["presentacion"]) if mini else "",
                     "bio": BIOS.get(n, "") if not mini else "",
                     "mc": mini["url"] if mini else (f"https://www.memoriachilena.gob.cl/602/w3-propertyvalue-{c['autoridad'][0]}.html" if c.get("autoridad") else ""),
-                    "poemas": a["poemas"], "obras": obras,
+                    "obras": obras,
                 })
 
 os.makedirs(os.path.join(VAULT, "docs"), exist_ok=True)

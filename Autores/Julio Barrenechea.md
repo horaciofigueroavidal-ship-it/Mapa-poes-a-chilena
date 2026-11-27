@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Las vanguardias y la generación del 38]]"
+movimiento: "[[Las transformaciones de la modernidad]]"
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-3495.html
 fechas: "1910-1979"
 tags: [autor]
 ---
 # Julio Barrenechea (1910-1979)
 
-**Movimiento:** [[Las vanguardias y la generación del 38]]
+**Movimiento:** [[Las transformaciones de la modernidad]] · Sección II
 
 ## Descripción (Memoria Chilena)
 
@@ -27,6 +27,13 @@ La obra de Julio Barrenechea, ha sido comentada por diversos autores, entre los 
 
 ## Poemas en la antología de Nómez
 
+- Los seres del amor
+- Madrigal frágil
+- Esquina con flauta
+- Ronda de vírgenes muertas
+- Esfuerzo hacia la muerte
+- Recuerdo presentido
+- Diario morir
 
 ## Obras
 
@@ -51,7 +58,6 @@ La obra de Julio Barrenechea, ha sido comentada por diversos autores, entre los 
 - [[Poemas de Colombia y del ser — Julio Barrenechea (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8332.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010967.pdf)
 - [[El compadre mucho gusto — Julio Barrenechea (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20compadre%20mucho%20gusto) · *sin PDF*
 - [[La India no misteriosa — Julio Barrenechea (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20India%20no%20misteriosa) · *sin PDF*
-- [[nombre=Carlos fecha=2000 título=Enciclopedia de Chile, Diccionario volumen=1 editorial=Océ — Julio Barrenechea (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%7Cnombre%3DCarlos%20%7Cfecha%3D2000%20%7Ct%C3%ADtulo%3DEnciclopedia%20de%20Chile%2C%20Di) · *sin PDF*
 
 ### Otras obras
 

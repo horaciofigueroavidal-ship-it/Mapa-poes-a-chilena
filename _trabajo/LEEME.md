@@ -12,6 +12,7 @@ N: Primer poema | Segundo poema | Tercer poema
 - `A:` nombre del poeta, tal como se escribe en Memoria Chilena. El año de nacimiento después de `|` es opcional, pero ayuda a identificarlo.
 - `N:` poemas, separados por ` | ` (no importa si la lista queda vacía: `N:`).
 - Para un movimiento nuevo, agrega antes de sus autores: `P: Nombre corto | Título completo del movimiento`.
+- Un mismo poeta puede aparecer en varios tomos (Mistral, Huidobro…): escribe su nombre igual en cada uno. Tendrá una sola nota, enlazada a todos sus movimientos y con los poemas de cada tomo.
 - Guarda el archivo en UTF-8 (opción por defecto del Bloc de notas).
 
 ## 1b. (Opcional) Nota biográfica propia

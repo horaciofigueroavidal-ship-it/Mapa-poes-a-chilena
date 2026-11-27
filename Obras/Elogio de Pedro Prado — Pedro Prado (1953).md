@@ -15,7 +15,7 @@ tags: [obra, sin-pdf]
 
 ## Introducción
 
-Libro de poesía de Pedro Prado, publicado en 1953. Valentín Brandau. , discurso de incorporación a la Academia Chilena de la Lengua, Imprenta Universitaria, Santiago de Chile, 1953. Le precede «Diccionario de literatura española» (1953) y le sigue «Pedro Prado en la literatura americana» (1958).
+Libro de poesía de Pedro Prado, publicado en 1953. Valentín Brandau. , discurso de incorporación a la Academia Chilena de la Lengua, Imprenta Universitaria, Santiago de Chile, 1953. Le precede «Pedro Prado, un clásico de América» (1952) y le sigue «Pedro Prado en la literatura americana» (1958).
 
 *Introducción generada con los datos de la bibliografía.*
 

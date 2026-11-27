@@ -150,7 +150,8 @@ def catalogo(autor):
                     "mats": d.get("Materias", []), "w": "", "d": d})
     wk = wiki.get(autor) or {}
     for w in wk.get("obras", []):
-        if norm(w["t"]).strip() in BASURA or re.match(r"(?i)en coautor|con prólogo|edición de|traducción de", w["t"]):
+        if norm(w["t"]).strip() in BASURA or re.match(r"(?i)en coautor|con prólogo|edición de|traducción de", w["t"]) \
+                or re.search(r"(?i)enciclopedia de chile|diccionario histórico, biográfico|diccionario de literatura española|\|\w+=", w["t"]):  # fuentes citadas, no obras
             continue
         if any(mismo(o["t"], w["t"]) and not o["u"] for o in out):  # repetida dentro de Wikipedia
             continue

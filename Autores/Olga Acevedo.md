@@ -1,13 +1,13 @@
 ---
 tipo: autor
-movimiento: "[[Nacionalismo, mundonovismo y crítica social]]"
+movimiento: ["[[Nacionalismo, mundonovismo y crítica social]]", "[[Las transformaciones de la modernidad]]"]
 memoria_chilena: https://www.memoriachilena.gob.cl/602/w3-article-334082.html
 fechas: "1895-1970"
 tags: [autor]
 ---
 # Olga Acevedo (1895-1970)
 
-**Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
+**Movimientos:** [[Nacionalismo, mundonovismo y crítica social]]; [[Las transformaciones de la modernidad]] · Sección I
 
 ## Descripción (Memoria Chilena)
 
@@ -15,9 +15,22 @@ tags: [autor]
 
 ## Poemas en la antología de Nómez
 
+### Tomo I · [[Nacionalismo, mundonovismo y crítica social]]
+
 - Serenata
 - Los malos vientos
 - Sitio
+
+### Tomo II · [[Las transformaciones de la modernidad]]
+
+- Juan Sebastián Bach
+- Primavera
+- Sitio
+- Delirio
+- Luto
+- Ámame, compañero
+- Himno 2
+- Himno 3
 
 ## Obras
 

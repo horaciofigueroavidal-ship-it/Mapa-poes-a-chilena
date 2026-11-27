@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Exilio y diáspora]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1945–), integrante de la Escuela de Santiago a fines de los sesenta. Exiliado en Canadá (Ottawa), fue uno de los animadores de la literatura chilena del exilio en ese país, a través de Ediciones Cordillera.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

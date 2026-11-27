@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Las tendencias láricas]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta del sur de Chile. Nómez lo incluye en las tendencias láricas, junto a Jorge Teillier y Rolando Cárdenas. Su poesía evoca la infancia, la provincia y el paisaje austral. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

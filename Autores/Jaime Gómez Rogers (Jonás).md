@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Los inicios de la poesía de los sesenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta que firmó con el seudónimo «Jonás». Nómez lo incluye en los inicios de la poesía de los sesenta. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

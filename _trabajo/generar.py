@@ -45,6 +45,23 @@ def es_poesia(d):
     return "poes" in mats or "poema" in mats or "verso" in mats
 
 
+def cargar_bios():
+    """Notas biográficas propias para autores sin minisitio (biografias.txt)."""
+    bios, cur = {}, None
+    ruta = os.path.join(HERE, "biografias.txt")
+    if not os.path.exists(ruta):
+        return bios
+    for line in open(ruta, encoding="utf-8"):
+        if line.startswith("## "):
+            cur = line[3:].strip(); bios[cur] = []
+        elif cur and not line.startswith("#"):
+            bios[cur].append(line.rstrip())
+    return {k: "\n".join(v).strip() for k, v in bios.items() if "".join(v).strip()}
+
+
+BIOS = cargar_bios()
+
+
 def limpiar_pres(t):
     t = re.sub(r'^id="UT_texto_presentacion"[^>]*>\s*', "", t)
     return t.strip()
@@ -145,9 +162,15 @@ for ti, t in enumerate(tomos):
                         L.append("")
                     L.append(f"*Fuente:* [{mini['titulo']} — Memoria Chilena]({mini['url']})")
                 else:
-                    L.append("> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.")
+                    if n in BIOS:
+                        L[-1] = "## Nota biográfica\n"
+                        L.append(BIOS[n])
+                        L.append("")
+                        L.append("*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*")
+                    else:
+                        L.append("> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.")
                     if c.get("autoridad"):
-                        L.append(f"> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-{c['autoridad'][0]}.html")
+                        L.append(("" if n in BIOS else "> ") + f"Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-{c['autoridad'][0]}.html")
                 L.append("")
                 L.append("## Poemas en la antología de Nómez\n")
                 L += [f"- {x}" for x in a["poemas"]]

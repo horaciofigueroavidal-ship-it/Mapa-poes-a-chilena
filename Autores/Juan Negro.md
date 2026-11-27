@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[De la vanguardia a la poesía social y popular]] · Sección I
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (seudónimo), activo desde los años treinta. Nómez lo sitúa en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

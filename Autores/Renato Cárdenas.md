@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del sur]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128082.html
+Poeta e investigador de la cultura de Chiloé (1949–). Ha estudiado la historia y la religiosidad popular del archipiélago: *Caguach, isla de la devoción* (1986) y *Los chonos y los veliche de Chiloé* (1991). Fue parte del grupo Aumen.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128082.html
 
 ## Poemas en la antología de Nómez
 

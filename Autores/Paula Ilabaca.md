@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del 2000]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y narradora (1979–), autora de *La perla suelta* (2006). Su poesía, de imaginería corporal y erótica, explora la identidad femenina y la violencia.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

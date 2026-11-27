@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Tradición nacional y modernidad cosmopolita]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127383.html
+Poeta de la generación modernista (fines del siglo XIX y comienzos del XX). Su poesía, de tono reflexivo y filosófico, participa del tránsito desde el modernismo hacia las búsquedas espirituales del Centenario. Memoria Chilena registra su autoría.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127383.html
 
 ## Poemas en la antología de Nómez
 

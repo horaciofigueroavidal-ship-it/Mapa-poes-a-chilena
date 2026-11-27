@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía mapuche]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y narradora huilliche (1956–), autora de *Walinto* (2001). Fue la primera mujer indígena en integrar la Academia Chilena de la Lengua. Su obra recupera la memoria de su pueblo y la voz de las mujeres mapuche.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

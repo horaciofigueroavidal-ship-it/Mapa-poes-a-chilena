@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Poesía mapuche]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-141239.html
+Poeta mapuche (1969–), autor de *Se ha despertado el ave de mi corazón* (1989), escrito en mapudungun y castellano, con el que obtuvo el Premio Municipal de Santiago. Su obra es fundacional para la poesía mapuche contemporánea.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-141239.html
 
 ## Poemas en la antología de Nómez
 

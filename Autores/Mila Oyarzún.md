@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[De la vanguardia a la poesía social y popular]] · Sección II
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y profesora (1912–?) de la generación del 38. Su poesía es de tono lírico y reflexivo. Nómez la ubica en el tránsito de la vanguardia a la poesía social y popular.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

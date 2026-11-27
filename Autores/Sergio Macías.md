@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Exilio y diáspora]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128986.html
+Poeta y ensayista (1938–), exiliado en España tras el golpe. Allí difundió la poesía chilena y la denuncia de la dictadura, por ejemplo en «Los poetas chilenos luchan contra el fascismo». Ha estudiado la obra de Gabriela Mistral.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128986.html
 
 ## Poemas en la antología de Nómez
 

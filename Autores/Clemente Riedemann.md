@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del sur]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127444.html
+Poeta (1953–) de Valdivia. Su libro *Karra Maw'n* (1984) reconstruye la historia del sur, de la colonización alemana y del pueblo mapuche, y es una obra fundamental de la poesía del sur.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127444.html
 
 ## Poemas en la antología de Nómez
 

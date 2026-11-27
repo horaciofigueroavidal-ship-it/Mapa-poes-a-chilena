@@ -1,7 +1,7 @@
 """Genera docs/data.js para el mapa web (GitHub Pages)."""
 import json, os, re, sys
 from mc import HERE
-from generar import anio_libro, es_poesia, limpiar_pres  # reutiliza funciones (genera la bóveda de paso)
+from generar import anio_libro, es_poesia, limpiar_pres, BIOS  # reutiliza funciones (genera la bóveda de paso)
 
 sys.stdout.reconfigure(encoding="utf-8")
 VAULT = os.path.dirname(HERE)
@@ -33,6 +33,7 @@ for t in tomos:
                     "id": n, "mov": pa["nombre"], "f": fechas,
                     "lead": re.sub(r"^.*?\(\d{4}[^)]*\)\s*", "", mini["lead"]).strip() if mini else "",
                     "pres": limpiar_pres(mini["presentacion"]) if mini else "",
+                    "bio": BIOS.get(n, "") if not mini else "",
                     "mc": mini["url"] if mini else (f"https://www.memoriachilena.gob.cl/602/w3-propertyvalue-{c['autoridad'][0]}.html" if c.get("autoridad") else ""),
                     "poemas": a["poemas"], "obras": obras,
                 })

@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Las otras tendencias de los cincuenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128495.html
+Poeta de la generación del 50. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?», una grabación de su voz y su artículo crítico «¿Un nuevo realismo?: El picadero». Nómez lo incluye entre las otras tendencias de los cincuenta.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128495.html
 
 ## Poemas en la antología de Nómez
 

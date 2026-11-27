@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[La disolución de las vanguardias]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1920–?) de la promoción de los años cuarenta. Nómez la incluye en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

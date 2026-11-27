@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-145903.html
+Poeta y ensayista (1966–), de la promoción de los noventa. Su poesía dialoga con la tradición clásica y con la cultura letrada. Ha escrito también crítica, por ejemplo sobre *Tridente* de Tomás Harris.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-145903.html
 
 ## Poemas en la antología de Nómez
 

@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del sur]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127928.html
+Poeta (1956–) de la escena valdiviana de los ochenta, autor de *Graves, leves y fuera de peligro* (1987). Su poesía es irónica y reflexiva, y trabaja la herencia literaria y la condición del sujeto en dictadura.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127928.html
 
 ## Poemas en la antología de Nómez
 

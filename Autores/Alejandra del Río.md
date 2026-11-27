@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1972–), autora de *Material de fuego* (1997) y otros libros. Vivió largo tiempo en Berlín. Su poesía, de raíz lírica y existencial, la hace una de las voces representativas de la promoción de los noventa.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

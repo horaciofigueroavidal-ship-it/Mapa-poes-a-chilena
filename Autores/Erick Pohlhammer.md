@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1155622.html
+Poeta (1955–2023), de humor y lirismo singulares, autor de *Gracias por la atención dispensada* (1986). Escribió también sobre Juan Luis Martínez y la poesía rumana, y fue una figura querida de la escena poética santiaguina.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1155622.html
 
 ## Poemas en la antología de Nómez
 

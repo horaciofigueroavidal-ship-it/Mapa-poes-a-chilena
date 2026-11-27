@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128767.html
+Poeta, narrador y crítico de la primera mitad del siglo XX. Memoria Chilena registra sus *Estudios de literatura chilena* y su «Evocación de Jenaro Prieto». Nómez lo incluye en la corriente mundonovista y de crítica social.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128767.html
 
 ## Poemas en la antología de Nómez
 

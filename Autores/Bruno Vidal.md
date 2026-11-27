@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-145938.html
+Poeta (1953–). En *Arte marcial* (1991) asumió la voz del aparato represivo para desnudar su lógica. Es uno de los libros más incómodos y comentados de la poesía chilena post-golpe.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-145938.html
 
 ## Poemas en la antología de Nómez
 

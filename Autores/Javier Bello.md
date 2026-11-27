@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-174607.html
+Poeta y académico (1972–), profesor en la Universidad de Chile. Su poesía, de imaginería barroca y onírica, es una de las más reconocidas de la promoción de los noventa. Memoria Chilena registra su texto «Cartografía para un ojo desfondado».
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-174607.html
 
 ## Poemas en la antología de Nómez
 

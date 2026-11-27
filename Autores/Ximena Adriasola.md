@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Las otras tendencias de los cincuenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127468.html
+Poeta y crítica (1930–2014) de la generación del 50. Escribió reseñas sobre sus contemporáneas, como Delia Domínguez. Nómez la incluye entre las otras tendencias de los cincuenta.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127468.html
 
 ## Poemas en la antología de Nómez
 

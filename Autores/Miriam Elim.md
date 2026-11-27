@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (seudónimo) de la generación posterior al Centenario, una de las voces femeninas que Nómez recoge en la corriente mundonovista. Su poesía es de tono íntimo y amoroso. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

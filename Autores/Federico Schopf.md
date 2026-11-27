@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Los inicios de la poesía de los sesenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-150796.html
+Poeta y crítico (1940–), profesor de la Universidad de Chile y uno de los principales estudiosos de la vanguardia y de la antipoesía. Es autor de *Del vanguardismo a la antipoesía* y de estudios sobre Parra, Díaz-Casanueva y Floridor Pérez.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-150796.html
 
 ## Poemas en la antología de Nómez
 

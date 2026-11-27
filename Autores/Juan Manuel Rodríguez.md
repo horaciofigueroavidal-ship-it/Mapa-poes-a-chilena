@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta de la generación del Centenario. Nómez lo ubica en la corriente que buscó una poesía de raíz americana y de preocupación social. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

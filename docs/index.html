@@ -219,6 +219,7 @@ content.addEventListener("click", e => {
 function paras(t) {
   return esc(t).replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, id, lab) =>
     byId.has(id) ? `<span class="go" data-id="${esc(id)}">${lab}</span>` : lab)
+    .replace(/\*([^*\n]+)\*/g, "<i>$1</i>")
     .split(/\n\s*\n/).map(p => `<p>${p.replace(/\n/g, " ")}</p>`).join("");
 }
 function obraHTML(o) {
@@ -239,9 +240,9 @@ function render(d) {
     const a = d.data, poe = a.obras.filter(o => o.poe), otras = a.obras.filter(o => !o.poe);
     content.innerHTML = `<div class="kind">Poeta · ${go(a.mov)}</div><h2>${esc(a.id)}</h2>
       ${a.f ? `<div class="muted">${esc(a.f)}</div>` : ""}
-      <h3>Descripción (Memoria Chilena)</h3>
+      ${a.bio ? `<h3>Nota biográfica</h3>${paras(a.bio)}<p class="muted">Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>` : `<h3>Descripción (Memoria Chilena)</h3>
       ${a.lead ? `<p class="lead">${esc(a.lead)}</p>` : ""}
-      ${a.pres ? paras(a.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}
+      ${a.pres ? paras(a.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}`}
       ${a.mc ? `<div class="src">Fuente: <a href="${a.mc}" target="_blank" rel="noopener">Memoria Chilena</a></div>` : ""}
       <h3>Poemas en la antología</h3><ul>${a.poemas.map(p => `<li>${esc(p)}</li>`).join("")}</ul>
       <h3>Obras en Memoria Chilena</h3>

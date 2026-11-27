@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Las tendencias láricas]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta de la generación del 50. Nómez lo ubica en las tendencias láricas, con su poesía de la memoria, la provincia y la naturaleza. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

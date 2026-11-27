@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Las otras tendencias de los cincuenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-761358.html
+Poeta, crítico y profesor (1929–), vinculado a la región del Maule. Es autor del *Diccionario de autores de la región del Maule* (1984) y de estudios sobre Andrés Sabella, Jorge González Bastías y Mahfud Massis. Su propia poesía es de tono lírico y meditativo.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-761358.html
 
 ## Poemas en la antología de Nómez
 

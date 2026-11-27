@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y crítica (1950–), figura de la neovanguardia de los ochenta. Escribió el libro de poemas *Vía pública* (1984) y el ensayo *Campos minados (literatura post-golpe en Chile)* (1990). Participó en el Congreso de Literatura Femenina Latinoamericana de 1987.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

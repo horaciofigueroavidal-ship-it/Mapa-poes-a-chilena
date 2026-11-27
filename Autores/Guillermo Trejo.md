@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Temporalidad y existencia]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127577.html
+Poeta y crítico de la generación del 50. Escribió sobre sus contemporáneos, como Manuel Silva Acevedo y Juvencio Valle. Nómez lo incluye en la línea de temporalidad y existencia. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?» y una grabación de su voz.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127577.html
 
 ## Poemas en la antología de Nómez
 

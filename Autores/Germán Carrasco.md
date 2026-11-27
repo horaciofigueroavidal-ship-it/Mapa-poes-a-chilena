@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y traductor (1971–), autor de *La insidia del sol sobre las cosas* (1998) y de otros libros de una poesía urbana, atenta a lo cotidiano y a la música del habla. Es una de las voces centrales de la promoción de los noventa.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

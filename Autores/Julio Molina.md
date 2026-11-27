@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La disolución de las vanguardias]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127303.html
+Poeta (Julio Molina Müller, 1918–?) de la promoción de los años cuarenta. Nómez lo incluye en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127303.html
 
 ## Poemas en la antología de Nómez
 

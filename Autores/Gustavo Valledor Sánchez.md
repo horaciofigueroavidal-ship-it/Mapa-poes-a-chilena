@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Tradición nacional y modernidad cosmopolita]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y profesor de fines del siglo XIX y comienzos del XX. Pertenece a la promoción que, según Nómez, combinó la tradición nacional con la modernidad cosmopolita del modernismo. Su obra se publicó principalmente en revistas y antologías de la época, y sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

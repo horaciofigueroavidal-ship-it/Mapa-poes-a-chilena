@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[De la vanguardia a la poesía social y popular]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127463.html
+Poeta, periodista y crítico (1905–2001). Escribió poesía de raíz popular y épica, como el poema «Responso para un bandolero», registrado en Memoria Chilena. Fue un activo comentarista de la vida literaria chilena.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127463.html
 
 ## Poemas en la antología de Nómez
 

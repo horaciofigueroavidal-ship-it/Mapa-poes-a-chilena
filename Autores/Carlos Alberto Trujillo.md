@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del sur]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127814.html
+Poeta (Castro, 1951–), fundador del grupo Aumen de Chiloé y profesor universitario en Estados Unidos. Su *Escrito sobre un balancín* (1979) es uno de los libros iniciales de la poesía chilota contemporánea.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127814.html
 
 ## Poemas en la antología de Nómez
 

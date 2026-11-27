@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-140641.html
+Poeta y dramaturgo (1892–1966), de nombre completo Carlos Barella Iriarte. Escribió poesía y teatro de tema nacional y social. En Memoria Chilena se registra su texto *El luto de un pueblo*.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-140641.html
 
 ## Poemas en la antología de Nómez
 

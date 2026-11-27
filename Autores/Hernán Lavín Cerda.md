@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Los inicios de la poesía de los sesenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-150791.html
+Poeta, narrador y ensayista (1939–), radicado en México desde 1973, donde fue profesor en la UNAM. Escribió sobre Enrique Lihn, Antonio Skármeta y otros contemporáneos. Nómez lo sitúa en los inicios de la poesía de los sesenta.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-150791.html
 
 ## Poemas en la antología de Nómez
 

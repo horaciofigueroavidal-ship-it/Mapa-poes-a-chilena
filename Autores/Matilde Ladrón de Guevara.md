@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La disolución de las vanguardias]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128550.html
+Poeta, novelista y periodista (1910–2009). Fue amiga de Gabriela Mistral, sobre quien escribió *Gabriela Mistral, rebelde magnífica* (1957). Su obra, de fuerte contenido social y feminista, abarca poesía, novela y crónica.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128550.html
 
 ## Poemas en la antología de Nómez
 

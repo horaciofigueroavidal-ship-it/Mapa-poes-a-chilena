@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-144530.html
+Poeta, ensayista y cronista (1974–). Ha escrito sobre Rosamel del Valle, Gonzalo Millán y Alfonso Alcalde, entre otros. Su poesía es de tono clásico e irónico.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-144530.html
 
 ## Poemas en la antología de Nómez
 

@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía mapuche]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta mapuche (1953–). Tras el golpe vivió exiliada en Alemania. Su poesía, bilingüe, une la denuncia política, la memoria de su pueblo y la cosmovisión mapuche.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

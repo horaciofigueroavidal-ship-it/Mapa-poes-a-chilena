@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127758.html
+Poeta (Valparaíso, 1947–). Se exilió en Suecia tras el golpe y volvió a Chile en los años ochenta. Su poesía, irónica y urbana, es una de las voces del puerto. Ha escrito también crónica y crítica.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127758.html
 
 ## Poemas en la antología de Nómez
 

@@ -14,6 +14,15 @@ N: Primer poema | Segundo poema | Tercer poema
 - Para un movimiento nuevo, agrega antes de sus autores: `P: Nombre corto | Título completo del movimiento`.
 - Guarda el archivo en UTF-8 (opción por defecto del Bloc de notas).
 
+## 1b. (Opcional) Nota biográfica propia
+
+Si el autor no tiene minisitio en Memoria Chilena, puedes escribirle una nota en `_trabajo/biografias.txt`:
+
+```
+## Nombre exacto como en indice.txt
+Texto de la nota (uno o más párrafos; *cursiva* para títulos).
+```
+
 ## 2. Regenerar
 
 En la carpeta `_trabajo`, haz clic en la barra de direcciones del Explorador, escribe `cmd` y Enter. Luego:

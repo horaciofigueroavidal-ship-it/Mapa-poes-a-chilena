@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La disolución de las vanguardias]] · Sección II
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-166645.html
+Poeta, crítico y antologador (1920–1986). Escribió sobre Domingo Melfi, Juan Godoy, Alone, y sobre las revistas chilenas de poesía. Pertenece a la promoción de los años cuarenta, que vivió la disolución de las vanguardias.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-166645.html
 
 ## Poemas en la antología de Nómez
 

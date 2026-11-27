@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del 2000]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1981–), autora de *Gran Avenida* (2005) y *Aire quemado*. Su poesía nace de la periferia santiaguina, con una mirada directa sobre la precariedad, la ciudad y el amor.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

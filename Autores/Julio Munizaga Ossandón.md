@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Nacionalismo, mundonovismo y crítica social]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta nortino, vinculado a La Serena, de la generación del Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Su poesía, de corte modernista tardío, canta el paisaje y la vida de provincia.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

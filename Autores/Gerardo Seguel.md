@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[Las vanguardias y la generación del 38]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-129274.html
+Poeta, ensayista y educador (1902–1950), militante comunista. Fue una de las figuras que hicieron de puente entre las vanguardias y la generación del 38. Escribió sobre la poesía de Neruda y sobre educación artística: en Memoria Chilena está digitalizado *Fisonomía del mundo infantil: el dibujo en la educación* (1929).
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-129274.html
 
 ## Poemas en la antología de Nómez
 

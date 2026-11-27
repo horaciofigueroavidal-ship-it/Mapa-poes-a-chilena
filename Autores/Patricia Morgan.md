@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[De la vanguardia a la poesía social y popular]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-152384.html
+Poeta y periodista (1904–?), colaboradora de revistas de mediados de siglo, como *En Viaje*. Su poesía, de tono lírico, la sitúa entre las voces femeninas de la generación del 38.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-152384.html
 
 ## Poemas en la antología de Nómez
 

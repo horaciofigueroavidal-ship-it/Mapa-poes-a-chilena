@@ -1,0 +1,479 @@
+# Notas biográficas para los autores SIN minisitio en Memoria Chilena.
+# Redactadas para el mapa (no provienen de Memoria Chilena): conviene verificarlas.
+# Formato: una línea "## Nombre exacto del índice" y debajo el texto (uno o más párrafos).
+# Si un autor obtiene minisitio en Memoria Chilena, se usa ese texto y esta nota se ignora.
+
+## Eduardo de la Barra
+Poeta, filólogo y educador (Santiago, 1839 – Rosario, Argentina, 1900). Fue rector del Liceo de Valparaíso, miembro de la Academia de Bellas Letras y polemista liberal (escribió *Francisco Bilbao ante la sacristía*, 1872). Defendió la reforma ortográfica americana y escribió estudios sobre la métrica castellana.
+
+Su relación con el modernismo es decisiva: en Valparaíso acogió al joven Rubén Darío y prologó la primera edición de *Azul…* (1888). Su poesía, de raíz romántica y neoclásica, marca el paso hacia la generación siguiente.
+
+## Narciso Tondreau
+Poeta, traductor y profesor nacido en La Serena (1861–1949). Formó parte del círculo santiaguino que trató a Rubén Darío a fines de la década de 1880, y su libro *Asonantes* (1889) pertenece a la primera recepción del modernismo en Chile. Dedicó gran parte de su vida a la enseñanza.
+
+## Leonardo Eliz
+Poeta y periodista de la generación que convivió con Rubén Darío durante su estadía chilena (1886–1889). Su obra, dispersa sobre todo en diarios y revistas, oscila entre el romanticismo tardío y las nuevas formas modernistas. Memoria Chilena registra su autoría, pero no le dedica un minisitio.
+
+## Ricardo Fernández Montalva
+Poeta y periodista (1866–1899), amigo de Rubén Darío en Santiago, donde ambos colaboraron en la prensa. Murió joven. Su poesía, de tono elegante y sentimental, es representativa de la primera hora del modernismo chileno. En Memoria Chilena está digitalizado su texto *El lujo de las santiaguinas, o el galeoto chileno*.
+
+## Augusto Winter
+Poeta (1868–1927) radicado en Puerto Saavedra, en la desembocadura del río Imperial, donde fue bibliotecario. Allí prestó libros y alentó al adolescente Neftalí Reyes, quien lo recuerda en *Confieso que he vivido*. Su poesía, cercana al paisaje del sur, enlaza la tradición nacional con la sensibilidad modernista.
+
+## Gustavo Valledor Sánchez
+Poeta y profesor de fines del siglo XIX y comienzos del XX. Pertenece a la promoción que, según Nómez, combinó la tradición nacional con la modernidad cosmopolita del modernismo. Su obra se publicó principalmente en revistas y antologías de la época, y sus datos biográficos son escasos.
+
+## Abelardo Varela
+Poeta de la promoción modernista de comienzos del siglo XX. Nómez lo incluye entre quienes oscilaron entre la tradición nacional y la modernidad cosmopolita. Memoria Chilena no tiene un minisitio dedicado a él, y su obra circuló sobre todo en la prensa y en revistas literarias de la época.
+
+## Horacio Olivos y Carrasco
+Poeta modernista de comienzos del siglo XX, colaborador de las revistas literarias santiaguinas del período. Su poesía, de imágenes ornamentales y gusto por el soneto, es representativa del modernismo chileno en su fase de difusión. Sus datos biográficos son escasos.
+
+## Antonio Bórquez Solar
+Poeta, novelista y periodista nacido en Chiloé (1874–1938), uno de los principales difusores del modernismo en Chile. Publicó libros de poesía como *Campo lírico* y *Dilectos decires*. También escribió poesía de tema social, como su texto sobre los huelguistas muertos en Valparaíso el 12 de mayo de 1903.
+
+Su novela *La belleza del demonio, La Quintrala* (1914) fue premiada por el Consejo Superior de Letras y Música.
+
+## Zoilo Escobar
+Poeta de la generación modernista de comienzos del siglo XX. Su obra combina temas de la tradición nacional con la renovación formal del modernismo. Memoria Chilena registra su autoría, pero sus datos biográficos son escasos.
+
+## Luis A. Hurtado
+Poeta de comienzos del siglo XX. Nómez lo incluye en la promoción que vinculó la tradición nacional con la modernidad cosmopolita. Sus datos biográficos son escasos, y su obra circuló sobre todo en la prensa y en antologías de la época.
+
+## Ernesto A. Guzmán
+Poeta de la generación modernista (fines del siglo XIX y comienzos del XX). Su poesía, de tono reflexivo y filosófico, participa del tránsito desde el modernismo hacia las búsquedas espirituales del Centenario. Memoria Chilena registra su autoría.
+
+## Carlos Keymer
+Poeta de comienzos del siglo XX, representado en las antologías del período modernista. Nómez lo ubica en la promoción que tensiona la tradición nacional con la modernidad cosmopolita. Sus datos biográficos son escasos.
+
+## Abel González
+Poeta de la generación del Centenario. Nómez lo ubica en la corriente de nacionalismo, mundonovismo y crítica social, que buscó en el paisaje, el campo y las clases populares una poesía de raíz americana. Sus datos biográficos son escasos.
+
+## Alberto Mauret Caamaño
+Poeta y escritor (1880–1934) de la generación del Centenario. En Memoria Chilena está digitalizada su *Historia de un rei malo i una pulga vivaracha*, escrita con la ortografía reformada de la época. Su poesía participa del giro criollista y mundonovista de comienzos de siglo.
+
+## Jerónimo Lagos Lisboa
+Poeta de tema campesino y regional, de la generación del Centenario. Su obra canta la vida rural de la zona central y forma parte de la vertiente mundonovista que Nómez agrupa junto a la crítica social. Memoria Chilena registra su autoría.
+
+## Andrés Silva Humeres
+Poeta de la generación del Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos, y su obra se conoce sobre todo a través de las antologías de la época.
+
+## Juan Manuel Rodríguez
+Poeta de la generación del Centenario. Nómez lo ubica en la corriente que buscó una poesía de raíz americana y de preocupación social. Sus datos biográficos son escasos.
+
+## Carlos Acuña
+Poeta de la generación del Centenario, cultivador de una poesía de tema campesino y cercano al círculo de Gabriela Mistral en sus años de juventud. En Memoria Chilena se conserva su texto «Palabras que comienzan el libro».
+
+## Ignacio Verdugo Cavada
+Poeta criollista de la generación del Centenario. Su poesía se dedicó a la vida del campo chileno, como muestran «Rodeo» y «Espuelas», textos registrados en Memoria Chilena. Es un representante característico de la vertiente mundonovista.
+
+## Julio Munizaga Ossandón
+Poeta nortino, vinculado a La Serena, de la generación del Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Su poesía, de corte modernista tardío, canta el paisaje y la vida de provincia.
+
+## Guillermo Muñoz Medina
+Poeta de la generación del Centenario. Nómez lo ubica en la corriente mundonovista y de crítica social. Su obra se mueve entre la herencia modernista y los temas de la tierra y la vida cotidiana. Sus datos biográficos son escasos.
+
+## Carlos Préndez Saldías
+Poeta y periodista de la generación del Centenario, autor de varios libros de versos de tono sentimental y paisajista. Nómez lo incluye en la corriente de nacionalismo y mundonovismo.
+
+## Enrique Ponce
+Poeta de la generación del Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos.
+
+## Carlos Barella
+Poeta y dramaturgo (1892–1966), de nombre completo Carlos Barella Iriarte. Escribió poesía y teatro de tema nacional y social. En Memoria Chilena se registra su texto *El luto de un pueblo*.
+
+## Elías Arze Bastidas
+Poeta de la generación del Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos.
+
+## Luciano Morgado
+Poeta de la promoción posterior al Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Su obra prolonga el modernismo en clave de paisaje y sentimiento. Sus datos biográficos son escasos.
+
+## Alberto Valdivia
+Poeta (1894–1938) conocido en la bohemia santiaguina como «el Cadáver Valdivia», por su aspecto. Su poesía, de un decadentismo tardío, gira en torno a la muerte, la melancolía y la noche. Es una figura de culto de la bohemia literaria de las primeras décadas del siglo XX.
+
+## Augusto Iglesias
+Poeta, ensayista y crítico (1897–1975), periodista y diplomático. Es autor de *Gabriela Mistral y el modernismo en Chile* (1949), un estudio fundamental sobre el contexto de la poeta. En su poesía temprana prolonga la sensibilidad modernista.
+
+## Lautaro García
+Poeta, narrador y crítico de la primera mitad del siglo XX. Memoria Chilena registra sus *Estudios de literatura chilena* y su «Evocación de Jenaro Prieto». Nómez lo incluye en la corriente mundonovista y de crítica social.
+
+## Miriam Elim
+Poeta (seudónimo) de la generación posterior al Centenario, una de las voces femeninas que Nómez recoge en la corriente mundonovista. Su poesía es de tono íntimo y amoroso. Sus datos biográficos son escasos.
+
+## María Antonieta Le Quesne
+Poeta de la primera mitad del siglo XX, parte de la generación de mujeres que se abrió paso en la poesía chilena tras Gabriela Mistral. Su poesía es intimista y de tono religioso. Sus datos biográficos son escasos.
+
+## David Enrique Perry
+Poeta de la generación posterior al Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos.
+
+## Gerardo Moraga Bustamante
+Poeta de la promoción de los años veinte. Nómez lo ubica en el cierre de la corriente mundonovista, ya en contacto con la renovación de las vanguardias. Sus datos biográficos son escasos.
+
+## Gerardo Seguel
+Poeta, ensayista y educador (1902–1950), militante comunista. Fue una de las figuras que hicieron de puente entre las vanguardias y la generación del 38. Escribió sobre la poesía de Neruda y sobre educación artística: en Memoria Chilena está digitalizado *Fisonomía del mundo infantil: el dibujo en la educación* (1929).
+
+## Juan Negro
+Poeta (seudónimo), activo desde los años treinta. Nómez lo sitúa en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Victoriano Vicario
+Poeta (1911–1966) de la generación del 38, figura de la bohemia santiaguina. Su poesía, de tono vitalista y romántico, se acerca a la poesía popular y social de su generación.
+
+## Antonio de Undurraga
+Poeta, ensayista y diplomático (1911–1993). Es conocido por su estudio «Teoría del creacionismo», que preparó como introducción a la *Poesía y prosa* de Vicente Huidobro (Aguilar, 1957). También escribió sobre la Patagonia, por ejemplo *El hombre y la soledad en las tierras magallánicas*.
+
+## Stella Corvalán
+Poeta (1911–1994) de la generación del 38, una de las voces femeninas de la poesía social y amorosa de mediados de siglo. Memoria Chilena registra su autoría.
+
+## Mila Oyarzún
+Poeta y profesora (1912–?) de la generación del 38. Su poesía es de tono lírico y reflexivo. Nómez la ubica en el tránsito de la vanguardia a la poesía social y popular.
+
+## Carlos René Correa
+Poeta, crítico y antologador (1912–1999). Reunió la antología *Poetas chilenos del siglo XX* y escribió extensamente sobre sus contemporáneos, por ejemplo sobre Luis Merino Reyes, Arturo Aldunate Phillips y Armando Ulloa. Su poesía es lírica y de tono humanista.
+
+## María Cristina Menares
+Poeta (1914–2012) de la generación del 38, activa en el Ateneo de Santiago y en la vida cultural capitalina durante décadas. Su poesía es de corte lírico e intimista.
+
+## Alberto Baeza Flores
+Poeta, ensayista y crítico (1914–1998) que vivió buena parte de su vida fuera de Chile: en Cuba, en República Dominicana y en Costa Rica. En Santo Domingo cofundó el movimiento La Poesía Sorprendida (1943). Escribió una extensa biografía de José Martí y numerosos libros de poesía y ensayo.
+
+## Victoria Contreras Falcón
+Poeta de la generación del 38. Nómez la incluye en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Patricia Morgan
+Poeta y periodista (1904–?), colaboradora de revistas de mediados de siglo, como *En Viaje*. Su poesía, de tono lírico, la sitúa entre las voces femeninas de la generación del 38.
+
+## Alejandro Galaz
+Poeta (1905–?) de la generación de las vanguardias. Nómez lo ubica en el tránsito de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Hermelo Arabena Williams
+Poeta, periodista y crítico (1905–2001). Escribió poesía de raíz popular y épica, como el poema «Responso para un bandolero», registrado en Memoria Chilena. Fue un activo comentarista de la vida literaria chilena.
+
+## Róbinson Saavedra Gómez
+Poeta (1907–?) de la generación del 38. Su poesía se inscribe en la vertiente social y popular. Sus datos biográficos son escasos.
+
+## Javier Vergara Huneeus
+Poeta (1907–?) de la generación de las vanguardias. Nómez lo sitúa en el paso hacia la poesía social y popular. Sus datos biográficos son escasos.
+
+## Hernán Cañas
+Poeta (1910–?) de la generación del 38. Nómez lo incluye en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Francisco Santana
+Poeta, crítico y antologador (1910–?). Se dedicó al estudio de la literatura chilena y escribió sobre la novela y la poesía de su tiempo, por ejemplo *La nueva generación de novelistas chilenos*.
+
+## Aldo Torres Púa
+Poeta (1910–?) de la generación del 38. Su poesía, de tono social y popular, se publicó en revistas y antologías de mediados de siglo. Memoria Chilena registra su autoría.
+
+## Carlos Collins Bunster
+Poeta (1912–?) de la generación del 38. Nómez lo incluye en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Carlos Poblete
+Poeta (1914–?) de la generación del 38. Su poesía se acerca a los temas sociales y populares de su generación. Sus datos biográficos son escasos.
+
+## Joaquín Martínez Arenas
+Poeta y crítico (1914–?) de la generación del 38. Memoria Chilena registra su texto sobre Carlos de Rokha. Nómez lo incluye en el paso de la vanguardia a la poesía social y popular.
+
+## Víctor Franzani
+Poeta (1916–?) de la generación del 38. Nómez lo incluye en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Jaime Rayo
+Poeta (1916–?) de la generación del 38. Nómez lo sitúa en la vertiente social y popular. Sus datos biográficos son escasos.
+
+## Juan Arcos
+Poeta (1917–?) de la generación del 38. Su poesía se acerca a los temas sociales de su generación. Sus datos biográficos son escasos.
+
+## Julio Moncada
+Poeta (1919–?) de la generación del 38. Nómez lo incluye en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+
+## Heriberto Rocuant
+Poeta (1920–?) de la promoción final de la generación del 38. Su obra se inscribe en la vertiente social y popular. Sus datos biográficos son escasos.
+
+## Escilda Greve
+Poeta (1916–?) de la promoción de los años cuarenta. Nómez la incluye en el momento de disolución de las vanguardias. Su poesía es de tono intimista. Sus datos biográficos son escasos.
+
+## Irma Astorga
+Poeta (1920–?) de la promoción de los años cuarenta. Nómez la sitúa en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+## Víctor Castro
+Poeta, crítico y antologador (1920–1986). Escribió sobre Domingo Melfi, Juan Godoy, Alone, y sobre las revistas chilenas de poesía. Pertenece a la promoción de los años cuarenta, que vivió la disolución de las vanguardias.
+
+## Bernardo Cruz
+Poeta (Bernardo Cruz Adler, 1904–?). Nómez lo incluye en el momento de disolución de las vanguardias. Su poesía, de tono lírico, busca un equilibrio entre la tradición y la renovación. Sus datos biográficos son escasos.
+
+## Matilde Ladrón de Guevara
+Poeta, novelista y periodista (1910–2009). Fue amiga de Gabriela Mistral, sobre quien escribió *Gabriela Mistral, rebelde magnífica* (1957). Su obra, de fuerte contenido social y feminista, abarca poesía, novela y crónica.
+
+## Alfonso Gómez Líbano
+Poeta (1918–?) de la promoción de los años cuarenta. Nómez lo incluye en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+## Julio Molina
+Poeta (Julio Molina Müller, 1918–?) de la promoción de los años cuarenta. Nómez lo incluye en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+## Fernando Onfray
+Poeta (1918–?) de la promoción de los años cuarenta. Nómez lo sitúa en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+## Nina Donoso
+Poeta (1920–?) de la promoción de los años cuarenta. Nómez la incluye en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+## Armando Solari
+Poeta (1921–?) de la promoción de los años cuarenta. Nómez lo incluye en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+
+## Claudio Solar
+Poeta, crítico y periodista (1926–2010). Durante décadas comentó libros en la prensa: Memoria Chilena registra columnas suyas como «Barómetro de libros», y textos sobre Violeta Parra, González Vera y Eduardo Anguita. Nómez lo incluye en el momento de disolución de las vanguardias.
+
+## Luis Vulliamy
+Poeta del sur de Chile. Nómez lo incluye en las tendencias láricas, junto a Jorge Teillier y Rolando Cárdenas. Su poesía evoca la infancia, la provincia y el paisaje austral. Sus datos biográficos son escasos.
+
+## Marino Muñoz Lagos
+Poeta y periodista (1925–2017), cronista cultural de larga trayectoria. Escribió columnas sobre Winétt de Rokha, Pezoa Véliz, Pedro Antonio González, Gómez Rojas y Pérez Rosales, entre otros. Su poesía, de raíz provinciana y nostálgica, lo sitúa en las tendencias láricas.
+
+## Pablo Guíñez
+Poeta de la generación del 50. Nómez lo ubica en las tendencias láricas, con su poesía de la memoria, la provincia y la naturaleza. Sus datos biográficos son escasos.
+
+## Guillermo Trejo
+Poeta y crítico de la generación del 50. Escribió sobre sus contemporáneos, como Manuel Silva Acevedo y Juvencio Valle. Nómez lo incluye en la línea de temporalidad y existencia. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?» y una grabación de su voz.
+
+## Antonio Campaña
+Poeta y crítico (1922–?). Estuvo cercano a los surrealistas chilenos y escribió sobre el grupo Mandrágora, por ejemplo «El surrealismo de Gómez-Correa» y «El nombre de pila o el anillo de mandrágora». Nómez lo incluye en las tendencias neosurrealistas. Es autor también de *El Cristo de Elqui*.
+
+## Emma Jauch
+Poeta de la generación del 50. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?» y una grabación de su voz. Nómez la incluye entre las otras tendencias de los cincuenta.
+
+## María Urzúa
+Poeta de la generación del 50, cuya autobiografía se conserva en la serie «¿Quién soy?» de Memoria Chilena. Su poesía es de tono lírico e intimista.
+
+## Jorge Jobet
+Poeta y ensayista de la generación del 50. Nómez lo incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+
+## Ángel Custodio González
+Poeta de la generación del 50. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?», una grabación de su voz y su artículo crítico «¿Un nuevo realismo?: El picadero». Nómez lo incluye entre las otras tendencias de los cincuenta.
+
+## Venancio Lisboa
+Poeta de la generación del 50. Nómez lo incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+
+## Altenor Guerrero
+Poeta de la generación del 50. Su poesía es de raíz provinciana y lírica. Memoria Chilena registra su autoría.
+
+## Carmen Ábalos
+Poeta de la generación del 50. Nómez la incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+
+## Mario Ferrero
+Poeta, crítico y profesor (1920–1994). Fue un estudioso de su propia promoción y de la generación del 38. Escribió *La prosa chilena del medio siglo* (1960) y artículos sobre Nicomedes Guzmán, Luis Merino Reyes, Rolando Cárdenas y Pedro Sienna.
+
+## José Miguel Vicuña
+Poeta de la generación del 50. Nómez lo incluye entre las otras tendencias de los cincuenta. Memoria Chilena registra su autoría.
+
+## Fernando González Urízar
+Poeta (1922–?) de la generación del 50, de amplia producción lírica. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?» y grabaciones de su voz.
+
+## Manuel Francisco Mesa Seco
+Poeta y crítico de la generación del 50, autor de *Notas literarias*. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?» y una grabación de su voz.
+
+## Francisca Ossandón
+Poeta de la generación del 50. Nómez la incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+
+## Fernando Lamberg
+Poeta de la generación del 50. Nómez lo incluye entre las otras tendencias de los cincuenta. Memoria Chilena registra su autoría.
+
+## Matías Rafide
+Poeta, crítico y profesor (1929–), vinculado a la región del Maule. Es autor del *Diccionario de autores de la región del Maule* (1984) y de estudios sobre Andrés Sabella, Jorge González Bastías y Mahfud Massis. Su propia poesía es de tono lírico y meditativo.
+
+## Edmundo Herrera
+Poeta y narrador de la generación del 50. Nómez lo incluye entre las otras tendencias de los cincuenta. Memoria Chilena registra su autoría.
+
+## Ximena Adriasola
+Poeta y crítica (1930–2014) de la generación del 50. Escribió reseñas sobre sus contemporáneas, como Delia Domínguez. Nómez la incluye entre las otras tendencias de los cincuenta.
+
+## Eugenio García-Díaz
+Poeta y periodista cultural (1930–2014). Escribió sobre cine, crítica y edición: Memoria Chilena registra, por ejemplo, «Alone y la crítica de cine». También conserva su autobiografía en la serie «¿Quién soy?» y una grabación de su voz.
+
+## Sara Vial
+Poeta y periodista (1931–), figura de la vida literaria de Valparaíso y Viña del Mar. Fue amiga de Pablo Neruda, sobre quien escribió *Neruda en Valparaíso* (1983). Su poesía, luminosa y marina, también incluye libros como *Fénix de madrugada*.
+
+## Ennio Moltedo
+Poeta de Valparaíso (1931–2012), cultor del poema en prosa breve y despojado. Su obra, de escasa difusión en vida y hoy muy valorada, mira con ironía y lucidez la ciudad, el puerto y la violencia de la historia.
+
+## Rosa Cruchaga de Walker
+Poeta (1931–2016) de la generación del 50. Su poesía, de hondura espiritual y metafísica, fue estimada por la crítica, en especial por Alone. Memoria Chilena conserva su autobiografía en la serie «¿Quién soy?» y una grabación de su voz.
+
+## Pedro Lastra
+Poeta y crítico (Quillota, 1932–), profesor durante años en la Universidad Estatal de Nueva York (Stony Brook). Es autor de libros breves y depurados como *Noticias del extranjero*. Con Enrique Lihn escribió *Señales de ruta de Juan Luis Martínez* (1987), y ha estudiado también a Alberto Rubio y a la poesía hispanoamericana.
+
+## José Miguel Ibáñez Langlois
+Sacerdote, poeta y crítico (1936–). Durante décadas firmó como «Ignacio Valente» la crítica literaria de *El Mercurio*, y fue un lector influyente de la poesía chilena. Su propia poesía, de inspiración religiosa e intelectual, incluye los *Poemas dogmáticos*.
+
+## Hernán Montealegre
+Poeta de la promoción de los años cincuenta y sesenta. Nómez lo incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+
+## Hernán Valdés
+Poeta y narrador (1934–). Detenido tras el golpe de 1973 y luego exiliado, escribió *Tejas Verdes. Diario de un campo de concentración en Chile* (1974), uno de los primeros testimonios de la represión. Su poesía inicial se inscribe en la renovación de los sesenta.
+
+## Hernán Lavín Cerda
+Poeta, narrador y ensayista (1939–), radicado en México desde 1973, donde fue profesor en la UNAM. Escribió sobre Enrique Lihn, Antonio Skármeta y otros contemporáneos. Nómez lo sitúa en los inicios de la poesía de los sesenta.
+
+## Jaime Giordano
+Poeta y crítico (1940s–), profesor universitario en Estados Unidos. Ha estudiado la poesía chilena e hispanoamericana; escribió, por ejemplo, sobre Tomás Harris. Nómez lo incluye en los inicios de la poesía de los sesenta.
+
+## Carlos Cortínez
+Poeta y crítico, profesor universitario en Estados Unidos y estudioso de la obra de Pablo Neruda. Nómez lo incluye en los inicios de la poesía de los sesenta.
+
+## Federico Schopf
+Poeta y crítico (1940–), profesor de la Universidad de Chile y uno de los principales estudiosos de la vanguardia y de la antipoesía. Es autor de *Del vanguardismo a la antipoesía* y de estudios sobre Parra, Díaz-Casanueva y Floridor Pérez.
+
+## Jaime Gómez Rogers (Jonás)
+Poeta que firmó con el seudónimo «Jonás». Nómez lo incluye en los inicios de la poesía de los sesenta. Sus datos biográficos son escasos.
+
+## Soledad Fariña
+Poeta (Antofagasta, 1943–), una de las voces centrales de la escritura de mujeres durante la dictadura. Su *El primer libro* (1985) fue seguido por *Albricia* (1988) y *En amarillo oscuro* (1994). Su poesía explora el cuerpo, la lengua y el paisaje desde una perspectiva femenina y experimental.
+
+## Eugenia Brito
+Poeta y crítica (1950–), figura de la neovanguardia de los ochenta. Escribió el libro de poemas *Vía pública* (1984) y el ensayo *Campos minados (literatura post-golpe en Chile)* (1990). Participó en el Congreso de Literatura Femenina Latinoamericana de 1987.
+
+## Paz Molina
+Poeta (1945–) y una de las voces femeninas de la poesía en dictadura. Ha reflexionado sobre la condición de la escritora en Chile: Memoria Chilena registra «Situación de la escritora en Chile». Su poesía es de tono erótico e irreverente.
+
+## Gonzalo Muñoz
+Poeta (1956–) de la neovanguardia de los ochenta, cercano al ambiente de la «escena de avanzada». Sus libros *Exit* (1981) y *Este* (1983) trabajan la fragmentación, el espacio de la página y la crisis del sujeto bajo la dictadura.
+
+## Carlos Cociña
+Poeta (1950–) de la neovanguardia de los ochenta. Su libro *Aguas servidas* (1981) explora una escritura serial y experimental, en tensión con el contexto represivo.
+
+## Antonio Gil
+Poeta y narrador (1954–), de la generación de los ochenta. En su obra cruza la historia, el mito y la violencia política. Nómez lo incluye en la neovanguardia y la poesía en dictadura.
+
+## Bruno Vidal
+Poeta (1953–). En *Arte marcial* (1991) asumió la voz del aparato represivo para desnudar su lógica. Es uno de los libros más incómodos y comentados de la poesía chilena post-golpe.
+
+## Aristóteles España
+Poeta (1955–2011). Fue detenido a los dieciocho años tras el golpe de 1973 y recluido en la isla Dawson. Su libro *Dawson* (1985) es un testimonio poético de esa experiencia. Escribió también sobre Rolando Cárdenas y la poesía de la Patagonia.
+
+## Eduardo Llanos
+Poeta (1956–) de la generación de los ochenta, conocido por su ironía y su reflexión metapoética: su poema «Contra la poesía» se cita a menudo. Su obra mezcla humor, crítica política y conciencia del oficio.
+
+## Heddy Navarro
+Poeta (1944–) del sur de Chile, una de las voces de la poesía feminista y erótica de los ochenta. Fue gestora cultural en Puerto Montt y Santiago.
+
+## Jorge Montealegre
+Poeta e investigador del humor gráfico (1954–). Estuvo preso tras el golpe de 1973 en el Estadio Nacional y en Chacabuco, experiencia que recogió en *Frazadas del Estadio Nacional* (2003). Ha estudiado a fondo la caricatura chilena, por ejemplo en *Pepo: mucho más que Condorito*.
+
+## Juan Cameron
+Poeta (Valparaíso, 1947–). Se exilió en Suecia tras el golpe y volvió a Chile en los años ochenta. Su poesía, irónica y urbana, es una de las voces del puerto. Ha escrito también crónica y crítica.
+
+## Alexis Figueroa
+Poeta (1956–). Su libro *Vírgenes del sol inn cabaret* (1986), premio Casa de las Américas, es una obra clave de la neovanguardia: un collage de la cultura de masas, el cuerpo y la violencia bajo la dictadura.
+
+## Erick Pohlhammer
+Poeta (1955–2023), de humor y lirismo singulares, autor de *Gracias por la atención dispensada* (1986). Escribió también sobre Juan Luis Martínez y la poesía rumana, y fue una figura querida de la escena poética santiaguina.
+
+## Jorge Etcheverry
+Poeta (1945–), integrante de la Escuela de Santiago a fines de los sesenta. Exiliado en Canadá (Ottawa), fue uno de los animadores de la literatura chilena del exilio en ese país, a través de Ediciones Cordillera.
+
+## Sergio Macías
+Poeta y ensayista (1938–), exiliado en España tras el golpe. Allí difundió la poesía chilena y la denuncia de la dictadura, por ejemplo en «Los poetas chilenos luchan contra el fascismo». Ha estudiado la obra de Gabriela Mistral.
+
+## Mauricio Redolés
+Poeta y músico (1953–). Exiliado en Inglaterra tras el golpe, volvió a Chile en los ochenta. Allí cruzó la poesía oral, el rock y el humor político, con piezas como «¿Quién mató a Gaete?». Es una figura de la contracultura chilena.
+
+## Rosabetty Muñoz
+Poeta (Ancud, 1960–), una de las voces más importantes de la poesía del sur. Se formó en el grupo Aumen de Chiloé. Entre sus libros están *Canto de una oveja del rebaño* (1981), *En lugar de morir* (1987) y *Hijos* (1991). Su obra une el archipiélago, el cuerpo femenino y la memoria colectiva.
+
+## Sergio Mansilla
+Poeta y académico (Chiloé, 1958–), profesor en la Universidad Austral de Chile e integrante del grupo Aumen. Ha estudiado la poesía del sur del período 1975–1990, en especial a Clemente Riedemann y Jorge Torres. Su propia poesía trabaja la memoria, el territorio y la lengua.
+
+## Clemente Riedemann
+Poeta (1953–) de Valdivia. Su libro *Karra Maw'n* (1984) reconstruye la historia del sur, de la colonización alemana y del pueblo mapuche, y es una obra fundamental de la poesía del sur.
+
+## Jorge Torres
+Poeta (1956–) de la escena valdiviana de los ochenta, autor de *Graves, leves y fuera de peligro* (1987). Su poesía es irónica y reflexiva, y trabaja la herencia literaria y la condición del sujeto en dictadura.
+
+## Carlos Alberto Trujillo
+Poeta (Castro, 1951–), fundador del grupo Aumen de Chiloé y profesor universitario en Estados Unidos. Su *Escrito sobre un balancín* (1979) es uno de los libros iniciales de la poesía chilota contemporánea.
+
+## Juan Pablo Riveros
+Poeta (1945–), autor de *De la tierra sin fuegos* (1986). Este poema épico y documental recupera la memoria del exterminio de los pueblos selk'nam y kawésqar en la Patagonia. Escribió también sobre Rolando Cárdenas.
+
+## Renato Cárdenas
+Poeta e investigador de la cultura de Chiloé (1949–). Ha estudiado la historia y la religiosidad popular del archipiélago: *Caguach, isla de la devoción* (1986) y *Los chonos y los veliche de Chiloé* (1991). Fue parte del grupo Aumen.
+
+## Mario Contreras Vega
+Poeta y crítico (1947–) del sur de Chile. Escribió sobre Jaime Quezada y Alberto Blest Gana, entre otros. Su poesía se inscribe en la renovación poética del sur durante los años setenta y ochenta.
+
+## Leonel Lienlaf
+Poeta mapuche (1969–), autor de *Se ha despertado el ave de mi corazón* (1989), escrito en mapudungun y castellano, con el que obtuvo el Premio Municipal de Santiago. Su obra es fundacional para la poesía mapuche contemporánea.
+
+## Jaime Huenún
+Poeta huilliche (1967–), autor de *Ceremonias* (1999) y *Puerto Trakl* (2001). Ha antologado la poesía mapuche contemporánea, por ejemplo en *La memoria iluminada*. Su obra une la herencia huilliche, la historia y la tradición poética occidental.
+
+## Graciela Huinao
+Poeta y narradora huilliche (1956–), autora de *Walinto* (2001). Fue la primera mujer indígena en integrar la Academia Chilena de la Lengua. Su obra recupera la memoria de su pueblo y la voz de las mujeres mapuche.
+
+## Adriana Paredes Pinda
+Poeta mapuche-huilliche (1970–), machi y académica. Su poesía, escrita entre el mapudungun y el castellano, trabaja la espiritualidad mapuche, el cuerpo y la violencia colonial.
+
+## Bernardo Colipán
+Poeta huilliche (1966–) de Osorno. Su poesía y sus trabajos de investigación recuperan la memoria del territorio huilliche. Ha escrito también sobre la poesía mapuche contemporánea, por ejemplo «La fuerza vital de la poesía mapuche contemporánea».
+
+## Lorenzo Aillapán
+Poeta mapuche (1940–), conocido como el «hombre pájaro» por su trabajo con el canto de las aves. Obtuvo el premio Casa de las Américas en 1994. Su poesía, oral y bilingüe, recrea la cosmovisión mapuche a través de la naturaleza.
+
+## Rayen Kvyeh
+Poeta mapuche (1953–). Tras el golpe vivió exiliada en Alemania. Su poesía, bilingüe, une la denuncia política, la memoria de su pueblo y la cosmovisión mapuche.
+
+## David Aniñir
+Poeta mapuche urbano (1971–), autor de *Mapurbe. Venganza a raíz* (2005). Su concepto de lo «mapurbe» nombra la experiencia de los mapuche nacidos en la periferia de Santiago, en una poesía de cruce entre la lengua popular, el rock y la reivindicación.
+
+## Verónica Jiménez
+Poeta (1964–) de la promoción de los noventa. Su poesía, intensa y de fuerte presencia del cuerpo, se reunió en libros que Memoria Chilena registra, como *Poesía entera*.
+
+## Sergio Parra
+Poeta (1964–) y librero, fundador de la librería y editorial Metales Pesados en Santiago. Su poesía, breve, irónica y urbana, es una de las voces singulares de los noventa.
+
+## Armando Roa Vial
+Poeta y ensayista (1966–), de la promoción de los noventa. Su poesía dialoga con la tradición clásica y con la cultura letrada. Ha escrito también crítica, por ejemplo sobre *Tridente* de Tomás Harris.
+
+## Ximena Rivera
+Poeta (1959–2008) de Valparaíso, de escasa publicación en vida y hoy reconocida como una voz de culto. Su poesía, intensa y visionaria, explora la locura, el cuerpo y la trascendencia.
+
+## Germán Carrasco
+Poeta y traductor (1971–), autor de *La insidia del sol sobre las cosas* (1998) y de otros libros de una poesía urbana, atenta a lo cotidiano y a la música del habla. Es una de las voces centrales de la promoción de los noventa.
+
+## Yanko González
+Poeta y antropólogo (1971–), profesor en la Universidad Austral de Chile. Su libro *Metales pesados* (1998), escrito con la jerga de las tribus urbanas juveniles, es uno de los títulos emblemáticos de los noventa.
+
+## Alejandra del Río
+Poeta (1972–), autora de *Material de fuego* (1997) y otros libros. Vivió largo tiempo en Berlín. Su poesía, de raíz lírica y existencial, la hace una de las voces representativas de la promoción de los noventa.
+
+## Javier Bello
+Poeta y académico (1972–), profesor en la Universidad de Chile. Su poesía, de imaginería barroca y onírica, es una de las más reconocidas de la promoción de los noventa. Memoria Chilena registra su texto «Cartografía para un ojo desfondado».
+
+## Juan Cristóbal Romero
+Poeta de la promoción de los noventa y comienzos del 2000. Su poesía, de raíz lírica y reflexiva, trabaja la tradición religiosa, la historia y la experiencia cotidiana.
+
+## Andrés Anwandter
+Poeta y traductor (1974–), autor de *El árbol del lenguaje* (1993). Su poesía, reflexiva y de gran precisión formal, indaga en el lenguaje y la percepción.
+
+## Leonardo Sanhueza
+Poeta, ensayista y cronista (1974–). Ha escrito sobre Rosamel del Valle, Gonzalo Millán y Alfonso Alcalde, entre otros. Su poesía es de tono clásico e irónico.
+
+## Rafael Rubio
+Poeta (1975–) de la promoción de los noventa y del 2000. Su poesía, de lirismo depurado, trabaja la memoria familiar, la infancia y la religiosidad.
+
+## Damsi Figueroa
+Poeta de la promoción de los noventa y del 2000. Su poesía, de fuerte carga emocional, se enfoca en la intimidad, el cuerpo y el dolor.
+
+## Héctor Hernández Montecinos
+Poeta (1979–), uno de los impulsores de la poesía del 2000. Ha desarrollado una obra extensa y ambiciosa, articulada en grandes ciclos, que cruza la cultura pop, lo queer y la reflexión sobre la escritura. También ha antologado y estudiado la poesía de su generación.
+
+## Paula Ilabaca
+Poeta y narradora (1979–), autora de *La perla suelta* (2006). Su poesía, de imaginería corporal y erótica, explora la identidad femenina y la violencia.
+
+## Gladys González
+Poeta (1981–), autora de *Gran Avenida* (2005) y *Aire quemado*. Su poesía nace de la periferia santiaguina, con una mirada directa sobre la precariedad, la ciudad y el amor.
+
+## Diego Ramírez
+Poeta y narrador (1982–) de la promoción del 2000. Su obra cruza la poesía, la autoficción y la cultura popular.
+
+## Enrique Winter
+Poeta, narrador y traductor (1982–), autor de *Rascacielos* (2008) y otros libros de poesía, y de la novela *Las bolsas de basura*. Su poesía es urbana, política y atenta a la oralidad.
+
+## Daniela Catrileo
+Poeta y narradora mapuche (1987–), autora de *Río herido* (2016) y del libro de cuentos *Piñen* (2019). Su obra reflexiona sobre la identidad mapuche urbana, la memoria y la diáspora.

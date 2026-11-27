@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Los inicios de la poesía de los sesenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127934.html
+Poeta y crítico (1940s–), profesor universitario en Estados Unidos. Ha estudiado la poesía chilena e hispanoamericana; escribió, por ejemplo, sobre Tomás Harris. Nómez lo incluye en los inicios de la poesía de los sesenta.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127934.html
 
 ## Poemas en la antología de Nómez
 

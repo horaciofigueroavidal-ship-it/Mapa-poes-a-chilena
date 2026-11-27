@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1950–) de la neovanguardia de los ochenta. Su libro *Aguas servidas* (1981) explora una escritura serial y experimental, en tensión con el contexto represivo.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

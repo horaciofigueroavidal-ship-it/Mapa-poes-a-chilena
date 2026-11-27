@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía mapuche]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta huilliche (1967–), autor de *Ceremonias* (1999) y *Puerto Trakl* (2001). Ha antologado la poesía mapuche contemporánea, por ejemplo en *La memoria iluminada*. Su obra une la herencia huilliche, la historia y la tradición poética occidental.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía mapuche]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta mapuche urbano (1971–), autor de *Mapurbe. Venganza a raíz* (2005). Su concepto de lo «mapurbe» nombra la experiencia de los mapuche nacidos en la periferia de Santiago, en una poesía de cruce entre la lengua popular, el rock y la reivindicación.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

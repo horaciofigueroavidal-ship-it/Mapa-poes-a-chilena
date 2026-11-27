@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta de la promoción de los noventa y comienzos del 2000. Su poesía, de raíz lírica y reflexiva, trabaja la tradición religiosa, la historia y la experiencia cotidiana.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

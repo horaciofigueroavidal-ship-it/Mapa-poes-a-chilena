@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía del 2000]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y narrador (1982–) de la promoción del 2000. Su obra cruza la poesía, la autoficción y la cultura popular.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

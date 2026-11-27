@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[De la vanguardia a la poesía social y popular]] · Sección II
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127334.html
+Poeta, ensayista y crítico (1914–1998) que vivió buena parte de su vida fuera de Chile: en Cuba, en República Dominicana y en Costa Rica. En Santo Domingo cofundó el movimiento La Poesía Sorprendida (1943). Escribió una extensa biografía de José Martí y numerosos libros de poesía y ensayo.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127334.html
 
 ## Poemas en la antología de Nómez
 

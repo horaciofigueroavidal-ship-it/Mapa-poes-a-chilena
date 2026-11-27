@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1959–2008) de Valparaíso, de escasa publicación en vida y hoy reconocida como una voz de culto. Su poesía, intensa y visionaria, explora la locura, el cuerpo y la trascendencia.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

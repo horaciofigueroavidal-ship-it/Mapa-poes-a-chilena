@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Las otras tendencias de los cincuenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1155619.html
+Poeta y crítico (Quillota, 1932–), profesor durante años en la Universidad Estatal de Nueva York (Stony Brook). Es autor de libros breves y depurados como *Noticias del extranjero*. Con Enrique Lihn escribió *Señales de ruta de Juan Luis Martínez* (1987), y ha estudiado también a Alberto Rubio y a la poesía hispanoamericana.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1155619.html
 
 ## Poemas en la antología de Nómez
 

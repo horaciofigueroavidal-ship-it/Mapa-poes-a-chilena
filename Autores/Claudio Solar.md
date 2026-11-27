@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[La disolución de las vanguardias]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127711.html
+Poeta, crítico y periodista (1926–2010). Durante décadas comentó libros en la prensa: Memoria Chilena registra columnas suyas como «Barómetro de libros», y textos sobre Violeta Parra, González Vera y Eduardo Anguita. Nómez lo incluye en el momento de disolución de las vanguardias.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127711.html
 
 ## Poemas en la antología de Nómez
 

@@ -7,9 +7,11 @@ tags: [autor]
 
 **Movimiento:** [[Tradición nacional y modernidad cosmopolita]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta modernista de comienzos del siglo XX, colaborador de las revistas literarias santiaguinas del período. Su poesía, de imágenes ornamentales y gusto por el soneto, es representativa del modernismo chileno en su fase de difusión. Sus datos biográficos son escasos.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

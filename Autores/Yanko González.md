@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[La generación de los noventa]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta y antropólogo (1971–), profesor en la Universidad Austral de Chile. Su libro *Metales pesados* (1998), escrito con la jerga de las tribus urbanas juveniles, es uno de los títulos emblemáticos de los noventa.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

@@ -8,10 +8,12 @@ tags: [autor]
 
 **Movimiento:** [[De la vanguardia a la poesía social y popular]] · Sección III
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-157713.html
+Poeta y crítico (1914–?) de la generación del 38. Memoria Chilena registra su texto sobre Carlos de Rokha. Nómez lo incluye en el paso de la vanguardia a la poesía social y popular.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-157713.html
 
 ## Poemas en la antología de Nómez
 

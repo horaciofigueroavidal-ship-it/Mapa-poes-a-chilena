@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Poesía mapuche]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta mapuche (1940–), conocido como el «hombre pájaro» por su trabajo con el canto de las aves. Obtuvo el premio Casa de las Américas en 1994. Su poesía, oral y bilingüe, recrea la cosmovisión mapuche a través de la naturaleza.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

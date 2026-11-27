@@ -8,9 +8,11 @@ tags: [autor]
 
 **Movimiento:** [[Neovanguardia y poesía en dictadura]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
+Poeta (1956–) de la generación de los ochenta, conocido por su ironía y su reflexión metapoética: su poema «Contra la poesía» se cita a menudo. Su obra mezcla humor, crítica política y conciencia del oficio.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
 ## Poemas en la antología de Nómez
 

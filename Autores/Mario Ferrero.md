@@ -7,10 +7,12 @@ tags: [autor]
 
 **Movimiento:** [[Las otras tendencias de los cincuenta]]
 
-## Descripción (Memoria Chilena)
+## Nota biográfica
 
-> [!note] Memoria Chilena no tiene un minisitio dedicado a este autor.
-> Ficha de autoría: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-735227.html
+Poeta, crítico y profesor (1920–1994). Fue un estudioso de su propia promoción y de la generación del 38. Escribió *La prosa chilena del medio siglo* (1960) y artículos sobre Nicomedes Guzmán, Luis Merino Reyes, Rolando Cárdenas y Pedro Sienna.
+
+*Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
+Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-735227.html
 
 ## Poemas en la antología de Nómez
 

@@ -21,7 +21,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Ensueños
 - El vaso roto
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Francisco Bilbao ante la sacristía refutación de un folleto — Eduardo de la Barra (1872)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-589367.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075207.pdf)

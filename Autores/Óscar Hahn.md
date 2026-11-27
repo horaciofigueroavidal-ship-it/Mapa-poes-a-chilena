@@ -41,8 +41,51 @@ El año 2012 le fue otorgado el Premio Nacional de Literatura.
 - Reencarnación de los carniceros
 - Visión de Hiroshima
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Esta rosa negra — Óscar Hahn (1961)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8717.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015207.pdf)
+- [[Suma poética — Óscar Hahn (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Suma%20po%C3%A9tica) · *sin PDF*
+- [[Agua final — Óscar Hahn (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Agua%20final) · *sin PDF*
+- [[Arte de morir — Óscar Hahn (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Arte%20de%20morir) · *sin PDF*
+- [[Mal de amor — Óscar Hahn (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mal%20de%20amor) · *sin PDF*
+- [[Imágenes nucleares — Óscar Hahn (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Im%C3%A1genes%20nucleares) · *sin PDF*
+- [[Flor de enamorados — Óscar Hahn (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Flor%20de%20enamorados) · *sin PDF*
+- [[Estrellas fijas en un cielo blanco — Óscar Hahn (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estrellas%20fijas%20en%20un%20cielo%20blanco) · *sin PDF*
+- [[Tratado de sortilegios — Óscar Hahn (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tratado%20de%20sortilegios) · *sin PDF*
+- [[Versos robados — Óscar Hahn (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Versos%20robados) · *sin PDF*
+- [[Antología virtual — Óscar Hahn (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20virtual) · *sin PDF*
+- [[Antología retroactiva — Óscar Hahn (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20retroactiva) · *sin PDF*
+- [[Poemas de amor — Óscar Hahn (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20de%20amor) · *sin PDF*
+- [[Apariciones profanas — Óscar Hahn (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Apariciones%20profanas) · *sin PDF*
+- [[Obras selectas — Óscar Hahn (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20selectas) · *sin PDF*
+- [[Sin cuenta — Óscar Hahn (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sin%20cuenta) · *sin PDF*
+- [[En un abrir y cerrar de ojos — Óscar Hahn (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=En%20un%20abrir%20y%20cerrar%20de%20ojos) · *sin PDF*
+- [[Obra poética — Óscar Hahn (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20po%C3%A9tica) · *sin PDF*
+- [[Hotel de las nostalgias — Óscar Hahn (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hotel%20de%20las%20nostalgias) · *sin PDF*
+- [[Pena de vida — Óscar Hahn (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pena%20de%20vida) · *sin PDF*
+- [[Poemas de la era nuclear — Óscar Hahn (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20de%20la%20era%20nuclear) · *sin PDF*
+- [[Archivo expiatorio. Poesías completas 1961-2009 — Óscar Hahn (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Archivo%20expiatorio.%20Poes%C3%ADas%20completas%201961-2009) · *sin PDF*
+- [[Señales de vida — Óscar Hahn (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Se%C3%B1ales%20de%20vida) · *sin PDF*
+- [[Poemas sin fronteras — Óscar Hahn (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20sin%20fronteras) · *sin PDF*
+- [[La primera oscuridad — Óscar Hahn (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20primera%20oscuridad) · *sin PDF*
+- [[Todas las cosas se deslizan — Óscar Hahn (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Todas%20las%20cosas%20se%20deslizan) · *sin PDF*
+- [[La suprema soledad — Óscar Hahn (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20suprema%20soledad) · *sin PDF*
+- [[No hay amor como esta herida — Óscar Hahn (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=No%20hay%20amor%20como%20esta%20herida) · *sin PDF*
+- [[Poesía completa (1961-2012) — Óscar Hahn (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20completa%20%281961-2012%29) · *sin PDF*
+- [[Trilogía de amor — Óscar Hahn (2014)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Trilog%C3%ADa%20de%20amor) · *sin PDF*
+- [[Los espejos comunicantes — Óscar Hahn (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20espejos%20comunicantes) · *sin PDF*
+- [[Poesía fundamental — Óscar Hahn (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20fundamental) · *sin PDF*
+- [[Reencarnación de los carniceros — Óscar Hahn (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Reencarnaci%C3%B3n%20de%20los%20carniceros) · *sin PDF*
+
+### Otras obras
+
+- [[El cuento fantástico hispanoamericano en el siglo XIX — Óscar Hahn (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20cuento%20fant%C3%A1stico%20hispanoamericano%20en%20el%20siglo%20XIX) · *sin PDF*
+- [[Texto sobre texto — Óscar Hahn (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Texto%20sobre%20texto) · *sin PDF*
+- [[Fundadores del cuento fantástico hispanoamericano — Óscar Hahn (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fundadores%20del%20cuento%20fant%C3%A1stico%20hispanoamericano) · *sin PDF*
+- [[Vicente Huidobro o el atentado celeste — Óscar Hahn (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vicente%20Huidobro%20o%20el%20atentado%20celeste) · *sin PDF*
+- [[Magias de la escritura — Óscar Hahn (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Magias%20de%20la%20escritura) · *sin PDF*
+- [[Pequeña biblioteca nocturna — Óscar Hahn (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Peque%C3%B1a%20biblioteca%20nocturna) · *sin PDF*
+- [[Retrato hablado — Óscar Hahn (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Retrato%20hablado) · *sin PDF*
+- [[Palabras sin fronteras — Óscar Hahn (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Palabras%20sin%20fronteras) · *sin PDF*

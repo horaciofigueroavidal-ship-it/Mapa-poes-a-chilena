@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1977 en que Parra da voz al predicador popular Domingo Zárate Vega, «el Cristo de Elqui», para hablar con humor y doble sentido de la vida chilena bajo la dictadura.
+
 📖 **[[Obras/PDF/Sermones y prédicas del Cristo de Elqui — Nicanor Parra (1977).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8613.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014336.pdf)

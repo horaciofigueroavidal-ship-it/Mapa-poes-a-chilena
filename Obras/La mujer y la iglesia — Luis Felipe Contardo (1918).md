@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Conferencia dictada en una de las sesiones preparatorias del Congreso Mariano Femenino celebrado en Santiago de Chile, del 15 al 27 de julio de 1918. bajo la presidencia del Ilmo. Sr. Obispo titular de Dodona, Dr. Don Rafael Edwards  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Luis Felipe Contardo, publicada en 1918. Datos de edición: Chillán : Casa Editora Librería Americana, [1918]. Le precede «El catolicismo: ante la vida moderna» (1910) y le sigue «Cantos del camino» (1941).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-588628.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0074599.pdf)

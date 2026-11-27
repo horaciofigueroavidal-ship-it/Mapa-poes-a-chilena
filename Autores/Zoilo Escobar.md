@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación modernista de comienzos del siglo XX. Su obra combina temas de la tradición nacional con la renovación formal del modernismo. Memoria Chilena registra su autoría, pero sus datos biográficos son escasos.
+Poeta de Valparaíso de comienzos del siglo XX, incluido en *Selva lírica* (1917), la antología de Julio Molina Núñez y Juan Agustín Araya. Fue amigo de Carlos Pezoa Véliz, Víctor Domingo Silva y Alberto Moreno, y dirigió una sociedad literaria porteña, en cuya velada inaugural recitó su poema «Mar, sol y viento». En 1983 Fernando Kiel lo evocó en *El Mercurio de Valparaíso* («El violín de Zoilo Escobar»).
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128843.html
@@ -21,6 +21,6 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Ante un retrato de mujer
 - Doce aspectos de mi vida celeste
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

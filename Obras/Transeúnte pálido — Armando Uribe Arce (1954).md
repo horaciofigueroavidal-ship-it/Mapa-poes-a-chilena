@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Primer libro de Armando Uribe (1954). Su poesía, breve, aforística y de tono religioso, se vuelve después feroz en la crítica de la sociedad chilena.
+
 📖 **[[Obras/PDF/Transeúnte pálido — Armando Uribe Arce (1954).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8625.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014501.pdf)

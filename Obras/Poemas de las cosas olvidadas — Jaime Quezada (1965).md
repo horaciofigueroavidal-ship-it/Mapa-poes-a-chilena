@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Primer libro de Jaime Quezada (1965). Quezada es también un destacado estudioso de Gabriela Mistral.
+
 📖 **[[Obras/PDF/Poemas de las cosas olvidadas — Jaime Quezada (1965).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8719.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015209.pdf)

@@ -1,0 +1,115 @@
+# Obras agregadas a mano para autores cuya bibliografía no está en Memoria Chilena ni en Wikipedia.
+# Formato: "## Autor exacto del índice" y debajo una obra por línea:  Título | año | género (poesía, ensayo, novela...)
+# El año y el género son opcionales.
+
+## Violeta Parra
+Poésie populaire des Andes | 1965 | poesía
+Décimas. Autobiografía en verso | 1970 | poesía
+
+## Augusto Iglesias
+Gabriela Mistral y el modernismo en Chile | 1949 | ensayo
+
+## Miriam Elim
+Los ojos extasiados | 1920 | poesía
+
+## Alberto Mauret Caamaño
+Historia de un rei malo i una pulga vivaracha | | narrativa
+
+## Carlos Barella
+El luto de un pueblo
+
+## Lautaro García
+Estudios de literatura chilena | | ensayo
+
+## Juan Negro
+Espejos | 1936 | poesía
+El paso de la noche | | poesía
+
+## Hermelo Arabena Williams
+Responso para un bandolero | | poesía
+
+## Francisco Santana
+La nueva generación de novelistas chilenos | | ensayo
+
+## Jaime Rayo
+Sombra y sujeto | 1939 | poesía
+
+## Víctor Franzani
+Ánfora del sueño | 1936 | poesía
+Largo amar | | poesía
+
+## Carmen Ábalos
+Oratorio menor | 1964 | poesía
+Noticiario. Noche transfigurada | | poesía
+
+## Francisca Ossandón
+Humo lento | | poesía
+Tiempo de estar | 1962 | poesía
+Tiempo y destiempo | | poesía
+
+## Venancio Lisboa
+Llama viva | | poesía
+
+## Sara Vial
+Neruda en Valparaíso | 1983 | crónica
+Fénix de madrugada | | poesía
+
+## Jaime Giordano
+La edad del ensueño | 1971 | ensayo
+La edad de la náusea | 1985 | ensayo
+Dioses y antidioses | 1987 | ensayo
+
+## Eugenia Brito
+Vía pública | 1984 | poesía
+Filiaciones | 1986 | poesía
+Campos minados (literatura post-golpe en Chile) | 1990 | ensayo
+Emplazamientos | 1992 | poesía
+
+## Gonzalo Muñoz
+Exit | 1981 | poesía
+Este | 1983 | poesía
+Estrellas fijas en un cielo blanco | 1998 | poesía
+
+## Antonio Gil
+Cancha rayada | 1985 | poesía
+
+## Bruno Vidal
+Arte marcial | 1991 | poesía
+
+## Eduardo Llanos
+Contradiccionario | 1983 | poesía
+Para que no me olvides | 1992 | poesía
+
+## Heddy Navarro
+Óvulos | 1986 | poesía
+Oda al macho | 1987 | poesía
+Poemas insurrectos | 1988 | poesía
+
+## Jaime Huenún
+Ceremonias | 1999 | poesía
+Puerto Trakl | 2001 | poesía
+Reducciones | 2012 | poesía
+
+## Adriana Paredes Pinda
+Üi | 2005 | poesía
+
+## Bernardo Colipán
+Zonas de emergencia | 1999 | poesía
+
+## David Aniñir
+Mapurbe. Venganza a raíz | 2005 | poesía
+
+## Alejandra del Río
+Material de fuego | 1997 | poesía
+
+## Andrés Anwandter
+El árbol del lenguaje | 1993 | poesía
+Especies intencionales | 2001 | poesía
+
+## Gladys González
+Gran Avenida | 2005 | poesía
+Aire quemado | | poesía
+
+## Enrique Winter
+Rascacielos | 2008 | poesía
+Las bolsas de basura | 2015 | novela

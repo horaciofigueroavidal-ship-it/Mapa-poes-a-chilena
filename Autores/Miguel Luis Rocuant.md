@@ -21,7 +21,7 @@ tags: [autor]
 - Día gris
 - Crepuscular
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Las blancuras sagradas escultura chilena — Miguel Luis Rocuant (1921)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10219.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047458.pdf)

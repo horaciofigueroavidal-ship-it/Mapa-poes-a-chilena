@@ -27,7 +27,7 @@ En 1846 terminó de escribir la leyenda El bandido, obra en que Sanfuentes se av
 
 - El campanario (fragmento)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

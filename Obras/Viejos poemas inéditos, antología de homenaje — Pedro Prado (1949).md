@@ -15,6 +15,12 @@ tags: [obra]
 **Descripción física:** 190 páginas  
 **Materias:** Poesías Chilenas  
 
+## Introducción
+
+Libro de poesía de Pedro Prado, publicado en 1949. Datos de edición: Santiago de Chile : Escuela Nacional de Artes Gráficas, 1949. Le precede «Las estancias del amor» (1949) y le sigue «Pedro Prado, un clásico de América» (1952).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Viejos poemas inéditos, antología de homenaje — Pedro Prado (1949).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-620833.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075717.pdf)

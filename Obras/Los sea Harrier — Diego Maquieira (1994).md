@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1993 de Maquieira: una épica delirante con aviones de guerra, conquistadores y personajes de la cultura de masas.
+
 📖 **[[Obras/PDF/Los sea Harrier — Diego Maquieira (1994).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9355.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0029978.pdf)

@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Miguel Arteche, publicado en 1994. Datos de edición: Santiago : Eds. Rumbos, 1994. Le precede «El alfil negro» (1992) y le sigue «Antología cuarta» (1996).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Fénix de madrugada (1975-1992) — Miguel Arteche (1994).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8507.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013391.pdf)

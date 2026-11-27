@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Luis Oyarzún, publicado en 2002. Datos de edición: Santiago de Chile : LOM Ediciones : Archivo del Escritor, 2002. Le precede «Epistolario familiar» (2000) y le sigue «Prosa poética» (2002).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Necesidad del arcoiris poesía selecta — Luis Oyarzún (2002).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9457.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031343.pdf)

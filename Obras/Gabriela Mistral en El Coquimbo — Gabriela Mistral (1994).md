@@ -18,4 +18,10 @@ tags: [obra]
 **Materias:** Literatura chilenaMistral, Gabriela, 1889-1957 - Manuscritos  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Gabriela Mistral, publicada en 1994. Datos de edición: Santiago: Dirección de Bibliotecas Archivos y Museos: Museo Gabriela Mistral de Vicuña, 1994. Le precede «Lagar II» (1992) y le sigue «Gabriela Mistral: Escritos políticos» (1994). Materias en Memoria Chilena: Literatura chilenaMistral, Gabriela, 1889-1957 - Manuscritos.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7909.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003262.pdf)

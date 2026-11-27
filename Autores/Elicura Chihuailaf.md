@@ -38,6 +38,20 @@ En el año 2020 su trabajo literario fue reconocido con el Premio Nacional de Li
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[El invierno y su imagen — Elicura Chihuailaf (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20invierno%20y%20su%20imagen) · *sin PDF*
+- [[En el país de la memoria. Maputukulpakey — Elicura Chihuailaf (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=En%20el%20pa%C3%ADs%20de%20la%20memoria.%20Maputukulpakey) · *sin PDF*
+- [[De sueños azules y contrasueños — Elicura Chihuailaf (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=De%20sue%C3%B1os%20azules%20y%20contrasue%C3%B1os) · *sin PDF*
+- [[La palabra sueño y flor de América — Elicura Chihuailaf (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20palabra%3A%20sue%C3%B1o%20y%20flor%20de%20Am%C3%A9rica) · *sin PDF*
+- [[Muestra de oralitura indígena de América — Elicura Chihuailaf (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Muestra%20de%20oralitura%20ind%C3%ADgena%20de%20Am%C3%A9rica) · *sin PDF*
+- [[Recado confidencial a los chilenos — Elicura Chihuailaf (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Recado%20confidencial%20a%20los%20chilenos) · *sin PDF*
+- [[Hablando en el espíritu azul de mi gente — Elicura Chihuailaf (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hablando%20en%20el%20esp%C3%ADritu%20azul%20de%20mi%20gente) · *sin PDF*
+- [[Kallfv — Elicura Chihuailaf (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Kallfv) · *sin PDF*
+- [[A orillas de un sueño azul — Elicura Chihuailaf (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%20orillas%20de%20un%20sue%C3%B1o%20azul) · *sin PDF*
+- [[La vida es una nube azul — Elicura Chihuailaf (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20vida%20es%20una%20nube%20azul) · *sin PDF*
+- [[Sueños de luna azul y otros cantos — Elicura Chihuailaf (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sue%C3%B1os%20de%20luna%20azul%20y%20otros%20cantos) · *sin PDF*
+- [[El azul del tiempo que nos sueña. Perimontun Visiones — Elicura Chihuailaf (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20azul%20del%20tiempo%20que%20nos%20sue%C3%B1a.%20Perimontun%20/%20Visiones) · *sin PDF*
+- [[Nubes y sueños en el azul — Elicura Chihuailaf (2023)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nubes%20y%20sue%C3%B1os%20en%20el%20azul) · *sin PDF*

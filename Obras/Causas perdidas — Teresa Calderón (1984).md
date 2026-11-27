@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Teresa Calderón, publicado en 1984. Datos de edición: [Santiago] : Artesanales, impresión de 1984 (Santiago : Barcal). Le precede «Uno X Uno: algunos poetas jóvenes» (1979) y le sigue «Mujeres del mundo: uníos» (1984).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Causas perdidas — Teresa Calderón (1984).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9333.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0028767.pdf)

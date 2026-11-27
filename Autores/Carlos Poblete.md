@@ -20,6 +20,6 @@ Poeta (1914–?) de la generación del 38. Su poesía se acerca a los temas soci
 - La patria herida
 - Minuto de mi llaga
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

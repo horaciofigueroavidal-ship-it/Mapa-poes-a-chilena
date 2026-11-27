@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Primer libro de Gonzalo Millán (1968), escrito con un lenguaje objetivo y despojado.
+
 📖 **[[Obras/PDF/Relación personal — Gonzalo Millán (1968).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8721.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015211.pdf)

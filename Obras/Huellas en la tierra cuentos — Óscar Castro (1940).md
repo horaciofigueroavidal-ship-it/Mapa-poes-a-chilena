@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Cuentos Chilenos  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de narrativa de Óscar Castro, publicado en 1940. Datos de edición: Santiago : Zig-Zag, 1940. Le precede «El caso imposible de Nicolás Roasenda» (1939) y le sigue «Viaje del alba a la noche : poemas» (1940).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7954.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003884.pdf)

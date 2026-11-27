@@ -16,4 +16,8 @@ tags: [obra]
 **Materias:** Prosa poética chilena  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Poema en prosa de 1931, publicado el mismo año que *Altazor*, que gira en torno al amor, la muerte y la figura de Isolda.
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-542815.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072879.pdf)

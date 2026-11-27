@@ -17,4 +17,10 @@ tags: [obra]
 **Notas:** Portada y reportaje gráfico de Miguel Rubio  
 **Materias:** Cocina Chilena  
 
+## Introducción
+
+Obra de Alfonso Alcalde, publicada en 1972. Datos de edición: Santiago : Quimantú, 1972. Le precede «Gente de carne y hueso» (1971) y le sigue «El sentimiento que te di» (1972). Materias en Memoria Chilena: Cocina Chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10160.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045193.pdf)

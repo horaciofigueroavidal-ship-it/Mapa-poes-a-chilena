@@ -20,6 +20,6 @@ Poeta (1907–?) de la generación de las vanguardias. Nómez lo sitúa en el pa
 - Vida segura
 - Pero un día
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

@@ -34,9 +34,14 @@ El poeta falleció en Santiago, el 25 de mayo de 1934. Sesenta años más tarde,
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
+### Poesía
+
+- [[Carta – Océano — Alberto Rojas Jiménez]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Carta%20%E2%80%93%20Oc%C3%A9ano) · *sin PDF*
+
+### Otras obras
 
 - [[Chilenos en París — Alberto Rojas Jiménez (1930)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7870.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002412.pdf)
-- [[Alberto Rojas Jiménez se paseaba por el alba — Alberto Rojas Jiménez (1994)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7871.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002414.pdf)
 - [[Alberto Rojas Jiménez se paseaba por el alba — Alberto Rojas Jiménez (1994)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-85412.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0052258.pdf)
+- [[Alberto Rojas Jiménez se paseaba por el alba — Alberto Rojas Jiménez (1994)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7871.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002414.pdf)

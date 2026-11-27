@@ -10,7 +10,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta (1916–?) de la generación del 38. Nómez lo sitúa en la vertiente social y popular. Sus datos biográficos son escasos.
+Poeta de la generación del 38 (Chillán, 1916 – Santiago, 1942). Alcanzó a publicar un solo libro, *Sombra y sujeto* (1939); otro, *Autonomía*, se perdió. Murió trágicamente a los 26 años, y su temprana muerte lo ha dejado en un relativo olvido.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -19,6 +19,8 @@ Poeta (1916–?) de la generación del 38. Nómez lo sitúa en la vertiente soci
 - La hora apartada
 - Narciso
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Sombra y sujeto — Jaime Rayo (1939)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sombra%20y%20sujeto) · *sin PDF*

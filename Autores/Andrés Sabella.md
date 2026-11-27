@@ -44,14 +44,41 @@ Texto no definidoDocumentos
 - Ruta
 - Día de fiesta
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Rumbo indeciso — Andrés Sabella (1930)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rumbo%20indeciso) · *sin PDF*
+- [[Vecindario de palomas — Andrés Sabella (1934)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vecindario%20de%20palomas) · *sin PDF*
+- [[La sangre y sus estatuas. Poemas 1935-1939 — Andrés Sabella (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20sangre%20y%20sus%20estatuas.%20Poemas%201935-1939) · *sin PDF*
+- [[Popularización de Gómez Rojas — Andrés Sabella (1939)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Popularizaci%C3%B3n%20de%20G%C3%B3mez%20Rojas) · *sin PDF*
 - [[Crónica mínima de una gran poesía Chile en la poesía y expresión social de sus poetas libr — Andrés Sabella (1941)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8704.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015060.pdf)
+- [[La estrella soviética — Andrés Sabella (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20estrella%20sovi%C3%A9tica) · *sin PDF*
+- [[Los viajeros opuestos — Andrés Sabella (1943)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20viajeros%20opuestos) · *sin PDF*
+- [[Sobre la Biblia un pan duro — Andrés Sabella (1946)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sobre%20la%20Biblia%20un%20pan%20duro) · *sin PDF*
+- [[Centenario de J. K. Huysmans — Andrés Sabella (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Centenario%20de%20J.%20K.%20Huysmans) · *sin PDF*
+- [[Martín Gala — Andrés Sabella (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mart%C3%ADn%20Gala) · *sin PDF*
+- [[El caballo en mi mano — Andrés Sabella (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20caballo%20en%20mi%20mano) · *sin PDF*
+- [[Pueblo del Salar Grande — Andrés Sabella (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pueblo%20del%20Salar%20Grande) · *sin PDF*
+- [[Semblanza del Norte chileno — Andrés Sabella (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Semblanza%20del%20Norte%20chileno) · *sin PDF*
+- [[Poemas de la ciudad donde el sol canta desnudo — Andrés Sabella (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20de%20la%20ciudad%20donde%20el%20sol%20canta%20desnudo) · *sin PDF*
+- [[Canciones para que el mar juegue con nosotros — Andrés Sabella (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canciones%20para%20que%20el%20mar%20juegue%20con%20nosotros) · *sin PDF*
+- [[Retratos quiméricos — Andrés Sabella (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Retratos%20quim%C3%A9ricos) · *sin PDF*
 - [[Hombre de cuatro rumbos antologia del Norte grande — Andrés Sabella (1966)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9699.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036311.pdf)
+- [[Altacopa — Andrés Sabella (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Altacopa) · *sin PDF*
+- [[Célula Cristo. Sobre la Biblia un pan duro. La estrella del hombre — Andrés Sabella (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=C%C3%A9lula%20Cristo.%20Sobre%20la%20Biblia%20un%20pan%20duro.%20La%20estrella%20del%20) · *sin PDF*
+- [[Un niño más el mar — Andrés Sabella (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Un%20ni%C3%B1o%20m%C3%A1s%20el%20mar) · *sin PDF*
 - [[Juan Marín y la nueva inspiración — Andrés Sabella (1975)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7983.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0004983.pdf)
+- [[Historias para el relámpago — Andrés Sabella (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Historias%20para%20el%20rel%C3%A1mpago) · *sin PDF*
+- [[El mar tiene veinte años — Andrés Sabella (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20mar%20tiene%20veinte%20a%C3%B1os) · *sin PDF*
+- [[La paloma de cemento — Andrés Sabella (1980)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20paloma%20de%20cemento) · *sin PDF*
+- [[Tú no tienes fin — Andrés Sabella (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=T%C3%BA%20no%20tienes%20fin) · *sin PDF*
+- [[Cetro de bufón — Andrés Sabella (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cetro%20de%20buf%C3%B3n) · *sin PDF*
+- [[La luna redonda — Andrés Sabella (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20luna%20redonda) · *sin PDF*
 
 ### Otras obras
 
+- [[La mugre — Andrés Sabella (1934)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20mugre) · *sin PDF*
+- [[Gómez Rojas Realidad y símbolo — Andrés Sabella (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=G%C3%B3mez%20Rojas%3A%20Realidad%20y%20s%C3%ADmbolo) · *sin PDF*
+- [[Chile, fértil provincia — Andrés Sabella (1945)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chile%2C%20f%C3%A9rtil%20provincia) · *sin PDF*
 - [[Norte grande novela del salitre — Andrés Sabella (1959)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8026.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005313.pdf)

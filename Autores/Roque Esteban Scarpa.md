@@ -45,16 +45,28 @@ Roque Esteban Scarpa murió el 11 de enero de 1995 y sus restos fueron trasladad
 - Variación del querer morir
 - Sólo me encontrarás
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[La desterrada en su patria Gabriela Mistral en Magallanes 1918-1920 — Roque Esteban Scarpa (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20desterrada%20en%20su%20patria%3A%20Gabriela%20Mistral%20en%20Magallanes%3A%20) · *sin PDF*
 - [[Dos poetas españoles Federico García Lorca, Rafael Alberti — Roque Esteban Scarpa (1935)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8346.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011079.pdf)
+- [[Luz de ayer (poesía 1940-45) — Roque Esteban Scarpa (1940)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Luz%20de%20ayer%20%28poes%C3%ADa%201940-45%29) · *sin PDF*
+- [[Cancionero de Hammud — Roque Esteban Scarpa (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cancionero%20de%20Hammud) · *sin PDF*
 - [[Mortal mantenimiento poemas — Roque Esteban Scarpa (1942)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8348.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011084.pdf)
+- [[El dios prestado por un día — Roque Esteban Scarpa (1976)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20dios%20prestado%20por%20un%20d%C3%ADa) · *sin PDF*
+- [[El ojo cazado en la red de silencio — Roque Esteban Scarpa (1976)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20ojo%20cazado%20en%20la%20red%20de%20silencio) · *sin PDF*
+- [[No tengo tiempo (poesía 1976) — Roque Esteban Scarpa (1976)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=No%20tengo%20tiempo%3A%20%28poes%C3%ADa%201976%29) · *sin PDF*
+- [[Con ansias vivas y sin mortal cuidado — Roque Esteban Scarpa (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Con%20ansias%20vivas%20y%20sin%20mortal%20cuidado) · *sin PDF*
+- [[El árbol deshojado de sonrisas — Roque Esteban Scarpa (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20%C3%A1rbol%20deshojado%20de%20sonrisas) · *sin PDF*
+- [[Rodeado estoy de dioses — Roque Esteban Scarpa (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rodeado%20estoy%20de%20dioses) · *sin PDF*
+- [[La insula radiante — Roque Esteban Scarpa (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20insula%20radiante) · *sin PDF*
+- [[La raya en el aire — Roque Esteban Scarpa (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20raya%20en%20el%20aire) · *sin PDF*
 - [[El laberinto sin muros — Roque Esteban Scarpa (1981)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8347.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011082.pdf)
 
 ### Otras obras
 
+- [[Las figuras del tiempo — Roque Esteban Scarpa (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20figuras%20del%20tiempo) · *sin PDF*
 - [[Una mujer nada de tonta — Roque Esteban Scarpa (1976)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8349.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011085.pdf)
 - [[Quién soy — Roque Esteban Scarpa (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8345.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011072.pdf)
 - [[Teatro escolar — Roque Esteban Scarpa (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84891.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050918.pdf)

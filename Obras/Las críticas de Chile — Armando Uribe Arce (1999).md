@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Armando Uribe Arce, publicado en 1999. Datos de edición: Santiago de Chile : Be-uve-dráis Editores, 1999 (Santiago de Chile : Imprenta Salesianos). Le precede «El accidente Pinochet» (1999) y le sigue «Los ataúdes-Las erratas» (1999).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Las críticas de Chile — Armando Uribe Arce (1999).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8631.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014507.pdf)

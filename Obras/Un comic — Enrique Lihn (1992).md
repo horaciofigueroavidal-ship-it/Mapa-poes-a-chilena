@@ -18,4 +18,10 @@ tags: [obra]
 **Materias:** Historietas, Tiras Cómicas, Etc. - Chile  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Enrique Lihn, publicada en 1992. Datos de edición: [Santiago] : [Editor no identificado], 1992 (Santiago : Andros). Le precede «Roma, la loba» (1992) y le sigue «La comedia de los bandidos» (1994). Materias en Memoria Chilena: Historietas, Tiras Cómicas, Etc. - Chile.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8241.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009642.pdf)

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Cáceres, Jorge, 1923-1949  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Enrique Gómez-Correa, publicada en 1952. Datos de edición: Santiago : Le Grabuge, 1952. Le precede «En pleno día» (1949) y le sigue «Lo desconocido liberado seguido de Las tres y media etapas del vacío» (1952). Materias en Memoria Chilena: Cáceres, Jorge, 1923-1949.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8687.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014944.pdf)

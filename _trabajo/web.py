@@ -1,7 +1,8 @@
 """Genera docs/data.js para el mapa web (GitHub Pages)."""
 import json, os, re, sys
 from mc import HERE
-from generar import anio_libro, es_poesia, limpiar_pres, BIOS  # reutiliza funciones (genera la bóveda de paso)
+from generar import limpiar_pres, BIOS  # reutiliza funciones (genera la bóveda de paso)
+from obras import catalogo
 
 sys.stdout.reconfigure(encoding="utf-8")
 VAULT = os.path.dirname(HERE)
@@ -25,9 +26,9 @@ for t in tomos:
                 elif a.get("anio"):
                     fechas = a["anio"]
                 obras = []
-                for d in c.get("libros", []):
-                    obras.append({"t": d["titulo"], "y": anio_libro(d), "u": d["url"], "p": d["pdf"].replace("http://", "https://"),
-                                  "poe": es_poesia(d), "pub": "; ".join(d.get("Datos de publicación", []))})
+                for o in catalogo(n):
+                    obras.append({k: o[k] for k in ("t", "y", "u", "p", "poe", "pub", "gen", "intro", "w", "buscar")}
+                                 | {"auto": not o["curada"]})
                 obras.sort(key=lambda o: (not o["poe"], o["y"] or "9999"))
                 autores.append({
                     "id": n, "mov": pa["nombre"], "f": fechas,

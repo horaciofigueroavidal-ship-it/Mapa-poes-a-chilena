@@ -18,6 +18,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de José Domingo Gómez Rojas, publicado en 1920. Datos de edición: Santiago, Chile : Editorial Lux, [1920]. Le precede «Rebeldías líricas» (1913) y le sigue «Elegías» (1935).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Rebeldías líricas — José Domingo Gómez Rojas (1920).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-348162.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0071819.pdf)

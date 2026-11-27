@@ -40,6 +40,13 @@ En 1817, a días de terminar su cautiverio y volver a Valparaíso, José Antonio
 - La niña de los ojos azules
 - Cielo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Canto a O'Higgins con motivo de la traslación de sus restos a Chile — José Antonio Soffia (1869)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canto%20a%20O%27Higgins%3A%20con%20motivo%20de%20la%20traslaci%C3%B3n%20de%20sus%20restos) · *sin PDF*
+- [[Poesías líricas — José Antonio Soffia (1875)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%20l%C3%ADricas) · *sin PDF*
+- [[Exequias del candidato popular — José Antonio Soffia (1876)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Exequias%20del%20candidato%20popular) · *sin PDF*
+- [[Hojas de otoño poemas y poesías — José Antonio Soffia (1878)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hojas%20de%20oto%C3%B1o%3A%20poemas%20y%20poes%C3%ADas) · *sin PDF*
+- [[Romancero colombiano homenaje a la memoria del Libertador Simón Bolívar en su primer Cente — José Antonio Soffia (1883)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Romancero%20colombiano%3A%20homenaje%20a%20la%20memoria%20del%20Libertador%20S) · *sin PDF*
+- [[Las dos hermanas Recuerdos del Magdalena — José Antonio Soffia (1884)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20dos%20hermanas%3A%20Recuerdos%20del%20Magdalena) · *sin PDF*

@@ -17,4 +17,10 @@ tags: [obra]
 **Notas:** Páginas faltantes: 10-11; Prólogo de A. Acevedo Hernández  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de José Domingo Gómez Rojas, publicada en 1935. Datos de edición: Santiago : Nascimento, 1935. Le precede «Rebeldías líricas» (1920) y le sigue «Popularización de Gómez Rojas» (1939).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-605831.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075533.pdf)

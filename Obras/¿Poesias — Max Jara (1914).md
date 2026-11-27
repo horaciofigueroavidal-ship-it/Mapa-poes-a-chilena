@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Max Jara, publicado en 1914. Datos de edición: Santiago : Imprenta Nacional, 1914. Le precede «Juventud : poesía romántica» (1909) y le sigue «Asonantes : (tono menor)» (1922).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/¿Poesias — Max Jara (1914).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8512.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013432.pdf)

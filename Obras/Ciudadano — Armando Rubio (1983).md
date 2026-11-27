@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Armando Rubio, publicado en 1983. Datos de edición: Santiago : Minga, c1983.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Ciudadano — Armando Rubio (1983).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9434.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031035.pdf)

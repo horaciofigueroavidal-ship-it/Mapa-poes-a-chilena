@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Prólogo de Roque Esteban Scarpa  
 **Materias:** Autores ChilenosPrado, Pedro, 1886-1952  
 
+## Introducción
+
+Obra de Pedro Prado, publicada en 1986. Datos de edición: [Santiago] : Academia Chilena de la Lengua, 1986 ([Santiago] : Universitaria). Le precede «Premios Nacionales de Literatura» (1983) y le sigue «Obras completas» (2010). Materias en Memoria Chilena: Autores ChilenosPrado, Pedro, 1886-1952.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-126610.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0060689.pdf)

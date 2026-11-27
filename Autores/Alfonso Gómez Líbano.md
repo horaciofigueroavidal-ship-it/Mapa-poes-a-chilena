@@ -22,6 +22,6 @@ Poeta (1918–?) de la promoción de los años cuarenta. Nómez lo incluye en el
 - Clima de arañas
 - Enemiga del sol
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

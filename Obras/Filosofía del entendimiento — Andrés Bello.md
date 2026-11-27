@@ -15,4 +15,10 @@ tags: [obra]
 **Notas:** No disponible para reproducción en alta resolución; Donación digital de Universidad Nacional Andrés Bello  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Andrés Bello.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10445.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0064751.pdf)

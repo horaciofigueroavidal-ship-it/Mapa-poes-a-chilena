@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1983 de Diego Maquieira, en que la figura de La Tirana —virgen, actriz y prostituta— protagoniza un barroco carnavalesco, transgresor y lleno de citas del Siglo de Oro y del cine.
+
 📖 **[[Obras/PDF/La Tirana poema — Diego Maquieira (1983).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9354.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0029973.pdf)

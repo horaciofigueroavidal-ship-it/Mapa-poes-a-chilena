@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Pedro Sienna, publicado en 1917. Datos de edición: Santiago : Impr. Universitaria, 1917. Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Muecas en la sombra — Pedro Sienna (1917).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10197.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0046927.pdf)

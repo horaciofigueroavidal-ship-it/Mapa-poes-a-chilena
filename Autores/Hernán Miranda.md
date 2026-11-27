@@ -20,7 +20,7 @@ tags: [autor]
 - Para que se sepa que es verdad todo esto
 - Buscad y hallaréis
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

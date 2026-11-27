@@ -25,6 +25,7 @@
   .node.mov circle { fill: var(--mov); filter: url(#glow); }
   .node.aut circle { fill: var(--aut); }
   .node.obra circle { fill: var(--obra); }
+  .node.obra.sinpdf circle:not(.hit) { fill: #9fb3a8; opacity: .6; }
   .node.dim { opacity: .12; }
   .node circle.hit { fill: transparent; stroke: none; filter: none; }
   .node.sel circle:not(.hit) { stroke: #fff; stroke-width: 2.5; }
@@ -84,10 +85,10 @@
 </header>
 <div class="legend">
   <span style="--c:var(--hub)">Centro</span><span style="--c:var(--mov)">Movimientos</span>
-  <span style="--c:var(--aut)">Poetas</span><span style="--c:var(--obra)">Obras</span>
+  <span style="--c:var(--aut)">Poetas</span><span style="--c:var(--obra)">Obras con PDF</span><span style="--c:#9fb3a8">Obras sin PDF</span>
 </div>
 <footer>Descripciones: <a href="https://www.memoriachilena.gob.cl" target="_blank" rel="noopener">Memoria Chilena</a>,
-  Biblioteca Nacional de Chile (CC BY-SA 3.0).<br>Fondo: la Vía Láctea fotografiada por la tripulación de Artemis II (NASA).</footer>
+  Biblioteca Nacional de Chile (CC BY-SA 3.0). Bibliografías: Wikipedia (CC BY-SA 4.0).<br>Fondo: la Vía Láctea fotografiada por la tripulación de Artemis II (NASA).</footer>
 <aside id="panel"><button id="close" aria-label="Cerrar">×</button><div id="content"></div></aside>
 
 <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
@@ -148,7 +149,7 @@ const linkSel = world.append("g").selectAll("line").data(links).join("line")
   .attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
 
 const nodeSel = world.append("g").selectAll("g").data(nodes).join("g")
-  .attr("class", d => "node " + d.kind).attr("transform", d => `translate(${d.x},${d.y})`)
+  .attr("class", d => "node " + d.kind + (d.kind === "obra" && !d.data.p ? " sinpdf" : "")).attr("transform", d => `translate(${d.x},${d.y})`)
   .on("click", (e, d) => { e.stopPropagation(); select(d); })
   .on("mouseenter", (e, d) => hover(d)).on("mouseleave", () => hover(null));
 nodeSel.append("circle").attr("r", d => d.r);
@@ -224,8 +225,8 @@ function paras(t) {
 }
 function obraHTML(o) {
   return `<div class="obra-item">${esc(o.t)}${o.y ? ` <span class="muted">(${o.y})</span>` : ""}
-    <a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha</a>
-    <a class="chip" href="${o.p}" target="_blank" rel="noopener">PDF</a></div>`;
+    ${o.u ? `<a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha</a>` : ""}
+    ${o.p ? `<a class="chip" href="${o.p}" target="_blank" rel="noopener">PDF</a>` : `<span class="muted">sin PDF</span>`}</div>`;
 }
 function render(d) {
   if (d.kind === "hub") {
@@ -245,16 +246,21 @@ function render(d) {
       ${a.pres ? paras(a.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}`}
       ${a.mc ? `<div class="src">Fuente: <a href="${a.mc}" target="_blank" rel="noopener">Memoria Chilena</a></div>` : ""}
       <h3>Poemas en la antología</h3><ul>${a.poemas.map(p => `<li>${esc(p)}</li>`).join("")}</ul>
-      <h3>Obras en Memoria Chilena</h3>
+      <h3>Obras (${a.obras.length})</h3>
       ${a.obras.length ? (poe.length ? `<div class="muted">Poesía</div>${poe.map(obraHTML).join("")}` : "")
         + (otras.length ? `<div class="muted" style="margin-top:10px">Otras obras</div>${otras.map(obraHTML).join("")}` : "")
-        : `<p class="muted">No hay libros de este poeta digitalizados en Memoria Chilena.</p>`}`;
+        : `<p class="muted">No se encontró la bibliografía de este poeta.</p>`}`;
   } else {
     const o = d.data;
     content.innerHTML = `<div class="kind">Obra · ${go(d.autor)}</div><h2>${esc(o.t)}</h2>
-      ${o.y ? `<div class="muted">${esc(o.y)}</div>` : ""}${o.pub ? `<p>${esc(o.pub)}</p>` : ""}
-      <p><a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha en Memoria Chilena</a>
-         <a class="chip" href="${o.p}" target="_blank" rel="noopener">Abrir PDF</a></p>`;
+      <div class="muted">${esc(o.gen || "")}${o.y ? " · " + esc(o.y) : ""}</div>
+      <h3>Introducción</h3>${paras(o.intro || "")}
+      ${o.auto ? `<p class="muted">Introducción generada con los datos de la bibliografía.</p>` : ""}
+      <p>${o.u ? `<a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha en Memoria Chilena</a>` : ""}
+         ${o.p ? `<a class="chip" href="${o.p}" target="_blank" rel="noopener">Abrir PDF</a>`
+               : `<a class="chip" href="${o.buscar}" target="_blank" rel="noopener">Buscar en Memoria Chilena</a>`}
+         ${o.w ? `<a class="chip" href="${o.w}" target="_blank" rel="noopener">Wikipedia</a>` : ""}</p>
+      ${o.p ? "" : `<p class="muted">Memoria Chilena no tiene digitalizada esta obra.</p>`}`;
   }
   panel.scrollTop = 0;
 }

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Prosa poética chilena  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Ensayo o prosa de Gabriela Mistral, publicado en 1965. Datos de edición: Santiago de Chile: Editorial del Pacifico, 1965. Le precede «Universidad de Chile» (1957) y le sigue «Poema de Chile» (1967). Materias en Memoria Chilena: Prosa poética chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7916.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003271.pdf)

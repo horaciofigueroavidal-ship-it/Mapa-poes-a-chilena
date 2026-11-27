@@ -21,6 +21,6 @@ Poeta (1905–?) de la generación de las vanguardias. Nómez lo ubica en el tr�
 - Entierro de Federico Kuhlman
 - El fantasma de los espejos
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Darío, Rubén, 1867-1916 - Correspondencia  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Rubén Darío, publicada en 1999. Datos de edición: Santiago : DIBAM : LOM Ediciones : Archivo del Escritor, 1999. Le precede «Claves de la obra poética de Rubén Darío» (1990) y le sigue «La poesía de Rubén Darío» (2005). Materias en Memoria Chilena: Darío, Rubén, 1867-1916 - Correspondencia.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9455.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031339.pdf)

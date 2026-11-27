@@ -31,7 +31,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Para nada
 - Hombresperpento
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Quién soy — Guillermo Trejo (1983)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9190.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025935.pdf)

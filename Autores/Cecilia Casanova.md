@@ -25,7 +25,12 @@ tags: [autor]
 - Mientras llueve de abajo para arriba
 - El despertar de una montaña (fragmentos)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
+### Poesía
+
+- [[Memoria Chilena — Cecilia Casanova]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Memoria%20Chilena) · *sin PDF*
+
+### Otras obras
 
 - [[¿Quién soy — Cecilia Casanova (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9157.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025901.pdf)

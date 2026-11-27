@@ -15,6 +15,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Rolando Cárdenas.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Vastos imperios — Rolando Cárdenas.pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10307.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050559.pdf)

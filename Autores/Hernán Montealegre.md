@@ -23,6 +23,6 @@ Poeta de la promoción de los años cincuenta y sesenta. Nómez lo incluye entre
 - Resistencia humana
 - Tres sabios y ninguna respuesta
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

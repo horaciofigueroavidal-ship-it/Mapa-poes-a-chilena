@@ -31,7 +31,7 @@ Juan Rafael Allende falleció en Santiago, en julio de 1909; pobre, olvidado y c
 
 - Cuando rico y cuando pobre
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
@@ -39,16 +39,35 @@ Juan Rafael Allende falleció en Santiago, en julio de 1909; pobre, olvidado y c
 - [[Poesías populares de El Pequén tomo 8 — Juan Rafael Allende (1883)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124844.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0043284.pdf)
 - [[Poesías populares de El Pequén tomo 10 — Juan Rafael Allende (1886)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124846.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0043286.pdf)
 - [[Poesías populares de El Pequén tomo 9 — Juan Rafael Allende (1886)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124845.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0043285.pdf)
+- [[Poesías tanto serias como jocosas, artículos de costumbres, epigramas e tutti quanti — Juan Rafael Allende (1889)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%20tanto%20serias%20como%20jocosas%2C%20art%C3%ADculos%20de%20costumbres%2C%20) · *sin PDF*
+- [[El crecimiento del almirante — Juan Rafael Allende (1891)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20crecimiento%20del%20almirante) · *sin PDF*
+- [[Perdieron los vencedores — Juan Rafael Allende (1891)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Perdieron%20los%20vencedores) · *sin PDF*
+- [[Rimas de un proscrito — Juan Rafael Allende (1893)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rimas%20de%20un%20proscrito) · *sin PDF*
+- [[Almanaque del Poncio Pilatos para 1894 — Juan Rafael Allende (1894)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Almanaque%20del%20Poncio%20Pilatos%20para%201894) · *sin PDF*
 - [[Poesías populares de El Pequén — Juan Rafael Allende (1911)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8164.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0008689.pdf)
+- [[La sátira política en Chile — Juan Rafael Allende (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20s%C3%A1tira%20pol%C3%ADtica%20en%20Chile) · *sin PDF*
+- [[El que ríe último caricaturas y poesías en la prensa humorística chilena del siglo XIX — Juan Rafael Allende (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20que%20r%C3%ADe%20%C3%BAltimo%3A%20caricaturas%20y%20poes%C3%ADas%20en%20la%20prensa%20humor%C3%AD) · *sin PDF*
+- [[¡Ya no hablan de Jesucristo! las sátiras al alto clero y las mentalidades religiosas en Ch — Juan Rafael Allende (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C2%A1Ya%20no%20hablan%20de%20Jesucristo%21%3A%20las%20s%C3%A1tiras%20al%20alto%20clero%20y%20la) · *sin PDF*
+- [[Poesías del pequén — Juan Rafael Allende]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%20del%20pequ%C3%A9n) · *sin PDF*
 
 ### Otras obras
 
+- [[El qué dirán — Juan Rafael Allende (1872)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20qu%C3%A9%20dir%C3%A1n) · *sin PDF*
 - [[El Jeneral Daza juguete cómico en un acto i en verso — Juan Rafael Allende (1879)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8556.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014063.pdf)
+- [[José Romero (drama) (alias Peluca) — Juan Rafael Allende (1880)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Jos%C3%A9%20Romero%20%28drama%29%20%28alias%20Peluca%29) · *sin PDF*
+- [[Cuentos colorados — Juan Rafael Allende (1886)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20colorados) · *sin PDF*
 - [[Las mujeres de la India drama en tres actos, en verso — Juan Rafael Allende (1888)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8557.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014064.pdf)
+- [[Huérfano! drama en tres actos i en verso — Juan Rafael Allende (1889)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hu%C3%A9rfano%21%3A%20drama%20en%20tres%20actos%20i%20en%20verso) · *sin PDF*
 - [[La República de Jauja traji-comedia en cuatro actos i ocho cuadros, escrita en verso — Juan Rafael Allende (1889)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8560.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014067.pdf)
+- [[Víctima de su propia lengua — Juan Rafael Allende (1891)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=V%C3%ADctima%20de%20su%20propia%20lengua) · *sin PDF*
 - [[Moro viejo juguete cómico en un acto i en verso — Juan Rafael Allende (1892)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8558.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014065.pdf)
+- [[Un drama sin desenlace drama en cuatro actos i en verso dedicado a los leales del antiguo — Juan Rafael Allende (1892)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Un%20drama%20sin%20desenlace%3A%20drama%20en%20cuatro%20actos%20i%20en%20verso%20ded) · *sin PDF*
 - [[Memorias de un perro escritas por su propia pata — Juan Rafael Allende (1893)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8555.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014048.pdf)
+- [[Vida y milagros de un pije — Juan Rafael Allende (1893)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vida%20y%20milagros%20de%20un%20pije) · *sin PDF*
+- [[El Cabo Ponce drama en tres actos i en verso — Juan Rafael Allende (1898)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Cabo%20Ponce%3A%20drama%20en%20tres%20actos%20i%20en%20verso) · *sin PDF*
 - [[De la taberna al cadalso drama en cuatro actos y en verso — Juan Rafael Allende (1901)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8561.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014068.pdf)
 - [[El cuento del tío juguete cómico en prosa y en un acto — Juan Rafael Allende (1904)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8559.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014066.pdf)
 - [[Obreros i patrones conflicto entre el capital i el trabajo en Chile, su única solución — Juan Rafael Allende (1904)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8562.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014069.pdf)
 - [[Cartas del escultor José Miguel Blanco. Enviadas a su familia desde sus estadías en Europa — Juan Rafael Allende (1907)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124897.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0055200.pdf)
+- [[Cosas de los vivos contadas por los muertos — Juan Rafael Allende]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cosas%20de%20los%20vivos%20contadas%20por%20los%20muertos) · *sin PDF*
+- [[El entierro — Juan Rafael Allende]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20entierro) · *sin PDF*

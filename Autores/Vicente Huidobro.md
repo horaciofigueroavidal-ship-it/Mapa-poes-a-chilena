@@ -47,7 +47,7 @@ La actualización de este minisitio se publicó durante octubre de 2018, con mot
 - Triángulo armónico
 - Arte poética
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
@@ -55,15 +55,23 @@ La actualización de este minisitio se publicó durante octubre de 2018, con mot
 - [[Canciones en la noche — Vicente Huidobro (1913)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67181.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067411.pdf)
 - [[La gruta del silencio — Vicente Huidobro (1913)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67182.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067412.pdf)
 - [[Adán poema — Vicente Huidobro (1916)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67183.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067413.pdf)
+- [[El espejo de agua — Vicente Huidobro (1916)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20espejo%20de%20agua) · *sin PDF*
+- [[Horizon carré — Vicente Huidobro (1917)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Horizon%20carr%C3%A9) · *sin PDF*
 - [[Ecuatorial — Vicente Huidobro (1918)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67201.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067431.pdf)
+- [[Hallali — Vicente Huidobro (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hallali) · *sin PDF*
 - [[Poemas árticos — Vicente Huidobro (1918)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67188.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067418.pdf)
+- [[Tour Eiffel — Vicente Huidobro (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tour%20Eiffel) · *sin PDF*
 - [[Saisons choisies poémes — Vicente Huidobro (1921)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67191.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067421.pdf)
 - [[Automne régulier poémes — Vicente Huidobro (1925)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-542819.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072881.pdf)
 - [[Tout á coup poémes — Vicente Huidobro (1925)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67202.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067432.pdf)
 - [[Altazor poema — Vicente Huidobro (1931)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8003.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005042.pdf)
+- [[Tremblement de ciel — Vicente Huidobro (1932)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tremblement%20de%20ciel) · *sin PDF*
 - [[El ciudadano del olvido 1924-1934 — Vicente Huidobro (1941)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67186.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067416.pdf)
 - [[Ver y palpar 1923-1933 — Vicente Huidobro (1941)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67189.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067419.pdf)
 - [[Últimos poemas — Vicente Huidobro (1948)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8373.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011561.pdf)
+- [[Obras completas — Vicente Huidobro (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20completas) · *sin PDF*
+- [[Altazor y otros poemas — Vicente Huidobro (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Altazor%20y%20otros%20poemas) · *sin PDF*
+- [[Poesía y creación — Vicente Huidobro (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20y%20creaci%C3%B3n) · *sin PDF*
 
 ### Otras obras
 
@@ -73,12 +81,15 @@ La actualización de este minisitio se publicó durante octubre de 2018, con mot
 - [[Manifestes, Manifeste, Manifest, Manifes, Manife, Manif, Mani, Man, Ma, M — Vicente Huidobro (1925)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67200.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067430.pdf)
 - [[Vientos contrarios — Vicente Huidobro (1926)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67194.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067424.pdf)
 - [[Mío Cid campeador Hazaña — Vicente Huidobro (1929)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67184.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067414.pdf)
+- [[Altazor o el viaje en paracaídas — Vicente Huidobro (1931)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Altazor%20o%20el%20viaje%20en%20paraca%C3%ADdas) · *sin PDF*
 - [[Cagliostro novela-film — Vicente Huidobro (1934)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-337063.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0071415.pdf)
 - [[En la luna pequeño guignol en cuatro actos y trece cuadros — Vicente Huidobro (1934)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67192.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067422.pdf)
 - [[La próxima (historia que pasó en poco tiempo más) — Vicente Huidobro (1934)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-337062.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0071414.pdf)
 - [[Papá, o, El diario de Alicia Mir — Vicente Huidobro (1934)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67193.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067423.pdf)
+- [[Tres inmensas novelas — Vicente Huidobro (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tres%20inmensas%20novelas) · *sin PDF*
 - [[Sátiro, o, El poder de las palabras — Vicente Huidobro (1938)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-67187.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067417.pdf)
 - [[Temblor de cielo — Vicente Huidobro (1942)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-542815.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072879.pdf)
 - [[Gilles de Raiz — Vicente Huidobro (1988)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8018.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005246.pdf)
 - [[Epistolario — Vicente Huidobro (1997)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8372.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011560.pdf)
 - [[Atentado celeste facsimilares — Vicente Huidobro (2000)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9460.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031349.pdf)
+- [[Obra poética — Vicente Huidobro (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20po%C3%A9tica) · *sin PDF*

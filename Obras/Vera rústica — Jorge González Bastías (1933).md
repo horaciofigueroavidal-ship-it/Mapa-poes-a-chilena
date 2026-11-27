@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Jorge González Bastías, publicado en 1933. Datos de edición: Santiago: Empresa Letras, 1933. Le precede «El poema de las tierras pobres» (1924) y le sigue «Del venero nativo» (1940).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Vera rústica — Jorge González Bastías (1933).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-63164.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0060968.pdf)

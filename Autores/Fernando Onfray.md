@@ -21,6 +21,6 @@ Poeta (1918–?) de la promoción de los años cuarenta. Nómez lo sitúa en el 
 - Marina con alambradas de púas
 - Novenas del antiguo Perú (fragmentos)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

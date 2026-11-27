@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Venezolanas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Andrés Bello, publicado en 1970. Datos de edición: Santiago : Fondo Andrés Bello, 1970 (Santiago : Camilo Henríquez). Le precede «Código Civil Colombiano» (1887) y le sigue «Cuadernos de Londres» (2017). Materias en Memoria Chilena: Poesías Venezolanas.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Antología de Andrés Bello — Andrés Bello (1970).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8681.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014879.pdf)

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Drama Chileno  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de teatro de Roque Esteban Scarpa, publicada en 1985. Datos de edición: Santiago : El Ministerio, 1985. Es el título más tardío de su bibliografía registrada. Le precede «El laberinto sin muros» (1981). Materias en Memoria Chilena: Drama Chileno.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-84891.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050918.pdf)

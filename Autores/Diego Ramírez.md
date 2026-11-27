@@ -17,6 +17,6 @@ Poeta y narrador (1982–) de la promoción del 2000. Su obra cruza la poesía, 
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

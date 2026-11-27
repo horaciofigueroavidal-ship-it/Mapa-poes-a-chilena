@@ -32,6 +32,31 @@ José Ángel Cuevas ha dirigido numerosos talleres literarios y destaca su const
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Álbum del ex Chile — José Ángel Cuevas (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%81lbum%20del%20ex%20Chile) · *sin PDF*
+- [[1973 — José Ángel Cuevas (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=1973) · *sin PDF*
+- [[Efectos personales y dominios públicos — José Ángel Cuevas (1979)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Efectos%20personales%20y%20dominios%20p%C3%BAblicos) · *sin PDF*
+- [[Introducción a Santiago — José Ángel Cuevas (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Introducci%C3%B3n%20a%20Santiago) · *sin PDF*
+- [[Contravidas — José Ángel Cuevas (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Contravidas) · *sin PDF*
+- [[Canciones rock para chilenos — José Ángel Cuevas (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canciones%20rock%20para%20chilenos) · *sin PDF*
+- [[Cantos amorosos y patrióticos — José Ángel Cuevas (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cantos%20amorosos%20y%20patri%C3%B3ticos) · *sin PDF*
+- [[Adiós muchedumbres — José Ángel Cuevas (1989)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Adi%C3%B3s%20muchedumbres) · *sin PDF*
+- [[30 poemas del ex poeta José Ángel Cuevas — José Ángel Cuevas (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=30%20poemas%20del%20ex%20poeta%20Jos%C3%A9%20%C3%81ngel%20Cuevas) · *sin PDF*
+- [[Proyecto de país — José Ángel Cuevas (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Proyecto%20de%20pa%C3%ADs) · *sin PDF*
+- [[Poesía de la comisión liquidadora — José Ángel Cuevas (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20de%20la%20comisi%C3%B3n%20liquidadora) · *sin PDF*
+- [[Diario de la ciudad ardiente — José Ángel Cuevas (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diario%20de%20la%20ciudad%20ardiente) · *sin PDF*
+- [[Maxim, carta a los viejos rockeros — José Ángel Cuevas (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maxim%2C%20carta%20a%20los%20viejos%20rockeros) · *sin PDF*
+- [[Restaurant Chile — José Ángel Cuevas (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Restaurant%20Chile) · *sin PDF*
+- [[Lírica del edificio 201 — José Ángel Cuevas (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=L%C3%ADrica%20del%20edificio%20201) · *sin PDF*
+- [[Autobiografía de un ex – tremista — José Ángel Cuevas (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Autobiograf%C3%ADa%20de%20un%20ex%20%E2%80%93%20tremista) · *sin PDF*
+- [[Canciones oficiales — José Ángel Cuevas (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canciones%20oficiales) · *sin PDF*
+- [[Cosas sepultadas — José Ángel Cuevas (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cosas%20sepultadas) · *sin PDF*
+- [[Maquinaria Chile Y otras escenas de poesía política — José Ángel Cuevas (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maquinaria%20Chile%3A%20Y%20otras%20escenas%20de%20poes%C3%ADa%20pol%C3%ADtica) · *sin PDF*
+- [[Poesía del American Bar — José Ángel Cuevas (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20del%20American%20Bar) · *sin PDF*
+- [[Capitalismo tardío — José Ángel Cuevas (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Capitalismo%20tard%C3%ADo) · *sin PDF*
+- [[La novela del golpe o los muchachos del Grupo América — José Ángel Cuevas (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20novela%20del%20golpe%20o%20los%20muchachos%20del%20Grupo%20Am%C3%A9rica) · *sin PDF*
+- [[Poesía temprana — José Ángel Cuevas (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20temprana) · *sin PDF*
+- [[ex-chile — José Ángel Cuevas (2021)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=ex-chile) · *sin PDF*

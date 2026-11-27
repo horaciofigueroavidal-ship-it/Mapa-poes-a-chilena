@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Samuel Lillo, publicado en 1900. Datos de edición: Santiago : Imprenta Moderna, 1900. Le precede «Canciones de Arauco» (1900) y le sigue «Antes y hoy» (1905).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Poesías — Samuel Lillo (1900).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8262.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009836.pdf)

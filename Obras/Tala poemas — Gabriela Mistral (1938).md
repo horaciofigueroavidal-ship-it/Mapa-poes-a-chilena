@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Autoras chilenasPoesías ChilenasLiteratura chilena  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Publicado en Buenos Aires en 1938 a beneficio de los niños de la guerra civil española. Es el libro de la madurez: la muerte de la madre, la «americanidad» (los «Himnos americanos»), la materia (el pan, la sal, el agua) y un lenguaje más áspero y arcaizante.
+
 📖 **[[Obras/PDF/Tala poemas — Gabriela Mistral (1938).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7914.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003269.pdf)

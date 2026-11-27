@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Primer libro de Carmen Berenguer (1983), escrito a partir de la huelga de hambre del preso irlandés Bobby Sands. Es una alegoría de la resistencia bajo la dictadura chilena.
+
 📖 **[[Obras/PDF/Bobby Sands desfallece en el muro — Carmen Berenguer (1983).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9331.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0028765.pdf)

@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación del 50. Nómez lo ubica en las tendencias láricas, con su poesía de la memoria, la provincia y la naturaleza. Sus datos biográficos son escasos.
+Poeta de la generación del 50. Nómez lo ubica en las tendencias láricas, con su poesía de la memoria, la provincia y la naturaleza. Publicó poemas en la revista *Atenea*, como «Corteza» y «Noche queda sola». Sus datos biográficos son escasos.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -22,6 +22,6 @@ Poeta de la generación del 50. Nómez lo ubica en las tendencias láricas, con 
 - La fuga del venado
 - Mar de Arauco (fragmentos)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

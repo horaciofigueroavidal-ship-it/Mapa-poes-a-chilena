@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Omar Lara, publicado en 1976. Datos de edición: [Bucarest] : Buletinul Oficial, 1976. Le precede «Oh buenas maneras» (1975) y le sigue «Crónicas del Reyno de Chile» (1976).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Crónica del Reyno de Chile — Omar Lara (1976).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-55834.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050603.pdf)

@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Carlos Mondaca, publicado en 1931. Datos de edición: Santiago : Balcells, 1931.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Por los caminos ; Recogimientos poesías — Carlos Mondaca (1931).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7965.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0004130.pdf)

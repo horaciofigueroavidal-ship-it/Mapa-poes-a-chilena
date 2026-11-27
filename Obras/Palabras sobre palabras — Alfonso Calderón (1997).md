@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Recopilación, Alfonso Calderón y Pedro Pablo Zegers, prólogo de Alfonso Calderón  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Alfonso Calderón, publicada en 1997. Datos de edición: Santiago de Chile : Dirección de Bibliotecas Archivos y Museos, Centro de Investigaciones Diego Barros Arana, c1997. Le precede «Martín Cerda: palabras sobre palabras sol» (1997) y le sigue «Testigos de nada» (1997).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8749.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015580.pdf)

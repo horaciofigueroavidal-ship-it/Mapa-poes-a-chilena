@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Ensayos ChilenosMistral, Gabriela, 1889-1957  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Ensayo o prosa de Luis Oyarzún, publicado en 1967. Datos de edición: Santiago : Universitaria, impresión de 1967. Le precede «Leonardo da Vinci y otros ensayos» (1964) y le sigue «Defensa de la Tierra» (1973). Materias en Memoria Chilena: Ensayos ChilenosMistral, Gabriela, 1889-1957.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8355.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011326.pdf)

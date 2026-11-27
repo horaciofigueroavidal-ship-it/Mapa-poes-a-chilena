@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Literatura - Historia y CríticaProsa Chilena  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Ensayo o prosa de Mario Ferrero, publicado en 1960. Datos de edición: Santiago : Universitaria, 1960. Materias en Memoria Chilena: Literatura - Historia y CríticaProsa Chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9860.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0037545.pdf)

@@ -34,9 +34,14 @@ La poesía de Diego Maquieira ha sido un valioso aporte al panorama literario na
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Upsilon — Diego Maquieira (1975)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Upsilon) · *sin PDF*
+- [[Bombardo — Diego Maquieira (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bombardo) · *sin PDF*
 - [[La Tirana poema — Diego Maquieira (1983)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9354.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0029973.pdf)
 - [[Los sea Harrier — Diego Maquieira (1994)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9355.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0029978.pdf)
+- [[La Tirana; Los Sea Harrier — Diego Maquieira (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Tirana%3B%20Los%20Sea%20Harrier) · *sin PDF*
+- [[El Annapurna — Diego Maquieira (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Annapurna) · *sin PDF*
+- [[Gramercy Park, 2023. Libro que entrelaza texto poético con fotomontaje, imágenes que van s — Diego Maquieira (2023)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gramercy%20Park%2C%202023.%20Libro%20que%20entrelaza%20texto%20po%C3%A9tico%20con%20f) · *sin PDF*

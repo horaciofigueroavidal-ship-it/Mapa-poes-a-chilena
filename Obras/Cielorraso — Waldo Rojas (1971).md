@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Waldo Rojas, publicado en 1971. Datos de edición: Santiago de Chile : Eds. Letras, 1971. Le precede «Pájaro en tierra» (1966) y le sigue «El puente oculto: poemas, 1966-1980» (1981).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Cielorraso — Waldo Rojas (1971).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10201.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047165.pdf)

@@ -18,6 +18,10 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Exit — Gonzalo Muñoz (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Exit) · *sin PDF*
+- [[Este — Gonzalo Muñoz (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Este) · *sin PDF*
+- [[Estrellas fijas en un cielo blanco — Gonzalo Muñoz (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estrellas%20fijas%20en%20un%20cielo%20blanco) · *sin PDF*

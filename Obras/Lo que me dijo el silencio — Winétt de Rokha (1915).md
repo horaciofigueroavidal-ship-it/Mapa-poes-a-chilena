@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías ChilenasAutoras chilenas - Siglo 20  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Winétt de Rokha, publicado en 1915. Datos de edición: Santiago: Imprenta y Encuadernación New York, 1915. Le precede «Horas de sol: prosas breves» (1915) y le sigue «Formas de sueño» (1927). Materias en Memoria Chilena: Poesías ChilenasAutoras chilenas - Siglo 20.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Lo que me dijo el silencio — Winétt de Rokha (1915).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-620804.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075689.pdf)

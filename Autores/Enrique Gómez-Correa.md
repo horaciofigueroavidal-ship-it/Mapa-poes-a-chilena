@@ -41,23 +41,38 @@ Unico sobreviviente del núcleo fundacional de la Mandrágora, Enrique Gómez-Co
 - La certidumbre del terror
 - Ondina habla de las ondinas
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
-- [[Las hijas de la memoria — Enrique Gómez-Correa]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8688.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014946.pdf)
 - [[Cataclismo en los ojos — Enrique Gómez-Correa (1942)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8689.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014947.pdf)
+- [[Testimonios de un poeta negro — Enrique Gómez-Correa (1943)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Testimonios%20de%20un%20poeta%20negro) · *sin PDF*
+- [[La noche al desnudo — Enrique Gómez-Correa (1945)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20noche%20al%20desnudo) · *sin PDF*
 - [[Mandrágora, siglo XX — Enrique Gómez-Correa (1946)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8690.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014949.pdf)
 - [[El espectro de René Magritte — Enrique Gómez-Correa (1948)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8691.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014951.pdf)
+- [[En pleno día — Enrique Gómez-Correa (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=En%20pleno%20d%C3%ADa) · *sin PDF*
+- [[Lo desconocido liberado seguido de Las tres y media etapas del vacío — Enrique Gómez-Correa (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lo%20desconocido%20liberado%20seguido%20de%20Las%20tres%20y%20media%20etapas%20d) · *sin PDF*
 - [[Reencuentro y pérdida de la Mandrágora — Enrique Gómez-Correa (1953)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124419.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068811.pdf)
+- [[El AGC de la Mandrágora — Enrique Gómez-Correa (1957)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20AGC%20de%20la%20Mandr%C3%A1gora) · *sin PDF*
 - [[El calor animal — Enrique Gómez-Correa (1973)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124868.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050467.pdf)
+- [[Madre tiniebla — Enrique Gómez-Correa (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Madre%20tiniebla) · *sin PDF*
 - [[Poesía explosiva (1935-1973) — Enrique Gómez-Correa (1973)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8693.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014953.pdf)
+- [[Zonas eróticas — Enrique Gómez-Correa (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Zonas%20er%C3%B3ticas) · *sin PDF*
 - [[Mother darkness — Enrique Gómez-Correa (1975)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124869.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050468.pdf)
+- [[Homenaje a Mayo — Enrique Gómez-Correa (1980)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Homenaje%20a%20Mayo) · *sin PDF*
 - [[To Mayo — Enrique Gómez-Correa (1980)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124870.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050469.pdf)
 - [[La pareja real — Enrique Gómez-Correa (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124871.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050470.pdf)
+- [[Frágil, memoria — Enrique Gómez-Correa (1990)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fr%C3%A1gil%2C%20memoria) · *sin PDF*
+- [[El nombre de pila o El anillo de Mandrágora — Enrique Gómez-Correa (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20nombre%20de%20pila%20o%20El%20anillo%20de%20Mandr%C3%A1gora) · *sin PDF*
 - [[Los pordioseros — Enrique Gómez-Correa (1992)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8694.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014954.pdf)
+- [[Las cosas al parecer perdidas — Enrique Gómez-Correa (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20cosas%20al%20parecer%20perdidas) · *sin PDF*
+- [[Lo desconocido liberado. Antología poética — Enrique Gómez-Correa (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lo%20desconocido%20liberado.%20Antolog%C3%ADa%20po%C3%A9tica) · *sin PDF*
+- [[Las hijas de la memoria — Enrique Gómez-Correa]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8688.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014946.pdf)
 
 ### Otras obras
 
 - [[Sociología de la locura — Enrique Gómez-Correa (1942)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8692.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014952.pdf)
 - [[Carta elegía a Jorge Cáceres — Enrique Gómez-Correa (1952)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8687.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014944.pdf)
+- [[Mandrágora rey de gitanos — Enrique Gómez-Correa (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mandr%C3%A1gora%20rey%20de%20gitanos) · *sin PDF*
+- [[La idea de Dios y las vocales — Enrique Gómez-Correa (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20idea%20de%20Dios%20y%20las%20vocales) · *sin PDF*
+- [[La violencia — Enrique Gómez-Correa (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20violencia) · *sin PDF*

@@ -116,7 +116,7 @@ if __name__ == "__main__":
     for a in authors:
         n = a["nombre"]
         current = [n]
-        rec = {"minisitio": None, "autoridad": [], "libros": []}
+        rec = {"minisitio": None, "autoridad": [], "libros": [], "sin_pdf": []}
         if n in minis:
             rec["minisitio"] = parse_mini(minis[n], mini_to_author)
         ky = int(a["anio"]) if a.get("anio") else None
@@ -143,12 +143,15 @@ if __name__ == "__main__":
         seen_pdf = set()
         for did in cand:
             d = parse_doc(did)
-            if not d or not d["pdf"]:
-                continue
-            if "Libro" not in d.get("Tipo", []):
+            if not d or "Libro" not in d.get("Tipo", []):
                 continue
             ok = es_autor(d.get("Autor", [""])[0])
-            if not ok or d["pdf"] in seen_pdf:
+            if not ok:
+                continue
+            if not d["pdf"]:  # libro catalogado sin PDF: aparece en el mapa igual, con su ficha
+                rec["sin_pdf"].append(d)
+                continue
+            if d["pdf"] in seen_pdf:
                 continue
             seen_pdf.add(d["pdf"])
             rec["libros"].append(d)

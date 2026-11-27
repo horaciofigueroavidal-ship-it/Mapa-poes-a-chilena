@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Cuentos Chilenos  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de narrativa de Alfonso Calderón, publicado en 1985. Datos de edición: [Santiago] : Alfa Contemporánea, 1985. Le precede «Memorial del viejo Santiago» (1984) y le sigue «Una invisible comparsa» (1987).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9965.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0040745.pdf)

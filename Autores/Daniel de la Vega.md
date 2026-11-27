@@ -38,13 +38,34 @@ Después de una extensa trayectoria en las letras nacionales, Daniel de la Vega 
 - La puerta
 - Ya se va la farándula
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Al calor del truño — Daniel de la Vega (1911)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Al%20calor%20del%20tru%C3%B1o) · *sin PDF*
+- [[El calor de terruño — Daniel de la Vega (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20%20calor%20%20de%20%20terru%C3%B1o) · *sin PDF*
 - [[Los momentos — Daniel de la Vega (1918)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8517.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013546.pdf)
+- [[Las montañas ardientes — Daniel de la Vega (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20monta%C3%B1as%20ardientes) · *sin PDF*
+- [[Fanfarria — Daniel de la Vega (1928)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fanfarria) · *sin PDF*
+- [[Romancero — Daniel de la Vega (1934)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Romancero) · *sin PDF*
+- [[La Quintrala — Daniel de la Vega (1936)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Quintrala) · *sin PDF*
+- [[Reino de angustias — Daniel de la Vega (1939)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Reino%20de%20angustias) · *sin PDF*
+- [[Mansión desvanecida — Daniel de la Vega (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mansi%C3%B3n%20desvanecida) · *sin PDF*
+- [[Cantares de piedra — Daniel de la Vega (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cantares%20de%20piedra) · *sin PDF*
+- [[Silva de plata vieja — Daniel de la Vega (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Silva%20de%20plata%20vieja) · *sin PDF*
+- [[La pobre talega,de estrellas — Daniel de la Vega (1951)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20pobre%20talega%2Cde%20estrellas) · *sin PDF*
 
 ### Otras obras
 
-- [[Confesiones imperdonables 1a. serie — Daniel de la Vega]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8518.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013551.pdf)
+- [[El bordado inconcluso — Daniel de la Vega (1913)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20bordado%20inconcluso) · *sin PDF*
+- [[Cielito — Daniel de la Vega (1915)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cielito) · *sin PDF*
+- [[Las instantáneas — Daniel de la Vega (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20instant%C3%A1neas) · *sin PDF*
 - [[Luz de candilejas el teatro y sus miserias — Daniel de la Vega (1930)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9343.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0029478.pdf)
+- [[Caín, Abel y uña mujer — Daniel de la Vega (1933)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ca%C3%ADn%2C%20Abel%20y%20u%C3%B1a%20mujer) · *sin PDF*
+- [[La muchedumbre ahora es triste — Daniel de la Vega (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20muchedumbre%20ahora%20es%20triste) · *sin PDF*
+- [[Marta Leroux y otras amigas — Daniel de la Vega (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Marta%20Leroux%20y%20otras%20amigas) · *sin PDF*
+- [[El amor eterno dura tres meses — Daniel de la Vega (1938)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20amor%20eterno%20dura%20tres%20meses) · *sin PDF*
+- [[La sonrisa con lágrimas — Daniel de la Vega (1941)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20sonrisa%20con%20l%C3%A1grimas) · *sin PDF*
+- [[La comarca nocturna — Daniel de la Vega (1943)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20comarca%20nocturna) · *sin PDF*
+- [[La despedida — Daniel de la Vega (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20despedida) · *sin PDF*
+- [[Confesiones imperdonables 1a. serie — Daniel de la Vega]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8518.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013551.pdf)

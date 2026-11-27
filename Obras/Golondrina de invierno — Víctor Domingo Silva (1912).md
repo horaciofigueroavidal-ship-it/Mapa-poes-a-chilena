@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Novelas Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Novela de Víctor Domingo Silva, publicada en 1912. Datos de edición: Santiago : [s.n.], 1912. Le precede «Romancero naval» (1910) y le sigue «Nuestras víctimas» (1912).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8500.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013322.pdf)

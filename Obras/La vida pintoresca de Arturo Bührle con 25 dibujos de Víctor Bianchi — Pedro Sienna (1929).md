@@ -16,4 +16,10 @@ tags: [obra]
 **Descripción física:** 197 p.  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Pedro Sienna, publicada en 1929. Datos de edición: Santiago de Chile : Talleres Fiscales de Prisiones, 1929. Le precede «La caverna de los murciélagos : [novela]» (1924) y le sigue «Recuerdos del soldado desconocido: episodios de la Guerra del Pacífico que no menciona la historia» (1931).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9678.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035942.pdf)

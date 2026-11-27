@@ -18,7 +18,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Gabriela Mistral poesía y justicia social, constantes en la vida de la más grande escritor — Sergio Macías (1998)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8706.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015065.pdf)

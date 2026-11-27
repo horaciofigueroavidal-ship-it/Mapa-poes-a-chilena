@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de Miguel Arteche, poeta de la generación del 50, de poesía religiosa, formal y meditativa.
+
 📖 **[[Obras/PDF/Destierros y tinieblas (1952-1962) — Miguel Arteche (1963).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8506.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013389.pdf)

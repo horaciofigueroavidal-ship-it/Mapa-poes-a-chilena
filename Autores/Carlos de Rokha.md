@@ -43,13 +43,14 @@ Su temprana partida fue un duro golpe para el ambiente literario nacional, en el
 - Pavana del gallo y el arlequín
 - Las revelaciones del furor
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[El orden visible Poemas 1934-1955 — Carlos de Rokha (1956)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8677.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014839.pdf)
 - [[Memorial y llaves poemas (1949-1961) — Carlos de Rokha (1964)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8678.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014842.pdf)
 - [[Pavana del gallo y el arlequín — Carlos de Rokha (1967)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8679.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014845.pdf)
+- [[Antología (2022) — Edición de editorial UV — Carlos de Rokha (2022)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20%282022%29%20%E2%80%94%20Edici%C3%B3n%20de%20editorial%20UV) · *sin PDF*
 
 ### Otras obras
 

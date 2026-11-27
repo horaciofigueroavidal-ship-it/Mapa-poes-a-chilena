@@ -17,6 +17,12 @@ tags: [obra]
 **Notas:** Serie: Quién es quién en las letras chilenas  
 **Materias:** Poesía Chilena  
 
+## Introducción
+
+Libro de poesía de María Silva Ossa, publicado en 1978. Datos de edición: [Santiago de Chile] : Agrupación Amigos del Libro, impresión de 1978 (Santiago de Chile : Talleres Graficos Corporación). Le precede «La ciudad y los signos» (1978) y le sigue «Cuatro voces» (1988).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/¿Quién soy — María Silva Ossa (1978).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-165782.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0070061.pdf)

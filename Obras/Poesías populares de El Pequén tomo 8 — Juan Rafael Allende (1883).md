@@ -16,6 +16,12 @@ tags: [obra]
 **Notas:** Seudónimo de Juan Rafael Allende: El Pequén  
 **Materias:** Poesías Populares Chilenas  
 
+## Introducción
+
+Libro de poesía de Juan Rafael Allende, publicado en 1883. Datos de edición: Santiago : Impreso por Pedro G. Ramirez, 1883. Le precede «Poesías populares de El Pequén: tomo 7» (1882) y le sigue «Cuentos colorados» (1886). Materias en Memoria Chilena: Poesías Populares Chilenas.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Poesías populares de El Pequén tomo 8 — Juan Rafael Allende (1883).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-124844.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0043284.pdf)

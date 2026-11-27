@@ -18,6 +18,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de José Domingo Gómez Rojas, publicado en 1939. Datos de edición: Santiago de Chile : Ediciones Revista Universitaria, 1939. Le precede «Elegías» (1935) y le sigue «Rebeldías líricas» (1940).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Popularización de Gómez Rojas — José Domingo Gómez Rojas (1939).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-132612.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0069979.pdf)

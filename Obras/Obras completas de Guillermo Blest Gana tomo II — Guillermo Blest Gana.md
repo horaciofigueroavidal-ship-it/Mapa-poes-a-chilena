@@ -15,6 +15,12 @@ tags: [obra]
 **Materias:** Poesías ChilenasDrama Chileno  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Guillermo Blest Gana. Materias en Memoria Chilena: Poesías ChilenasDrama Chileno.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Obras completas de Guillermo Blest Gana tomo II — Guillermo Blest Gana.pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-84721.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050111.pdf)

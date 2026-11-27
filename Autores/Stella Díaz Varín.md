@@ -39,9 +39,14 @@ A pocos días de haberse hecho acreedora del Fondo del libro en su versión 2006
 - Del espacio hacia acá, como dos tiempos
 - Los dones previsibles (fragmentos III, IX)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Razón de mi ser — Stella Díaz Varín (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Raz%C3%B3n%20de%20mi%20ser) · *sin PDF*
+- [[Sinfonía del hombre fósil — Stella Díaz Varín (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sinfon%C3%ADa%20del%20hombre%20f%C3%B3sil) · *sin PDF*
 - [[Tiempo, medida imaginaria — Stella Díaz Varín (1959)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8854.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0017860.pdf)
+- [[La Arenera — Stella Díaz Varín (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Arenera) · *sin PDF*
 - [[Los dones previsibles — Stella Díaz Varín (1992)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8855.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0017862.pdf)
+- [[Stella Díaz Varín Poesía — Stella Díaz Varín (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Stella%20D%C3%ADaz%20Var%C3%ADn%3A%20Poes%C3%ADa) · *sin PDF*
+- [[Obra reunida — Stella Díaz Varín (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20reunida) · *sin PDF*

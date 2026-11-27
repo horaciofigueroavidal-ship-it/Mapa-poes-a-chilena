@@ -23,6 +23,12 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Natural ejemplo
 - Un árbol gris y rosa
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Fénix de madrugada — Sara Vial]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=F%C3%A9nix%20de%20madrugada) · *sin PDF*
+
+### Otras obras
+
+- [[Neruda en Valparaíso — Sara Vial (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Neruda%20en%20Valpara%C3%ADso) · *sin PDF*

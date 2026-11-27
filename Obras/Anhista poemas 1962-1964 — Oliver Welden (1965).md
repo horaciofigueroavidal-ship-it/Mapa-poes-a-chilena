@@ -18,6 +18,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Oliver Welden, publicado en 1965. Datos de edición: Santiago de Chile : Arancibia Hnos., [1965]. Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Anhista poemas 1962-1964 — Oliver Welden (1965).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-336884.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0071299.pdf)

@@ -46,10 +46,13 @@ La actualización de este minisitio se publicó durante el mes de octubre de 202
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Fue sí — María Monvel (1922)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fue%20s%C3%AD) · *sin PDF*
+- [[El marido gringo — María Monvel (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20marido%20gringo) · *sin PDF*
+- [[Poetisas de América — María Monvel (1929)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poetisas%20de%20Am%C3%A9rica) · *sin PDF*
 - [[Sus mejores poemas — María Monvel (1934)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8336.html) · [PDF en línea](https://www.memoriachilena.gob.cl/archivos2/pdfs/mc0011008.pdf)
 
 ### Otras obras

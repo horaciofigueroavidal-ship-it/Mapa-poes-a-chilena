@@ -17,6 +17,8 @@ Poeta (1972–), autora de *Material de fuego* (1997) y otros libros. Vivió lar
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Material de fuego — Alejandra del Río (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Material%20de%20fuego) · *sin PDF*

@@ -28,12 +28,30 @@ La obra de Julio Barrenechea, ha sido comentada por diversos autores, entre los 
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Espejo de sueño — Julio Barrenechea (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Espejo%20de%20sue%C3%B1o) · *sin PDF*
+- [[Rumor del mundo — Julio Barrenechea (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rumor%20del%20mundo) · *sin PDF*
+- [[Mi ciudad — Julio Barrenechea (1945)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mi%20ciudad) · *sin PDF*
+- [[El libro del amor — Julio Barrenechea (1946)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20libro%20del%20amor) · *sin PDF*
+- [[Vida del poeta — Julio Barrenechea (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vida%20del%20poeta) · *sin PDF*
+- [[Diario morir — Julio Barrenechea (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diario%20morir) · *sin PDF*
+- [[Poesía completa — Julio Barrenechea (1958)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20completa) · *sin PDF*
+- [[Antología. Prólogo de Alone — Julio Barrenechea (1961)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa.%20Pr%C3%B3logo%20de%20Alone) · *sin PDF*
+- [[Israel un árbol por cada muerto — Julio Barrenechea (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Israel%3A%20un%20%C3%A1rbol%20por%20cada%20muerto) · *sin PDF*
+- [[Frutos del país — Julio Barrenechea (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Frutos%20del%20pa%C3%ADs) · *sin PDF*
+- [[Ceniza viva — Julio Barrenechea (1968)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ceniza%20viva) · *sin PDF*
 - [[Sol de la India — Julio Barrenechea (1969)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8333.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010968.pdf)
+- [[Estados de ánimo — Julio Barrenechea (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estados%20de%20%C3%A1nimo) · *sin PDF*
+- [[Estado de ánimo — Julio Barrenechea (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estado%20de%20%C3%A1nimo) · *sin PDF*
+- [[Voz reunida — Julio Barrenechea (1975)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Voz%20reunida) · *sin PDF*
+- [[Poema de Colombia y del ser — Julio Barrenechea (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poema%20de%20Colombia%20y%20del%20ser) · *sin PDF*
 - [[Poemas de Colombia y del ser — Julio Barrenechea (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8332.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010967.pdf)
+- [[El compadre mucho gusto — Julio Barrenechea (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20compadre%20mucho%20gusto) · *sin PDF*
+- [[La India no misteriosa — Julio Barrenechea (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20India%20no%20misteriosa) · *sin PDF*
+- [[nombre=Carlos fecha=2000 título=Enciclopedia de Chile, Diccionario volumen=1 editorial=Océ — Julio Barrenechea (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%7Cnombre%3DCarlos%20%7Cfecha%3D2000%20%7Ct%C3%ADtulo%3DEnciclopedia%20de%20Chile%2C%20Di) · *sin PDF*
 
 ### Otras obras
 

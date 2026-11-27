@@ -37,11 +37,26 @@ En 1922 retomó el teatro con El maleficio de la luna y además publicó su libr
 - La balada del príncipe solo
 - Romance del agua dormida
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Junto al brasero — Juan Guzmán Cruchaga (1913)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7977.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0004754.pdf)
+- [[Chopin — Juan Guzmán Cruchaga (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chopin) · *sin PDF*
+- [[La mirada inmóvil — Juan Guzmán Cruchaga (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20mirada%20inm%C3%B3vil) · *sin PDF*
+- [[lejana — Juan Guzmán Cruchaga (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=lejana) · *sin PDF*
 - [[Agua de cielo poemas — Juan Guzmán Cruchaga (1920)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7920.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003327.pdf)
+- [[El maleficio de la luna — Juan Guzmán Cruchaga (1922)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20maleficio%20de%20la%20luna) · *sin PDF*
+- [[La fiesta del corazón — Juan Guzmán Cruchaga (1922)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20fiesta%20del%20coraz%C3%B3n) · *sin PDF*
+- [[Poemas escogidos — Juan Guzmán Cruchaga (1929)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20escogidos) · *sin PDF*
+- [[Aventura — Juan Guzmán Cruchaga (1940)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aventura) · *sin PDF*
+- [[Canción y otros poemas — Juan Guzmán Cruchaga (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canci%C3%B3n%20y%20otros%20poemas) · *sin PDF*
 - [[Altasombra — Juan Guzmán Cruchaga (1958)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8251.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009740.pdf)
 - [[Sed — Juan Guzmán Cruchaga (1978)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7976.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0004752.pdf)
+- [[¿De donde llega — Juan Guzmán Cruchaga]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C2%BFDe%20donde%20llega%3F) · *sin PDF*
+
+### Otras obras
+
+- [[La sobra — Juan Guzmán Cruchaga (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20sobra) · *sin PDF*
+- [[La princesa que no tenía corazón — Juan Guzmán Cruchaga (1920)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20princesa%20que%20no%20ten%C3%ADa%20coraz%C3%B3n) · *sin PDF*
+- [[María cenicienta — Juan Guzmán Cruchaga (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mar%C3%ADa%20cenicienta) · *sin PDF*

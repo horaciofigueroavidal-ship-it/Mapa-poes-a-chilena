@@ -49,11 +49,15 @@ La actualización de este minisitio se publicó durante el mes de marzo de 2023.
 - Égloga del camino
 - Elegía sencilla
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Visión Helena — Jorge González Bastías (1906)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Visi%C3%B3n%20Helena) · *sin PDF*
 - [[Misas de primavera. Horas lentas. Elegías sencillas. Bajo el alero. Poemas de otoño. Joyel — Jorge González Bastías (1911)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7939.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003494.pdf)
+- [[Poemas de soledad — Jorge González Bastías (1914)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20de%20soledad) · *sin PDF*
 - [[El poema de las tierras pobres — Jorge González Bastías (1924)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7941.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003497.pdf)
 - [[Vera rústica — Jorge González Bastías (1933)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-63164.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0060968.pdf)
 - [[Del venero nativo — Jorge González Bastías (1940)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7940.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003496.pdf)
+- [[Es otro día — Jorge González Bastías (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Es%20otro%20d%C3%ADa) · *sin PDF*
+- [[{{cita web — Jorge González Bastías]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%7B%7Bcita%20web) · *sin PDF*

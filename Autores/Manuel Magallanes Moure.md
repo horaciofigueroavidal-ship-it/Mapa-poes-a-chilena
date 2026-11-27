@@ -47,7 +47,7 @@ En 1922, encontró en su viaje a Europa un renacimiento interior y como afirmara
 - Amor
 - El manantial
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
@@ -55,3 +55,12 @@ En 1922, encontró en su viaje a Europa un renacimiento interior y como afirmara
 - [[Matices — Manuel Magallanes Moure (1904)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9737.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036837.pdf)
 - [[La jornada (versos) — Manuel Magallanes Moure (1910)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9735.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036835.pdf)
 - [[Qué es amor — Manuel Magallanes Moure (1914)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9734.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036820.pdf)
+- [[Revista de Los Diez 1916 — Manuel Magallanes Moure (1916)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Revista%20de%20Los%20Diez%201916) · *sin PDF*
+- [[La casa junto al mar — Manuel Magallanes Moure (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20casa%20junto%20al%20mar) · *sin PDF*
+- [[Florilegio — Manuel Magallanes Moure (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Florilegio) · *sin PDF*
+- [[Sus mejores poemas — Manuel Magallanes Moure (1928)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sus%20mejores%20poemas) · *sin PDF*
+- [[Obras Completas de Manuel Magallanes Moure. Edición de Pedro Maino. 2012. Origo Ediciones. — Manuel Magallanes Moure (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20Completas%20de%20Manuel%20Magallanes%20Moure.%20Edici%C3%B3n%20de%20Pedro) · *sin PDF*
+
+### Otras obras
+
+- [[Lluvia de primavera — Manuel Magallanes Moure (1912)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lluvia%20de%20primavera) · *sin PDF*

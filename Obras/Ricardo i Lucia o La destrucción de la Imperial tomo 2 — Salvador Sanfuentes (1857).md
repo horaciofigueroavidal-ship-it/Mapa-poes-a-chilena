@@ -15,6 +15,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Salvador Sanfuentes, publicado en 1857. Le precede «Ricardo i Lucia o La destrucción de la Imperial: tomo 1» (1857) y le sigue «Dramas inéditos» (1863).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Ricardo i Lucia o La destrucción de la Imperial tomo 2 — Salvador Sanfuentes (1857).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-132243.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0069820.pdf)

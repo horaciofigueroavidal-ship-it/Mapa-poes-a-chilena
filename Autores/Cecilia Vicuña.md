@@ -51,14 +51,37 @@ Durante el siglo XXI ha sido galardonada con el Premio Velázquez de las Artes P
 - El centro Mandala
 - Desviaciones naturales
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Soy Yos Antología 1966-2006 — Cecilia Vicuña (1966)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Soy%20Yos%3A%20Antolog%C3%ADa%201966-2006) · *sin PDF*
+- [[Saborami — Cecilia Vicuña (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Saborami) · *sin PDF*
+- [[Siete Poemas; Ediciones Centro Colombo Americano, Bogotá, 1979 — Cecilia Vicuña (1979)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Siete%20Poemas%3B%20Ediciones%20Centro%20Colombo%20Americano%2C%20Bogot%C3%A1%2C%2019) · *sin PDF*
 - [[Luxumei o el traspie de la doctrina poemas 1966-1972 — Cecilia Vicuña (1983)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9671.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035871.pdf)
+- [[Precario Precarious; translated by Anne Twitty. Tanam Press, New York, 1983 — Cecilia Vicuña (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Precario%20/%20Precarious%3B%20translated%20by%20Anne%20Twitty.%20Tanam%20Pres) · *sin PDF*
+- [[Samara — Cecilia Vicuña (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Samara) · *sin PDF*
 - [[La wik'uña — Cecilia Vicuña (1990)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9673.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035880.pdf)
+- [[Unravelling Words & the Weaving of Water — Cecilia Vicuña (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Unravelling%20Words%20%26%20the%20Weaving%20of%20Water) · *sin PDF*
+- [[La realidad es una línea — Cecilia Vicuña (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20realidad%20es%20una%20l%C3%ADnea) · *sin PDF*
 - [[Palabra e hilo = Word & thread — Cecilia Vicuña (1996)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9674.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035882.pdf)
+- [[Word & Thread — Cecilia Vicuña (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Word%20%26%20Thread) · *sin PDF*
+- [[The Precarious The Art & Poetry of Cecilia Vicuña QUIPOem — Cecilia Vicuña (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=The%20Precarious%3A%20The%20Art%20%26%20Poetry%20of%20Cecilia%20Vicu%C3%B1a%20/%20QUIPOem) · *sin PDF*
+- [[Cloud-net — Cecilia Vicuña (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cloud-net) · *sin PDF*
+- [[El Templo — Cecilia Vicuña (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Templo) · *sin PDF*
+- [[Instan — Cecilia Vicuña (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Instan) · *sin PDF*
 - [[I tú — Cecilia Vicuña (2004)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9675.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035884.pdf)
+- [[V Antología de poesía — Cecilia Vicuña (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=V%3A%20Antolog%C3%ADa%20de%20poes%C3%ADa) · *sin PDF*
+- [[Beforehand — Cecilia Vicuña (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Beforehand) · *sin PDF*
+- [[Chanccani Quipu — Cecilia Vicuña (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chanccani%20Quipu) · *sin PDF*
+- [[Spit Temple Selected Performances by Cecilia Vicuña — Cecilia Vicuña (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Spit%20Temple%3A%20Selected%20Performances%20by%20Cecilia%20Vicu%C3%B1a) · *sin PDF*
+- [[Zen Surado — Cecilia Vicuña (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Zen%20Surado) · *sin PDF*
+- [[About to Happen — Cecilia Vicuña (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=About%20to%20Happen) · *sin PDF*
+- [[PALAVRARmais, traduçâo Ricardo Corona, Editorial Medusa, Brasil, 2017 — Cecilia Vicuña (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=PALAVRARmais%2C%20tradu%C3%A7%C3%A2o%20Ricardo%20Corona%2C%20Editorial%20Medusa%2C%20Bra) · *sin PDF*
+- [[Read Thread The Story of the Red Thread — Cecilia Vicuña (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Read%20Thread%3A%20The%20Story%20of%20the%20Red%20Thread) · *sin PDF*
+- [[New & Selected Poems — Cecilia Vicuña (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=New%20%26%20Selected%20Poems) · *sin PDF*
+- [[Cecilia Vicuña Seehearing the Enlightened Failure (Veroir el Fracaso Iluminado — Cecilia Vicuña (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cecilia%20Vicu%C3%B1a%3A%20Seehearing%20the%20Enlightened%20Failure%20%28Veroir%20e) · *sin PDF*
+- [[Slow Down Fast, A Toda Raja — Cecilia Vicuña (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Slow%20Down%20Fast%2C%20A%20Toda%20Raja) · *sin PDF*
 
 ### Otras obras
 

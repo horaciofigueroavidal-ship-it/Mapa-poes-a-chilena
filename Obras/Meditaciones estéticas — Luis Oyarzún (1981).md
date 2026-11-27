@@ -15,4 +15,10 @@ tags: [obra]
 **Materias:** Estética  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Luis Oyarzún, publicada en 1981. Datos de edición: Santiago : Universitaria, impresión de 1981. Le precede «Defensa de la Tierra» (1973) y le sigue «Tierra de hojas» (1987). Materias en Memoria Chilena: Estética.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7872.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002429.pdf)

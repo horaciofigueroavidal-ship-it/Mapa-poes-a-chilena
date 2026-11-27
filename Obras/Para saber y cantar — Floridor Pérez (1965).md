@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1965 de Floridor Pérez, poeta del sur de Chile, de humor y ternura campesina.
+
 📖 **[[Obras/PDF/Para saber y cantar — Floridor Pérez (1965).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8718.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015208.pdf)

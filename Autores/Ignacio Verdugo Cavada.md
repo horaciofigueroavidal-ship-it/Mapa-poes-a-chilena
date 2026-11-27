@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta criollista de la generación del Centenario. Su poesía se dedicó a la vida del campo chileno, como muestran «Rodeo» y «Espuelas», textos registrados en Memoria Chilena. Es un representante característico de la vertiente mundonovista.
+Abogado y poeta (Concepción, 1887 – Santiago, 1970). Fue un criollista de la generación del Centenario, dedicado a la vida del campo chileno, como muestran «Rodeo» y «Espuelas», textos registrados en Memoria Chilena.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-128715.html
@@ -18,6 +18,6 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 
 - Copihues
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

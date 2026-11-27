@@ -46,7 +46,7 @@ Diego Dublé Urrutia murió el 13 de noviembre de 1967, a los 90 años de edad.
 - La procesión de San Pedro y la bendición del mar (fragmento)
 - Las minas (fragmento)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

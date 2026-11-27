@@ -32,11 +32,32 @@ Su estilo literario se ha caracterizado por el uso de la ironía, el humor negro
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Veinticinco años de poesía chilena 1970-1995 — Teresa Calderón (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Veinticinco%20a%C3%B1os%20de%20poes%C3%ADa%20chilena%3A%201970-1995) · *sin PDF*
+- [[Uno X Uno algunos poetas jóvenes — Teresa Calderón (1979)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Uno%20X%20Uno%3A%20algunos%20poetas%20j%C3%B3venes) · *sin PDF*
 - [[Causas perdidas — Teresa Calderón (1984)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9333.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0028767.pdf)
+- [[Mujeres del mundo uníos — Teresa Calderón (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mujeres%20del%20mundo%3A%20un%C3%ADos) · *sin PDF*
 - [[Genero femenino — Teresa Calderón (1989)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10171.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045695.pdf)
 - [[Imágenes rotas — Teresa Calderón (1995)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10172.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045701.pdf)
+- [[Esto es el amor. Antología de poemas de amor de cien poetas chilenos — Teresa Calderón (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Esto%20es%20el%20amor.%20Antolog%C3%ADa%20de%20poemas%20de%20amor%20de%20cien%20poetas%20) · *sin PDF*
 - [[Aplausos para la memoria — Teresa Calderón (1999)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10173.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045705.pdf)
+- [[El poeta y otras maravillas — Teresa Calderón (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20poeta%20y%20otras%20maravillas) · *sin PDF*
+- [[Obra poética — Teresa Calderón (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20po%C3%A9tica) · *sin PDF*
+- [[Elefante — Teresa Calderón (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Elefante) · *sin PDF*
+- [[Maldito amor. Cartografía de cuentos de amor chilenos — Teresa Calderón (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maldito%20amor.%20Cartograf%C3%ADa%20de%20cuentos%20de%20amor%20chilenos) · *sin PDF*
+- [[Antología de poesía chilena — Teresa Calderón (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20de%20poes%C3%ADa%20chilena) · *sin PDF*
+- [[Eslabones (2020) — Teresa Calderón (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Eslabones%20%282020%29) · *sin PDF*
+
+### Otras obras
+
+- [[Aventuras de Súper Inti y Analfabruja — Teresa Calderón (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aventuras%20de%20S%C3%BAper%20Inti%20y%20Analfabruja) · *sin PDF*
+- [[Vida de perras — Teresa Calderón (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vida%20de%20perras) · *sin PDF*
+- [[El tesoro de la bruma — Teresa Calderón (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20tesoro%20de%20la%20bruma) · *sin PDF*
+- [[Esa mañana llovía a cántaros azules — Teresa Calderón (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Esa%20ma%C3%B1ana%20llov%C3%ADa%20a%20c%C3%A1ntaros%20azules) · *sin PDF*
+- [[Súper Inti y el misterio del espejo — Teresa Calderón (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=S%C3%BAper%20Inti%20y%20el%20misterio%20del%20espejo) · *sin PDF*
+- [[Amiga mía — Teresa Calderón (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amiga%20m%C3%ADa) · *sin PDF*
+- [[Mi amor por ti — Teresa Calderón (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mi%20amor%20por%20ti) · *sin PDF*
+- [[Súper Inti y Serena atrapados en un portal — Teresa Calderón (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=S%C3%BAper%20Inti%20y%20Serena%20atrapados%20en%20un%20portal) · *sin PDF*

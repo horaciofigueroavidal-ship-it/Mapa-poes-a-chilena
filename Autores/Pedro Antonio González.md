@@ -50,14 +50,18 @@ La actualización de este minisitio se publicó durante junio de 2022.
 - Roxana y Estatira
 - El alba
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Ritmos — Pedro Antonio González (1895)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620843.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075723.pdf)
+- [[Poetas chilenos — Pedro Antonio González (1902)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poetas%20chilenos) · *sin PDF*
 - [[Poesías — Pedro Antonio González (1905)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620844.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075724.pdf)
 - [[Poesías — Pedro Antonio González (1917)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-624685.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075865.pdf)
+- [[Pedro Antonio González, sus mejores poemas 1926 Editorial Nascimento — Pedro Antonio González (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pedro%20Antonio%20Gonz%C3%A1lez%2C%20sus%20mejores%20poemas%201926%20Editorial%20Na) · *sin PDF*
 - [[Poesías — Pedro Antonio González (1927)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-544230.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072979.pdf)
+- [[A la sombra de un ciprés, breve antología poética por Fabio y Sebastián González Mejías, 2 — Pedro Antonio González (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%20la%20sombra%20de%20un%20cipr%C3%A9s%2C%20breve%20antolog%C3%ADa%20po%C3%A9tica%20por%20Fabio%20) · *sin PDF*
+- [[El Monje + Ateroides, a 150 años de su natalicio, 2013. Ediciones Pueblo Culto — Pedro Antonio González (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Monje%20%2B%20Ateroides%2C%20a%20150%20a%C3%B1os%20de%20su%20natalicio%2C%202013.%20Edic) · *sin PDF*
 
 ### Otras obras
 

@@ -18,4 +18,10 @@ tags: [obra]
 **Materias:** Mistral, Gabriela, 1889-1957 - ManuscritosMistral, Gabriela, 1889-1957 - RetratosLiteratura chilena  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Gabriela Mistral, publicada en 1992. Datos de edición: Santiago: Dirección de Bibliotecas Archivos y Museos: Museo Gabriela Mistral de Vicuña, 1992. Le precede «Antología mayor» (1992) y le sigue «Lagar II» (1992). Materias en Memoria Chilena: Mistral, Gabriela, 1889-1957 - ManuscritosMistral, Gabriela, 1889-1957 - RetratosLiteratura chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7910.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003263.pdf)

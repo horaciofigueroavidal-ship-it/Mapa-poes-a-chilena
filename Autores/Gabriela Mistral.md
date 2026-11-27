@@ -56,15 +56,66 @@ La actualización de este minisitio se publicó durante el mes de julio de 2023.
 - Himno al árbol
 - El ruego
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Gabriela Mistral (1889-1957) — Gabriela Mistral (1889)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%20%281889-1957%29) · *sin PDF*
+- [[Los seres buenos se hacen mejores con el dolor, los malos nos hacemos peores. Cartas de am — Gabriela Mistral (1905)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20seres%20buenos%20se%20hacen%20mejores%20con%20el%20dolor%2C%20los%20malos%20no) · *sin PDF*
+- [[Sonetos de la muerte — Gabriela Mistral (1915)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sonetos%20de%20la%20muerte) · *sin PDF*
+- [[Gabriela Mistral 50 prosas en «El Mercurio» 1921-1956 — Gabriela Mistral (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%3A%2050%20prosas%20en%20%C2%ABEl%20Mercurio%C2%BB%3A%201921-1956) · *sin PDF*
+- [[Lecturas para mujeres destinadas a la enseñanza del lenguaje — Gabriela Mistral (1923)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lecturas%20para%20mujeres%20destinadas%20a%20la%20ense%C3%B1anza%20del%20lenguaje) · *sin PDF*
+- [[Esta América nuestra. Correspondencia 1926-1956. Gabriela Mistral y Victoria Ocampo — Gabriela Mistral (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Esta%20Am%C3%A9rica%20nuestra.%20Correspondencia%201926-1956.%20Gabriela%20Mi) · *sin PDF*
+- [[Nubes blancas poesías, y La oración de la maestra — Gabriela Mistral (1930)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nubes%20blancas%3A%20poes%C3%ADas%2C%20y%20La%20oraci%C3%B3n%20de%20la%20maestra) · *sin PDF*
+- [[La misteriosa maternidad del verso tres conferencias — Gabriela Mistral (1938)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20misteriosa%20maternidad%20del%20verso%3A%20tres%20conferencias) · *sin PDF*
 - [[Tala poemas — Gabriela Mistral (1938)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7914.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003269.pdf)
+- [[Recados, contando a Chile — Gabriela Mistral (1957)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Recados%2C%20contando%20a%20Chile) · *sin PDF*
+- [[Universidad de Chile — Gabriela Mistral (1957)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Universidad%20de%20Chile) · *sin PDF*
 - [[Poema de Chile — Gabriela Mistral (1967)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7917.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003272.pdf)
+- [[Poesías completas — Gabriela Mistral (1968)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%20completas) · *sin PDF*
+- [[Revista Hispánica Moderna — Gabriela Mistral (1968)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Revista%20Hisp%C3%A1nica%20Moderna) · *sin PDF*
+- [[Elogio de las cosas de la tierra — Gabriela Mistral (1979)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Elogio%20de%20las%20cosas%20de%20la%20tierra) · *sin PDF*
 - [[Desolación en germen facsimilares de primeros manuscritos (1914-1921) — Gabriela Mistral (1980)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9459.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031348.pdf)
+- [[La Pajita — Gabriela Mistral (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Pajita) · *sin PDF*
+- [[¿En dónde tejemos la ronda — Gabriela Mistral (1985)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C2%BFEn%20d%C3%B3nde%20tejemos%20la%20ronda%3F) · *sin PDF*
+- [[Antología mayor — Gabriela Mistral (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20mayor) · *sin PDF*
 - [[Lagar II — Gabriela Mistral (1992)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7918.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003273.pdf)
+- [[Gabriela Mistral Escritos políticos — Gabriela Mistral (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%3A%20Escritos%20pol%C3%ADticos) · *sin PDF*
+- [[Amado, apresura el paso — Gabriela Mistral (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amado%2C%20apresura%20el%20paso) · *sin PDF*
+- [[Cantata — Gabriela Mistral (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cantata) · *sin PDF*
+- [[El ojo atravesado. Correspondencia entre Gabriela Mistral y los escritores uruguayos — Gabriela Mistral (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20ojo%20atravesado.%20Correspondencia%20entre%20Gabriela%20Mistral%20y%20) · *sin PDF*
+- [[Mi niña golondrina — Gabriela Mistral (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mi%20ni%C3%B1a%20golondrina) · *sin PDF*
+- [[Moneda dura. Gabriela Mistral por ella misma — Gabriela Mistral (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Moneda%20dura.%20Gabriela%20Mistral%20por%20ella%20misma) · *sin PDF*
+- [[Baila y sueña. Rondas y canciones de cuna inéditas de Gabriela Mistral — Gabriela Mistral (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Baila%20y%20sue%C3%B1a.%20Rondas%20y%20canciones%20de%20cuna%20in%C3%A9ditas%20de%20Gabrie) · *sin PDF*
+- [[Gabriela Mistral esencial. Poesía, prosa y correspondencia — Gabriela Mistral (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%20esencial.%20Poes%C3%ADa%2C%20prosa%20y%20correspondencia) · *sin PDF*
+- [[Gabriela y México — Gabriela Mistral (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20y%20M%C3%A9xico) · *sin PDF*
+- [[Gabriela Mistral. Álbum personal — Gabriela Mistral (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral.%20%C3%81lbum%20personal) · *sin PDF*
+- [[Lucila Gabriela la voz de la maestra — Gabriela Mistral (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lucila%20Gabriela%3A%20la%20voz%20de%20la%20maestra) · *sin PDF*
+- [[Almácigo — Gabriela Mistral (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Alm%C3%A1cigo) · *sin PDF*
+- [[Niña errante. Cartas a Doris Dana — Gabriela Mistral (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ni%C3%B1a%20errante.%20Cartas%20a%20Doris%20Dana) · *sin PDF*
+- [[Hijita querida — Gabriela Mistral (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hijita%20querida) · *sin PDF*
+- [[Epistolario americano — Gabriela Mistral (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Epistolario%20americano) · *sin PDF*
+- [[Caminando se siembra — Gabriela Mistral (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Caminando%20se%20siembra) · *sin PDF*
+- [[70 años del Nobel — Gabriela Mistral (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=70%20a%C3%B1os%20del%20Nobel) · *sin PDF*
 - [[Poemas de las madres — Gabriela Mistral (2015)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-165779.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0070059.pdf)
+- [[Por la humanidad futura — Gabriela Mistral (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Por%20la%20humanidad%20futura) · *sin PDF*
+- [[RE vuelta Mistral — Gabriela Mistral (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=RE%20vuelta%20Mistral) · *sin PDF*
+- [[Sol del trópico — Gabriela Mistral (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sol%20del%20tr%C3%B3pico) · *sin PDF*
+- [[Cuentos & Autobiografías — Gabriela Mistral (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20%26%20Autobiograf%C3%ADas) · *sin PDF*
+- [[Pasión de enseñar (Pensamiento pedagógico) — Gabriela Mistral (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pasi%C3%B3n%20de%20ense%C3%B1ar%20%28Pensamiento%20pedag%C3%B3gico%29) · *sin PDF*
+- [[Las renegadas — Gabriela Mistral (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20renegadas) · *sin PDF*
+- [[Manuscritos. Poesía inédita — Gabriela Mistral (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Manuscritos.%20Poes%C3%ADa%20in%C3%A9dita) · *sin PDF*
+- [[Iniciática, astral y precursora. Correspondencia y textos inéditos — Gabriela Mistral (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Inici%C3%A1tica%2C%20astral%20y%20precursora.%20Correspondencia%20y%20textos%20in) · *sin PDF*
+- [[Toda culpa es un misterio — Gabriela Mistral (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Toda%20culpa%20es%20un%20misterio) · *sin PDF*
+- [[Herbario mistraliano. Diarios y cuadernos de jardín — Gabriela Mistral (2021)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Herbario%20mistraliano.%20Diarios%20y%20cuadernos%20de%20jard%C3%ADn) · *sin PDF*
+- [[Textos sobre naturaleza — Gabriela Mistral (2022)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Textos%20sobre%20naturaleza) · *sin PDF*
+- [[Ulloa Inostroza, Carla — Gabriela Mistral (2022)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ulloa%20Inostroza%2C%20Carla) · *sin PDF*
+- [[Mistral Editora. La Revista Mireya en Punta Arenas — Gabriela Mistral (2023)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mistral%20Editora.%20La%20Revista%20Mireya%20en%20Punta%20Arenas) · *sin PDF*
+- [[Recados Completos de Gabriela Mistral — Gabriela Mistral (2023)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Recados%20Completos%20de%20Gabriela%20Mistral) · *sin PDF*
+- [[La magia del oficio, magia se queda. Gabriela Mistral y los Oficios — Gabriela Mistral (2024)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20magia%20del%20oficio%2C%20magia%20se%20queda.%20Gabriela%20Mistral%20y%20los%20) · *sin PDF*
+- [[Pedagogía Mistraliana — Gabriela Mistral (2024)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pedagog%C3%ADa%20Mistraliana) · *sin PDF*
+- [[Maestra sin tiempo. Pensamiento educativo y pedagogía mistraliana — Gabriela Mistral (2025)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maestra%20sin%20tiempo.%20Pensamiento%20educativo%20y%20pedagog%C3%ADa%20mistra) · *sin PDF*
+- [[Vientos verdes. Genias de la poesía — Gabriela Mistral (2025)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vientos%20verdes.%20Genias%20de%20la%20poes%C3%ADa) · *sin PDF*
 
 ### Otras obras
 

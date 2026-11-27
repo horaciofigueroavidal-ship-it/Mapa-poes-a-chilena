@@ -37,17 +37,56 @@ Pablo de Rokha recibió el Premio Nacional de Literatura en 1965 por una obra si
 - Carne triste
 - Sobre el cuerpo que todavía se mueve, ahí
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Versos de infancia — Pablo de Rokha (1913)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Versos%20de%20infancia) · *sin PDF*
+- [[El folletín del diablo — Pablo de Rokha (1916)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20follet%C3%ADn%20del%20diablo) · *sin PDF*
+- [[Sátira — Pablo de Rokha (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=S%C3%A1tira) · *sin PDF*
+- [[Cosmogonía — Pablo de Rokha (1922)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cosmogon%C3%ADa) · *sin PDF*
 - [[U poemas — Pablo de Rokha (1926)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7860.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002199.pdf)
+- [[Heroísmo sin alegría — Pablo de Rokha (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hero%C3%ADsmo%20sin%20alegr%C3%ADa) · *sin PDF*
+- [[Satanás — Pablo de Rokha (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Satan%C3%A1s) · *sin PDF*
+- [[Suramérica — Pablo de Rokha (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Suram%C3%A9rica) · *sin PDF*
+- [[Ecuación — Pablo de Rokha (1929)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ecuaci%C3%B3n) · *sin PDF*
+- [[Escritura de Raimundo Contreras — Pablo de Rokha (1929)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Escritura%20de%20Raimundo%20Contreras) · *sin PDF*
+- [[El canto de tu vieja — Pablo de Rokha (1930)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20canto%20de%20tu%20vieja) · *sin PDF*
+- [[Jesucristo — Pablo de Rokha (1930)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Jesucristo) · *sin PDF*
+- [[Canto de trinchera — Pablo de Rokha (1933)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canto%20de%20trinchera) · *sin PDF*
+- [[Los trece — Pablo de Rokha (1934)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20trece) · *sin PDF*
+- [[Oda a la memoria de Gorki — Pablo de Rokha (1936)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Oda%20a%20la%20memoria%20de%20Gorki) · *sin PDF*
+- [[Gran temperatura — Pablo de Rokha (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gran%20temperatura) · *sin PDF*
+- [[Imprecación a la bestia fascista — Pablo de Rokha (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Imprecaci%C3%B3n%20a%20la%20bestia%20fascista) · *sin PDF*
+- [[Moisés — Pablo de Rokha (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mois%C3%A9s) · *sin PDF*
+- [[Cinco cantos rojos — Pablo de Rokha (1938)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cinco%20cantos%20rojos) · *sin PDF*
 - [[Morfología del espanto — Pablo de Rokha (1942)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8299.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010472.pdf)
+- [[Canto al Ejército Rojo — Pablo de Rokha (1944)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canto%20al%20Ej%C3%A9rcito%20Rojo) · *sin PDF*
+- [[Los poemas continentales — Pablo de Rokha (1944)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20poemas%20continentales) · *sin PDF*
+- [[Interpretación dialéctica de América y los cinco estilos del Pacífico — Pablo de Rokha (1947)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Interpretaci%C3%B3n%20dial%C3%A9ctica%20de%20Am%C3%A9rica%20y%20los%20cinco%20estilos%20del) · *sin PDF*
+- [[Arenga sobre el arte — Pablo de Rokha (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Arenga%20sobre%20el%20arte) · *sin PDF*
+- [[Carta Magna del continente — Pablo de Rokha (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Carta%20Magna%20del%20continente) · *sin PDF*
+- [[Funeral por los héroes y los mártires de Corea — Pablo de Rokha (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Funeral%20por%20los%20h%C3%A9roes%20y%20los%20m%C3%A1rtires%20de%20Corea) · *sin PDF*
+- [[Fusiles de sangre — Pablo de Rokha (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fusiles%20de%20sangre) · *sin PDF*
+- [[Arte grande o ejercicio del realismo — Pablo de Rokha (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Arte%20grande%20o%20ejercicio%20del%20realismo) · *sin PDF*
 - [[Antología 1916-1953 — Pablo de Rokha (1954)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8298.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010470.pdf)
+- [[Neruda y yo — Pablo de Rokha (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Neruda%20y%20yo) · *sin PDF*
+- [[Idioma del mundo — Pablo de Rokha (1958)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Idioma%20del%20mundo) · *sin PDF*
+- [[Genio del pueblo — Pablo de Rokha (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Genio%20del%20pueblo) · *sin PDF*
+- [[Acero de invierno — Pablo de Rokha (1961)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Acero%20de%20invierno) · *sin PDF*
+- [[Canto de fuego a China Popular — Pablo de Rokha (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canto%20de%20fuego%20a%20China%20Popular) · *sin PDF*
+- [[Oda a Cuba — Pablo de Rokha (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Oda%20a%20Cuba) · *sin PDF*
 - [[Epopeya de las comidas y las bebidas de Chile, o, Ensueño del infierno ; Canto del macho a — Pablo de Rokha (1965)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7780.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001043.pdf)
+- [[Estilo de masas — Pablo de Rokha (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estilo%20de%20masas) · *sin PDF*
+- [[Himno dedicado a Pekín — Pablo de Rokha (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Himno%20dedicado%20a%20Pek%C3%ADn) · *sin PDF*
+- [[Tercetos Dantescos a Casiano Basualto — Pablo de Rokha (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tercetos%20Dantescos%20a%20Casiano%20Basualto) · *sin PDF*
+- [[Mundo a mundo Francia — Pablo de Rokha (1966)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mundo%20a%20mundo%3A%20Francia) · *sin PDF*
 - [[Mundo a mundo epopeya popular realista estadio primero Francia — Pablo de Rokha (1966)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7781.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001044.pdf)
 - [[Mis grandes poemas antología — Pablo de Rokha (1969)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8297.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010439.pdf)
+- [[El amigo Piedra, autobiografía — Pablo de Rokha (1990)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20amigo%20Piedra%2C%20autobiograf%C3%ADa) · *sin PDF*
+- [[Obras inéditas — Pablo de Rokha (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20in%C3%A9ditas) · *sin PDF*
 - [[Fuego negro poética facsimilares — Pablo de Rokha (2000)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9461.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031350.pdf)
+- [[China Roja — Pablo de Rokha (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=China%20Roja) · *sin PDF*
 
 ### Otras obras
 

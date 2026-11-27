@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Autoras Chilenas - Biografías  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Cecilia Casanova, publicada en 1977. Datos de edición: [Santiago] : Del Pacífico, impresión de 1977. Es el primer título de su bibliografía registrada. Materias en Memoria Chilena: Autoras Chilenas - Biografías.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9157.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025901.pdf)

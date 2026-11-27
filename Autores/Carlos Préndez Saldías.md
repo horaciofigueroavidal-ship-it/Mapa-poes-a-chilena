@@ -20,6 +20,6 @@ Poeta y periodista de la generación del Centenario, autor de varios libros de v
 - Mía
 - Cirilo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

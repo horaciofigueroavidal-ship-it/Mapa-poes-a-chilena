@@ -17,6 +17,10 @@ Poeta huilliche (1967–), autor de *Ceremonias* (1999) y *Puerto Trakl* (2001).
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Ceremonias — Jaime Huenún (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ceremonias) · *sin PDF*
+- [[Puerto Trakl — Jaime Huenún (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Puerto%20Trakl) · *sin PDF*
+- [[Reducciones — Jaime Huenún (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Reducciones) · *sin PDF*

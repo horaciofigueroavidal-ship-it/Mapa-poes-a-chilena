@@ -18,6 +18,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Alfonso Alcalde, publicado en 1947. Datos de edición: Santiago : Nascimento, 1947. Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Balada para la ciudad muerta — Alfonso Alcalde (1947).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10149.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045127.pdf)

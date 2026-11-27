@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Pablo de Rokha, publicado en 1969. Datos de edición: Santiago : Nascimento, 1969. Le precede «Mundo a mundo: Francia» (1966) y le sigue «El amigo Piedra, autobiografía» (1990).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Mis grandes poemas antología — Pablo de Rokha (1969).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8297.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010439.pdf)

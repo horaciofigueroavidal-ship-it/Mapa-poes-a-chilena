@@ -44,7 +44,7 @@ La poesía de Armando Rubio, dispersa en distintas publicaciones, fue reunida y 
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

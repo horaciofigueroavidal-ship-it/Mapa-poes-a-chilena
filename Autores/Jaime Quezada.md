@@ -38,15 +38,20 @@ Por otra parte, Jaime Quezada ha desarrollado una dilatada carrera como crítico
 - La fuga
 - No hace mucho estaba en un parque público
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Poemas de las cosas olvidadas — Jaime Quezada (1965)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8719.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015209.pdf)
 - [[Las palabras del fabulador poemas — Jaime Quezada (1968)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10183.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045829.pdf)
+- [[Poesía joven de Chile — Jaime Quezada (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20joven%20de%20Chile) · *sin PDF*
 - [[Astrolabio — Jaime Quezada (1976)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10184.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045838.pdf)
+- [[Pájaro de cuentas — Jaime Quezada (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=P%C3%A1jaro%20de%20cuentas) · *sin PDF*
 - [[Huerfanías — Jaime Quezada (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10185.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045848.pdf)
 - [[Un viaje por Solentiname — Jaime Quezada (1987)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10186.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045855.pdf)
+- [[No liberto hombre — Jaime Quezada (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=No%20liberto%20hombre) · *sin PDF*
+- [[Llamadura — Jaime Quezada (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Llamadura) · *sin PDF*
+- [[Bolaño antes de Bolaño Diario de una residencia en México — Jaime Quezada (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bola%C3%B1o%20antes%20de%20Bola%C3%B1o%3A%20Diario%20de%20una%20residencia%20en%20M%C3%A9xico) · *sin PDF*
 
 ### Otras obras
 

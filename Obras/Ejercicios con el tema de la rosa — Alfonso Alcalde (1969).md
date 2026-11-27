@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Alfonso Alcalde, publicado en 1969. Datos de edición: Santiago : Zig-Zag, c1969. Le precede «Ejercicio sobre el tema de la rosa. 1969» (1969) y le sigue «El panorama ante nosotros» (1969).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Ejercicios con el tema de la rosa — Alfonso Alcalde (1969).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10151.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045129.pdf)

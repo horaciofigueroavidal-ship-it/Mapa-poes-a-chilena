@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación del Centenario. Nómez lo ubica en la corriente mundonovista y de crítica social. Su obra se mueve entre la herencia modernista y los temas de la tierra y la vida cotidiana. Sus datos biográficos son escasos.
+Crítico, escritor y profesor (1887–1934) de la generación del Centenario. Nómez lo incluye, como poeta, en la corriente de nacionalismo, mundonovismo y crítica social.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -17,6 +17,6 @@ Poeta de la generación del Centenario. Nómez lo ubica en la corriente mundonov
 
 - Sugestiva
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

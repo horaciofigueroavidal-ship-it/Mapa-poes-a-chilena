@@ -44,7 +44,7 @@ poesía mística, poesia misticaDocumentos
 - El reloj
 - Elegía
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

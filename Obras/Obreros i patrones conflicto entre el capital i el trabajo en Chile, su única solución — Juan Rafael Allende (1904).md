@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Folleto dedicado a la "Sociedad Pampina" i a la combinación mancomunal de obreros  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Juan Rafael Allende, publicada en 1904. Datos de edición: Santiago : Imprenta i Encuadernación León Víctor Caldera, 1904. Le precede «El cuento del tío : juguete cómico en prosa y en un acto» (1904) y le sigue «Cartas del escultor José Miguel Blanco. Enviadas a su familia desde sus estadías en Europa 1867 a 1874 i 1895» (1907).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8562.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014069.pdf)

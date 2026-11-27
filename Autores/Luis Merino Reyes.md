@@ -46,6 +46,32 @@ Merino Reyes formó parte de los narradores y poetas de la generación de 1938. 
 - Dos sonetos de olvido
 - Nuevo crepúsculo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Islas de música — Luis Merino Reyes (1936)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Islas%20de%20m%C3%BAsica) · *sin PDF*
+- [[Áspera brisa — Luis Merino Reyes (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%81spera%20brisa) · *sin PDF*
+- [[Las voces obstinadas — Luis Merino Reyes (1969)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20voces%20obstinadas) · *sin PDF*
+- [[Hora de salida — Luis Merino Reyes (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hora%20de%20salida) · *sin PDF*
+
+### Otras obras
+
+- [[Los egoístas — Luis Merino Reyes (1941)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20ego%C3%ADstas) · *sin PDF*
+- [[Muro de cal — Luis Merino Reyes (1946)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Muro%20de%20cal) · *sin PDF*
+- [[El chiquillo blanco — Luis Merino Reyes (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20chiquillo%20blanco) · *sin PDF*
+- [[Murcila y otros cuentos — Luis Merino Reyes (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Murcila%20y%20otros%20cuentos) · *sin PDF*
+- [[Regazo amargo — Luis Merino Reyes (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Regazo%20amargo) · *sin PDF*
+- [[Rumbo a Oceanía — Luis Merino Reyes (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rumbo%20a%20Ocean%C3%ADa) · *sin PDF*
+- [[Panorama de la literatura chilena — Luis Merino Reyes (1959)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Panorama%20de%20la%20literatura%20chilena) · *sin PDF*
+- [[Última llama — Luis Merino Reyes (1959)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%9Altima%20llama) · *sin PDF*
+- [[La vida adulta — Luis Merino Reyes (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20vida%20adulta) · *sin PDF*
+- [[Los feroces burgueses — Luis Merino Reyes (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20feroces%20burgueses) · *sin PDF*
+- [[Matriarcado — Luis Merino Reyes (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Matriarcado) · *sin PDF*
+- [[Perfil humano de la literatura chilena — Luis Merino Reyes (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Perfil%20humano%20de%20la%20literatura%20chilena) · *sin PDF*
+- [[Las hadas y los diablos — Luis Merino Reyes (1968)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20hadas%20y%20los%20diablos) · *sin PDF*
+- [[El alba y su dueño — Luis Merino Reyes (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20alba%20y%20su%20due%C3%B1o) · *sin PDF*
+- [[Amor y maleficio — Luis Merino Reyes (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amor%20y%20maleficio) · *sin PDF*
+- [[Epitafios y laureales — Luis Merino Reyes (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Epitafios%20y%20laureales) · *sin PDF*
+- [[Episodios crueles — Luis Merino Reyes (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Episodios%20crueles) · *sin PDF*
+- [[Escritores chilenos de ayer y de hoy — Luis Merino Reyes (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Escritores%20chilenos%20de%20ayer%20y%20de%20hoy) · *sin PDF*

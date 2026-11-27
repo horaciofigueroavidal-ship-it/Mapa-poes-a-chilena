@@ -38,6 +38,44 @@ En 2006 recibió el Premio Pablo Neruda por unanimidad. El jurado -integrado por
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Piedras rodantes — Malú Urriola (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Piedras%20rodantes) · *sin PDF*
+- [[Dame tu sucio amor — Malú Urriola (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Dame%20tu%20sucio%20amor) · *sin PDF*
+- [[Los Venegas — Malú Urriola (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20Venegas) · *sin PDF*
+- [[Hija de perra — Malú Urriola (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hija%20de%20perra) · *sin PDF*
+- [[Hogar Paraíso — Malú Urriola (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hogar%20Para%C3%ADso) · *sin PDF*
+- [[Nada — Malú Urriola (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nada) · *sin PDF*
+- [[Sofía. Una historia de maltrato a la mujer — Malú Urriola (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sof%C3%ADa.%20Una%20historia%20de%20maltrato%20a%20la%20mujer) · *sin PDF*
+- [[El cuento del tío — Malú Urriola (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20cuento%20del%20t%C3%ADo) · *sin PDF*
+- [[Cárcel de mujeres — Malú Urriola (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=C%C3%A1rcel%20de%20mujeres) · *sin PDF*
+- [[El día menos pensado — Malú Urriola (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20d%C3%ADa%20menos%20pensado) · *sin PDF*
+- [[El poder del silencio. Vida y legado de Elena Caffarena — Malú Urriola (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20poder%20del%20silencio.%20Vida%20y%20legado%20de%20Elena%20Caffarena) · *sin PDF*
+- [[Mea culpa — Malú Urriola (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mea%20culpa) · *sin PDF*
+- [[Mujeres que matan — Malú Urriola (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mujeres%20que%20matan) · *sin PDF*
+- [[Amor a mil — Malú Urriola (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amor%20a%20mil) · *sin PDF*
+- [[Bracea — Malú Urriola (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bracea) · *sin PDF*
+- [[Mi verdad — Malú Urriola (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mi%20verdad) · *sin PDF*
+- [[Bombal, la abeja de fuego — Malú Urriola (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bombal%2C%20la%20abeja%20de%20fuego) · *sin PDF*
+- [[Historias de campo — Malú Urriola (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Historias%20de%20campo) · *sin PDF*
+- [[Peligro latente — Malú Urriola (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Peligro%20latente) · *sin PDF*
+- [[Cartas de mujer — Malú Urriola (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cartas%20de%20mujer) · *sin PDF*
+- [[Kim entre dos mundos — Malú Urriola (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Kim%20entre%20dos%20mundos) · *sin PDF*
+- [[Maldito corazón — Malú Urriola (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maldito%20coraz%C3%B3n) · *sin PDF*
+- [[El reemplazante — Malú Urriola (2014)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20reemplazante) · *sin PDF*
+- [[Las estrellas de Chile para ti — Malú Urriola (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20estrellas%20de%20Chile%20para%20ti) · *sin PDF*
+- [[Cadáver exquisito — Malú Urriola (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cad%C3%A1ver%20exquisito) · *sin PDF*
+- [[El Cuaderno de las cosas inútiles — Malú Urriola (2022)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Cuaderno%20de%20las%20cosas%20in%C3%BAtiles) · *sin PDF*
+- [[Tendida, mirando las estrellas — Malú Urriola]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tendida%2C%20mirando%20las%20estrellas) · *sin PDF*
+
+### Otras obras
+
+- [[Tres corazones y una noche — Malú Urriola (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tres%20corazones%20y%20una%20noche) · *sin PDF*
+- [[Mujeres de lujo — Malú Urriola (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mujeres%20de%20lujo) · *sin PDF*
+- [[Infiltradas — Malú Urriola (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Infiltradas) · *sin PDF*
+- [[La sexóloga — Malú Urriola (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20sex%C3%B3loga) · *sin PDF*
+- [[Volver a amar — Malú Urriola (2014)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Volver%20a%20amar) · *sin PDF*
+- [[Esa no soy yo — Malú Urriola (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Esa%20no%20soy%20yo) · *sin PDF*
+- [[Amor a la Catalán — Malú Urriola (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amor%20a%20la%20Catal%C3%A1n) · *sin PDF*

@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación del 50. Nómez lo incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+Poeta de la generación del 50. Su primer libro, *Llama viva*, fue reseñado como obra de un joven de inquietudes «suprarrealistas» y formación católica; su poema «Crucifijo» fue de los más elogiados. Publicó en *Atenea* el ensayo «La poesía o la creación por la palabra» (1958).
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -21,6 +21,8 @@ Poeta de la generación del 50. Nómez lo incluye entre las otras tendencias de 
 - Poemas de amor (fragmentos 1 y 3)
 - Apuntes para un poema
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Llama viva — Venancio Lisboa]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Llama%20viva) · *sin PDF*

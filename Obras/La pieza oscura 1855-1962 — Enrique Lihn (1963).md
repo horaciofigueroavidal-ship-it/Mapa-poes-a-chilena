@@ -18,6 +18,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1963 que consagró a Enrique Lihn. Su poema homónimo recuerda una escena de iniciación infantil, y el libro inaugura una poesía reflexiva, irónica y crítica.
+
 📖 **[[Obras/PDF/La pieza oscura 1855-1962 — Enrique Lihn (1963).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8242.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009652.pdf)

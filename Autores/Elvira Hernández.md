@@ -28,8 +28,19 @@ El año 2024 obtuvo el Premio Nacional de Literatura.
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[¡Arre! Halley ¡Arre! — Elvira Hernández (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C2%A1Arre%21%20Halley%20%C2%A1Arre%21) · *sin PDF*
+- [[Meditaciones físicas por un hombre que se fue — Elvira Hernández (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Meditaciones%20f%C3%ADsicas%20por%20un%20hombre%20que%20se%20fue) · *sin PDF*
+- [[Carta de viaje — Elvira Hernández (1989)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Carta%20de%20viaje) · *sin PDF*
+- [[El orden de los días — Elvira Hernández (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20orden%20de%20los%20d%C3%ADas) · *sin PDF*
 - [[La Bandera de Chile — Elvira Hernández (1991)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9425.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031024.pdf)
+- [[Santiago Waria — Elvira Hernández (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Santiago%20Waria) · *sin PDF*
+- [[Merodeos en torno a la obra poética de Juan Luis Martínez — Elvira Hernández (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Merodeos%20en%20torno%20a%20la%20obra%20po%C3%A9tica%20de%20Juan%20Luis%20Mart%C3%ADnez) · *sin PDF*
+- [[Álbum de Valparaíso — Elvira Hernández (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%81lbum%20de%20Valpara%C3%ADso) · *sin PDF*
+- [[Cuaderno de deportes — Elvira Hernández (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuaderno%20de%20deportes) · *sin PDF*
+- [[Actas urbe — Elvira Hernández (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Actas%20urbe) · *sin PDF*
+- [[Los trabajos y los días — Elvira Hernández (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20trabajos%20y%20los%20d%C3%ADas) · *sin PDF*
+- [[Pájaros desde mi ventana — Elvira Hernández (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=P%C3%A1jaros%20desde%20mi%20ventana) · *sin PDF*

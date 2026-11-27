@@ -18,6 +18,6 @@ Poeta (1894–1938) conocido en la bohemia santiaguina como «el Cadáver Valdiv
 - Todo se irá...
 - Las rosas del crepúsculo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

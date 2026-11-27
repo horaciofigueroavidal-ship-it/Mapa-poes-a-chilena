@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Primer libro de Teillier (1956). Aparece ya su mundo lárico: la infancia en Lautaro, la aldea, los trenes y la nostalgia por un paraíso perdido.
+
 📖 **[[Obras/PDF/Para ángeles y gorriones 1953-1956 — Jorge Teillier (1956).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8597.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014302.pdf)

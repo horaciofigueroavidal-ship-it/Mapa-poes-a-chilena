@@ -38,6 +38,45 @@ Escribió hasta sus últimos días. Falleció el 15 de julio del 2003, dejando d
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Gorriones cogiendo altura — Roberto Bolaño (1975)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gorriones%20cogiendo%20altura) · *sin PDF*
+- [[Reinventar el amor — Roberto Bolaño (1976)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Reinventar%20el%20amor) · *sin PDF*
+- [[Fragmentos de la Universidad Desconocida — Roberto Bolaño (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fragmentos%20de%20la%20Universidad%20Desconocida) · *sin PDF*
+- [[Los perros románticos — Roberto Bolaño (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20perros%20rom%C3%A1nticos) · *sin PDF*
+- [[El último salvaje — Roberto Bolaño (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20%C3%BAltimo%20salvaje) · *sin PDF*
+- [[Tres — Roberto Bolaño (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tres) · *sin PDF*
+- [[La Universidad Desconocida — Roberto Bolaño (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Universidad%20Desconocida) · *sin PDF*
+- [[Il futuro — Roberto Bolaño (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Il%20futuro) · *sin PDF*
+- [[Inicio de un sueño — Roberto Bolaño (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Inicio%20de%20un%20sue%C3%B1o) · *sin PDF*
+- [[Poesía reunida — Roberto Bolaño (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20reunida) · *sin PDF*
+
+### Otras obras
+
+- [[Consejos de un discípulo de Morrison a un fanático de Joyce — Roberto Bolaño (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Consejos%20de%20un%20disc%C3%ADpulo%20de%20Morrison%20a%20un%20fan%C3%A1tico%20de%20Joyce) · *sin PDF*
+- [[La pista de hielo — Roberto Bolaño (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20pista%20de%20hielo) · *sin PDF*
+- [[La senda de los elefantes — Roberto Bolaño (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20senda%20de%20los%20elefantes) · *sin PDF*
+- [[Estrella distante — Roberto Bolaño (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estrella%20distante) · *sin PDF*
+- [[La literatura nazi en América — Roberto Bolaño (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20literatura%20nazi%20en%20Am%C3%A9rica) · *sin PDF*
+- [[Llamadas telefónicas — Roberto Bolaño (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Llamadas%20telef%C3%B3nicas) · *sin PDF*
+- [[Los detectives salvajes — Roberto Bolaño (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20detectives%20salvajes) · *sin PDF*
+- [[Amuleto — Roberto Bolaño (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amuleto) · *sin PDF*
+- [[Nocturno de Chile — Roberto Bolaño (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nocturno%20de%20Chile) · *sin PDF*
+- [[Putas asesinas — Roberto Bolaño (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Putas%20asesinas) · *sin PDF*
+- [[Amberes — Roberto Bolaño (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Amberes) · *sin PDF*
+- [[Una novelita lumpen — Roberto Bolaño (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Una%20novelita%20lumpen) · *sin PDF*
+- [[El gaucho insufrible — Roberto Bolaño (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20gaucho%20insufrible) · *sin PDF*
+- [[2666 — Roberto Bolaño (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=2666) · *sin PDF*
+- [[Entre paréntesis — Roberto Bolaño (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Entre%20par%C3%A9ntesis) · *sin PDF*
+- [[Diario de bar — Roberto Bolaño (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diario%20de%20bar) · *sin PDF*
+- [[El secreto del mal — Roberto Bolaño (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20secreto%20del%20mal) · *sin PDF*
+- [[El Tercer Reich — Roberto Bolaño (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Tercer%20Reich) · *sin PDF*
+- [[Bolaño por sí mismo entrevistas escogidas — Roberto Bolaño (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bola%C3%B1o%20por%20s%C3%AD%20mismo%3A%20entrevistas%20escogidas) · *sin PDF*
+- [[Los sinsabores del verdadero policía — Roberto Bolaño (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20sinsabores%20del%20verdadero%20polic%C3%ADa) · *sin PDF*
+- [[El policía de las ratas — Roberto Bolaño (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20polic%C3%ADa%20de%20las%20ratas) · *sin PDF*
+- [[El espíritu de la ciencia-ficción — Roberto Bolaño (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20esp%C3%ADritu%20de%20la%20ciencia-ficci%C3%B3n) · *sin PDF*
+- [[Sepulcros de vaqueros — Roberto Bolaño (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sepulcros%20de%20vaqueros) · *sin PDF*
+- [[A la intemperie Colaboraciones periodísticas, intervenciones públicas y ensayos — Roberto Bolaño (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%20la%20intemperie%3A%20Colaboraciones%20period%C3%ADsticas%2C%20intervencione) · *sin PDF*
+- [[Cuentos completos — Roberto Bolaño (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20completos) · *sin PDF*

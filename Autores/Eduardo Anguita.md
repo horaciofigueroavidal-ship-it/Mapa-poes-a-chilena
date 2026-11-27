@@ -46,6 +46,26 @@ Alejado del mundo literario, falleció el 12 de agosto de 1992.
 - Dos rostros se reúnen en el amor
 - El verdadero momento
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Tránsito al fin — Eduardo Anguita (1934)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tr%C3%A1nsito%20al%20fin) · *sin PDF*
+- [[Antología de poesía chilena nueva — Eduardo Anguita (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20de%20poes%C3%ADa%20chilena%20nueva) · *sin PDF*
+- [[Antología de Vicente Huidobro — Eduardo Anguita (1945)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20de%20Vicente%20Huidobro) · *sin PDF*
+- [[Últimos poemas — Eduardo Anguita (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%9Altimos%20poemas) · *sin PDF*
+- [[Anguita, cinco poemas — Eduardo Anguita (1951)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Anguita%2C%20cinco%20poemas) · *sin PDF*
+- [[Palabras al oído de México — Eduardo Anguita (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Palabras%20al%20o%C3%ADdo%20de%20M%C3%A9xico) · *sin PDF*
+- [[El poliedro y el mar — Eduardo Anguita (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20poliedro%20y%20el%20mar) · *sin PDF*
+- [[Venus en el pudridero — Eduardo Anguita (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Venus%20en%20el%20pudridero) · *sin PDF*
+- [[Poesía entera — Eduardo Anguita (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20entera) · *sin PDF*
+- [[Definición y Pérdida de la Persona — Eduardo Anguita (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Definici%C3%B3n%20y%20P%C3%A9rdida%20de%20la%20Persona) · *sin PDF*
+- [[Anguitología — Eduardo Anguita (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Anguitolog%C3%ADa) · *sin PDF*
+
+### Otras obras
+
+- [[Inseguridad del hombre — Eduardo Anguita (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Inseguridad%20del%20hombre) · *sin PDF*
+- [[Rimbaud pecador — Eduardo Anguita (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rimbaud%20pecador) · *sin PDF*
+- [[La belleza del pensar — Eduardo Anguita (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20belleza%20del%20pensar) · *sin PDF*
+- [[Los privilegios del libro — Eduardo Anguita (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20privilegios%20del%20libro) · *sin PDF*
+- [[Páginas de la memoria — Eduardo Anguita (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=P%C3%A1ginas%20de%20la%20memoria) · *sin PDF*

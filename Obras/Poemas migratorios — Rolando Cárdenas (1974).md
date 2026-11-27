@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Rolando Cárdenas, publicado en 1974. Datos de edición: Santiago : [Armando Menedin, Editor], 1974, (Santiago : R. Neupert). Le precede «Personajes de mi ciudad» (1964) y le sigue «Que, tras esos muros» (1986).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Poemas migratorios — Rolando Cárdenas (1974).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10303.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050519.pdf)

@@ -17,6 +17,8 @@ Poeta mapuche urbano (1971–), autor de *Mapurbe. Venganza a raíz* (2005). Su 
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Mapurbe. Venganza a raíz — David Aniñir (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mapurbe.%20Venganza%20a%20ra%C3%ADz) · *sin PDF*

@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Winétt de Rokha, publicado en 1936. Datos de edición: [Santiago] : [Editor no identificado], 1936, (Santiago : Antares). Le precede «Formas de sueño» (1927) y le sigue «Oniromancia» (1943).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Cantoral poemas 1925-1936 — Winétt de Rokha (1936).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-620807.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075692.pdf)

@@ -17,6 +17,10 @@ Poeta (1944–) del sur de Chile, una de las voces de la poesía feminista y er�
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Óvulos — Heddy Navarro (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%93vulos) · *sin PDF*
+- [[Oda al macho — Heddy Navarro (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Oda%20al%20macho) · *sin PDF*
+- [[Poemas insurrectos — Heddy Navarro (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20insurrectos) · *sin PDF*

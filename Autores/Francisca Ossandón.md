@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación del 50. Nómez la incluye entre las otras tendencias de los cincuenta. Sus datos biográficos son escasos.
+Poeta nacida en Santiago, presente en la fundación del Grupo Fuego de Poesía (1955), junto a Carlos René Correa y Mila Oyarzún. Publicó *Humo lento*, *Tiempo de estar* (1962) y *Tiempo y destiempo*. Vicente Aleixandre, a quien conoció en Madrid en 1958, escribió sobre su obra.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -22,6 +22,10 @@ Poeta de la generación del 50. Nómez la incluye entre las otras tendencias de 
 - Sangre bajo las aguas
 - Inquietante pacto
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Tiempo de estar — Francisca Ossandón (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tiempo%20de%20estar) · *sin PDF*
+- [[Humo lento — Francisca Ossandón]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Humo%20lento) · *sin PDF*
+- [[Tiempo y destiempo — Francisca Ossandón]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tiempo%20y%20destiempo) · *sin PDF*

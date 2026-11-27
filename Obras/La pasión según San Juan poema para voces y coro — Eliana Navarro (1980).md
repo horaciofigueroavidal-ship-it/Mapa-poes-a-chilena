@@ -17,4 +17,10 @@ tags: [obra]
 **Notas:** Prólogo de Hernán Díaz Arrieta ; carta preliminar de los poetas Carlos René Correa y María Silva Ossa  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Eliana Navarro, publicada en 1980. Datos de edición: Santiago : Biblioteca del Congreso Nacional, 1980. Le precede «La ciudad que fue : poemas» (1965) y le sigue «La flor de la Montaña» (1995).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8322.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010878.pdf)

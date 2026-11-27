@@ -41,16 +41,30 @@ En 1973 y 1981 fueron publicadas dos obras póstumas: Defensa de la tierra y Med
 - Abandono
 - Olvido
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Mediodía — Luis Oyarzún (1958)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8356.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011327.pdf)
+- [[Diario de Oriente — Luis Oyarzún (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diario%20de%20Oriente) · *sin PDF*
+- [[Alrededor — Luis Oyarzún (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Alrededor) · *sin PDF*
+- [[Leonardo da Vinci y otros ensayos — Luis Oyarzún (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Leonardo%20da%20Vinci%20y%20otros%20ensayos) · *sin PDF*
+- [[Tierra de hojas — Luis Oyarzún (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tierra%20de%20hojas) · *sin PDF*
 - [[Necesidad del arcoiris poesía selecta — Luis Oyarzún (2002)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9457.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031343.pdf)
+- [[Prosa poética — Luis Oyarzún (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Prosa%20po%C3%A9tica) · *sin PDF*
+- [[Taken for a ride. Escritura de paso — Luis Oyarzún (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Taken%20for%20a%20ride.%20Escritura%20de%20paso) · *sin PDF*
 
 ### Otras obras
 
+- [[La infancia — Luis Oyarzún (1940)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20infancia) · *sin PDF*
+- [[Las murallas del sueño — Luis Oyarzún (1940)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20murallas%20del%20sue%C3%B1o) · *sin PDF*
+- [[Poemas en prosa — Luis Oyarzún (1943)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20en%20prosa) · *sin PDF*
+- [[Ver — Luis Oyarzún (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ver) · *sin PDF*
+- [[El pensamiento de Lastarria — Luis Oyarzún (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20pensamiento%20de%20Lastarria) · *sin PDF*
+- [[Los días ocultos — Luis Oyarzún (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20d%C3%ADas%20ocultos) · *sin PDF*
+- [[Mudanzas del tiempo — Luis Oyarzún (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mudanzas%20del%20tiempo) · *sin PDF*
 - [[Temas de la cultura chilena — Luis Oyarzún (1967)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8355.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011326.pdf)
+- [[Defensa de la Tierra — Luis Oyarzún (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Defensa%20de%20la%20Tierra) · *sin PDF*
 - [[Meditaciones estéticas — Luis Oyarzún (1981)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7872.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002429.pdf)
 - [[Diario íntimo — Luis Oyarzún (1995)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10323.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050966.pdf)
 - [[Epistolario familiar — Luis Oyarzún (2000)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7873.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002432.pdf)

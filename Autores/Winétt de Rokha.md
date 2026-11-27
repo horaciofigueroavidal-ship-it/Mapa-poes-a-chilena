@@ -49,11 +49,12 @@ Winet de RokhaDocumentos
 - Psicología pesimista
 - De «Horas de sol» (fragmento)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Lo que me dijo el silencio — Winétt de Rokha (1915)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620804.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075689.pdf)
+- [[Formas de sueño — Winétt de Rokha (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Formas%20de%20sue%C3%B1o) · *sin PDF*
 - [[Cantoral poemas 1925-1936 — Winétt de Rokha (1936)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620807.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075692.pdf)
 - [[Oniromancia — Winétt de Rokha (1943)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620826.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075711.pdf)
 - [[Suma y destino antología — Winétt de Rokha (1951)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8357.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011331.pdf)

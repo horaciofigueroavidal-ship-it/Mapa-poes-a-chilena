@@ -22,7 +22,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Elegía final
 - Testimonio de los pájaros (fragmentos 3, 4 y 5)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Quién soy — Ángel Custodio González (1981)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9165.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025910.pdf)

@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Guillermo Blest Gana, publicado en 1857. Datos de edición: Santiago : Impr. del pais, 1857. Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/La flor de la Soledad — Guillermo Blest Gana (1857).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-84731.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050121.pdf)

@@ -15,4 +15,10 @@ tags: [obra]
 **Materias:** Prosa Chilena  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Ensayo o prosa de Braulio Arenas, publicado en 1966. Datos de edición: Santiago : Lord Cochrane, 1966. Le precede «Vicente Huidobro y el creacionismo» (1964) y le sigue «Pequeña meditación al atardecer en un cementerio junto al mar» (1966). Materias en Memoria Chilena: Prosa Chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8015.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005228.pdf)

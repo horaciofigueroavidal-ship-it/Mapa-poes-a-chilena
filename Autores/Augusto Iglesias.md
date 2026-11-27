@@ -18,6 +18,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 
 - Romance de ciego
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+
+- [[Gabriela Mistral y el modernismo en Chile — Augusto Iglesias (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%20y%20el%20modernismo%20en%20Chile) · *sin PDF*

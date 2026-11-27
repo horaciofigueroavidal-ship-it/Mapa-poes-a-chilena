@@ -17,6 +17,8 @@ Poeta mapuche-huilliche (1970–), machi y académica. Su poesía, escrita entre
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Üi — Adriana Paredes Pinda (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%9Ci) · *sin PDF*

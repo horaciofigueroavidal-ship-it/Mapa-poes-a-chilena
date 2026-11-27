@@ -51,10 +51,19 @@ La actualización de este minisitio se publicó durante el mes de diciembre de 2
 - Ausencia
 - Los pájaros errantes
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Paisaje — Pedro Prado (1911)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Paisaje) · *sin PDF*
+- [[El llamado del mundo — Pedro Prado (1913)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20llamado%20del%20mundo) · *sin PDF*
+- [[Los diez, El claustro, La barca — Pedro Prado (1915)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20diez%2C%20El%20claustro%2C%20La%20barca) · *sin PDF*
+- [[Ensayo sobre arquitectura y poesía — Pedro Prado (1916)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ensayo%20sobre%20arquitectura%20y%20poes%C3%ADa) · *sin PDF*
+- [[Revista Los Diez (1916-1917) — Pedro Prado (1916)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Revista%20Los%20Diez%20%281916-1917%29) · *sin PDF*
+- [[Las copas — Pedro Prado (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20copas) · *sin PDF*
+- [[Alone — Pedro Prado (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Alone) · *sin PDF*
+- [[Karez y Roshan — Pedro Prado (1923)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Karez%20y%20Roshan) · *sin PDF*
+- [[Androvar — Pedro Prado (1925)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Androvar) · *sin PDF*
 - [[Sus mejores poemas — Pedro Prado (1926)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9738.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036841.pdf)
 - [[Camino de las horas — Pedro Prado (1934)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620829.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075713.pdf)
 - [[Otoño en las dunas — Pedro Prado (1940)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620830.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075714.pdf)
@@ -62,13 +71,25 @@ La actualización de este minisitio se publicó durante el mes de diciembre de 2
 - [[No más que una rosa — Pedro Prado (1946)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620831.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075715.pdf)
 - [[Las estancias del amor — Pedro Prado (1949)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620832.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075716.pdf)
 - [[Viejos poemas inéditos, antología de homenaje — Pedro Prado (1949)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620833.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075717.pdf)
+- [[Pedro Prado, un clásico de América — Pedro Prado (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pedro%20Prado%2C%20un%20cl%C3%A1sico%20de%20Am%C3%A9rica) · *sin PDF*
+- [[Diccionario de literatura española — Pedro Prado (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diccionario%20de%20literatura%20espa%C3%B1ola) · *sin PDF*
+- [[Elogio de Pedro Prado — Pedro Prado (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Elogio%20de%20Pedro%20Prado) · *sin PDF*
+- [[Pedro Prado en la literatura americana — Pedro Prado (1958)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pedro%20Prado%20en%20la%20literatura%20americana) · *sin PDF*
+- [[Los cuatro grandes de la literatura chilena durante el siglo XX — Pedro Prado (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20cuatro%20grandes%20de%20la%20literatura%20chilena%20durante%20el%20siglo) · *sin PDF*
+- [[Anales de la Universidad de Chile — Pedro Prado (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Anales%20de%20la%20Universidad%20de%20Chile) · *sin PDF*
+- [[Premios Nacionales de Literatura — Pedro Prado (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Premios%20Nacionales%20de%20Literatura) · *sin PDF*
+- [[Obras completas — Pedro Prado (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20completas) · *sin PDF*
+- [[Entrever el cielo — Pedro Prado (2023)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Entrever%20el%20cielo) · *sin PDF*
+- [[Los Diez' en el arte chileno del siglo XX — Pedro Prado]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20Diez%27%20en%20el%20arte%20chileno%20del%20siglo%20XX) · *sin PDF*
 
 ### Otras obras
 
 - [[Flores de cardo. Pláticas amigas. Humanas. Los dolores. Conmigo. Íntimas — Pedro Prado (1908)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7843.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001606.pdf)
+- [[La casa abandonada — Pedro Prado (1912)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20casa%20abandonada) · *sin PDF*
 - [[La reina de Rapa Nui — Pedro Prado (1914)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-619972.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075652.pdf)
 - [[Los pájaros errantes (poemas menores i breves divagaciones) — Pedro Prado (1915)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7842.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001605.pdf)
 - [[Ensayos sobre la arquitectura y la poesía — Pedro Prado (1916)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620834.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075718.pdf)
 - [[Alsino — Pedro Prado (1920)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8334.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010978.pdf)
+- [[Viaje de Antón Páez a la Ciudad de los Césares y otros textos — Pedro Prado (1923)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Viaje%20de%20Ant%C3%B3n%20P%C3%A1ez%20a%20la%20Ciudad%20de%20los%20C%C3%A9sares%20y%20otros%20texto) · *sin PDF*
 - [[Un juez rural — Pedro Prado (1924)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-619974.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075654.pdf)
 - [[Cartas a Manuel Magallanes Moure — Pedro Prado (1986)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-126610.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0060689.pdf)

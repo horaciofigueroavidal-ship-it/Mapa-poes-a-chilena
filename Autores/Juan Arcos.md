@@ -19,6 +19,6 @@ Poeta (1917–?) de la generación del 38. Su poesía se acerca a los temas soci
 - Canción de los álamos
 - Epopeya del tiempo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

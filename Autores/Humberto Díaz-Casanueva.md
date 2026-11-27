@@ -32,15 +32,29 @@ El año 2011, Rodrigo Díaz, hijo de Humberto Díaz-Casanueva, realizó la serie
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[El aventurero de Saba — Humberto Díaz-Casanueva (1926)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8233.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009603.pdf)
+- [[Vigilia por dentro — Humberto Díaz-Casanueva (1931)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vigilia%20por%20dentro) · *sin PDF*
+- [[El blasfemo coronado — Humberto Díaz-Casanueva (1940)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20blasfemo%20coronado) · *sin PDF*
 - [[Réquiem — Humberto Díaz-Casanueva (1945)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8234.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009604.pdf)
+- [[La estatua de sal — Humberto Díaz-Casanueva (1947)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20estatua%20de%20sal) · *sin PDF*
 - [[La hija vertiginosa — Humberto Díaz-Casanueva (1954)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8235.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009605.pdf)
+- [[Los penitenciales — Humberto Díaz-Casanueva (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20penitenciales) · *sin PDF*
+- [[Antología poética — Humberto Díaz-Casanueva (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20po%C3%A9tica) · *sin PDF*
+- [[Sol de lenguas — Humberto Díaz-Casanueva (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sol%20de%20lenguas) · *sin PDF*
 - [[El hierro y el hilo — Humberto Díaz-Casanueva (1980)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8236.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009606.pdf)
+- [[Los veredictos — Humberto Díaz-Casanueva (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20veredictos) · *sin PDF*
+- [[El pájaro dunga — Humberto Díaz-Casanueva (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20p%C3%A1jaro%20dunga) · *sin PDF*
+- [[El traspaso de la Antorcha — Humberto Díaz-Casanueva (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20traspaso%20de%20la%20Antorcha) · *sin PDF*
+- [[La aparición — Humberto Díaz-Casanueva (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20aparici%C3%B3n) · *sin PDF*
 - [[El niño de Robben Island — Humberto Díaz-Casanueva (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8237.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009623.pdf)
+- [[Trinos (trenos) del pájaro Dunga — Humberto Díaz-Casanueva (1985)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Trinos%20%28trenos%29%20del%20p%C3%A1jaro%20Dunga) · *sin PDF*
+- [[Obra poética — Humberto Díaz-Casanueva (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20po%C3%A9tica) · *sin PDF*
+- [[Vox tatuada — Humberto Díaz-Casanueva (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vox%20tatuada) · *sin PDF*
+- [[Medusa y otros textos inéditos — Humberto Díaz-Casanueva (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Medusa%20y%20otros%20textos%20in%C3%A9ditos) · *sin PDF*
 
 ### Otras obras
 

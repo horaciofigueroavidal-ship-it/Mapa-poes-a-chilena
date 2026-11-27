@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Manuel Magallanes Moure, publicado en 1902. Datos de edición: Santiago : [s.n.], 1902. Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Facetas — Manuel Magallanes Moure (1902).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9736.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036836.pdf)

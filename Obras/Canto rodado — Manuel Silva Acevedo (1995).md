@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Manuel Silva Acevedo, publicado en 1995. Datos de edición: Santiago : Universitaria, 1995. Le precede «Wölfe und Schafe» (1989) y le sigue «Houdini» (1996).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Canto rodado — Manuel Silva Acevedo (1995).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10213.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047218.pdf)

@@ -15,6 +15,12 @@ tags: [obra]
 **Descripción física:** 113 p.  
 **Materias:** Poesías Chilenas  
 
+## Introducción
+
+Libro de poesía de Enrique Gómez-Correa, publicado en 1973. Datos de edición: Santiago : Mandrágora, 1973 (Santiago : Impr. Bío-Bío). Le precede «El AGC de la Mandrágora» (1957) y le sigue «Madre tiniebla» (1973).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/El calor animal — Enrique Gómez-Correa (1973).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-124868.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050467.pdf)

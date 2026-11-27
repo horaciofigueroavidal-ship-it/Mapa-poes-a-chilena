@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Hernán Miranda, publicado en 1970. Datos de edición: Santiago : Ediciones Clavileño, impresión de 1970 (Santiago : Neupert). Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Arte de vaticinar — Hernán Miranda (1970).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-55827.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050570.pdf)

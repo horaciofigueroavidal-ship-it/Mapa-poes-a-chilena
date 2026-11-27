@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Juan Guzmán Cruchaga, publicado en 1978. Datos de edición: Valparaíso : EDEVAL, 1978. Le precede «Altasombra» (1958).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Sed — Juan Guzmán Cruchaga (1978).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7976.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0004752.pdf)

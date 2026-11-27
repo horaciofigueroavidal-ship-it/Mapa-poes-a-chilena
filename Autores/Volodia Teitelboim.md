@@ -38,7 +38,33 @@ En agosto de 2002, recibió el Premio Nacional de Literatura. Falleció el año 
 - Canto gregoriano por una mujer
 - Fundación de la vida
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
+### Poesía
+
+- [[Antología de poesía chilena nueva — Volodia Teitelboim (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20de%20poes%C3%ADa%20chilena%20nueva) · *sin PDF*
+- [[El amanecer del capitalismo. La conquista de América — Volodia Teitelboim (1943)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20amanecer%20del%20capitalismo.%20La%20conquista%20de%20Am%C3%A9rica) · *sin PDF*
+- [[Hijo del salitre — Volodia Teitelboim (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hijo%20del%20salitre) · *sin PDF*
+- [[La semilla en la arena. Pisagua — Volodia Teitelboim (1957)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20semilla%20en%20la%20arena.%20Pisagua) · *sin PDF*
+- [[Hombre y hombre — Volodia Teitelboim (1969)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hombre%20y%20hombre) · *sin PDF*
+- [[El oficio ciudadano — Volodia Teitelboim (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20oficio%20ciudadano) · *sin PDF*
+- [[El pan de las estrellas — Volodia Teitelboim (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20pan%20de%20las%20estrellas) · *sin PDF*
+- [[La lucha continúa, pólvora del exilio — Volodia Teitelboim (1976)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20lucha%20contin%C3%BAa%2C%20p%C3%B3lvora%20del%20exilio) · *sin PDF*
+- [[Narradores chilenos del exilio — Volodia Teitelboim (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Narradores%20chilenos%20del%20exilio) · *sin PDF*
+- [[La guerra interna — Volodia Teitelboim (1979)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20guerra%20interna) · *sin PDF*
+- [[El corazón escrito — Volodia Teitelboim (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20coraz%C3%B3n%20escrito) · *sin PDF*
+- [[La palabra y la sangre — Volodia Teitelboim (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20palabra%20y%20la%20sangre) · *sin PDF*
+- [[En el país prohibido — Volodia Teitelboim (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=En%20el%20pa%C3%ADs%20prohibido) · *sin PDF*
+- [[Gabriela Mistral, pública y secreta — Volodia Teitelboim (1991)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%2C%20p%C3%BAblica%20y%20secreta) · *sin PDF*
+- [[Huidobro, la marcha infinita — Volodia Teitelboim (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Huidobro%2C%20la%20marcha%20infinita) · *sin PDF*
+- [[Los dos Borges — Volodia Teitelboim (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20dos%20Borges) · *sin PDF*
+- [[Notas de un concierto europeo — Volodia Teitelboim (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Notas%20de%20un%20concierto%20europeo) · *sin PDF*
+- [[Un muchacho del — Volodia Teitelboim (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Un%20muchacho%20del) · *sin PDF*
+- [[Voy a vivirme — Volodia Teitelboim (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Voy%20a%20vivirme) · *sin PDF*
+- [[La gran guerra de Chile y otra que nunca existió — Volodia Teitelboim (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20gran%20guerra%20de%20Chile%20y%20otra%20que%20nunca%20existi%C3%B3) · *sin PDF*
+- [[Noches de radio — Volodia Teitelboim (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Noches%20de%20radio) · *sin PDF*
+- [[Ulises llega en locomotora — Volodia Teitelboim (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ulises%20llega%20en%20locomotora) · *sin PDF*
+
+### Otras obras
 
 - [[Neruda — Volodia Teitelboim (2003)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8709.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015100.pdf)

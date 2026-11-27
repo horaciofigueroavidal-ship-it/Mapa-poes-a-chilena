@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Español - GramáticaPoesías Venezolanas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Andrés Bello. Materias en Memoria Chilena: Español - GramáticaPoesías Venezolanas.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Opúsculos literarios i críticos I — Andrés Bello.pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10450.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0064756.pdf)

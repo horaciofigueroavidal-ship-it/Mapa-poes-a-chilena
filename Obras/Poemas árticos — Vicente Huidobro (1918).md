@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro publicado en Madrid en 1918, decisivo para el ultraísmo español. Sus poemas, de disposición espacial y sin puntuación, yuxtaponen imágenes creadas en lugar de describir la realidad.
+
 📖 **[[Obras/PDF/Poemas árticos — Vicente Huidobro (1918).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-67188.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067418.pdf)

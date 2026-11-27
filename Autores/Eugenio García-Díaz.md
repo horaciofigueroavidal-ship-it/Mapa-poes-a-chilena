@@ -22,7 +22,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Nuevamente un secreto
 - En la heredad del deseo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Quién soy — Eugenio García-Díaz (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9164.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025909.pdf)

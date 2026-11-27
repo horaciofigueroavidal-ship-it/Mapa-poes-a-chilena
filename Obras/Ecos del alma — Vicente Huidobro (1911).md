@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Vicente Huidobro, publicado en 1911. Datos de edición: Santiago : Imprenta y Encuadernación Chile, 1911. Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Ecos del alma — Vicente Huidobro (1911).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-67190.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067420.pdf)

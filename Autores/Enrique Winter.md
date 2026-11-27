@@ -17,6 +17,12 @@ Poeta, narrador y traductor (1982–), autor de *Rascacielos* (2008) y otros lib
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Rascacielos — Enrique Winter (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rascacielos) · *sin PDF*
+
+### Otras obras
+
+- [[Las bolsas de basura — Enrique Winter (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20bolsas%20de%20basura) · *sin PDF*

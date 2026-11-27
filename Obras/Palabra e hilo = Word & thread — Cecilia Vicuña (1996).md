@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Cecilia Vicuña, publicado en 1996. Datos de edición: Edinburgh : Morning Star Publications, 1996. Le precede «La realidad es una línea» (1994) y le sigue «Word & Thread» (1996).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Palabra e hilo = Word & thread — Cecilia Vicuña (1996).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9674.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035882.pdf)

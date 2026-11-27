@@ -40,15 +40,39 @@ Desde 1976 reside en Concón, donde se dedica, entre otros cosas, a recolectar z
 - Sopa
 - Biografía de Clovis Trouille
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[¿A quién matamos ahora Cuadernos 1972-1973 — Claudio Bertoni (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C2%BFA%20qui%C3%A9n%20matamos%20ahora%3F%20Cuadernos%201972-1973) · *sin PDF*
+- [[Antología. 1973-2014 — Claudio Bertoni (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa.%201973-2014) · *sin PDF*
+- [[Desnudos 1973 - 2008 — Claudio Bertoni (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Desnudos%201973%20-%202008) · *sin PDF*
+- [[En qué quedamos — Claudio Bertoni (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=En%20qu%C3%A9%20quedamos) · *sin PDF*
 - [[El cansador intrabajable (II) — Claudio Bertoni (1986)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10178.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045776.pdf)
 - [[Sentado en la cuneta — Claudio Bertoni (1990)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10177.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045741.pdf)
 - [[Ni yo — Claudio Bertoni (1996)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10179.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045777.pdf)
+- [[De vez en cuando — Claudio Bertoni (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=De%20vez%20en%20cuando) · *sin PDF*
 - [[Una carta — Claudio Bertoni (1999)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10180.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045779.pdf)
 - [[Qué se ama cuando se ama — Claudio Bertoni (2000)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8238.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009637.pdf)
+- [[Jóvenes buenas mozas — Claudio Bertoni (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=J%C3%B3venes%20buenas%20mozas) · *sin PDF*
 - [[Harakiri — Claudio Bertoni (2005)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10181.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045781.pdf)
 - [[No faltaba más — Claudio Bertoni (2005)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10182.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045782.pdf)
+- [[Dicho sea de paso — Claudio Bertoni (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Dicho%20sea%20de%20paso) · *sin PDF*
 - [[Rápido, antes de llorar cuadernos 1976-1978 — Claudio Bertoni (2007)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10321.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050964.pdf)
+- [[El tamaño de la verdad. Poemas 2008 — Claudio Bertoni (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20tama%C3%B1o%20de%20la%20verdad.%20Poemas%202008) · *sin PDF*
+- [[Chilenas — Claudio Bertoni (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chilenas) · *sin PDF*
+- [[Desgarraduras. Intervenciones fotográficas — Claudio Bertoni (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Desgarraduras.%20Intervenciones%20fotogr%C3%A1ficas) · *sin PDF*
+- [[Piden sangre por las puras — Claudio Bertoni (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Piden%20sangre%20por%20las%20puras) · *sin PDF*
+- [[Fragmentos escogidos — Claudio Bertoni (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fragmentos%20escogidos) · *sin PDF*
+- [[Qué culpa tengo yo — Claudio Bertoni (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Qu%C3%A9%20culpa%20tengo%20yo) · *sin PDF*
+- [[Adiós — Claudio Bertoni (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Adi%C3%B3s) · *sin PDF*
+- [[No queda otra — Claudio Bertoni (2014)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=No%20queda%20otra) · *sin PDF*
+- [[Nadie muere — Claudio Bertoni (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nadie%20muere) · *sin PDF*
+- [[Una conversación con Claudio Bertoni — Claudio Bertoni (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Una%20conversaci%C3%B3n%20con%20Claudio%20Bertoni) · *sin PDF*
+- [[¿Puede aceptarse todo esto — Claudio Bertoni (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C2%BFPuede%20aceptarse%20todo%20esto%3F) · *sin PDF*
+- [[Cabro chico — Claudio Bertoni (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cabro%20chico) · *sin PDF*
+- [[The price of love — Claudio Bertoni (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=The%20price%20of%20love) · *sin PDF*
+- [[Violeta — Claudio Bertoni (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Violeta) · *sin PDF*
+- [[Cero — Claudio Bertoni (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cero) · *sin PDF*
+- [[Poesía reunida — Claudio Bertoni (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20reunida) · *sin PDF*
+- [[Miércale — Claudio Bertoni (2022)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mi%C3%A9rcale) · *sin PDF*

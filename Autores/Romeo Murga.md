@@ -30,10 +30,11 @@ El 22 de mayo de 1925, la tuberculosis que desde hacía años lo aquejaba, termi
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[El libro de la fiesta — Romeo Murga (1925)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20libro%20de%20la%20fiesta) · *sin PDF*
 - [[El canto en la sombra — Romeo Murga (1946)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7943.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003577.pdf)
 
 ### Otras obras

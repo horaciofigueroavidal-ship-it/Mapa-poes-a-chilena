@@ -10,7 +10,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta (seudónimo), activo desde los años treinta. Nómez lo sitúa en el paso de la vanguardia a la poesía social y popular. Sus datos biográficos son escasos.
+Poeta vinculado a Talcahuano que firmó siempre con el seudónimo «Juan Negro», sin revelar su nombre civil. Publicó sus primeros poemas en la revista *Atenea*, cantó su rincón marítimo y obtuvo el Premio Municipal de Santiago en 1936; entre sus libros están *Espejos* (1936) y *El paso de la noche*. Gabriela Mistral le dedicó una semblanza.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -25,6 +25,9 @@ Poeta (seudónimo), activo desde los años treinta. Nómez lo sitúa en el paso 
 - Víbora de espumas
 - Las albas
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Espejos — Juan Negro (1936)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Espejos) · *sin PDF*
+- [[El paso de la noche — Juan Negro]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20paso%20de%20la%20noche) · *sin PDF*

@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1983 sobre el centro de Santiago en dictadura, con la figura del Pingüino, vendedor callejero. Lihn lo leyó en acciones públicas que desafiaban la censura.
+
 📖 **[[Obras/PDF/El Paseo Ahumada poema — Enrique Lihn (1983).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8243.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009670.pdf)

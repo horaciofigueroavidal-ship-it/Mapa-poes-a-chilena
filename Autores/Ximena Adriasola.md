@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta y crítica (1930–2014) de la generación del 50. Escribió reseñas sobre sus contemporáneas, como Delia Domínguez. Nómez la incluye entre las otras tendencias de los cincuenta.
+Poeta (1930–2014) de la generación del 50. Fue coautora, con María Urzúa, de *La mujer en la poesía chilena, 1784–1961*, una recopilación de las poetas chilenas de casi dos siglos. Escribió también reseñas sobre sus contemporáneas, como Delia Domínguez.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-propertyvalue-127468.html
@@ -27,6 +27,6 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Paraíso de leyendas
 - Realismo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

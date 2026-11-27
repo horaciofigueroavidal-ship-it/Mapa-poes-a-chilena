@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Folklore - Chile  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Julio Vicuña Cifuentes, publicada en 1915. Datos de edición: Santiago de Chile : Impr. Universitaria, 1915. Le precede «Estudios de folclore chileno» (1915) y le sigue «Cosecha de Otoño» (1920). Materias en Memoria Chilena: Folklore - Chile.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8171.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0008702.pdf)

@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1985 de Soledad Fariña, en que la escritura se descompone y se recompone para buscar una lengua del cuerpo femenino y del paisaje.
+
 📖 **[[Obras/PDF/El primer libro — Soledad Fariña (1985).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9335.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0028769.pdf)

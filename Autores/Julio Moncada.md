@@ -20,6 +20,6 @@ Poeta (1919–?) de la generación del 38. Nómez lo incluye en el paso de la va
 - Poema IV
 - César Vallejo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

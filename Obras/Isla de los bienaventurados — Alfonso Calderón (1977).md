@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Alfonso Calderón, publicado en 1977. Datos de edición: Santiago : Nascimento, 1977. Le precede «El olivo viejo que lloraba» (1975) y le sigue «Poemas para clavecín» (1979).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Isla de los bienaventurados — Alfonso Calderón (1977).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8502.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013331.pdf)

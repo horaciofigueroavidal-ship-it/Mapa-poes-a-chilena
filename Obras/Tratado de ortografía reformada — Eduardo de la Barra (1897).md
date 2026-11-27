@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Español - Ortografía  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Eduardo de la Barra, publicada en 1897. Datos de edición: Santiago : Imprenta i Encuadernación Barcelona, 1897. Es el título más tardío de su bibliografía registrada. Le precede «Ortografía fonética para el Cuarto Congreso Científico de Chile» (1897). Materias en Memoria Chilena: Español - Ortografía.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-588450.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0074449.pdf)

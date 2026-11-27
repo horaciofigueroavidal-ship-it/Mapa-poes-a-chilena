@@ -21,6 +21,6 @@ Poeta (1910–?) de la generación del 38. Nómez lo incluye en el paso de la va
 - Pronta mejoría para Oscar Castro
 - Último adiós al almirante del mundo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

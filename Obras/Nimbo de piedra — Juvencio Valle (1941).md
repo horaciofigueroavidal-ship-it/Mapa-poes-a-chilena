@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1941 que continúa la celebración de la naturaleza austral y del mundo campesino.
+
 📖 **[[Obras/PDF/Nimbo de piedra — Juvencio Valle (1941).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8266.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009860.pdf)

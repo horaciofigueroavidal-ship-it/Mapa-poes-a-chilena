@@ -40,11 +40,29 @@ feminismo, feminista, géneroDocumentos
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Bobby Sands desfallece en el muro — Carmen Berenguer (1983)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9331.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0028765.pdf)
+- [[Huellas de siglo — Carmen Berenguer (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Huellas%20de%20siglo) · *sin PDF*
 - [[A media asta — Carmen Berenguer (1988)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-87237.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0065022.pdf)
+- [[Sayal de pieles — Carmen Berenguer (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sayal%20de%20pieles) · *sin PDF*
 - [[Naciste pintada — Carmen Berenguer (1999)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-87240.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0065030.pdf)
+- [[La gran hablada — Carmen Berenguer (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20gran%20hablada) · *sin PDF*
+- [[Mama Marx — Carmen Berenguer (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mama%20Marx) · *sin PDF*
+- [[Chiiit, son las ventajas de la escritura — Carmen Berenguer (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chiiit%2C%20son%20las%20ventajas%20de%20la%20escritura) · *sin PDF*
 - [[La casa de la poesía — Carmen Berenguer (2008)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-87241.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0065031.pdf)
+- [[Maravillas pulgares — Carmen Berenguer (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maravillas%20pulgares) · *sin PDF*
+- [[Venid a verme ahora — Carmen Berenguer (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Venid%20a%20verme%20ahora) · *sin PDF*
+- [[Mi Lai — Carmen Berenguer (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mi%20Lai) · *sin PDF*
+- [[Lásbica — Carmen Berenguer (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=L%C3%A1sbica) · *sin PDF*
+- [[Obra poética — Carmen Berenguer (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20po%C3%A9tica) · *sin PDF*
+- [[Plaza de la Dignidad — Carmen Berenguer (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Plaza%20de%20la%20Dignidad) · *sin PDF*
+- [[Un nuevo relieve — Carmen Berenguer (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Un%20nuevo%20relieve) · *sin PDF*
+
+### Otras obras
+
+- [[Escribir en los bordes. Congreso Internacional de Literatura Femenina Latinoamericana, 198 — Carmen Berenguer (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Escribir%20en%20los%20bordes.%20Congreso%20Internacional%20de%20Literatura) · *sin PDF*
+- [[La mirada oculta — Carmen Berenguer (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20mirada%20oculta) · *sin PDF*
+- [[Crónicas en transición — Carmen Berenguer (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cr%C3%B3nicas%20en%20transici%C3%B3n) · *sin PDF*

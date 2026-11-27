@@ -23,6 +23,13 @@ Si el autor no tiene minisitio en Memoria Chilena, puedes escribirle una nota en
 Texto de la nota (uno o más párrafos; *cursiva* para títulos).
 ```
 
+## 1c. (Opcional) Obras e introducciones
+
+- La bibliografía completa sale sola de Wikipedia (`wiki.py`). Si falta una obra, agrégala en `_trabajo/obras_extra.txt`:
+  `Título | año | género`, bajo `## Nombre del autor`.
+- Para escribir la introducción de una obra, usa `_trabajo/obras_intro.txt`:
+  `## Autor | Título` y debajo el texto. Las obras sin entrada reciben una introducción automática con sus datos.
+
 ## 2. Regenerar
 
 En la carpeta `_trabajo`, haz clic en la barra de direcciones del Explorador, escribe `cmd` y Enter. Luego:

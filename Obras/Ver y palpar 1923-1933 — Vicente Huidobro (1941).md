@@ -15,6 +15,10 @@ tags: [obra]
 **Descripción física:** 126 páginas  
 **Materias:** Poesías Chilenas  
 
+## Introducción
+
+Libro de 1941 que, junto a *El ciudadano del olvido* (1941), muestra al Huidobro tardío: más reflexivo y existencial, sin abandonar el juego creacionista.
+
 📖 **[[Obras/PDF/Ver y palpar 1923-1933 — Vicente Huidobro (1941).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-67189.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067419.pdf)

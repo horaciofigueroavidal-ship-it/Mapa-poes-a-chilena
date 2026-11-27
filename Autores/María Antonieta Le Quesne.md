@@ -19,6 +19,6 @@ Poeta de la primera mitad del siglo XX, parte de la generación de mujeres que s
 - Alma que mueres de amor
 - Y todo pasará
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

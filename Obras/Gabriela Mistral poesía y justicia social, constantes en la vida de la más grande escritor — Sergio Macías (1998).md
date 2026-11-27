@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Catálogo de la exposición sobre Gabriela Mistral, presentada en Gijón, España  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Sergio Macías, publicada en 1998. Datos de edición: Gijón, España : Ayuntamiento de Gijón, 1998.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8706.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015065.pdf)

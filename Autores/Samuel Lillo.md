@@ -45,19 +45,29 @@ La actualización de este minisitio se publicó durante julio de 2022.
 - El gaucho
 - La mina abandonada
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Canciones de Arauco — Samuel Lillo (1900)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7957.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003906.pdf)
 - [[Poesías — Samuel Lillo (1900)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8262.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009836.pdf)
+- [[Antes y hoy — Samuel Lillo (1905)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antes%20y%20hoy) · *sin PDF*
 - [[Chile heroico — Samuel Lillo (1911)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-624745.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075870.pdf)
+- [[La Concepción — Samuel Lillo (1911)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Concepci%C3%B3n) · *sin PDF*
+- [[La escolta de la bandera — Samuel Lillo (1912)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20escolta%20de%20la%20bandera) · *sin PDF*
 - [[Canto a la América Latina — Samuel Lillo (1913)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8260.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0009834.pdf)
 - [[Bajo la cruz del sur — Samuel Lillo (1926)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8259.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009833.pdf)
+- [[Cantos filiales — Samuel Lillo (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cantos%20filiales) · *sin PDF*
 - [[Fuente secreta poesías líricas — Samuel Lillo (1933)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8261.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0009835.pdf)
+- [[Campanario de humanidad — Samuel Lillo (1938)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Campanario%20de%20humanidad) · *sin PDF*
+- [[El río del tiempo — Samuel Lillo (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20r%C3%ADo%20del%20tiempo) · *sin PDF*
+- [[Discursos patrióticos y académicos — Samuel Lillo (1944)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Discursos%20patri%C3%B3ticos%20y%20acad%C3%A9micos) · *sin PDF*
+- [[Lámpara evocadora — Samuel Lillo (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=L%C3%A1mpara%20evocadora) · *sin PDF*
+- [[Primavera de antaño — Samuel Lillo (1951)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Primavera%20de%20anta%C3%B1o) · *sin PDF*
 
 ### Otras obras
 
+- [[A Vasco Núñez de Balboa. Canto lírico — Samuel Lillo (1914)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%20Vasco%20N%C3%BA%C3%B1ez%20de%20Balboa.%20Canto%20l%C3%ADrico) · *sin PDF*
 - [[Canto lírico a la lengua castellana — Samuel Lillo (1916)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-624746.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075871.pdf)
 - [[Literatura chilena — Samuel Lillo (1918)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620846.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075726.pdf)
 - [[Literatura chilena — Samuel Lillo (1924)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9986.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0041357.pdf)

@@ -45,11 +45,21 @@ En los años 90 publicó en Estocolmo, junto a Juan Castillo del grupo CADA, el 
 - Me casé con la reina
 - El automóvil
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Relación personal — Gonzalo Millán (1968)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8721.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015211.pdf)
 - [[La Ciudad — Gonzalo Millán (1979)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8036.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0006611.pdf)
+- [[Seudónimos de la muerte — Gonzalo Millán (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Seud%C3%B3nimos%20de%20la%20muerte) · *sin PDF*
+- [[Vida — Gonzalo Millán (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vida) · *sin PDF*
+- [[Dragón que se muerde la cola — Gonzalo Millán (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Drag%C3%B3n%20que%20se%20muerde%20la%20cola) · *sin PDF*
+- [[Virus — Gonzalo Millán (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Virus) · *sin PDF*
+- [[5 poemas eróticos — Gonzalo Millán (1990)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=5%20poemas%20er%C3%B3ticos) · *sin PDF*
 - [[Strange houses — Gonzalo Millán (1991)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9997.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0041515.pdf)
+- [[Trece lunas — Gonzalo Millán (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Trece%20lunas) · *sin PDF*
+- [[Claroscuro — Gonzalo Millán (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Claroscuro) · *sin PDF*
+- [[Autorretrato de memoria — Gonzalo Millán (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Autorretrato%20de%20memoria) · *sin PDF*
+- [[Gabinete de papel — Gonzalo Millán (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabinete%20de%20papel) · *sin PDF*
 - [[Veneno de escorpión azul diario de vida y de muerte — Gonzalo Millán (2008)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10324.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050989.pdf)
+- [[La poesía no es personal — Gonzalo Millán (2012)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20poes%C3%ADa%20no%20es%20personal) · *sin PDF*

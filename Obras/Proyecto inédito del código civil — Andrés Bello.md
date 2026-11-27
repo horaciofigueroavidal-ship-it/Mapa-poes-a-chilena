@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Derecho Civil  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Andrés Bello. Materias en Memoria Chilena: Derecho Civil.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10455.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0064763.pdf)

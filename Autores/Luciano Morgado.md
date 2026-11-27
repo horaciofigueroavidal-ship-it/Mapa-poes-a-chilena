@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la promoción posterior al Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Su obra prolonga el modernismo en clave de paisaje y sentimiento. Sus datos biográficos son escasos.
+Poeta de la promoción posterior al Centenario, presente en las antologías de su tiempo; Memoria Chilena conserva un retrato suyo de hacia 1923. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. No debe confundirse con Benjamín Morgado, poeta de Valparaíso ligado al runrunismo.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -18,6 +18,6 @@ Poeta de la promoción posterior al Centenario. Nómez lo incluye en la corrient
 - Esta tarde
 - En el cielo una nube
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

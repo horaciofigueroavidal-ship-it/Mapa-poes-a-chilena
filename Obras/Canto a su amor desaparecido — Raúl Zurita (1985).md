@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Poema de 1985 que nombra en largas listas a los desaparecidos de América Latina.
+
 📖 **[[Obras/PDF/Canto a su amor desaparecido — Raúl Zurita (1985).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8352.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011216.pdf)

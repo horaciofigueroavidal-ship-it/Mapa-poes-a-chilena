@@ -25,6 +25,6 @@ Poeta (1911–1966) de la generación del 38, figura de la bohemia santiaguina. 
 - Expedición a la soledad
 - Viaje final
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

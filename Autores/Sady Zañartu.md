@@ -42,10 +42,23 @@ Sady Zañartu fue un escritor prolífico y versátil, el legado de su obra es un
 - El prodigio de las campanas
 - Santiago antiguo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
+### Poesía
+
+- [[Desde el vivac — Sady Zañartu (1915)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Desde%20el%20vivac) · *sin PDF*
+- [[Sor Rosario — Sady Zañartu (1916)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sor%20Rosario) · *sin PDF*
+- [[La danzarina del fuego — Sady Zañartu (1918)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20danzarina%20del%20fuego) · *sin PDF*
+- [[Llampo brujo — Sady Zañartu (1933)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Llampo%20brujo) · *sin PDF*
+- [[Lastarria, el hombre solo, biografía — Sady Zañartu (1938)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lastarria%2C%20el%20hombre%20solo%2C%20biograf%C3%ADa) · *sin PDF*
+- [[Chilecito, cuadros regionales — Sady Zañartu (1939)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chilecito%2C%20cuadros%20regionales) · *sin PDF*
+- [[Mar hondo, reminiscencias — Sady Zañartu (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mar%20hondo%2C%20reminiscencias) · *sin PDF*
+- [[Tomelonco — Sady Zañartu (1968)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tomelonco) · *sin PDF*
+
+### Otras obras
 
 - [[La sombra del corregidor novela de los tiempos coloniales — Sady Zañartu (1927)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8497.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013145.pdf)
 - [[Historia del vendedor de libros — Sady Zañartu (1937)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9198.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0026103.pdf)
+- [[El Tile viejo y sus cuentos — Sady Zañartu (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Tile%20viejo%20y%20sus%20cuentos) · *sin PDF*
 - [[Color de América nuevos cuentos latinoamericanos — Sady Zañartu (1969)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8496.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013133.pdf)
 - [[Santiago calles viejas historias de cuando sus nombres salieron del barro materno con la f — Sady Zañartu (1975)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8498.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013146.pdf)

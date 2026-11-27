@@ -16,4 +16,8 @@ tags: [obra]
 **Notas:** Dedicatoria manuscrita de la autora en páginas previas; Incluye grabados  
 **Materias:** Literatura chilena  
 
+## Introducción
+
+Libro de canciones de cuna, rondas y poemas para niños (Madrid, 1924; edición ampliada en 1945). Mistral transforma el folclor infantil en una poesía de la maternidad, el juego y el asombro, con una musicalidad heredada de la tradición oral.
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-639193.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076804.pdf)

@@ -46,9 +46,27 @@ Después de una vida dedicada a la escritura en sus diversos géneros, Mahfúd M
 - Poema 16
 - Llanto del exiliado (fragmentos)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Litoral celeste — Mahfud Massís (1940)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Litoral%20celeste) · *sin PDF*
+- [[Las Bestias del duelo — Mahfud Massís (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20Bestias%20del%20duelo) · *sin PDF*
+- [[Ojo de Tormenta — Mahfud Massís (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ojo%20de%20Tormenta) · *sin PDF*
+- [[13 poetas chilenos — Mahfud Massís (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=13%20poetas%20chilenos) · *sin PDF*
 - [[Elegía bajo la tierra — Mahfud Massís (1955)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8848.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0017626.pdf)
+- [[Sonatas del gallo negro — Mahfud Massís (1958)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sonatas%20del%20gallo%20negro) · *sin PDF*
+- [[El libro de los astros apagados — Mahfud Massís (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20libro%20de%20los%20astros%20apagados) · *sin PDF*
+- [[Las leyendas del Cristo Negro — Mahfud Massís (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20leyendas%20del%20Cristo%20Negro) · *sin PDF*
+- [[Testamento sobre la piedra — Mahfud Massís (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Testamento%20sobre%20la%20piedra) · *sin PDF*
+- [[Llanto del Exiliado — Mahfud Massís (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Llanto%20del%20Exiliado) · *sin PDF*
+- [[Este modo de morir — Mahfud Massís (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Este%20modo%20de%20morir) · *sin PDF*
 - [[Antología poemas 1942-1988 — Mahfud Massís (1990)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8849.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0017628.pdf)
+- [[Papeles Quemados — Mahfud Massís (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Papeles%20Quemados) · *sin PDF*
+
+### Otras obras
+
+- [[Los Tres — Mahfud Massís (1944)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20Tres) · *sin PDF*
+- [[Los sueños de Caín — Mahfud Massís (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20sue%C3%B1os%20de%20Ca%C3%ADn) · *sin PDF*
+- [[Walt Whitman, el visionario de Long Island — Mahfud Massís (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Walt%20Whitman%2C%20el%20visionario%20de%20Long%20Island) · *sin PDF*
+- [[El hombre y su circunstancia — Mahfud Massís (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20hombre%20y%20su%20circunstancia) · *sin PDF*

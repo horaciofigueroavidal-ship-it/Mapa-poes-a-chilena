@@ -19,6 +19,6 @@ Poeta de la generación del Centenario. Nómez lo incluye en la corriente de nac
 - Fumadora
 - Flor de fango
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

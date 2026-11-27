@@ -18,6 +18,10 @@ tags: [obra]
 **Materias:** Literatura chilena - Siglo 20Autoras chilenasPoesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra póstuma (1967), preparada por Doris Dana. Es un largo recorrido por Chile, de norte a sur, en que la poeta muerta vuelve como fantasma, acompañada de un niño indio y un huemul, para nombrar la geografía, la flora y la fauna de su país.
+
 📖 **[[Obras/PDF/Poema de Chile — Gabriela Mistral (1967).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7917.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003272.pdf)

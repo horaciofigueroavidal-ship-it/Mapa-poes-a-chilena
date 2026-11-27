@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro póstumo (1984) que reúne la obra de Rodrigo Lira, muerto en 1981. Su poesía, irónica, paródica y llena de citas, es una de las más originales de su generación.
+
 📖 **[[Obras/PDF/Proyecto de obras completas — Rodrigo Lira (2003).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8713.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015155.pdf)

@@ -17,4 +17,8 @@ tags: [obra]
 **Materias:** Chile - Historia - Golpe de Estado, 1973Estadio Nacional (Chile)  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 2003 que reconstruye la experiencia de los prisioneros del Estadio Nacional tras el golpe de 1973.
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-62153.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0059500.pdf)

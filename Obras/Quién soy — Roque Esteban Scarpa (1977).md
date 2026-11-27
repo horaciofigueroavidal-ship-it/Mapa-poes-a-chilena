@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Serie: Quién es quién en las letras chilenas?  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Roque Esteban Scarpa, publicada en 1977. Datos de edición: [Santiago] : Agrupación Amigos del Libro, impresión de 1977 (Santiago : Nascimento). Le precede «El árbol deshojado de sonrisas» (1977) y le sigue «Rodeado estoy de dioses» (1977).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8345.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011072.pdf)

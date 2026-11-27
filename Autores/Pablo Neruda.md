@@ -36,11 +36,72 @@ Pablo Neruda fue una figura clave de la cultura y política chilena del siglo XX
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Crepusculario — Pablo Neruda (1923)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Crepusculario) · *sin PDF*
+- [[Veinte poemas de amor y una canción desesperada — Pablo Neruda (1924)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Veinte%20poemas%20de%20amor%20y%20una%20canci%C3%B3n%20desesperada) · *sin PDF*
+- [[Residencia en la Tierra (1925-1931) — Pablo Neruda (1925)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Residencia%20en%20la%20Tierra%20%281925-1931%29) · *sin PDF*
+- [[Anillos — Pablo Neruda (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Anillos) · *sin PDF*
+- [[El habitante y su esperanza — Pablo Neruda (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20habitante%20y%20su%20esperanza) · *sin PDF*
+- [[Tentativa del hombre infinito — Pablo Neruda (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tentativa%20del%20hombre%20infinito) · *sin PDF*
+- [[Pablo Neruda, Epistolario viajero. (1927-1973) — Pablo Neruda (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%2C%20Epistolario%20viajero.%20%281927-1973%29) · *sin PDF*
+- [[Pablo Neruda. Yo respondo con mi obra Conferencias, Discursos, Cartas, Declaraciones. (193 — Pablo Neruda (1932)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda.%20Yo%20respondo%20con%20mi%20obra%3A%20Conferencias%2C%20Discurs) · *sin PDF*
+- [[El hondero entusiasta — Pablo Neruda (1933)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20hondero%20entusiasta) · *sin PDF*
+- [[Tercera residencia (1935-1945) — Pablo Neruda (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tercera%20residencia%20%281935-1945%29) · *sin PDF*
+- [[España en el corazón — Pablo Neruda (1936)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Espa%C3%B1a%20en%20el%20coraz%C3%B3n) · *sin PDF*
+- [[Nuevo canto de amor a Stalingrado — Pablo Neruda (1943)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nuevo%20canto%20de%20amor%20a%20Stalingrado) · *sin PDF*
+- [[Pablo Neruda, Discursos Parlamentarios. (1945-1948) — Pablo Neruda (1945)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%2C%20Discursos%20Parlamentarios.%20%281945-1948%29) · *sin PDF*
+- [[Canto general — Pablo Neruda (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canto%20general) · *sin PDF*
+- [[Los versos del capitán — Pablo Neruda (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20versos%20del%20capit%C3%A1n) · *sin PDF*
+- [[Todo el amor — Pablo Neruda (1953)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Todo%20el%20amor) · *sin PDF*
+- [[Las uvas y el viento — Pablo Neruda (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20uvas%20y%20el%20viento) · *sin PDF*
+- [[Odas elementales — Pablo Neruda (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Odas%20elementales) · *sin PDF*
+- [[Nuevas odas elementales — Pablo Neruda (1955)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nuevas%20odas%20elementales) · *sin PDF*
+- [[Tercer libro de las odas — Pablo Neruda (1957)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tercer%20libro%20de%20las%20odas) · *sin PDF*
+- [[Estravagario — Pablo Neruda (1958)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estravagario) · *sin PDF*
+- [[Cien sonetos de amor — Pablo Neruda (1959)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cien%20sonetos%20de%20amor) · *sin PDF*
+- [[Navegaciones y regresos — Pablo Neruda (1959)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Navegaciones%20y%20regresos) · *sin PDF*
+- [[Canción de gesta — Pablo Neruda (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canci%C3%B3n%20de%20gesta) · *sin PDF*
+- [[Poesías Las piedras de Chile — Pablo Neruda (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%3A%20Las%20piedras%20de%20Chile) · *sin PDF*
+- [[Cantos ceremoniales — Pablo Neruda (1961)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cantos%20ceremoniales) · *sin PDF*
+- [[Memorial de Isla Negra — Pablo Neruda (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Memorial%20de%20Isla%20Negra) · *sin PDF*
+- [[Arte de pájaros — Pablo Neruda (1966)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Arte%20de%20p%C3%A1jaros) · *sin PDF*
+- [[Fulgor y muerte de Joaquín Murieta — Pablo Neruda (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fulgor%20y%20muerte%20de%20Joaqu%C3%ADn%20Murieta) · *sin PDF*
+- [[La Barcarola — Pablo Neruda (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Barcarola) · *sin PDF*
+- [[Las manos del día — Pablo Neruda (1968)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20manos%20del%20d%C3%ADa) · *sin PDF*
 - [[Lira popular una joya bibliográfica — Pablo Neruda (1968)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124896.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0052006.pdf)
+- [[Aún — Pablo Neruda (1969)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%C3%BAn) · *sin PDF*
+- [[Comiendo en Hungría — Pablo Neruda (1969)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Comiendo%20en%20Hungr%C3%ADa) · *sin PDF*
+- [[Fin del mundo — Pablo Neruda (1969)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fin%20del%20mundo) · *sin PDF*
+- [[La espada encendida — Pablo Neruda (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20espada%20encendida) · *sin PDF*
+- [[Las piedras del cielo — Pablo Neruda (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20piedras%20del%20cielo) · *sin PDF*
+- [[Maremoto — Pablo Neruda (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maremoto) · *sin PDF*
+- [[Discurso de Estocolmo — Pablo Neruda (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Discurso%20de%20Estocolmo) · *sin PDF*
+- [[Geografía infructuosa — Pablo Neruda (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Geograf%C3%ADa%20infructuosa) · *sin PDF*
+- [[La rosa separada — Pablo Neruda (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20rosa%20separada) · *sin PDF*
+- [[El mar y las campanas — Pablo Neruda (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20mar%20y%20las%20campanas) · *sin PDF*
+- [[Geografía de Pablo Neruda — Pablo Neruda (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Geograf%C3%ADa%20de%20Pablo%20Neruda) · *sin PDF*
+- [[Incitación al Nixonicidio y alabanza de la revolución chilena — Pablo Neruda (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Incitaci%C3%B3n%20al%20Nixonicidio%20y%20alabanza%20de%20la%20revoluci%C3%B3n%20chilen) · *sin PDF*
+- [[Confieso que he vivido — Pablo Neruda (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Confieso%20que%20he%20vivido) · *sin PDF*
+- [[El corazón amarillo — Pablo Neruda (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20coraz%C3%B3n%20amarillo) · *sin PDF*
+- [[Elegía — Pablo Neruda (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Eleg%C3%ADa) · *sin PDF*
+- [[Jardín de invierno — Pablo Neruda (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Jard%C3%ADn%20de%20invierno) · *sin PDF*
+- [[Libro de las preguntas — Pablo Neruda (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Libro%20de%20las%20preguntas) · *sin PDF*
+- [[Cartas de amor de Pablo Neruda — Pablo Neruda (1975)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cartas%20de%20amor%20de%20Pablo%20Neruda) · *sin PDF*
+- [[Cartas a Laura — Pablo Neruda (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cartas%20a%20Laura) · *sin PDF*
+- [[Para nacer he nacido — Pablo Neruda (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Para%20nacer%20he%20nacido) · *sin PDF*
+- [[El río invisible — Pablo Neruda (1980)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20r%C3%ADo%20invisible) · *sin PDF*
+- [[NerudaEandi, Correspondencia durante Residencia en la tierra — Pablo Neruda (1980)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Neruda/Eandi%2C%20Correspondencia%20durante%20Residencia%20en%20la%20tierr) · *sin PDF*
+- [[Poesías escogidas — Pablo Neruda (1980)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%20escogidas) · *sin PDF*
+- [[El fin del viaje — Pablo Neruda (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20fin%20del%20viaje) · *sin PDF*
+- [[Antología fundamental — Pablo Neruda (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20fundamental) · *sin PDF*
+- [[2000 — Pablo Neruda (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=2000) · *sin PDF*
+- [[Pablo Neruda, Prólogos — Pablo Neruda (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%2C%20Pr%C3%B3logos) · *sin PDF*
+- [[Antología General — Pablo Neruda (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20General) · *sin PDF*
+- [[La piel extensa — Pablo Neruda (2013)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20piel%20extensa) · *sin PDF*
+- [[Pablo Neruda, Cuadernos de Temuco — Pablo Neruda]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%2C%20Cuadernos%20de%20Temuco) · *sin PDF*
 
 ### Otras obras
 

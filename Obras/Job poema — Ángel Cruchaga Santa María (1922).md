@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Poemario de 1922 de raíz bíblica, en que la desdicha de Job se convierte en símbolo del dolor humano y la fe.
+
 📖 **[[Obras/PDF/Job poema — Ángel Cruchaga Santa María (1922).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8620.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014355.pdf)

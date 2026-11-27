@@ -18,6 +18,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Stella Díaz Varín, publicado en 1992. Datos de edición: Santiago : Cuarto Propio, 1992. Le precede «La Arenera» (1987) y le sigue «Stella Díaz Varín: Poesía» (1994).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Los dones previsibles — Stella Díaz Varín (1992).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8855.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0017862.pdf)

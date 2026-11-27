@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Rosamel del Valle, publicado en 1967. Datos de edición: Santiago : Orfeo, 1967 (Santiago : Universitaria). Le precede «El sol es un pájaro cautivo en el reloj» (1963) y le sigue «Eva y la fuga» (1970).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Adiós enigma tornasol — Rosamel del Valle (1967).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7753.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0000722.pdf)

@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Diego Dublé Urrutia, publicado en 1953. Datos de edición: Santiago : Nascimento, 1953.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Fontana cándida poemas (1895-1952) — Diego Dublé Urrutia (1953).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8371.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0011546.pdf)

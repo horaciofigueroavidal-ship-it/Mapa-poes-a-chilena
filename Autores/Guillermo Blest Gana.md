@@ -31,15 +31,15 @@ Retirado en su casa de la calle Manuel Rodríguez, en Santiago, Guillermo Blest 
 - A la muerte
 - Mirada retrospectiva
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[La flor de la Soledad — Guillermo Blest Gana (1857)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84731.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050121.pdf)
+- [[Armonías — Guillermo Blest Gana (1884)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84733.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050123.pdf)
 - [[Obras completas de Guillermo Blest Gana tomo I — Guillermo Blest Gana]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84720.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050110.pdf)
 - [[Obras completas de Guillermo Blest Gana tomo II — Guillermo Blest Gana]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84721.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050111.pdf)
 - [[Obras completas de Guillermo Blest Gana tomo III — Guillermo Blest Gana]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84722.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050112.pdf)
-- [[La flor de la Soledad — Guillermo Blest Gana (1857)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84731.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050121.pdf)
-- [[Armonías — Guillermo Blest Gana (1884)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-84733.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050123.pdf)
 
 ### Otras obras
 

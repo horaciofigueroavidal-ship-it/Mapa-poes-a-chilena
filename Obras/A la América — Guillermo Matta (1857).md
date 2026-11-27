@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Guillermo Matta, publicado en 1857. Datos de edición: Santiago : [Editor no identificado], 1857. Le precede «Cuentos en versos» (1853) y le sigue «La Constituyente: canción popular» (1859).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/A la América — Guillermo Matta (1857).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-349249.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072344.pdf)

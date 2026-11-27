@@ -22,6 +22,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - He de buscarte en los días del pasado
 - Amorosa te arrastras inútilmente lasciva
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+
+- [[La nueva generación de novelistas chilenos — Francisco Santana]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20nueva%20generaci%C3%B3n%20de%20novelistas%20chilenos) · *sin PDF*

@@ -19,6 +19,6 @@ Poeta de la promoción modernista de comienzos del siglo XX. Nómez lo incluye e
 - La novia
 - Invierno
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Novelas Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Novela de Vicente Huidobro, publicada en 1934. Datos de edición: Santiago : Editorial Zig-Zag, 1934. Le precede «Tremblement de ciel» (1932) y le sigue «En la luna: pequeño guignol en cuatro actos y trece cuadros» (1934).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-337063.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0071415.pdf)

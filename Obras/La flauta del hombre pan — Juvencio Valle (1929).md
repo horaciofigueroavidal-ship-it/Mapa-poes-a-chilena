@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Juvencio Valle, publicado en 1929. Datos de edición: Nueva Imperial : Editorial Azules,1929 (Nueva Imperial : Impr. El Ideal). Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/La flauta del hombre pan — Juvencio Valle (1929).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8265.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009859.pdf)

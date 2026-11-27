@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Oliver Welden, publicado en 1970. Datos de edición: [Antofagasta] : Mimbre-Tebaida, 1970 (Antofagasta : Guillermo Deisler). Le precede «Oscura palabra. Poesía 1970-2006» (1970) y le sigue «Fábulas ocultas» (2006).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Perro del amor — Oliver Welden (1970).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-132018.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050695.pdf)

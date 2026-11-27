@@ -46,6 +46,9 @@ Carlos Préndez Saldías           mini=—  libros=0
 Jorge Hübner Bezanilla           mini=sí  libros=0
 Daniel de la Vega                mini=sí  libros=3
 Enrique Ponce                    mini=—  libros=0
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1198614.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1198614.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-1198614.html HTTP Error 404: Not Found
 Carlos Barella                   mini=—  libros=0
 Ángel Cruchaga Santa María       mini=sí  libros=4
 Teresa Wilms Montt               mini=sí  libros=4
@@ -68,6 +71,15 @@ Gabriela Mistral                 mini=sí  libros=15
 Vicente Huidobro                 mini=sí  libros=28
 Winétt de Rokha                  mini=sí  libros=5
 Pablo de Rokha                   mini=sí  libros=8
+Pablo Neruda                     mini=sí  libros=3
+Rosamel del Valle                mini=sí  libros=4
+Humberto Díaz-Casanueva          mini=sí  libros=6
+Juvencio Valle                   mini=sí  libros=4
+Alberto Rojas Jiménez            mini=sí  libros=3
+Romeo Murga                      mini=sí  libros=2
+Gerardo Seguel                   mini=—  libros=1
+María Monvel                     mini=sí  libros=4
+Julio Barrenechea                mini=sí  libros=3
 Omar Cáceres                     mini=sí  libros=0
 Juan Negro                       mini=—  libros=0
 Óscar Castro                     mini=sí  libros=5
@@ -132,6 +144,9 @@ Rolando Cárdenas                 mini=sí  libros=5
 Luis Vulliamy                    mini=—  libros=0
 Marino Muñoz Lagos               mini=—  libros=0
 Pablo Guíñez                     mini=—  libros=0
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-776291.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-776291.html HTTP Error 404: Not Found
+  ! error https://www.memoriachilena.gob.cl/602/w3-propertyvalue-776291.html HTTP Error 404: Not Found
 Alfonso Calderón                 mini=sí  libros=13
 Delia Domínguez                  mini=sí  libros=1
 Armando Uribe Arce               mini=sí  libros=9
@@ -183,3 +198,69 @@ Manuel Silva Acevedo             mini=sí  libros=5
 Oliver Welden                    mini=sí  libros=2
 Claudio Bertoni                  mini=sí  libros=8
 Cecilia Vicuña                   mini=sí  libros=6
+Raúl Zurita                      mini=sí  libros=3
+Juan Luis Martínez               mini=sí  libros=0
+Diego Maquieira                  mini=sí  libros=2
+Rodrigo Lira                     mini=sí  libros=1
+Carmen Berenguer                 mini=sí  libros=4
+Elvira Hernández                 mini=sí  libros=1
+Soledad Fariña                   mini=—  libros=1
+Eugenia Brito                    mini=—  libros=0
+Paz Molina                       mini=—  libros=0
+Gonzalo Muñoz                    mini=—  libros=0
+Carlos Cociña                    mini=—  libros=0
+Antonio Gil                      mini=—  libros=0
+Tomás Harris                     mini=sí  libros=5
+José Ángel Cuevas                mini=sí  libros=0
+Armando Rubio                    mini=sí  libros=1
+Bruno Vidal                      mini=—  libros=0
+Aristóteles España               mini=—  libros=0
+Teresa Calderón                  mini=sí  libros=4
+Eduardo Llanos                   mini=—  libros=0
+Heddy Navarro                    mini=—  libros=0
+Jorge Montealegre                mini=—  libros=2
+Juan Cameron                     mini=—  libros=0
+Alexis Figueroa                  mini=—  libros=1
+Erick Pohlhammer                 mini=—  libros=1
+Roberto Bolaño                   mini=sí  libros=0
+Bruno Montané                    mini=sí  libros=0
+Jorge Etcheverry                 mini=—  libros=0
+Sergio Macías                    mini=—  libros=1
+Mauricio Redolés                 mini=—  libros=0
+Rosabetty Muñoz                  mini=—  libros=0
+Sergio Mansilla                  mini=—  libros=0
+Clemente Riedemann               mini=—  libros=1
+Jorge Torres                     mini=—  libros=1
+Carlos Alberto Trujillo          mini=—  libros=1
+Juan Pablo Riveros               mini=—  libros=0
+Renato Cárdenas                  mini=—  libros=2
+Mario Contreras Vega             mini=—  libros=0
+Elicura Chihuailaf               mini=sí  libros=0
+Leonel Lienlaf                   mini=—  libros=0
+Jaime Huenún                     mini=—  libros=0
+Graciela Huinao                  mini=—  libros=0
+Adriana Paredes Pinda            mini=—  libros=0
+Bernardo Colipán                 mini=—  libros=0
+Lorenzo Aillapán                 mini=—  libros=0
+Rayen Kvyeh                      mini=—  libros=0
+David Aniñir                     mini=—  libros=0
+Verónica Jiménez                 mini=—  libros=0
+Sergio Parra                     mini=—  libros=0
+Malú Urriola                     mini=sí  libros=0
+Armando Roa Vial                 mini=—  libros=0
+Ximena Rivera                    mini=—  libros=0
+Germán Carrasco                  mini=—  libros=0
+Yanko González                   mini=—  libros=0
+Alejandra del Río                mini=—  libros=0
+Javier Bello                     mini=—  libros=0
+Juan Cristóbal Romero            mini=—  libros=0
+Andrés Anwandter                 mini=—  libros=0
+Leonardo Sanhueza                mini=—  libros=0
+Rafael Rubio                     mini=—  libros=0
+Damsi Figueroa                   mini=—  libros=0
+Héctor Hernández Montecinos      mini=—  libros=0
+Paula Ilabaca                    mini=—  libros=0
+Gladys González                  mini=—  libros=0
+Diego Ramírez                    mini=—  libros=0
+Enrique Winter                   mini=—  libros=0
+Daniela Catrileo                 mini=—  libros=0

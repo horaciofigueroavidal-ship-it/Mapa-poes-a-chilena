@@ -33,7 +33,7 @@ Pese a la brevedad de su producción, la calidad de su obra fue reconocida ampli
 - Yerbas buenas
 - La senda
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

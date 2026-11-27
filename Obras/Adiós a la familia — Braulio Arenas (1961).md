@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Novelas Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Novela de Braulio Arenas, publicada en 1961. Datos de edición: [Santiago] : Eds. Los Cuatro Elementos, impresión de 1961. Le precede «El a g c de la Mandrágora» (1957) y le sigue «La casa fantasma» (1962).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8014.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005225.pdf)

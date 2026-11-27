@@ -35,12 +35,15 @@ estrella de cineDocumentos
 - Cuando cae el telón
 - La farándula se va
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Muecas en la sombra — Pedro Sienna (1917)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10197.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0046927.pdf)
 - [[El tinglado de la farsa — Pedro Sienna (1922)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10198.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0046950.pdf)
+- [[Recuerdos del soldado desconocido episodios de la Guerra del Pacífico que no menciona la h — Pedro Sienna (1931)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Recuerdos%20del%20soldado%20desconocido%3A%20episodios%20de%20la%20Guerra%20de) · *sin PDF*
+- [[Obras completas — Pedro Sienna (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20completas) · *sin PDF*
+- [[Memorias de la vida del teatro — Pedro Sienna]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Memorias%20de%20la%20vida%20del%20teatro) · *sin PDF*
 
 ### Otras obras
 

@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Venezolanas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Andrés Bello. Materias en Memoria Chilena: Poesías Venezolanas.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Poesías — Andrés Bello.pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10447.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0064753.pdf)

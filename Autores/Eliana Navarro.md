@@ -52,12 +52,15 @@ Eliana Navarro falleció el 6 de junio de 2006.
 - Angelus de mediodía
 - Esta hora
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Tres poemas — Eliana Navarro (1951)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tres%20poemas) · *sin PDF*
 - [[Antiguas voces llaman — Eliana Navarro (1955)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8320.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010873.pdf)
 - [[La ciudad que fue poemas — Eliana Navarro (1965)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8321.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010877.pdf)
+- [[La flor de la Montaña — Eliana Navarro (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20flor%20de%20la%20Monta%C3%B1a) · *sin PDF*
+- [[Ángelus de mediodía — Eliana Navarro (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%81ngelus%20de%20mediod%C3%ADa) · *sin PDF*
 
 ### Otras obras
 

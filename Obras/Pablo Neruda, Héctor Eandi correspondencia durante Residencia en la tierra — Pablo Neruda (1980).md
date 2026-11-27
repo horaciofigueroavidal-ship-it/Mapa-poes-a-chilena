@@ -17,4 +17,10 @@ tags: [obra]
 **Notas:** Compilada por Margarita Aguirre  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Pablo Neruda, publicada en 1980. Datos de edición: Buenos Aires : Edit. Sudamericana, c1980. Le precede «Neruda/Eandi, Correspondencia durante Residencia en la tierra» (1980) y le sigue «Poesías escogidas» (1980).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9195.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0026000.pdf)

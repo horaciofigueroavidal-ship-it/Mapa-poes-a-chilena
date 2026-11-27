@@ -1504,7 +1504,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Salvador Sanfuentes": {
   "minisitio": {
@@ -2117,7 +2118,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Guillermo Matta": {
   "minisitio": {
@@ -3017,7 +3019,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Guillermo Blest Gana": {
   "minisitio": {
@@ -3824,7 +3827,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Eduardo de la Barra": {
   "minisitio": null,
@@ -4318,7 +4322,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "José Antonio Soffia": {
   "minisitio": {
@@ -4354,7 +4359,8 @@
    "url": "https://www.memoriachilena.gob.cl/602/w3-article-333855.html"
   },
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Juan Rafael Allende": {
   "minisitio": {
@@ -5715,7 +5721,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Rubén Darío": {
   "minisitio": {
@@ -6543,21 +6550,24 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Narciso Tondreau": {
   "minisitio": null,
   "autoridad": [
    129842
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Leonardo Eliz": {
   "minisitio": null,
   "autoridad": [
    128914
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ricardo Fernández Montalva": {
   "minisitio": null,
@@ -6565,7 +6575,8 @@
    129469,
    647981
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Pedro Antonio González": {
   "minisitio": {
@@ -7088,7 +7099,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Julio Vicuña Cifuentes": {
   "minisitio": {
@@ -7399,7 +7411,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Augusto Winter": {
   "minisitio": null,
@@ -7407,7 +7420,8 @@
    129349,
    1198532
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Samuel Lillo": {
   "minisitio": {
@@ -8505,22 +8519,26 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Gustavo Valledor Sánchez": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Abelardo Varela": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Horacio Olivos y Carrasco": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Antonio Bórquez Solar": {
   "minisitio": null,
@@ -8622,19 +8640,22 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Zoilo Escobar": {
   "minisitio": null,
   "autoridad": [
    128843
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Luis A. Hurtado": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Diego Dublé Urrutia": {
   "minisitio": {
@@ -8763,7 +8784,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Miguel Luis Rocuant": {
   "minisitio": {
@@ -8875,7 +8897,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Francisco Contreras": {
   "minisitio": {
@@ -9487,14 +9510,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Ernesto A. Guzmán": {
   "minisitio": null,
   "autoridad": [
    127383
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Manuel Magallanes Moure": {
   "minisitio": {
@@ -9924,12 +9949,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carlos Keymer": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Pezoa Véliz": {
   "minisitio": {
@@ -10453,7 +10480,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jorge González Bastías": {
   "minisitio": {
@@ -10883,12 +10911,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Abel González": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Luis Felipe Contardo": {
   "minisitio": {
@@ -11290,14 +11320,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Alberto Mauret Caamaño": {
   "minisitio": null,
   "autoridad": [
    812982
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Mondaca": {
   "minisitio": {
@@ -11413,7 +11445,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Víctor Domingo Silva": {
   "minisitio": {
@@ -11928,24 +11961,28 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jerónimo Lagos Lisboa": {
   "minisitio": null,
   "autoridad": [
    1217094
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Andrés Silva Humeres": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Juan Manuel Rodríguez": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Pedro Prado": {
   "minisitio": {
@@ -13351,7 +13388,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Max Jara": {
   "minisitio": {
@@ -13676,7 +13714,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Alberto Moreno": {
   "minisitio": {
@@ -13793,36 +13832,42 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carlos Acuña": {
   "minisitio": null,
   "autoridad": [
    129037
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ignacio Verdugo Cavada": {
   "minisitio": null,
   "autoridad": [
    128715
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Julio Munizaga Ossandón": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Guillermo Muñoz Medina": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Préndez Saldías": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jorge Hübner Bezanilla": {
   "minisitio": {
@@ -13836,7 +13881,8 @@
   "autoridad": [
    761363
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Daniel de la Vega": {
   "minisitio": {
@@ -14155,12 +14201,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Enrique Ponce": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Barella": {
   "minisitio": null,
@@ -14169,7 +14217,8 @@
    128546,
    1198614
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ángel Cruchaga Santa María": {
   "minisitio": {
@@ -14595,7 +14644,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Teresa Wilms Montt": {
   "minisitio": {
@@ -15017,7 +15067,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Pedro Sienna": {
   "minisitio": {
@@ -15568,7 +15619,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Sady Zañartu": {
   "minisitio": {
@@ -15981,17 +16033,20 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Elías Arze Bastidas": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Luciano Morgado": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Francisco Donoso González": {
   "minisitio": {
@@ -16005,12 +16060,14 @@
   "autoridad": [
    804069
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alberto Valdivia": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Juan Guzmán Cruchaga": {
   "minisitio": {
@@ -16437,26 +16494,30 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Augusto Iglesias": {
   "minisitio": null,
   "autoridad": [
    128167
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Lautaro García": {
   "minisitio": null,
   "autoridad": [
    128767
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Miriam Elim": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Olga Acevedo": {
   "minisitio": {
@@ -16468,12 +16529,14 @@
    "url": "https://www.memoriachilena.gob.cl/602/w3-article-334082.html"
   },
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "María Antonieta Le Quesne": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "José Domingo Gómez Rojas": {
   "minisitio": {
@@ -17043,17 +17106,20 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "David Enrique Perry": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Gerardo Moraga Bustamante": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Gabriela Mistral": {
   "minisitio": {
@@ -18658,7 +18724,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Vicente Huidobro": {
   "minisitio": {
@@ -21479,7 +21546,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Winétt de Rokha": {
   "minisitio": {
@@ -22029,7 +22097,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Pablo de Rokha": {
   "minisitio": {
@@ -22862,7 +22931,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Pablo Neruda": {
   "minisitio": {
@@ -23217,7 +23287,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Rosamel del Valle": {
   "minisitio": {
@@ -23643,7 +23714,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Humberto Díaz-Casanueva": {
   "minisitio": {
@@ -24265,7 +24337,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Juvencio Valle": {
   "minisitio": {
@@ -24682,7 +24755,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Alberto Rojas Jiménez": {
   "minisitio": {
@@ -24998,7 +25072,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Romeo Murga": {
   "minisitio": {
@@ -25219,7 +25294,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Gerardo Seguel": {
   "minisitio": null,
@@ -25318,7 +25394,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "María Monvel": {
   "minisitio": {
@@ -25737,7 +25814,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Julio Barrenechea": {
   "minisitio": {
@@ -26058,7 +26136,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Omar Cáceres": {
   "minisitio": {
@@ -26079,12 +26158,14 @@
   "autoridad": [
    127323
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Juan Negro": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Óscar Castro": {
   "minisitio": {
@@ -26620,12 +26701,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Victoriano Vicario": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Gustavo Ossorio": {
   "minisitio": {
@@ -26637,7 +26720,8 @@
    "url": "https://www.memoriachilena.gob.cl/602/w3-article-95421.html"
   },
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Braulio Arenas": {
   "minisitio": {
@@ -27358,7 +27442,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Eduardo Anguita": {
   "minisitio": {
@@ -27391,7 +27476,8 @@
   "autoridad": [
    127295
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Teófilo Cid": {
   "minisitio": {
@@ -27908,7 +27994,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Roque Esteban Scarpa": {
   "minisitio": {
@@ -28513,7 +28600,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Enrique Gómez-Correa": {
   "minisitio": {
@@ -29812,7 +29900,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Mahfud Massís": {
   "minisitio": {
@@ -30070,7 +30159,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jorge Cáceres": {
   "minisitio": {
@@ -30415,21 +30505,24 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Antonio de Undurraga": {
   "minisitio": null,
   "autoridad": [
    127241
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Stella Corvalán": {
   "minisitio": null,
   "autoridad": [
    1217093
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Luis Merino Reyes": {
   "minisitio": {
@@ -30484,12 +30577,14 @@
   "autoridad": [
    147701
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Mila Oyarzún": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Andrés Sabella": {
   "minisitio": {
@@ -30912,7 +31007,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carlos René Correa": {
   "minisitio": null,
@@ -31021,21 +31117,24 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "María Cristina Menares": {
   "minisitio": null,
   "autoridad": [
    1198515
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alberto Baeza Flores": {
   "minisitio": null,
   "autoridad": [
    127334
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Luis Oyarzún": {
   "minisitio": {
@@ -31652,87 +31751,102 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Victoria Contreras Falcón": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Patricia Morgan": {
   "minisitio": null,
   "autoridad": [
    152384
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alejandro Galaz": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Hermelo Arabena Williams": {
   "minisitio": null,
   "autoridad": [
    127463
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Róbinson Saavedra Gómez": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Javier Vergara Huneeus": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Hernán Cañas": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Francisco Santana": {
   "minisitio": null,
   "autoridad": [
    127346
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Aldo Torres Púa": {
   "minisitio": null,
   "autoridad": [
    804107
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Collins Bunster": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Poblete": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Joaquín Martínez Arenas": {
   "minisitio": null,
   "autoridad": [
    157713
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Víctor Franzani": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jaime Rayo": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Volodia Teitelboim": {
   "minisitio": {
@@ -31861,17 +31975,20 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Juan Arcos": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Julio Moncada": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "María Silva Ossa": {
   "minisitio": {
@@ -32186,12 +32303,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Heriberto Rocuant": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Miguel Arteche": {
   "minisitio": {
@@ -32737,7 +32856,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "David Rosenmann-Taub": {
   "minisitio": {
@@ -32780,7 +32900,8 @@
   "autoridad": [
    127304
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alberto Rubio": {
   "minisitio": {
@@ -33027,72 +33148,84 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Escilda Greve": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Irma Astorga": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Víctor Castro": {
   "minisitio": null,
   "autoridad": [
    166645
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Bernardo Cruz": {
   "minisitio": null,
   "autoridad": [
    142270
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Matilde Ladrón de Guevara": {
   "minisitio": null,
   "autoridad": [
    128550
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alfonso Gómez Líbano": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Julio Molina": {
   "minisitio": null,
   "autoridad": [
    127303
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Fernando Onfray": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Nina Donoso": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Armando Solari": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Claudio Solar": {
   "minisitio": null,
   "autoridad": [
    127711
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Nicanor Parra": {
   "minisitio": {
@@ -33533,7 +33666,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Gonzalo Rojas": {
   "minisitio": {
@@ -33660,7 +33794,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Violeta Parra": {
   "minisitio": {
@@ -33697,7 +33832,8 @@
   "autoridad": [
    173522
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Enrique Lihn": {
   "minisitio": {
@@ -34363,7 +34499,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Efraín Barquero": {
   "minisitio": {
@@ -34393,7 +34530,8 @@
   "autoridad": [
    127574
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jorge Teillier": {
   "minisitio": {
@@ -34742,7 +34880,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Rolando Cárdenas": {
   "minisitio": {
@@ -35271,24 +35410,28 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Luis Vulliamy": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Marino Muñoz Lagos": {
   "minisitio": null,
   "autoridad": [
    1181398
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Pablo Guíñez": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alfonso Calderón": {
   "minisitio": {
@@ -36593,7 +36736,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Delia Domínguez": {
   "minisitio": {
@@ -36733,7 +36877,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Armando Uribe Arce": {
   "minisitio": {
@@ -37661,7 +37806,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Alfonso Alcalde": {
   "minisitio": {
@@ -39398,7 +39544,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Guillermo Trejo": {
   "minisitio": null,
@@ -39507,7 +39654,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carlos de Rokha": {
   "minisitio": {
@@ -39927,14 +40075,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Antonio Campaña": {
   "minisitio": null,
   "autoridad": [
    734913
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Stella Díaz Varín": {
   "minisitio": {
@@ -40173,7 +40323,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Ludwig Zeller": {
   "minisitio": {
@@ -40691,7 +40842,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Emma Jauch": {
   "minisitio": null,
@@ -40800,7 +40952,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "María Urzúa": {
   "minisitio": null,
@@ -40909,12 +41062,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jorge Jobet": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ángel Custodio González": {
   "minisitio": null,
@@ -41023,24 +41178,28 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Venancio Lisboa": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Altenor Guerrero": {
   "minisitio": null,
   "autoridad": [
    127363
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carmen Ábalos": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Mario Ferrero": {
   "minisitio": null,
@@ -41149,14 +41308,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "José Miguel Vicuña": {
   "minisitio": null,
   "autoridad": [
    127621
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Eliana Navarro": {
   "minisitio": {
@@ -41469,7 +41630,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Fernando González Urízar": {
   "minisitio": null,
@@ -41578,7 +41740,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Manuel Francisco Mesa Seco": {
   "minisitio": null,
@@ -41687,12 +41850,14 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Francisca Ossandón": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Cecilia Casanova": {
   "minisitio": {
@@ -41808,14 +41973,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Fernando Lamberg": {
   "minisitio": null,
   "autoridad": [
    127305
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Matías Rafide": {
   "minisitio": null,
@@ -42114,21 +42281,24 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Edmundo Herrera": {
   "minisitio": null,
   "autoridad": [
    127907
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ximena Adriasola": {
   "minisitio": null,
   "autoridad": [
    127468
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Eugenio García-Díaz": {
   "minisitio": null,
@@ -42237,21 +42407,24 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Sara Vial": {
   "minisitio": null,
   "autoridad": [
    147847
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ennio Moltedo": {
   "minisitio": null,
   "autoridad": [
    127788
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Rosa Cruchaga de Walker": {
   "minisitio": null,
@@ -42360,33 +42533,38 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Pedro Lastra": {
   "minisitio": null,
   "autoridad": [
    1155619
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "José Miguel Ibáñez Langlois": {
   "minisitio": null,
   "autoridad": [
    128089
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Hernán Montealegre": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Hernán Valdés": {
   "minisitio": null,
   "autoridad": [
    128830
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Óscar Hahn": {
   "minisitio": {
@@ -42519,14 +42697,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Hernán Lavín Cerda": {
   "minisitio": null,
   "autoridad": [
    150791
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Waldo Rojas": {
   "minisitio": {
@@ -43556,7 +43736,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Omar Lara": {
   "minisitio": {
@@ -44162,14 +44343,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jaime Giordano": {
   "minisitio": null,
   "autoridad": [
    127934
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Floridor Pérez": {
   "minisitio": {
@@ -44410,7 +44593,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jaime Quezada": {
   "minisitio": {
@@ -45478,24 +45662,28 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carlos Cortínez": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Federico Schopf": {
   "minisitio": null,
   "autoridad": [
    150796
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jaime Gómez Rogers (Jonás)": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Gonzalo Millán": {
   "minisitio": {
@@ -45948,7 +46136,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Hernán Miranda": {
   "minisitio": {
@@ -46257,7 +46446,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Manuel Silva Acevedo": {
   "minisitio": {
@@ -46781,7 +46971,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Oliver Welden": {
   "minisitio": {
@@ -47000,7 +47191,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Claudio Bertoni": {
   "minisitio": {
@@ -47838,7 +48030,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Cecilia Vicuña": {
   "minisitio": {
@@ -48459,7 +48652,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Raúl Zurita": {
   "minisitio": {
@@ -48769,7 +48963,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Juan Luis Martínez": {
   "minisitio": {
@@ -48818,7 +49013,8 @@
   "autoridad": [
    588591
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Diego Maquieira": {
   "minisitio": {
@@ -49053,7 +49249,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Rodrigo Lira": {
   "minisitio": {
@@ -49202,7 +49399,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carmen Berenguer": {
   "minisitio": {
@@ -49620,7 +49818,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Elvira Hernández": {
   "minisitio": {
@@ -49766,7 +49965,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Soledad Fariña": {
   "minisitio": null,
@@ -49875,38 +50075,44 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Eugenia Brito": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Paz Molina": {
   "minisitio": null,
   "autoridad": [
    127690
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Gonzalo Muñoz": {
   "minisitio": null,
   "autoridad": [
    129526
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Carlos Cociña": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Antonio Gil": {
   "minisitio": null,
   "autoridad": [
    130339
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Tomás Harris": {
   "minisitio": {
@@ -50456,7 +50662,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "José Ángel Cuevas": {
   "minisitio": {
@@ -50494,7 +50701,8 @@
   "autoridad": [
    154942
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Armando Rubio": {
   "minisitio": {
@@ -50646,21 +50854,24 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Bruno Vidal": {
   "minisitio": null,
   "autoridad": [
    145938
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Aristóteles España": {
   "minisitio": null,
   "autoridad": [
    127720
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Teresa Calderón": {
   "minisitio": {
@@ -51104,17 +51315,20 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Eduardo Llanos": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Heddy Navarro": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jorge Montealegre": {
   "minisitio": null,
@@ -51322,14 +51536,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Juan Cameron": {
   "minisitio": null,
   "autoridad": [
    127758
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alexis Figueroa": {
   "minisitio": null,
@@ -51437,7 +51653,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Erick Pohlhammer": {
   "minisitio": null,
@@ -51545,7 +51762,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Roberto Bolaño": {
   "minisitio": {
@@ -51579,7 +51797,8 @@
   "autoridad": [
    127541
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Bruno Montané": {
   "minisitio": {
@@ -51591,12 +51810,14 @@
    "url": "https://www.memoriachilena.gob.cl/602/w3-article-82285.html"
   },
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jorge Etcheverry": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Sergio Macías": {
   "minisitio": null,
@@ -51701,28 +51922,32 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Mauricio Redolés": {
   "minisitio": null,
   "autoridad": [
    127423
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Rosabetty Muñoz": {
   "minisitio": null,
   "autoridad": [
    127514
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Sergio Mansilla": {
   "minisitio": null,
   "autoridad": [
    127473
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Clemente Riedemann": {
   "minisitio": null,
@@ -51830,7 +52055,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Jorge Torres": {
   "minisitio": null,
@@ -51938,7 +52164,8 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Carlos Alberto Trujillo": {
   "minisitio": null,
@@ -52046,14 +52273,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Juan Pablo Riveros": {
   "minisitio": null,
   "autoridad": [
    140960
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Renato Cárdenas": {
   "minisitio": null,
@@ -52254,14 +52483,16 @@
      158504
     ]
    }
-  ]
+  ],
+  "sin_pdf": []
  },
  "Mario Contreras Vega": {
   "minisitio": null,
   "autoridad": [
    129785
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Elicura Chihuailaf": {
   "minisitio": {
@@ -52307,63 +52538,74 @@
   "autoridad": [
    312595
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Leonel Lienlaf": {
   "minisitio": null,
   "autoridad": [
    141239
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Jaime Huenún": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Graciela Huinao": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Adriana Paredes Pinda": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Bernardo Colipán": {
   "minisitio": null,
   "autoridad": [
    145965
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Lorenzo Aillapán": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Rayen Kvyeh": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "David Aniñir": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Verónica Jiménez": {
   "minisitio": null,
   "autoridad": [
    157697
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Sergio Parra": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Malú Urriola": {
   "minisitio": {
@@ -52393,97 +52635,115 @@
    "url": "https://www.memoriachilena.gob.cl/602/w3-article-3586.html"
   },
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Armando Roa Vial": {
   "minisitio": null,
   "autoridad": [
    145903
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Ximena Rivera": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Germán Carrasco": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Yanko González": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Alejandra del Río": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Javier Bello": {
   "minisitio": null,
   "autoridad": [
    174607
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Juan Cristóbal Romero": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Andrés Anwandter": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Leonardo Sanhueza": {
   "minisitio": null,
   "autoridad": [
    144530
   ],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Rafael Rubio": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Damsi Figueroa": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Héctor Hernández Montecinos": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Paula Ilabaca": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Gladys González": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Diego Ramírez": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Enrique Winter": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  },
  "Daniela Catrileo": {
   "minisitio": null,
   "autoridad": [],
-  "libros": []
+  "libros": [],
+  "sin_pdf": []
  }
 }

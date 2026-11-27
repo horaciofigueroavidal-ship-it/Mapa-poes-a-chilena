@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Darío, Rubén, 1867-1916  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Francisco Contreras, publicada en 1930. Datos de edición: Barcelona : Agencia Mundial de Librería, 1930. Es el título más tardío de su bibliografía registrada. Le precede «El pueblo maravilloso : novela» (1927). Materias en Memoria Chilena: Darío, Rubén, 1867-1916.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8738.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015391.pdf)

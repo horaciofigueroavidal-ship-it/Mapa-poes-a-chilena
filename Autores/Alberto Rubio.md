@@ -42,7 +42,7 @@ Alberto Rubio mantuvo siempre una personalidad discreta, pero su creación poét
 - Desciende, sol, desciende
 - La abuela
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

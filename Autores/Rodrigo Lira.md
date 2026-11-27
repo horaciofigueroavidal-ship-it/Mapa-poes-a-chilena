@@ -28,8 +28,15 @@ Tras su suicidio, la figura de Rodrigo Lira fue adquiriendo las características
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Proyecto de obras completas — Rodrigo Lira (2003)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8713.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015155.pdf)
+- [[Declaración jurada — Rodrigo Lira (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Declaraci%C3%B3n%20jurada) · *sin PDF*
+- [[Luces de reconocimiento — Rodrigo Lira (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Luces%20de%20reconocimiento) · *sin PDF*
+- [[Los malditos — Rodrigo Lira (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20malditos) · *sin PDF*
+- [[Rodrigo Lira, un poeta en la tierra del cómic — Rodrigo Lira (2014)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rodrigo%20Lira%2C%20un%20poeta%20en%20la%20tierra%20del%20c%C3%B3mic) · *sin PDF*
+- [[Rodrigo Lira, Proyecto de Obras Completas, Ediciones UDP, Santiago de Chile, 2015 — Rodrigo Lira (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rodrigo%20Lira%2C%20Proyecto%20de%20Obras%20Completas%2C%20Ediciones%20UDP%2C%20Sa) · *sin PDF*
+- [[Buelos barios boladas boludas — Rodrigo Lira (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Buelos%20barios%3A%20boladas%20boludas) · *sin PDF*
+- [[La poesía terminó conmigo - Vida de Rodrigo Lira — Rodrigo Lira (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20poes%C3%ADa%20termin%C3%B3%20conmigo%20-%20Vida%20de%20Rodrigo%20Lira) · *sin PDF*

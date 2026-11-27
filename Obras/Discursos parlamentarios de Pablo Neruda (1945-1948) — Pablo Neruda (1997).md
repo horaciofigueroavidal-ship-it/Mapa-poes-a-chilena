@@ -17,4 +17,10 @@ tags: [obra]
 **Notas:** Edición a cargo de Leonidas Aguirre Silva ; prólogo de Volodia Teitelboim ; introducción de Abraham Quezada Vergara  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Pablo Neruda, publicada en 1997. Datos de edición: Santiago de Chile : Editorial Antártica, c1997. Le precede «Antología fundamental» (1997) y le sigue «2000» (2000).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8711.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015122.pdf)

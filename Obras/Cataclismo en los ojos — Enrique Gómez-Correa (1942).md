@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Enrique Gómez-Correa, publicado en 1942. Datos de edición: Santiago de Chile : Eds. Mándragora, 1942 (Talca : Impr. Herrera y Aldana). Es el primer título de su bibliografía registrada.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Cataclismo en los ojos — Enrique Gómez-Correa (1942).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8689.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014947.pdf)

@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Samuel Lillo, publicado en 1911. Datos de edición: Santiago de Chile : Imprenta Litografia y Encuadernación Barcelona, 1911. Le precede «Antes y hoy» (1905) y le sigue «La Concepción» (1911).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Chile heroico — Samuel Lillo (1911).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-624745.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075870.pdf)

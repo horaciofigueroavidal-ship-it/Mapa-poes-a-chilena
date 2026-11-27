@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Claudio Bertoni, publicado en 2000. Datos de edición: Chile : Dirección de Bibliotecas Archivos y Museos, 2000 (Chile : Ograma). Le precede «Una carta» (1999) y le sigue «Jóvenes buenas mozas» (2002).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Qué se ama cuando se ama — Claudio Bertoni (2000).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8238.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009637.pdf)

@@ -43,6 +43,29 @@ Falleció, de vuelta en Chile, en la ciudad de Santiago, el 29 de junio de 2020.
 - El cuchillo enterrado
 - El poema en el poema (fragmento)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Árbol marino — Efraín Barquero (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=%C3%81rbol%20marino) · *sin PDF*
+- [[La piedra del pueblo — Efraín Barquero (1954)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20piedra%20del%20pueblo) · *sin PDF*
+- [[La compañera — Efraín Barquero (1956)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20compa%C3%B1era) · *sin PDF*
+- [[Enjambre — Efraín Barquero (1959)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Enjambre) · *sin PDF*
+- [[El pan del hombre — Efraín Barquero (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20pan%20del%20hombre) · *sin PDF*
+- [[El regreso — Efraín Barquero (1961)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20regreso) · *sin PDF*
+- [[Maula — Efraín Barquero (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Maula) · *sin PDF*
+- [[Poemas infantiles — Efraín Barquero (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20infantiles) · *sin PDF*
+- [[El viento de los reinos — Efraín Barquero (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20viento%20de%20los%20reinos) · *sin PDF*
+- [[Arte de vida — Efraín Barquero (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Arte%20de%20vida) · *sin PDF*
+- [[Epifanías — Efraín Barquero (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Epifan%C3%ADas) · *sin PDF*
+- [[Bandos marciales — Efraín Barquero (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bandos%20marciales) · *sin PDF*
+- [[El poema negro de Chile — Efraín Barquero (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20poema%20negro%20de%20Chile) · *sin PDF*
+- [[A deshora — Efraín Barquero (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%20deshora) · *sin PDF*
+- [[El viejo y el niño — Efraín Barquero (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20viejo%20y%20el%20ni%C3%B1o) · *sin PDF*
+- [[Mujeres de oscuro — Efraín Barquero (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mujeres%20de%20oscuro) · *sin PDF*
+- [[La mesa de la tierra — Efraín Barquero (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20mesa%20de%20la%20tierra) · *sin PDF*
+- [[El poema en el poema — Efraín Barquero (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20poema%20en%20el%20poema) · *sin PDF*
+- [[El pan y el vino — Efraín Barquero (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20pan%20y%20el%20vino) · *sin PDF*
+- [[Pacto de sangre — Efraín Barquero (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pacto%20de%20sangre) · *sin PDF*
+- [[Estrellamar — Efraín Barquero (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estrellamar) · *sin PDF*
+- [[Escrito está — Efraín Barquero (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Escrito%20est%C3%A1) · *sin PDF*

@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta y profesor de fines del siglo XIX y comienzos del XX. Pertenece a la promoción que, según Nómez, combinó la tradición nacional con la modernidad cosmopolita del modernismo. Su obra se publicó principalmente en revistas y antologías de la época, y sus datos biográficos son escasos.
+Poeta de comienzos del siglo XX, incluido en *Selva lírica* (1917) de Molina Núñez y Araya, donde aparece su retrato de hacia 1900. Nómez lo ubica en la promoción que combinó la tradición nacional con la modernidad cosmopolita. Sus datos biográficos siguen siendo escasos.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -18,6 +18,6 @@ Poeta y profesor de fines del siglo XIX y comienzos del XX. Pertenece a la promo
 - Aurora
 - Melancolía
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

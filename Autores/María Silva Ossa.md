@@ -40,10 +40,22 @@ En los últimos años se han sucedido reediciones de algunos de sus cuentos, ent
 - Materia viva
 - Homo sapiens
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Cuento y canción — María Silva Ossa (1941)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuento%20y%20canci%C3%B3n) · *sin PDF*
 - [[De la tierra y el aire — María Silva Ossa (1942)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8317.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010852.pdf)
+- [[En la posada del sueño — María Silva Ossa (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=En%20la%20posada%20del%20sue%C3%B1o) · *sin PDF*
+- [[El hombre cabeza de nieve — María Silva Ossa (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20hombre%20cabeza%20de%20nieve) · *sin PDF*
+- [[Perejil Piedra — María Silva Ossa (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Perejil%20Piedra) · *sin PDF*
+- [[Las aventuras de tres pelos — María Silva Ossa (1975)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20aventuras%20de%20tres%20pelos) · *sin PDF*
+- [[La ciudad y los signos — María Silva Ossa (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20ciudad%20y%20los%20signos) · *sin PDF*
 - [[¿Quién soy — María Silva Ossa (1978)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-165782.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0070061.pdf)
+- [[Cuatro voces — María Silva Ossa (1988)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuatro%20voces) · *sin PDF*
+- [[Las calzas del brujo — María Silva Ossa (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20calzas%20del%20brujo) · *sin PDF*
+- [[Del origen — María Silva Ossa (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Del%20origen) · *sin PDF*
 - [[Poemas para Carlos René Correa — María Silva Ossa (1998)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8318.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010864.pdf)
+- [[Cuentos de hadas y hechiceros — María Silva Ossa (1999)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20de%20hadas%20y%20hechiceros) · *sin PDF*
+- [[Cuatro duendes, un genio y otras historias — María Silva Ossa (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuatro%20duendes%2C%20un%20genio%20y%20otras%20historias) · *sin PDF*
+- [[El Perro virtual y otros cuentos — María Silva Ossa (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20Perro%20virtual%20y%20otros%20cuentos) · *sin PDF*

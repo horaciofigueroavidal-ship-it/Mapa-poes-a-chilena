@@ -15,4 +15,10 @@ tags: [obra]
 **Materias:** Prosa ChilenaCuentos Chilenos  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de narrativa de Daniel de la Vega. Materias en Memoria Chilena: Prosa ChilenaCuentos Chilenos.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8518.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013551.pdf)

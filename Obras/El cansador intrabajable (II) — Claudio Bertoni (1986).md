@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Claudio Bertoni, publicado en 1986. Datos de edición: Santiago : Eds. del Ornitorrinco, 1986. Le precede «En qué quedamos» (1973) y le sigue «Sentado en la cuneta» (1990).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/El cansador intrabajable (II) — Claudio Bertoni (1986).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10178.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045776.pdf)

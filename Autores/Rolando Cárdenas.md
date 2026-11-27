@@ -39,12 +39,14 @@ Durante los grises años de la dictadura, el autor fue un asiduo visitante de lu
 - Puertas
 - Hoy murió Ángela Lois
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
-- [[Vastos imperios — Rolando Cárdenas]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10307.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050559.pdf)
 - [[Tránsito breve — Rolando Cárdenas (1961)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10306.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050522.pdf)
 - [[En el invierno de la provincia poemas — Rolando Cárdenas (1963)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10305.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050521.pdf)
+- [[Personajes de mi ciudad — Rolando Cárdenas (1964)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Personajes%20de%20mi%20ciudad) · *sin PDF*
 - [[Poemas migratorios — Rolando Cárdenas (1974)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10303.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050519.pdf)
 - [[Que, tras esos muros — Rolando Cárdenas (1986)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10304.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050520.pdf)
+- [[El viajero de las lluvias — Rolando Cárdenas (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20viajero%20de%20las%20lluvias) · *sin PDF*
+- [[Vastos imperios — Rolando Cárdenas]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10307.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050559.pdf)

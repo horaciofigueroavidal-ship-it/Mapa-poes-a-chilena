@@ -32,11 +32,22 @@ El año 2011, se estrenó la serie documental para televisión Los videntes, en 
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Los poemas lunados — Rosamel del Valle (1920)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20poemas%20lunados) · *sin PDF*
+- [[Mirador — Rosamel del Valle (1926)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mirador) · *sin PDF*
+- [[País blanco y negro — Rosamel del Valle (1929)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pa%C3%ADs%20blanco%20y%20negro) · *sin PDF*
+- [[Orfeo — Rosamel del Valle (1944)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Orfeo) · *sin PDF*
+- [[Fuegos y ceremonias — Rosamel del Valle (1952)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fuegos%20y%20ceremonias) · *sin PDF*
+- [[La visión comunicable — Rosamel del Valle (1956)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20visi%C3%B3n%20comunicable) · *sin PDF*
+- [[La violencia creadora. Poesía de Humberto Diaz-Casanueva — Rosamel del Valle (1959)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20violencia%20creadora.%20Poes%C3%ADa%20de%20Humberto%20Diaz-Casanueva) · *sin PDF*
+- [[El corazón escrito — Rosamel del Valle (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20coraz%C3%B3n%20escrito) · *sin PDF*
 - [[Adiós enigma tornasol — Rosamel del Valle (1967)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7753.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0000722.pdf)
+- [[Eva y la fuga — Rosamel del Valle (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Eva%20y%20la%20fuga) · *sin PDF*
+- [[Elina, aroma terrestre — Rosamel del Valle (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Elina%2C%20aroma%20terrestre) · *sin PDF*
+- [[Brígida o el olvido — Rosamel del Valle (2009)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Br%C3%ADgida%20o%20el%20olvido) · *sin PDF*
 
 ### Otras obras
 

@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Novelas Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Novela de Pedro Sienna, publicada en 1924. Le precede «El tinglado de la farsa» (1922) y le sigue «La vida pintoresca de Arturo Bührle : con 25 dibujos de Víctor Bianchi» (1929).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9717.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036467.pdf)

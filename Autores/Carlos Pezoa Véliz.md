@@ -42,14 +42,16 @@ Estas publicaciones regulares en la prensa le fueron dando cierta presencia en l
 - Fecundidad
 - El organillo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Alma chilena — Carlos Pezoa Véliz (1912)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8013.html) · [PDF en línea](https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005178.pdf)
 - [[Poesías cuentos y artículos — Carlos Pezoa Véliz (1927)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-132324.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0069826.pdf)
+- [[Poesías y prosas completas — Carlos Pezoa Véliz (1927)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADas%20y%20prosas%20completas) · *sin PDF*
 - [[Antología de Carlos Pezoa Véliz (poesía y prosa) — Carlos Pezoa Véliz (1957)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7789.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001120.pdf)
 - [[Campanas de oro — Carlos Pezoa Véliz (1998)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7790.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001121.pdf)
+- [[La vida es así — Carlos Pezoa Véliz (2008)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20vida%20es%20as%C3%AD) · *sin PDF*
 
 ### Otras obras
 

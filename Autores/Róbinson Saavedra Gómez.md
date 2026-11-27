@@ -21,6 +21,6 @@ Poeta (1907–?) de la generación del 38. Su poesía se inscribe en la vertient
 - Ciegos
 - Cuando se abre una flor
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

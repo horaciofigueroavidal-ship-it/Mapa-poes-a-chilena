@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Vicente Huidobro, publicado en 1925. Datos de edición: Paris : Au Sans Pareil, 1925. Le precede «Manifestes, Manifeste, Manifest, Manifes, Manife, Manif, Mani, Man, Ma, M» (1925) y le sigue «Vientos contrarios» (1926).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Tout á coup poémes — Vicente Huidobro (1925).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-67202.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067432.pdf)

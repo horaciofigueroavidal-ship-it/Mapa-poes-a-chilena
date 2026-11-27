@@ -16,6 +16,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Recopilación de 1969 de la obra de Parra hasta entonces. Obtuvo el Premio Nacional de Literatura ese mismo año.
+
 📖 **[[Obras/PDF/Obra gruesa texto completo — Nicanor Parra (1969).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8612.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014335.pdf)

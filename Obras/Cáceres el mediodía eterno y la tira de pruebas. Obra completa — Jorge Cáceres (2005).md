@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Autores chilenos - BiografíasCáceres, Jorge, 1923-1949  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Jorge Cáceres, publicada en 2005. Datos de edición: Santiago de Chile : Edit. Cuarto Propio : Centro de Investigaciones Diego Barros Arana : Universidad Finis Terrae, 2005. Es el título más tardío de su bibliografía registrada. Le precede «Jorge Cáceres» (2002). Materias en Memoria Chilena: Autores chilenos - BiografíasCáceres, Jorge, 1923-1949.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9657.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035721.pdf)

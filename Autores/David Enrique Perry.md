@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación posterior al Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos.
+Poeta de la generación posterior al Centenario, incluido en *Selva lírica* (1917), donde aparece su retrato de hacia 1914. Firmaba como David Perry; publicó poemas en la revista *Atenea*, como «Adán». Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -20,6 +20,6 @@ Poeta de la generación posterior al Centenario. Nómez lo incluye en la corrien
 - Como un ciego
 - Spleen
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

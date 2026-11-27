@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Cuentos Chilenos  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de narrativa de Alfonso Alcalde, publicado en 1972. Datos de edición: [Valparaíso] : Eds. Universitarias de Valparaíso, 1972 (Santiago : Gutemberg). Le precede «Comidas y bebidas de Chile» (1972) y le sigue «Marilyn Monroe que estás en el cielo» (1972).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10155.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045149.pdf)

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Drama Chileno  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de teatro de Salvador Sanfuentes, publicada en 1863. Datos de edición: Santiago : Imprenta Nacional, 1863. Le precede «Ricardo i Lucia o La destrucción de la Imperial: tomo 2» (1857) y le sigue «Leyendas nacionales» (1885). Materias en Memoria Chilena: Drama Chileno.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-65089.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0064266.pdf)

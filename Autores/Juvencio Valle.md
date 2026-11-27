@@ -34,11 +34,17 @@ Juvencio Valle murió el 12 de febrero de 1999, en su casa de Santiago.
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[La flauta del hombre pan — Juvencio Valle (1929)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8265.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009859.pdf)
+- [[El tratado del bosque — Juvencio Valle (1932)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20tratado%20del%20bosque) · *sin PDF*
+- [[El libro primero de Margarita — Juvencio Valle (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20libro%20primero%20de%20Margarita) · *sin PDF*
 - [[Nimbo de piedra — Juvencio Valle (1941)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8266.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009860.pdf)
 - [[El hijo del guardabosque — Juvencio Valle (1951)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8022.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005266.pdf)
 - [[Del monte en la ladera — Juvencio Valle (1960)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8267.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009861.pdf)
+- [[Nuestra tierra se mueve — Juvencio Valle (1960)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nuestra%20tierra%20se%20mueve) · *sin PDF*
+- [[El grito en el cielo — Juvencio Valle (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20grito%20en%20el%20cielo) · *sin PDF*
+- [[Estación al atardecer — Juvencio Valle (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estaci%C3%B3n%20al%20atardecer) · *sin PDF*
+- [[Pajarería chilena — Juvencio Valle (1995)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pajarer%C3%ADa%20chilena) · *sin PDF*

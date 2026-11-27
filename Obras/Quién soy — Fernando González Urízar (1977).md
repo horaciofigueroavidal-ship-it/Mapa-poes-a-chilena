@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Autores chilenos - Biografías  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Fernando González Urízar, publicada en 1977. Datos de edición: Santiago : Agrupación Amigos del Libro, 1977. Materias en Memoria Chilena: Autores chilenos - Biografías.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9166.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025911.pdf)

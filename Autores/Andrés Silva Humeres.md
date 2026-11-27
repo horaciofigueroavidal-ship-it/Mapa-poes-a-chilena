@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la generación del Centenario. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos, y su obra se conoce sobre todo a través de las antologías de la época.
+Poeta de la generación del Centenario. Publicó poemas en la revista *Atenea*, como «Lazarillo», anunciado como parte de un libro en preparación. Nómez lo incluye en la corriente de nacionalismo, mundonovismo y crítica social. Sus datos biográficos son escasos.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -18,6 +18,6 @@ Poeta de la generación del Centenario. Nómez lo incluye en la corriente de nac
 - El suicida
 - Pobre mujer
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

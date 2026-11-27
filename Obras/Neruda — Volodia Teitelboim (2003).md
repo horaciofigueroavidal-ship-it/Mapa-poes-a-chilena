@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Neruda, Pablo, 1904-1973  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Volodia Teitelboim, publicada en 2003. Datos de edición: Santiago de Chile : Editorial Sudamericana, 2003 (Santiago : Salesianos). Es el título más tardío de su bibliografía registrada. Le precede «Ulises llega en locomotora» (2002). Materias en Memoria Chilena: Neruda, Pablo, 1904-1973.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8709.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015100.pdf)

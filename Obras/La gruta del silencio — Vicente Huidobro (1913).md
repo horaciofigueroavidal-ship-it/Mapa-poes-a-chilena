@@ -18,6 +18,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Vicente Huidobro, publicado en 1913. Datos de edición: Santiago : Imprenta Universitaria, 1913. Le precede «Canciones en la noche» (1913) y le sigue «Las pagodas ocultas» (1914).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/La gruta del silencio — Vicente Huidobro (1913).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-67182.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0067412.pdf)

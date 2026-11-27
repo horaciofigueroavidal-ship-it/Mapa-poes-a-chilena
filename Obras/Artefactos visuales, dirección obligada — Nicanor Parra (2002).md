@@ -15,4 +15,8 @@ tags: [obra]
 **Descripción física:** 43 p.  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Caja de tarjetas postales de 1972 con frases, consignas y dibujos (de Guillermo Tejeda): antipoesía reducida a graffiti y aforismo político.
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8516.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013511.pdf)

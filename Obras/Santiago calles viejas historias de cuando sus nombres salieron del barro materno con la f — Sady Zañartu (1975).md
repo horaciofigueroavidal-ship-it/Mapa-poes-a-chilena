@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Calles - Chile - Santiago - Historia  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Sady Zañartu, publicada en 1975. Datos de edición: Santiago : Gabriela Mistral, 1975. Es el título más tardío de su bibliografía registrada. Le precede «Color de América : nuevos cuentos latinoamericanos» (1969). Materias en Memoria Chilena: Calles - Chile - Santiago - Historia.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8498.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013146.pdf)

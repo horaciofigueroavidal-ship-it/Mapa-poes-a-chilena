@@ -16,6 +16,10 @@ tags: [obra]
 **Notas:** Incluye prólogo sin firma y epílogo con texto de Augusto D'Halmar y poemas de Víctor Domingo Silva, Jorge González Bastías y Alfredo Guillermo Bravo; Página 149 incluye advertencia: por un error de compaginación, se pasó del folio 144 al 149, sin que por ello resulte alterado el texto  
 **Materias:** Poesías chilenas  
 
+## Introducción
+
+Antología póstuma (1911) de la obra de Pezoa Véliz, preparada por Ernesto Montenegro. Reúne poemas como «Nada» y «Tarde en el hospital», que retratan con realismo y compasión la vida de los pobres de Chile.
+
 📖 **[[Obras/PDF/Alma chilena — Carlos Pezoa Véliz (1912).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8013.html) · [PDF en línea](https://www.memoriachilena.gob.cl/archivos2/pdfs/MC0005178.pdf)

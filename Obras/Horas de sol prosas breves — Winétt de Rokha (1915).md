@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Prosa ChilenaAutoras chilenas - Siglo 20  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Ensayo o prosa de Winétt de Rokha, publicado en 1915. Datos de edición: Santiago: Imprenta y encuadernación New York, 1915. Es el primer título de su bibliografía registrada. Materias en Memoria Chilena: Prosa ChilenaAutoras chilenas - Siglo 20.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-620805.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075690.pdf)

@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Discurso de recepción del académico Miguel Arteche; No disponible para reproducción en alta resolución  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Alfonso Calderón, publicada en 1988. Datos de edición: Santiago : Instituto de Chile, Academia Chilena de la Lengua, 1988 (Santiago : Universitaria). Le precede «Una invisible comparsa» (1987) y le sigue «Ideas sobre el ensayo» (1993).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9719.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036481.pdf)

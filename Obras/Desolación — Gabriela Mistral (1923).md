@@ -17,4 +17,8 @@ tags: [obra]
 **Materias:** Autoras chilenas - Siglo 20Literatura chilena  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Primer libro de Gabriela Mistral, publicado en Nueva York en 1922 por el Instituto de las Españas. Reúne los «Sonetos de la muerte», premiados en los Juegos Florales de 1914, junto a poemas de dolor amoroso, religiosidad y maternidad frustrada, y la sección de prosas y poemas escolares que la consagró en América.
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-639118.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0076803.pdf)

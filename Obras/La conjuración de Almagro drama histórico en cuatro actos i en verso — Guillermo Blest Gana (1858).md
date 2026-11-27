@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Dramas Chilenos  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de teatro de Guillermo Blest Gana, publicada en 1858. Datos de edición: Santiago : Imprenta del Pais, 1858. Le precede «La flor de la Soledad» (1857) y le sigue «El pasaporte: zarzuela en un acto» (1865). Materias en Memoria Chilena: Dramas Chilenos.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-84729.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050119.pdf)

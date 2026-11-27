@@ -10,7 +10,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta (1920–?) de la promoción de los años cuarenta. Nómez la sitúa en el momento de disolución de las vanguardias. Sus datos biográficos son escasos.
+Escritora (Irma Astorga Úbeda, Llay-Llay, 1920 – Quebrada de Alvarado, 1999), premio Municipal de Literatura de Santiago en 1971. Entre sus libros están *La muerte desnuda* (1948), *Tríptico* (1949), *Ceniza quebrada* (1961) y *La compuerta mágica* (1971).
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -25,6 +25,11 @@ Poeta (1920–?) de la promoción de los años cuarenta. Nómez la sitúa en el 
 - Todo me queda raro en la memoria
 - Duda
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[La muerte desnuda — Irma Astorga (1948)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20muerte%20desnuda) · *sin PDF*
+- [[Tríptico — Irma Astorga (1949)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tr%C3%ADptico) · *sin PDF*
+- [[Ceniza Quebrada — Irma Astorga (1961)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ceniza%20Quebrada) · *sin PDF*
+- [[La compuerta mágica — Irma Astorga (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20compuerta%20m%C3%A1gica) · *sin PDF*

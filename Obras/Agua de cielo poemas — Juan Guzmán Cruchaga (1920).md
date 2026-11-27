@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1924 de poesía breve, musical y melancólica. Incluye el célebre poema «Canción» («Alma, no me digas nada, / que para tu voz dormida...»).
+
 📖 **[[Obras/PDF/Agua de cielo poemas — Juan Guzmán Cruchaga (1920).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7920.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003327.pdf)

@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de 1964 de Waldo Rojas, poeta de la generación del 60 que vivió exiliado en Francia.
+
 📖 **[[Obras/PDF/Agua removida poemas — Waldo Rojas (1964).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8720.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015210.pdf)

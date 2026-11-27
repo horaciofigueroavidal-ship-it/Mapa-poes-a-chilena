@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Único libro de Alberto Rubio (1952), muy valorado por sus contemporáneos. Su poesía, de precisión formal y hondura, mira la infancia y el mundo familiar.
+
 📖 **[[Obras/PDF/La greda vasija — Alberto Rubio (1952).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8852.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0017801.pdf)

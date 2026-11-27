@@ -29,16 +29,18 @@ Guillermo Matta fue un reconocido poeta y político de su tiempo, pero también 
 
 - Lo que dicen las olas
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Diccionario histórico, Biográfico y Bibliográfico de Chile 1800-1928 — Guillermo Matta (1800)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diccionario%20hist%C3%B3rico%2C%20Biogr%C3%A1fico%20y%20Bibliogr%C3%A1fico%20de%20Chile%3A%20) · *sin PDF*
 - [[Cuentos en versos — Guillermo Matta (1853)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349242.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072341.pdf)
 - [[A la América — Guillermo Matta (1857)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349249.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072344.pdf)
 - [[A la patria canto — Guillermo Matta (1864)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349253.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072346.pdf)
 - [[Apoteosis del sabio (a la memoria de don Andrés Bello) — Guillermo Matta (1866)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349258.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072349.pdf)
 - [[A Méjico poesías — Guillermo Matta (1867)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349254.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072347.pdf)
 - [[Nuevas poesías de Guillermo Matta tomo segundo — Guillermo Matta (1887)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349247.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072343.pdf)
+- [[Chile a Color Biografías — Guillermo Matta (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chile%20a%20Color%3A%20Biograf%C3%ADas) · *sin PDF*
 
 ### Otras obras
 

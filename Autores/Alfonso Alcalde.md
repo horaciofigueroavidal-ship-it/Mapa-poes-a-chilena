@@ -40,14 +40,23 @@ La abundante obra literaria de Alcalde ha sido reconocida póstumamente en numer
 - Salmo de la muerte
 - Salmo de los suicidas
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Balada para la ciudad muerta — Alfonso Alcalde (1947)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10149.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045127.pdf)
 - [[Variaciones sobre el tema del amor y de la muerte — Alfonso Alcalde (1963)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10150.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045128.pdf)
+- [[Ejercicio sobre el tema de la rosa. 1969 — Alfonso Alcalde (1969)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ejercicio%20sobre%20el%20tema%20de%20la%20rosa.%201969) · *sin PDF*
 - [[Ejercicios con el tema de la rosa — Alfonso Alcalde (1969)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10151.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045129.pdf)
 - [[El panorama ante nosotros — Alfonso Alcalde (1969)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10152.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045134.pdf)
+- [[Salvador Allende. Biografía documental. Editorial Crisis. Buenos Aires, 1974 — Alfonso Alcalde (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Salvador%20Allende.%20Biograf%C3%ADa%20documental.%20Editorial%20Crisis.%20Bu) · *sin PDF*
+- [[Toda Violeta Parra. Biografía antológica. Ediciones de la Flor. Buenos Aires, 1974 — Alfonso Alcalde (1974)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Toda%20Violeta%20Parra.%20Biograf%C3%ADa%20antol%C3%B3gica.%20Ediciones%20de%20la%20Fl) · *sin PDF*
+- [[Siempre escrito en el agua. Edición de Naín Nómez. Lom Ediciones. 1992 — Alfonso Alcalde (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Siempre%20escrito%20en%20el%20agua.%20Edici%C3%B3n%20de%20Na%C3%ADn%20N%C3%B3mez.%20Lom%20Edici) · *sin PDF*
+- [[Vecino. Antología poética. Prólogo y selección de Vicente Undurraga. Editorial Lumen, 2022 — Alfonso Alcalde (2022)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vecino.%20Antolog%C3%ADa%20po%C3%A9tica.%20Pr%C3%B3logo%20y%20selecci%C3%B3n%20de%20Vicente%20Un) · *sin PDF*
+- [[Don Francisco ¿Quién soy. Telebiografía de Mario Kreutzberger — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Don%20Francisco%20%C2%BFQui%C3%A9n%20soy%3F.%20Telebiograf%C3%ADa%20de%20Mario%20Kreutzberg) · *sin PDF*
+- [[Poemas para recitar cuando llegan las visitas — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20para%20recitar%20cuando%20llegan%20las%20visitas) · *sin PDF*
+- [[Reportaje al carbón — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Reportaje%20al%20carb%C3%B3n) · *sin PDF*
+- [[Vivir en Chile — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vivir%20en%20Chile) · *sin PDF*
 
 ### Otras obras
 
@@ -58,8 +67,13 @@ La abundante obra literaria de Alcalde ha sido reconocida póstumamente en numer
 - [[Comidas y bebidas de Chile — Alfonso Alcalde (1972)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10160.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045193.pdf)
 - [[El sentimiento que te di — Alfonso Alcalde (1972)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10155.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045149.pdf)
 - [[Marilyn Monroe que estás en el cielo — Alfonso Alcalde (1972)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10164.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045213.pdf)
+- [[Las aventuras del Salustio y el Trúbico. Editorial Quimantú. 1973 — Alfonso Alcalde (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20aventuras%20del%20Salustio%20y%20el%20Tr%C3%BAbico.%20Editorial%20Quimant%C3%BA.) · *sin PDF*
 - [[Vivir o morir — Alfonso Alcalde (1973)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10162.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045201.pdf)
 - [[Epifanía cruda — Alfonso Alcalde (1974)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10167.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045258.pdf)
 - [[Así trabajo yo — Alfonso Alcalde (1978)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10166.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045257.pdf)
 - [[El peregrino del golfo — Alfonso Alcalde (1982)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10165.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045217.pdf)
 - [[Alfonso Alcalde en cuento antología — Alfonso Alcalde (1992)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10168.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045276.pdf)
+- [[El árbol de la palabra — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20%C3%A1rbol%20de%20la%20palabra) · *sin PDF*
+- [[La boca, la boca — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20boca%2C%20la%20boca) · *sin PDF*
+- [[Las aventuras de la pulga Micaela — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20aventuras%20de%20la%20pulga%20Micaela) · *sin PDF*
+- [[Sacristía de los ángeles eróticos o 114 cuentecillos de mala muerte — Alfonso Alcalde]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Sacrist%C3%ADa%20de%20los%20%C3%A1ngeles%20er%C3%B3ticos%20o%20114%20cuentecillos%20de%20mala) · *sin PDF*

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Cuentos Chilenos  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de narrativa de Ludwig Zeller, publicado en 1994. Datos de edición: México : Aldus, 1994. Le precede «Zeller sueño libre» (1991) y le sigue «Los engranajes del encantamiento» (1996).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-86059.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0054900.pdf)

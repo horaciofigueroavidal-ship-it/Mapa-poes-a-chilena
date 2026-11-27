@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Prosa Poética Chilena  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Ensayo o prosa de Rosamel del Valle, publicado en 1963. Datos de edición: Santiago : [s.n.], 1963 (Santiago : Arancibia). Le precede «El corazón escrito» (1960) y le sigue «Adiós enigma tornasol» (1967). Materias en Memoria Chilena: Prosa Poética Chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7765.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0000860.pdf)

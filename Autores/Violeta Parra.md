@@ -56,6 +56,9 @@ Su prematura desaparición, sin embargo, dio vida a una figura mítica, cuyas co
 - Casamiento de negros
 - Gracias a la vida
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Poésie populaire des Andes — Violeta Parra (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Po%C3%A9sie%20populaire%20des%20Andes) · *sin PDF*
+- [[Décimas. Autobiografía en verso — Violeta Parra (1970)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=D%C3%A9cimas.%20Autobiograf%C3%ADa%20en%20verso) · *sin PDF*

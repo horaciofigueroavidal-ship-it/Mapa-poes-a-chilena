@@ -21,6 +21,8 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Lámpara encendida
 - En mis noventa y dos años
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Responso para un bandolero — Hermelo Arabena Williams]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Responso%20para%20un%20bandolero) · *sin PDF*

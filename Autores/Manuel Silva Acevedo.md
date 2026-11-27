@@ -32,12 +32,34 @@ El año 2016 obtuvo el Premio Nacional de Literatura por su destacada trayectori
 - Las águilas
 - Breve tiempo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
-- [[Desandar lo andado poemas — Manuel Silva Acevedo]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10211.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047213.pdf)
+- [[A sol y a sombra — Manuel Silva Acevedo (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%20sol%20y%20a%20sombra) · *sin PDF*
+- [[Perturbaciones — Manuel Silva Acevedo (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Perturbaciones) · *sin PDF*
 - [[Mester de bastardia — Manuel Silva Acevedo (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10208.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047202.pdf)
 - [[Monte de venus — Manuel Silva Acevedo (1980)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10209.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047205.pdf)
+- [[Terrores diurnos — Manuel Silva Acevedo (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Terrores%20diurnos) · *sin PDF*
 - [[Palos de ciego (1979-1985) — Manuel Silva Acevedo (1986)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10210.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047208.pdf)
+- [[Wölfe und Schafe — Manuel Silva Acevedo (1989)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=W%C3%B6lfe%20und%20Schafe) · *sin PDF*
 - [[Canto rodado — Manuel Silva Acevedo (1995)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10213.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047218.pdf)
+- [[Houdini — Manuel Silva Acevedo (1996)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Houdini) · *sin PDF*
+- [[Suma alzada — Manuel Silva Acevedo (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Suma%20alzada) · *sin PDF*
+- [[Día quinto — Manuel Silva Acevedo (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=D%C3%ADa%20quinto) · *sin PDF*
+- [[Bajo palabra — Manuel Silva Acevedo (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Bajo%20palabra) · *sin PDF*
+- [[Campo de amarte — Manuel Silva Acevedo (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Campo%20de%20amarte) · *sin PDF*
+- [[Escorial — Manuel Silva Acevedo (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Escorial) · *sin PDF*
+- [[Contraluz — Manuel Silva Acevedo (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Contraluz) · *sin PDF*
+- [[Lazos de sangre — Manuel Silva Acevedo (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lazos%20de%20sangre) · *sin PDF*
+- [[Punto de fuga — Manuel Silva Acevedo (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Punto%20de%20fuga) · *sin PDF*
+- [[Antes de doblar la esquina — Manuel Silva Acevedo (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antes%20de%20doblar%20la%20esquina) · *sin PDF*
+- [[Recidiva — Manuel Silva Acevedo (2017)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Recidiva) · *sin PDF*
+- [[Espiral — Manuel Silva Acevedo (2024)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Espiral) · *sin PDF*
+- [[Desandar lo andado poemas — Manuel Silva Acevedo]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10211.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047213.pdf)
+
+### Otras obras
+
+- [[Lobos y ovejas — Manuel Silva Acevedo (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lobos%20y%20ovejas) · *sin PDF*
+- [[Cara de hereje — Manuel Silva Acevedo (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cara%20de%20hereje) · *sin PDF*
+- [[Loups et Brebis — Manuel Silva Acevedo (2020)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Loups%20et%20Brebis) · *sin PDF*

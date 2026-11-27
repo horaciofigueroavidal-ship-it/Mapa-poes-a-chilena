@@ -16,4 +16,10 @@ tags: [obra]
 **Materias:** Novelas Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Novela de Sady Zañartu, publicada en 1927. Datos de edición: Santiago : Nascimento, 1927. Le precede «La danzarina del fuego» (1918) y le sigue «Llampo brujo» (1933).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8497.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013145.pdf)

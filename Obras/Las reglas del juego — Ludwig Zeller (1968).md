@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Ludwig Zeller, publicado en 1968. Datos de edición: Santiago : Eds. Casa de la Luna, 1968 (Santiago : Tip. La Gratitud Nacional). Le precede «A Aloyse» (1964) y le sigue «Los placeres de Edipo» (1968).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Las reglas del juego — Ludwig Zeller (1968).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-86064.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0054909.pdf)

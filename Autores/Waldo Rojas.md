@@ -39,17 +39,21 @@ Entre sus libros de poesía se cuentan Agua removida (1964), Pájaro en Tierra (
 - La perpetración
 - Cormoranes
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Agua removida poemas — Waldo Rojas (1964)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8720.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015210.pdf)
+- [[Pájaro en tierra — Waldo Rojas (1966)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=P%C3%A1jaro%20en%20tierra) · *sin PDF*
 - [[Cielorraso — Waldo Rojas (1971)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10201.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047165.pdf)
 - [[El puente oculto poemas, 1966-1980 — Waldo Rojas (1981)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10202.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047171.pdf)
 - [[Chiffré a la villa d'Hadrien — Waldo Rojas (1984)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10203.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047173.pdf)
 - [[Almenara poemas — Waldo Rojas (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10204.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047176.pdf)
 - [[Príncipe de naipes =(Prince du jeu de cartes) — Waldo Rojas (1985)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10200.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047161.pdf)
+- [[Deriva florentina — Waldo Rojas (1989)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Deriva%20florentina) · *sin PDF*
 - [[Fuente itálica — Waldo Rojas (1991)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10205.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047179.pdf)
 - [[Poesía continua (antología, 1965-1995) — Waldo Rojas (1995)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10206.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047184.pdf)
 - [[Trece lunas — Waldo Rojas (1997)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9998.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0041516.pdf)
+- [[Deber de urbanidad — Waldo Rojas (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Deber%20de%20urbanidad) · *sin PDF*
 - [[Poesía y cultura poética en Chile aportes críticos — Waldo Rojas (2001)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-10207.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0047195.pdf)
+- [[Cuatro poemas, cuatro grabados — Waldo Rojas]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuatro%20poemas%2C%20cuatro%20grabados) · *sin PDF*

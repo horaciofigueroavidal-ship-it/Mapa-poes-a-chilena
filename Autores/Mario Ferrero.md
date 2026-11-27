@@ -24,7 +24,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Explicaciones al jurado
 - Nocturno irreparable
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[La prosa chilena del medio siglo — Mario Ferrero (1960)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9860.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0037545.pdf)

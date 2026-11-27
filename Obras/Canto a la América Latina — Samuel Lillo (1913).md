@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Samuel Lillo, publicado en 1913. Datos de edición: Santiago de Chile : Imprenta Cervantes, 1913. Le precede «La escolta de la bandera» (1912) y le sigue «A Vasco Núñez de Balboa. Canto lírico» (1914).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Canto a la América Latina — Samuel Lillo (1913).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8260.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/mc0009834.pdf)

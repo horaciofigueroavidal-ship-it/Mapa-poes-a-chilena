@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Claudio Bertoni, publicado en 1990. Datos de edición: Santiago : Eds. Carlos Porter, impresión de 1990. Le precede «El cansador intrabajable (II)» (1986) y le sigue «Ni yo» (1996).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Sentado en la cuneta — Claudio Bertoni (1990).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10177.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045741.pdf)

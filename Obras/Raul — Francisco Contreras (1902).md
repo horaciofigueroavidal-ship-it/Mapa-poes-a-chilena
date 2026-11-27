@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Prosa poética chilenaPoesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Francisco Contreras, publicado en 1902. Datos de edición: Santiago: Librería e Imprenta del Progreso, 1902. Es el primer título de su bibliografía registrada. Materias en Memoria Chilena: Prosa poética chilenaPoesías Chilenas.
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Raul — Francisco Contreras (1902).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-508996.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072869.pdf)

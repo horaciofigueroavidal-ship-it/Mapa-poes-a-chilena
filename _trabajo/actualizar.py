@@ -20,6 +20,7 @@ def run(script, *args):
 
 run("resolver.py")
 run("cosechar.py")
+run("wiki.py")  # bibliografía completa desde Wikipedia
 run("descargar.py", "--solo-poesia")
 # borrar notas generadas (no toca los PDFs) para que no queden notas viejas
 for d in ("Autores", "Movimientos"):

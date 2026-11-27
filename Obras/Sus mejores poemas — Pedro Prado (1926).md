@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Libro de poesía de Pedro Prado, publicado en 1926. Datos de edición: Santiago : Nascimento, 1926. Le precede «Androvar» (1925) y le sigue «Camino de las horas» (1934).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Sus mejores poemas — Pedro Prado (1926).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9738.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0036841.pdf)

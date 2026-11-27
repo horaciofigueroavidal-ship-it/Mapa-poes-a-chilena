@@ -1,6 +1,7 @@
 """Fase 4: escribe la bóveda de Obsidian (notas, colores del grafo y nodos anclados)."""
 import json, math, os, re, sys
 from mc import HERE
+from obras import catalogo
 
 sys.stdout.reconfigure(encoding="utf-8")
 VAULT = os.path.dirname(HERE)
@@ -102,10 +103,31 @@ for ti, t in enumerate(tomos):
 
                 # ---- nota de obra (libros) ----
                 obras_poesia, obras_otras = [], []
-                for d in c.get("libros", []):
-                    anio = anio_libro(d)
-                    titulo = safe(d["titulo"], 90)
+                for o in catalogo(n):
+                    d, anio = o["d"], o["y"]
+                    titulo = safe(o["t"], 90)
                     onote = safe(f"{titulo} — {n}" + (f" ({anio})" if anio else ""), 140)
+                    canvas_obras.setdefault(n, []).append(onote)
+                    if d is None:  # obra sin PDF en Memoria Chilena (bibliografía de Wikipedia)
+                        lineas = ["---", "tipo: obra", f"autor: \"[[{n}]]\"",
+                                  f"titulo: {json.dumps(o['t'], ensure_ascii=False)}", f"anio: {json.dumps(anio)}",
+                                  f"genero: {json.dumps(o['gen'], ensure_ascii=False)}", "pdf: \"\"", "tags: [obra, sin-pdf]", "---",
+                                  f"# {o['t']}", "", f"**Autor:** [[{n}]]  "]
+                        if anio:
+                            lineas.append(f"**Año:** {anio}  ")
+                        lineas.append(f"**Género:** {o['gen']}  ")
+                        lineas += ["", "## Introducción", "", o["intro"], ""]
+                        if not o["curada"]:
+                            lineas += ["*Introducción generada con los datos de la bibliografía.*", ""]
+                        lineas.append("*Memoria Chilena no tiene digitalizada esta obra.*")
+                        lineas.append("")
+                        lineas.append(f"🔗 [Buscar en Memoria Chilena]({o['buscar']})"
+                                      + (f" · [Bibliografía en Wikipedia]({o['w']})" if o["w"] else ""))
+                        write(f"Obras/{onote}.md", "\n".join(lineas) + "\n")
+                        obra_count += 1
+                        (obras_poesia if o["poe"] else obras_otras).append(
+                            (anio, onote, f"[buscar en Memoria Chilena]({o['buscar']}) · *sin PDF*"))
+                        continue
                     pdf_local = descargas.get(d["pdf"])
                     if pdf_local:  # nombre limpio: igual que la nota, sin código BN
                         nuevo = f"Obras/PDF/{onote}.pdf"
@@ -113,7 +135,6 @@ for ti, t in enumerate(tomos):
                             os.replace(os.path.join(VAULT, pdf_local), os.path.join(VAULT, nuevo))
                             descargas[d["pdf"]] = pdf_local = nuevo
                             renombrados += 1
-                    canvas_obras.setdefault(n, []).append(onote)
                     lineas = [
                         "---",
                         "tipo: obra",
@@ -132,14 +153,17 @@ for ti, t in enumerate(tomos):
                     for k in ("Autor secundario", "Datos de publicación", "Descripción física", "Notas", "Materias", "Propiedad intelectual"):
                         if d.get(k):
                             lineas.append(f"**{k}:** {'; '.join(d[k])}  ")
-                    lineas.append("")
+                    lineas += ["", "## Introducción", "", o["intro"], ""]
+                    if not o["curada"]:
+                        lineas += ["*Introducción generada con los datos de la ficha.*", ""]
                     if pdf_local:
                         lineas.append(f"📖 **[[{pdf_local}|Abrir el libro]]**")
                         lineas.append("")
                     lineas.append(f"🔗 [Ficha en Memoria Chilena]({d['url']}) · [PDF en línea]({d['pdf']})")
                     write(f"Obras/{onote}.md", "\n".join(lineas) + "\n")
                     obra_count += 1
-                    (obras_poesia if es_poesia(d) else obras_otras).append((anio, onote, d['url'], d['pdf']))
+                    (obras_poesia if o["poe"] else obras_otras).append(
+                        (anio, onote, f"[ficha]({d['url']}) · [PDF en línea]({d['pdf']})"))
 
                 # ---- nota de autor ----
                 L = ["---", "tipo: autor", f"movimiento: \"[[{mnote}]]\""]
@@ -175,18 +199,18 @@ for ti, t in enumerate(tomos):
                 L.append("## Poemas en la antología de Nómez\n")
                 L += [f"- {x}" for x in a["poemas"]]
                 L.append("")
-                L.append("## Obras digitalizadas en Memoria Chilena\n")
+                L.append("## Obras\n")
                 if obras_poesia or obras_otras:
                     if obras_poesia:
                         L.append("### Poesía\n")
-                        L += [f"- [[{o}]] · [ficha]({u}) · [PDF en línea]({pdf})" for _, o, u, pdf in sorted(obras_poesia)]
+                        L += [f"- [[{o}]] · {ln}" for _, o, ln in sorted(obras_poesia, key=lambda x: (x[0] or "9999", x[1]))]
                         L.append("")
                     if obras_otras:
                         L.append("### Otras obras\n" if obras_poesia else "")
-                        L += [f"- [[{o}]] · [ficha]({u}) · [PDF en línea]({pdf})" for _, o, u, pdf in sorted(obras_otras)]
+                        L += [f"- [[{o}]] · {ln}" for _, o, ln in sorted(obras_otras, key=lambda x: (x[0] or "9999", x[1]))]
                         L.append("")
                 else:
-                    L.append("*No hay libros de este autor descargables en Memoria Chilena.*\n")
+                    L.append("*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*\n")
                 write(f"Autores/{n}.md", "\n".join(L))
         # ---- nota de movimiento ----
         sub = re.sub(r"^Parte [IV]+(?: \([^)]*\))?\.\s*", "", pa["titulo"])

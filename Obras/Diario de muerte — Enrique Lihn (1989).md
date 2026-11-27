@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro póstumo (1989) escrito en los últimos meses de su vida, ante el cáncer que lo mató en 1988.
+
 📖 **[[Obras/PDF/Diario de muerte — Enrique Lihn (1989).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8245.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009673.pdf)

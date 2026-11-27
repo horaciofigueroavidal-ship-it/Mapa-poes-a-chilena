@@ -33,15 +33,31 @@ Según la biografía que publicó Gonzalo Drago en 1973, Óscar Castro, el hombr
 - La lluvia empuja nostalgias
 - El vino
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Camino en el alba — Óscar Castro (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Camino%20en%20el%20alba) · *sin PDF*
+- [[8 nuevos poetas chilenos — Óscar Castro (1939)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=8%20nuevos%20poetas%20chilenos) · *sin PDF*
 - [[Viaje del alba a la noche poemas — Óscar Castro (1940)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7800.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0001207.pdf)
+- [[Tres poetas chilenos — Óscar Castro (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tres%20poetas%20chilenos) · *sin PDF*
+- [[Reconquista del hombre — Óscar Castro (1944)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Reconquista%20del%20hombre) · *sin PDF*
 - [[Glosario Gongorino — Óscar Castro (1948)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8283.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0010198.pdf)
+- [[Rocío en el trébol — Óscar Castro (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Roc%C3%ADo%20en%20el%20tr%C3%A9bol) · *sin PDF*
+- [[Cuentos completos — Óscar Castro (1975)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20completos) · *sin PDF*
+- [[Obra reunida — Óscar Castro (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20reunida) · *sin PDF*
+- [[Siete veces Lucero + versión original — Óscar Castro (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Siete%20veces%20Lucero%20%2B%20versi%C3%B3n%20original) · *sin PDF*
+- [[Cartas a Estela — Óscar Castro (2018)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cartas%20a%20Estela) · *sin PDF*
+- [[Oscar Castro Cartas Inéditas — Óscar Castro (2019)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Oscar%20Castro%3A%20Cartas%20In%C3%A9ditas) · *sin PDF*
 
 ### Otras obras
 
+- [[El caso imposible de Nicolás Roasenda — Óscar Castro (1939)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20caso%20imposible%20de%20Nicol%C3%A1s%20Roasenda) · *sin PDF*
 - [[Huellas en la tierra cuentos — Óscar Castro (1940)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-7954.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0003884.pdf)
+- [[Pantoo y los 9 pecados — Óscar Castro (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pantoo%20y%20los%209%20pecados) · *sin PDF*
 - [[Comarca del jazmín — Óscar Castro (1945)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-349872.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0072544.pdf)
+- [[Llampo de sangre — Óscar Castro (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Llampo%20de%20sangre) · *sin PDF*
+- [[La vida simplemente — Óscar Castro (1951)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20vida%20simplemente) · *sin PDF*
+- [[Lina y su sombra — Óscar Castro (1965)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lina%20y%20su%20sombra) · *sin PDF*
+- [[El valle de la montaña — Óscar Castro (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20valle%20de%20la%20monta%C3%B1a) · *sin PDF*
 - [[Epistolario íntimo de Oscar Castro — Óscar Castro (2000)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9458.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031345.pdf)

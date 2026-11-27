@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Incluye vocabulario de regionalismos  
 **Materias:** Novelas Chilenas  
 
+## Introducción
+
+Novela de Víctor Domingo Silva, publicada en 1923. Datos de edición: Santiago de Chile : Nascimento, 1923. Le precede «Las aguas muertas» (1921) y le sigue «El alma de Chile» (1928).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-124412.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068801.pdf)

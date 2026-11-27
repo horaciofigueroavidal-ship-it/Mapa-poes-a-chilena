@@ -17,6 +17,9 @@ Poeta (1981–), autora de *Gran Avenida* (2005) y *Aire quemado*. Su poesía na
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Gran Avenida — Gladys González (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gran%20Avenida) · *sin PDF*
+- [[Aire quemado — Gladys González]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aire%20quemado) · *sin PDF*

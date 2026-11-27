@@ -33,15 +33,30 @@ Recibió el Premio Nacional de Literatura en el año 1954 y el Premio Nacional d
 - ¡Nunca ya!
 - La Nueva Marsellesa (fragmento)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Hacia allá... poemas orijinales — Víctor Domingo Silva (1905)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8499.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013317.pdf)
+- [[Adolescencia — Víctor Domingo Silva (1906)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Adolescencia) · *sin PDF*
+- [[El derrotero — Víctor Domingo Silva (1908)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20derrotero) · *sin PDF*
+- [[El pago de una deuda — Víctor Domingo Silva (1908)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20pago%20de%20una%20deuda) · *sin PDF*
+- [[Romancero naval — Víctor Domingo Silva (1910)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Romancero%20naval) · *sin PDF*
+- [[Nuestras víctimas — Víctor Domingo Silva (1912)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nuestras%20v%C3%ADctimas) · *sin PDF*
+- [[Las aguas muertas — Víctor Domingo Silva (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Las%20aguas%20muertas) · *sin PDF*
+- [[El alma de Chile — Víctor Domingo Silva (1928)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20alma%20de%20Chile) · *sin PDF*
+- [[El mestizo Alejo — Víctor Domingo Silva (1934)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20mestizo%20Alejo) · *sin PDF*
+- [[Poemas de Ultramar — Víctor Domingo Silva (1935)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20de%20Ultramar) · *sin PDF*
+- [[El rey de la Araucanía — Víctor Domingo Silva (1936)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20rey%20de%20la%20Araucan%C3%ADa) · *sin PDF*
+- [[El cachorro — Víctor Domingo Silva (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20cachorro) · *sin PDF*
+- [[Fuego en la montaña — Víctor Domingo Silva (1938)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fuego%20en%20la%20monta%C3%B1a) · *sin PDF*
+- [[Aún no se ha puesto el sol — Víctor Domingo Silva (1950)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=A%C3%BAn%20no%20se%20ha%20puesto%20el%20sol) · *sin PDF*
+- [[El hombre de la casa — Víctor Domingo Silva]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20hombre%20de%20la%20casa) · *sin PDF*
 
 ### Otras obras
 
-- [[La criollita segunda parte y final de El mestizo Alejo — Víctor Domingo Silva]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124413.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068803.pdf)
 - [[Golondrina de invierno — Víctor Domingo Silva (1912)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8500.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0013322.pdf)
+- [[La pampa trágica — Víctor Domingo Silva (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20pampa%20tr%C3%A1gica) · *sin PDF*
 - [[Palomilla brava novela — Víctor Domingo Silva (1923)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124412.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068801.pdf)
 - [[La tempestad se avecina el momento internacional sudamericano — Víctor Domingo Silva (1936)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124414.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068804.pdf)
+- [[La criollita segunda parte y final de El mestizo Alejo — Víctor Domingo Silva]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124413.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068803.pdf)

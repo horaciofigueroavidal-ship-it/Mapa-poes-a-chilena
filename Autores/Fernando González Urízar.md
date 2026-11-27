@@ -25,7 +25,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 - Que calle el tiempo
 - Soliloquio del amador impenitente
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Quién soy — Fernando González Urízar (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-9166.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025911.pdf)

@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de comienzos del siglo XX. Nómez lo incluye en la promoción que vinculó la tradición nacional con la modernidad cosmopolita. Sus datos biográficos son escasos, y su obra circuló sobre todo en la prensa y en antologías de la época.
+Poeta de comienzos del siglo XX, incluido en *Selva lírica* (1917), donde aparece su retrato de hacia 1910. Nómez lo ubica en la promoción que vinculó la tradición nacional con la modernidad cosmopolita. Sus datos biográficos son escasos.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -19,6 +19,6 @@ Poeta de comienzos del siglo XX. Nómez lo incluye en la promoción que vinculó
 - Risa femenina
 - Tengo el vino alegre
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

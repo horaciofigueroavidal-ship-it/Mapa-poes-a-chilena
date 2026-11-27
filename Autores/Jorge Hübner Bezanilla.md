@@ -21,6 +21,10 @@ tags: [autor]
 - Remordimiento
 - Estas transformaciones
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Prosa y verso — Jorge Hübner Bezanilla (1909)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Prosa%20y%20verso) · *sin PDF*
+- [[La teoría de Einstein — Jorge Hübner Bezanilla (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20teor%C3%ADa%20de%20Einstein) · *sin PDF*
+- [[Vivir — Jorge Hübner Bezanilla (1922)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Vivir) · *sin PDF*

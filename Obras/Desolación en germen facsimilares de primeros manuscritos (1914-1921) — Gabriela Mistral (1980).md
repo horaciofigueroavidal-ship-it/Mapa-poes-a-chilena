@@ -17,6 +17,10 @@ tags: [obra]
 **Materias:** Mistral, Gabriela, 1889-1957 - ManuscritosPoesías Chilenas - Manuscritos  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Primer libro de Gabriela Mistral, publicado en Nueva York en 1922 por el Instituto de las Españas. Reúne los «Sonetos de la muerte», premiados en los Juegos Florales de 1914, junto a poemas de dolor amoroso, religiosidad y maternidad frustrada, y la sección de prosas y poemas escolares que la consagró en América.
+
 📖 **[[Obras/PDF/Desolación en germen facsimilares de primeros manuscritos (1914-1921) — Gabriela Mistral (1980).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9459.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031348.pdf)

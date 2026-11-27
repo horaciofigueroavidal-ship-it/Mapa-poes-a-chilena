@@ -16,6 +16,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Humberto Díaz-Casanueva, publicado en 1980. Datos de edición: Toronto : Oasis, c1980. Le precede «Sol de lenguas» (1970) y le sigue «Los veredictos» (1981).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/El hierro y el hilo — Humberto Díaz-Casanueva (1980).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8236.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0009606.pdf)

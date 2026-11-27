@@ -18,4 +18,10 @@ tags: [obra]
 **Materias:** Autores chilenosRojas Jimenez, Alberto, 1900-1934Literatura chilena  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Alberto Rojas Jiménez, publicada en 1994. Datos de edición: Santiago : DIBAM, Centro de Investigaciones Diego Barros Arana, 1994. Le precede «Alberto Rojas Jiménez se paseaba por el alba» (1994). Materias en Memoria Chilena: Autores chilenosRojas Jimenez, Alberto, 1900-1934Literatura chilena.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-7871.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0002414.pdf)

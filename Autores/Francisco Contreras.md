@@ -37,7 +37,7 @@ Francisco Contreras murió en 1933 de tuberculosis en París dejando una conside
 - Luna de la patria...
 - Sinfonía
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

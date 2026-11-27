@@ -52,13 +52,23 @@ Tras recibir numerosos premios, entre los que se encuentran el segundo premio en
 - En el éxtasis
 - Creadora del mundo
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Las manos juntas — Ángel Cruchaga Santa María (1915)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8619.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014354.pdf)
+- [[La selva prometida — Ángel Cruchaga Santa María (1920)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20selva%20prometida) · *sin PDF*
 - [[Job poema — Ángel Cruchaga Santa María (1922)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8620.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014355.pdf)
+- [[Los cirios — Ángel Cruchaga Santa María (1923)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20cirios) · *sin PDF*
+- [[La hoguera abandonada — Ángel Cruchaga Santa María (1925)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20hoguera%20abandonada) · *sin PDF*
+- [[La ciudad invisible — Ángel Cruchaga Santa María (1928)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20ciudad%20invisible) · *sin PDF*
+- [[Afán del corazón — Ángel Cruchaga Santa María (1933)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Af%C3%A1n%20del%20coraz%C3%B3n) · *sin PDF*
 - [[Anillo de jade poemas de China — Ángel Cruchaga Santa María (1959)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8622.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014357.pdf)
+- [[Noche de las noches — Ángel Cruchaga Santa María (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Noche%20de%20las%20noches) · *sin PDF*
+- [[La hora digna — Ángel Cruchaga Santa María]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20hora%20digna) · *sin PDF*
+- [[Obras Completas — Ángel Cruchaga Santa María]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20Completas) · *sin PDF*
+- [[Paso de sombra — Ángel Cruchaga Santa María]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Paso%20de%20sombra) · *sin PDF*
+- [[Rostro de Chile — Ángel Cruchaga Santa María]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Rostro%20de%20Chile) · *sin PDF*
 
 ### Otras obras
 

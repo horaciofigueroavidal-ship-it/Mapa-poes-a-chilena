@@ -41,7 +41,7 @@ Murió el 15 de junio de 1964, dejando dos obras inéditas: Pacto para noviembre
 - Venus Vitrix
 - Lo que soy
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 

@@ -50,12 +50,17 @@ Teresa de la Cruz,Teresa de la Ɨ,Therese Wilms,Documentos
 - Páginas de diario
 - De «Inquietudes sentimentales» (fragmento)
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Los tres cantos — Teresa Wilms Montt (1917)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-625304.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075882.pdf)
 - [[Inquietudes sentimentales — Teresa Wilms Montt (1918)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-620848.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075728.pdf)
+- [[Anuarí — Teresa Wilms Montt (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Anuar%C3%AD) · *sin PDF*
+- [[Cuentos para hombres que son todavía niños — Teresa Wilms Montt (1919)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20para%20hombres%20que%20son%20todav%C3%ADa%20ni%C3%B1os) · *sin PDF*
+- [[Obras completas — Teresa Wilms Montt (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20completas) · *sin PDF*
+- [[Diarios íntimos — Teresa Wilms Montt (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diarios%20%C3%ADntimos) · *sin PDF*
+- [[Poesía reunida — Teresa Wilms Montt (2016)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20reunida) · *sin PDF*
 
 ### Otras obras
 

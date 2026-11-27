@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Autoras Chilenas - Biografías  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Emma Jauch, publicada en 1978. Datos de edición: Santiago, Chile : Agrupación Amigos del Libro, 1978 (Santiago : Nascimento). Materias en Memoria Chilena: Autoras Chilenas - Biografías.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9169.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0025914.pdf)

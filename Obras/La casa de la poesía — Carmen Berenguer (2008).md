@@ -16,6 +16,12 @@ tags: [obra]
 **Notas:** Premio Iberoamericano de Poesía Pablo Neruda 2008  
 **Materias:** Poesías Chilenas  
 
+## Introducción
+
+Libro de poesía de Carmen Berenguer, publicado en 2008. Datos de edición: Santiago de Chile : Mago Editores : Carajo, 2008. Le precede «Chiiit, son las ventajas de la escritura» (2008) y le sigue «Maravillas pulgares» (2012).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/La casa de la poesía — Carmen Berenguer (2008).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-87241.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0065031.pdf)

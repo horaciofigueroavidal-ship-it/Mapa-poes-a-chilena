@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Chile - Historia - Golpe de Estado, 1973  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Armando Uribe Arce, publicada en 1974. Datos de edición: Mexico : Siglo XXI Editores, 1974. Le precede «No hay lugar» (1971) y le sigue «Ces messieurs du Chili» (1978). Materias en Memoria Chilena: Chile - Historia - Golpe de Estado, 1973.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-8686.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014902.pdf)

@@ -20,6 +20,6 @@ Poeta (1921–?) de la promoción de los años cuarenta. Nómez lo incluye en el
 - Nadie elige la forma
 - Vendimia
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

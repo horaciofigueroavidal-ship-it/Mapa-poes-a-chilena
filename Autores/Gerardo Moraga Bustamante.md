@@ -9,7 +9,7 @@ tags: [autor]
 
 ## Nota biográfica
 
-Poeta de la promoción de los años veinte. Nómez lo ubica en el cierre de la corriente mundonovista, ya en contacto con la renovación de las vanguardias. Sus datos biográficos son escasos.
+Poeta de la promoción de los años veinte. Juan Florit lo recuerda entre los jóvenes poetas del Santiago de la época, junto a Fenelón y Homero Arce, del círculo de Neruda. Nómez lo ubica en el cierre de la corriente mundonovista, ya en contacto con las vanguardias.
 
 *Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este autor.*
 
@@ -18,6 +18,6 @@ Poeta de la promoción de los años veinte. Nómez lo ubica en el cierre de la c
 - Lo irreparable
 - Alma
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+*No se encontró la bibliografía de este autor en Memoria Chilena ni en Wikipedia.*

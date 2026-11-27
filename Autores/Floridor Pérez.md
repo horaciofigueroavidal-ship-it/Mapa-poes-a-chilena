@@ -35,11 +35,39 @@ Pérez perteneció a la generación literaria de 1960, en la que fue ubicado por
 - P.D. para la Cenicienta
 - Elogio y elegía de la señora Celmira
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[50 prosas en 'El Mercurio' 1921-1956 — Floridor Pérez (1921)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=50%20prosas%20en%20%27El%20Mercurio%27%201921-1956) · *sin PDF*
 - [[Para saber y cantar — Floridor Pérez (1965)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8718.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0015208.pdf)
+- [[La vuelta de Pedro Urdemales — Floridor Pérez (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20vuelta%20de%20Pedro%20Urdemales) · *sin PDF*
+- [[Cielografía de Chile — Floridor Pérez (1973)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cielograf%C3%ADa%20de%20Chile) · *sin PDF*
+- [[Poema de Mío Cid — Floridor Pérez (1980)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poema%20de%20M%C3%ADo%20Cid) · *sin PDF*
+- [[Chile contado y cantado — Floridor Pérez (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chile%20contado%20y%20cantado) · *sin PDF*
+- [[Floridor Pérez — Floridor Pérez (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Floridor%20P%C3%A9rez) · *sin PDF*
+- [[Cartas de prisionero — Floridor Pérez (1984)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cartas%20de%20prisionero) · *sin PDF*
+- [[Chilenas i chilenos — Floridor Pérez (1986)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chilenas%20i%20chilenos) · *sin PDF*
+- [[Pablo Neruda poesía y prosa autobiográfica — Floridor Pérez (1990)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%3A%20poes%C3%ADa%20y%20prosa%20autobiogr%C3%A1fica) · *sin PDF*
+- [[Cuando los grandes eran chicos. Infancia de personajes célebres — Floridor Pérez (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuando%20los%20grandes%20eran%20chicos.%20Infancia%20de%20personajes%20c%C3%A9leb) · *sin PDF*
+- [[Mitos y leyendas de Chile — Floridor Pérez (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mitos%20y%20leyendas%20de%20Chile) · *sin PDF*
+- [[Cuentos de siempre para niños de hoy — Floridor Pérez (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cuentos%20de%20siempre%20para%20ni%C3%B1os%20de%20hoy) · *sin PDF*
+- [[Francisco Coloane, biografía de una leyenda — Floridor Pérez (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Francisco%20Coloane%2C%20biograf%C3%ADa%20de%20una%20leyenda) · *sin PDF*
+- [[Gabriela Mistral una lección por aprender — Floridor Pérez (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%3A%20una%20lecci%C3%B3n%20por%20aprender) · *sin PDF*
+- [[Memorias de un condenado a amarte — Floridor Pérez (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Memorias%20de%20un%20condenado%20a%20amarte) · *sin PDF*
+- [[Antología de Gibrán Jalil Gibrán — Floridor Pérez (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20de%20Gibr%C3%A1n%20Jalil%20Gibr%C3%A1n) · *sin PDF*
+- [[Diccionario ortográfico de dudas de la lengua — Floridor Pérez (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Diccionario%20ortogr%C3%A1fico%20de%20dudas%20de%20la%20lengua) · *sin PDF*
+- [[Manuel Rojas la novelesca vida de un novelista — Floridor Pérez (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Manuel%20Rojas%3A%20la%20novelesca%20vida%20de%20un%20novelista) · *sin PDF*
+- [[Pablo Neruda, capitán de Isla Negra — Floridor Pérez (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%2C%20capit%C3%A1n%20de%20Isla%20Negra) · *sin PDF*
+- [[Obra completamente incompleta — Floridor Pérez (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obra%20completamente%20incompleta) · *sin PDF*
+- [[Antología del poema breve en Chile — Floridor Pérez (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antolog%C3%ADa%20del%20poema%20breve%20en%20Chile) · *sin PDF*
+- [[Navegancias — Floridor Pérez (2000)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Navegancias) · *sin PDF*
+- [[Poesía chilena del deporte y los juegos — Floridor Pérez (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20chilena%20del%20deporte%20y%20los%20juegos) · *sin PDF*
+- [[Pablo Neruda Antología de Chile — Floridor Pérez (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%3A%20Antolog%C3%ADa%20de%20Chile) · *sin PDF*
+- [[Tristura — Floridor Pérez (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Tristura) · *sin PDF*
+- [[Gabriela Mistral esencial — Floridor Pérez (2005)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Gabriela%20Mistral%20esencial) · *sin PDF*
+- [[Pablo Neruda esencial — Floridor Pérez (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Pablo%20Neruda%20esencial) · *sin PDF*
+- [[Con lágrimas en los anteOjOs — Floridor Pérez (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Con%20l%C3%A1grimas%20en%20los%20anteOjOs) · *sin PDF*
 
 ### Otras obras
 

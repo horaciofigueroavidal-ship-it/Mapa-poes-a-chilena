@@ -51,13 +51,34 @@ Esta extensa trayectoria posicionó a Nicanor Parra como uno de los protagonista
 - El anti-lázaro
 - Artefactos
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
+- [[Cancionero sin nombre — Nicanor Parra (1937)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Cancionero%20sin%20nombre) · *sin PDF*
 - [[Poemas y antipoemas — Nicanor Parra (1954)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8611.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014334.pdf)
+- [[La cueca larga — Nicanor Parra (1958)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20cueca%20larga) · *sin PDF*
+- [[Versos de salón — Nicanor Parra (1962)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Versos%20de%20sal%C3%B3n) · *sin PDF*
+- [[Manifiesto — Nicanor Parra (1963)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Manifiesto) · *sin PDF*
+- [[Canciones rusas — Nicanor Parra (1967)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Canciones%20rusas) · *sin PDF*
 - [[Obra gruesa texto completo — Nicanor Parra (1969)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8612.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014335.pdf)
+- [[Los profesores — Nicanor Parra (1971)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Los%20profesores) · *sin PDF*
+- [[Emergency Poems — Nicanor Parra (1972)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Emergency%20Poems) · *sin PDF*
 - [[Sermones y prédicas del Cristo de Elqui — Nicanor Parra (1977)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-8613.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0014336.pdf)
+- [[Nuevos sermones y prédicas del Cristo de Elqui — Nicanor Parra (1979)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Nuevos%20sermones%20y%20pr%C3%A9dicas%20del%20Cristo%20de%20Elqui) · *sin PDF*
+- [[El anti-Lázaro — Nicanor Parra (1981)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20anti-L%C3%A1zaro) · *sin PDF*
+- [[Ecopoemas — Nicanor Parra (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ecopoemas) · *sin PDF*
+- [[Poema y antipoema a Eduardo Frei — Nicanor Parra (1982)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poema%20y%20antipoema%20a%20Eduardo%20Frei) · *sin PDF*
+- [[Chistes parra desorientar a la policía poesía — Nicanor Parra (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Chistes%20parra%20desorientar%20a%20la%20polic%C3%ADa%20poes%C3%ADa) · *sin PDF*
+- [[Coplas de Navidad (antivillancico) — Nicanor Parra (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Coplas%20de%20Navidad%20%28antivillancico%29) · *sin PDF*
+- [[Poesía política — Nicanor Parra (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poes%C3%ADa%20pol%C3%ADtica) · *sin PDF*
+- [[Hojas de Parra — Nicanor Parra (1985)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Hojas%20de%20Parra) · *sin PDF*
+- [[La Sagrada Familia — Nicanor Parra (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20Sagrada%20Familia) · *sin PDF*
+- [[Lear, rey & mendigo — Nicanor Parra (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Lear%2C%20rey%20%26%20mendigo) · *sin PDF*
+- [[Discursos de sobremesa — Nicanor Parra (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Discursos%20de%20sobremesa) · *sin PDF*
+- [[Obras públicas — Nicanor Parra (2006)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Obras%20p%C3%BAblicas) · *sin PDF*
+- [[Temporal — Nicanor Parra (2014)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Temporal) · *sin PDF*
+- [[Antiprosa — Nicanor Parra (2015)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Antiprosa) · *sin PDF*
 
 ### Otras obras
 

@@ -16,4 +16,10 @@ tags: [obra]
 **Notas:** Edición numerada de 1000 ejemplares Incluye: A María Letelier, En, Posible?, Poesía es un fenómeno natural..., La vida es sueño, Marca registrada y Altazor o Le voyage en parachute (fragmento en francés); No disponible para reproducción en alta resolución  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Vicente Huidobro, publicada en 2000. Datos de edición: Santiago : Biblioteca Nacional de Chile, DIBAM : LOM Eds., [2000]. Le precede «Epistolario» (1997) y le sigue «Obra poética» (2003).
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9460.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0031349.pdf)

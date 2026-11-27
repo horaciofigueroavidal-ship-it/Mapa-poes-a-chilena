@@ -28,6 +28,29 @@ Juan Luis Martínez demoró ocho años en terminar La nueva novela. En ella trab
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[La nueva novela — Juan Luis Martínez (1977)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20nueva%20novela) · *sin PDF*
+- [[La poesía chilena. Santiago de Chile Ediciones Archivo, 1978. 40 p — Juan Luis Martínez (1978)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=La%20poes%C3%ADa%20chilena.%20Santiago%20de%20Chile%3A%20Ediciones%20Archivo%2C%20197) · *sin PDF*
+- [[El poeta anónimo — Juan Luis Martínez (1985)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20poeta%20an%C3%B3nimo) · *sin PDF*
+- [[Señales de ruta de Juan Luis Martínez. Lihn, Enrique y Lastra, Pedro. Santiago Archivo, 19 — Juan Luis Martínez (1987)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Se%C3%B1ales%20de%20ruta%20de%20Juan%20Luis%20Mart%C3%ADnez.%20Lihn%2C%20Enrique%20y%20Lastr) · *sin PDF*
+- [[Campos minados. Brito, María Eugenia — Juan Luis Martínez (1994)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Campos%20minados.%20Brito%2C%20Mar%C3%ADa%20Eugenia) · *sin PDF*
+- [[3 poetas visuales. Millán, Gonzalo, Adriazola, María Teresa y Correa, Eduardo. Santiago de — Juan Luis Martínez (1997)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=3%20poetas%20visuales.%20Mill%C3%A1n%2C%20Gonzalo%2C%20Adriazola%2C%20Mar%C3%ADa%20Teresa%20) · *sin PDF*
+- [[Juan Luis Martínez el juego de las contradicciones. Monarca, Patricia. Santiago Red Intern — Juan Luis Martínez (1998)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Juan%20Luis%20Mart%C3%ADnez%3A%20el%20juego%20de%20las%20contradicciones.%20Monarca) · *sin PDF*
+- [[Aproximaciones a La nueva novela de Juan Luis Martínez — Juan Luis Martínez (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aproximaciones%20a%20La%20nueva%20novela%20de%20Juan%20Luis%20Mart%C3%ADnez) · *sin PDF*
+- [[J. L. Martínez Bloqueo lírico y desbloqueo — Juan Luis Martínez (2001)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=J.%20L.%20Mart%C3%ADnez%3A%20Bloqueo%20l%C3%ADrico%20y%20desbloqueo) · *sin PDF*
+- [[Descontexto — Juan Luis Martínez (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Descontexto) · *sin PDF*
+- [[Poemas del otro. Poemas y diálogos dispersos — Juan Luis Martínez (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Poemas%20del%20otro.%20Poemas%20y%20di%C3%A1logos%20dispersos) · *sin PDF*
+- [[Variedad poética de la negación — Juan Luis Martínez (2003)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Variedad%20po%C3%A9tica%20de%20la%20negaci%C3%B3n) · *sin PDF*
+- [[Juan Luis Martínez adiós a la poesía — Juan Luis Martínez (2004)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Juan%20Luis%20Mart%C3%ADnez%3A%20adi%C3%B3s%20a%20la%20poes%C3%ADa) · *sin PDF*
+- [[Aproximación del Principio de Incertidumbre a un proyecto poético — Juan Luis Martínez (2010)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aproximaci%C3%B3n%20del%20Principio%20de%20Incertidumbre%20a%20un%20proyecto%20po) · *sin PDF*
+- [[Aproximaciones a cuatro mundos en la poesía chilena actual. Espinoza Orellana, Manuel. Viñ — Juan Luis Martínez]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aproximaciones%20a%20cuatro%20mundos%20en%20la%20poes%C3%ADa%20chilena%20actual.%20) · *sin PDF*
+
+### Otras obras
+
+- [[Fragments — Juan Luis Martínez (1993)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Fragments) · *sin PDF*
+- [[Estructura superficial y profunda en la Nueva Novela o la lógica de la ilusión una estétic — Juan Luis Martínez (2007)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Estructura%20superficial%20y%20profunda%20en%20la%20Nueva%20Novela%20o%20la%20l%C3%B3) · *sin PDF*
+- [[Mutación epistémica — Juan Luis Martínez (2011)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Mutaci%C3%B3n%20epist%C3%A9mica) · *sin PDF*
+- [[Aproximación a la Estructura y Estética de La nueva novela — Juan Luis Martínez]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Aproximaci%C3%B3n%20a%20la%20Estructura%20y%20Est%C3%A9tica%20de%20La%20nueva%20novela) · *sin PDF*

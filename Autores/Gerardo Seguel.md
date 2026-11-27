@@ -18,7 +18,7 @@ Ficha de autoría en Memoria Chilena: https://www.memoriachilena.gob.cl/602/w3-p
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[Fisonomía del mundo infantil el dibujo en la educación — Gerardo Seguel (1929)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-86100.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0054983.pdf)

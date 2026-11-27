@@ -37,12 +37,17 @@ En 1948 viajó a Europa a perfeccionar su técnica y estudiar danza bajo la dire
 - Justine
 - Jamás
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 ### Poesía
 
 - [[Pasada libre — Jorge Cáceres (1941)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124120.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0044872.pdf)
+- [[René o la mecánica celeste — Jorge Cáceres (1941)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Ren%C3%A9%20o%20la%20mec%C3%A1nica%20celeste) · *sin PDF*
+- [[Monumento a los pájaros — Jorge Cáceres (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Monumento%20a%20los%20p%C3%A1jaros) · *sin PDF*
+- [[Por el camino de la gran pirámide polar — Jorge Cáceres (1942)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Por%20el%20camino%20de%20la%20gran%20pir%C3%A1mide%20polar) · *sin PDF*
+- [[El frac incubadora — Jorge Cáceres (1946)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=El%20frac%20incubadora) · *sin PDF*
 - [[Textos inéditos — Jorge Cáceres (1979)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-124416.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0068807.pdf)
+- [[Jorge Cáceres — Jorge Cáceres (2002)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Jorge%20C%C3%A1ceres) · *sin PDF*
 
 ### Otras obras
 

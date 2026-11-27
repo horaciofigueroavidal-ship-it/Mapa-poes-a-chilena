@@ -16,6 +16,12 @@ tags: [obra]
 **Notas:** Texto en inglés, español y francés  
 **Materias:** Poesías Chilenas  
 
+## Introducción
+
+Libro de poesía de Enrique Gómez-Correa, publicado en 1980. Datos de edición: Toronto : Oasis, 1980. Le precede «Homenaje a Mayo» (1980) y le sigue «La pareja real» (1985).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/To Mayo — Enrique Gómez-Correa (1980).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-124870.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0050469.pdf)

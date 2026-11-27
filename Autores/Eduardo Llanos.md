@@ -17,6 +17,9 @@ Poeta (1956–) de la generación de los ochenta, conocido por su ironía y su r
 ## Poemas en la antología de Nómez
 
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
-*No hay libros de este autor descargables en Memoria Chilena.*
+### Poesía
+
+- [[Contradiccionario — Eduardo Llanos (1983)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Contradiccionario) · *sin PDF*
+- [[Para que no me olvides — Eduardo Llanos (1992)]] · [buscar en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-search.php?searchmode=and&start=0&keywords=Para%20que%20no%20me%20olvides) · *sin PDF*

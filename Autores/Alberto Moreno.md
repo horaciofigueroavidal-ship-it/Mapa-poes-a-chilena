@@ -19,7 +19,7 @@ tags: [autor]
 - Musa moderna
 - Agonía de una belleza
 
-## Obras digitalizadas en Memoria Chilena
+## Obras
 
 
 - [[De las zonas vírgenes poemas completos — Alberto Moreno (1926)]] · [ficha](https://www.memoriachilena.gob.cl/602/w3-article-625422.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075895.pdf)

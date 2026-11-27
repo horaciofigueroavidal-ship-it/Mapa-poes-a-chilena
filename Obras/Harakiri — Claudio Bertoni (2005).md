@@ -17,6 +17,12 @@ tags: [obra]
 **Materias:** Poesías Chilenas  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Libro de poesía de Claudio Bertoni, publicado en 2005. Datos de edición: [Santiago] : Edit. Cuarto Propio, 2005 (Santiago : LOM Eds.). Le precede «Jóvenes buenas mozas» (2002) y le sigue «No faltaba más» (2005).
+
+*Introducción generada con los datos de la ficha.*
+
 📖 **[[Obras/PDF/Harakiri — Claudio Bertoni (2005).pdf|Abrir el libro]]**
 
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-10181.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0045781.pdf)

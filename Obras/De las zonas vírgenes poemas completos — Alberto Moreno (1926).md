@@ -17,4 +17,10 @@ tags: [obra]
 **Notas:** Recopilados y prologados por Neftalí Agrella y con una prosa inédita del poeta; Páginas faltantes: 65-80  
 **Propiedad intelectual:** Patrimonio cultural común  
 
+## Introducción
+
+Obra de Alberto Moreno, publicada en 1926. Datos de edición: Santiago : Nascimento, 1926.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-625422.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0075895.pdf)

@@ -17,4 +17,10 @@ tags: [obra]
 **Materias:** Género  
 **Propiedad intelectual:** Obra protegida  
 
+## Introducción
+
+Obra de Cecilia Vicuña, publicada en 1973. Datos de edición: Inglaterra : Beau Geste Press, 1973. Le precede «Soy Yos: Antología 1966-2006» (1966) y le sigue «Saborami» (1973). Materias en Memoria Chilena: Género.
+
+*Introducción generada con los datos de la ficha.*
+
 🔗 [Ficha en Memoria Chilena](https://www.memoriachilena.gob.cl/602/w3-article-9677.html) · [PDF en línea](http://www.memoriachilena.gob.cl/archivos2/pdfs/MC0035939.pdf)

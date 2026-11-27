@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mapa de la poesía chilena</title>
+<link rel="preload" href="data.js" as="script">
 <style>
   :root {
     --bg: #0b1020; --panel: #121a30; --line: #26304d; --text: #e6e9f2; --muted: #9aa3bd;
@@ -18,23 +19,31 @@
   svg:active { cursor: grabbing; }
   .link { stroke: var(--line); stroke-opacity: .55; }
   .link.l-mov { stroke: var(--mov); stroke-opacity: .35; stroke-width: 1.4; }
-  .link.hl { stroke: #fff; stroke-opacity: .9; }
+  .link.lo { stroke-opacity: .35; }
+  .link.on { stroke: #fff; stroke-opacity: .9; }
   .node { cursor: pointer; }
   .node circle { stroke: rgba(255,255,255,.25); stroke-width: .8; }
-  .node.hub circle { fill: var(--hub); filter: url(#glow); }
-  .node.mov circle { fill: var(--mov); filter: url(#glow); }
-  .node.aut circle { fill: var(--aut); }
-  .node.obra circle { fill: var(--obra); }
-  .node.obra.sinpdf circle:not(.hit) { fill: #9fb3a8; opacity: .6; }
-  .node.dim { opacity: .12; }
-  .node circle.hit { fill: transparent; stroke: none; filter: none; }
-  .node.sel circle:not(.hit) { stroke: #fff; stroke-width: 2.5; }
+  .node.hub circle.c { fill: var(--hub); }
+  .node.mov circle.c { fill: var(--mov); }
+  .node.aut circle.c { fill: var(--aut); }
+  .halo { pointer-events: none; }
+  .node circle.hit { fill: transparent; stroke: none; }
+  /* obras: un solo círculo; el trazo transparente agranda el área de clic */
+  circle.obra { fill: var(--obra); stroke: transparent; stroke-width: 6; cursor: pointer; }
+  circle.obra.sinpdf { fill: #7f9289; }
+  /* foco: lo que no está relacionado se atenúa */
+  .focus .node:not(.on), .focus circle.obra:not(.on) { opacity: .12; }
+  .node.sel circle.c, circle.obra.sel { stroke: #fff; stroke-width: 2.5; }
+  /* de lejos no se dibujan las obras (salvo las del poeta o movimiento en foco) */
+  .far #obras circle:not(.on), .far #lobras line:not(.on) { display: none; }
   .label { fill: var(--text); pointer-events: none; paint-order: stroke;
     stroke: var(--bg); stroke-width: 3px; stroke-linejoin: round; }
   .label.hub { font-weight: bold; fill: var(--hub); }
   .label.mov { font-weight: bold; }
-  .label.aut { font-size: 10px; fill: #cdd8ff; }
-  .label.obra { font-size: 8px; fill: #bfeccf; }
+  .label.aut { font-size: 10px; fill: #cdd8ff; display: none; }
+  .near .label.aut, .label.aut.on { display: inline; }
+  .focus .label.aut:not(.on) { display: none; }
+  #olabel { font-size: 8px; fill: #bfeccf; }
   header { position: fixed; top: 14px; left: 16px; z-index: 2; max-width: 360px; }
   header h1 { margin: 0; font-size: 22px; font-weight: normal; letter-spacing: .02em; }
   header p { margin: 2px 0 10px; color: var(--muted); font-size: 13px; }
@@ -66,7 +75,6 @@
   #panel ul { margin: 0; padding-left: 18px; }
   #panel li { margin: 2px 0; }
   .obra-item { margin: 6px 0; }
-  .obra-item .meta { color: var(--muted); font-size: 13px; }
   .chip { display: inline-block; font-size: 12px; padding: 1px 8px; border-radius: 10px; margin-left: 4px;
     border: 1px solid var(--line); color: var(--text); text-decoration: none !important; }
   .muted { color: var(--muted); }
@@ -85,7 +93,7 @@
 </header>
 <div class="legend">
   <span style="--c:var(--hub)">Centro</span><span style="--c:var(--mov)">Movimientos</span>
-  <span style="--c:var(--aut)">Poetas</span><span style="--c:var(--obra)">Obras con PDF</span><span style="--c:#9fb3a8">Obras sin PDF</span>
+  <span style="--c:var(--aut)">Poetas</span><span style="--c:var(--obra)">Obras con PDF</span><span style="--c:#7f9289">Obras sin PDF</span>
 </div>
 <footer>Descripciones: <a href="https://www.memoriachilena.gob.cl" target="_blank" rel="noopener">Memoria Chilena</a>,
   Biblioteca Nacional de Chile (CC BY-SA 3.0). Bibliografías: Wikipedia (CC BY-SA 4.0).<br>Fondo: la Vía Láctea fotografiada por la tripulación de Artemis II (NASA).</footer>
@@ -98,114 +106,111 @@ const {movs, autores} = window.DATA;
 const HUB = "Poesía chilena";
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
-// ---------- grafo ----------
-const nodes = [], links = [], byId = new Map();
-const add = n => (nodes.push(n), byId.set(n.id, n), n);
-add({id: HUB, kind: "hub", r: 26, fx: 0, fy: 0});
-const R_MOV = 900;
-const jit = d3.randomLcg(42);  // mismo cielo en cada visita
-// estrellas fijas: los 12 movimientos repartidos de forma pareja en el círculo
-movs.forEach((m, i) => {
-  const ang = -Math.PI / 2 + 2 * Math.PI * i / movs.length;
-  add({id: m.id, kind: "mov", r: 16, sub: m.sub, ang, fx: R_MOV * Math.cos(ang), fy: R_MOV * Math.sin(ang)});
-  links.push({source: HUB, target: m.id, cls: "l-mov"});
-});
-autores.forEach(a => {
-  const m = byId.get(a.mov);
-  add({id: a.id, kind: "aut", r: 4.5 + Math.min(5, a.obras.length * .35), data: a,
-       x: (R_MOV + 330) * Math.cos(m.ang) + jit() * 40, y: (R_MOV + 330) * Math.sin(m.ang) + jit() * 40});
-  a.movs.forEach(mv => links.push({source: mv, target: a.id}));  // un poeta puede estar en dos tomos
-  a.obras.forEach((o, i) => {
-    const id = `obra:${a.id}:${i}`;
-    add({id, kind: "obra", r: 2.6, data: o, autor: a.id, label: o.t,
-         x: (R_MOV + 360) * Math.cos(m.ang), y: (R_MOV + 360) * Math.sin(m.ang)});
-    links.push({source: a.id, target: id});
+// ---------- grafo (posiciones ya calculadas por web.py: no hay simulación en el navegador) ----------
+const nodes = [], links = [], byId = new Map(), adj = new Map();
+const add = n => (nodes.push(n), byId.set(n.id, n), adj.set(n.id, []), n);
+const link = (a, b, cls) => { const l = {a, b, cls, i: links.length}; links.push(l); adj.get(a).push(l); adj.get(b).push(l); };
+add({id: HUB, kind: "hub", r: 26, x: 0, y: 0});
+movs.forEach(m => { add({id: m.id, kind: "mov", r: 16, sub: m.sub, ang: m.ang, x: m.x, y: m.y}); link(HUB, m.id, "l-mov"); });
+const obras = [];
+autores.forEach((a, i) => {
+  add({id: a.id, kind: "aut", r: 4.5 + Math.min(5, a.o.length * .35), x: a.x, y: a.y, data: a, ai: i});
+  a.movs.forEach(mv => link(mv, a.id, ""));
+  a.o.forEach(([t, y, fl, x, yy], j) => {
+    const n = add({id: `obra:${i}:${j}`, kind: "obra", r: 2.6, x, y: yy, label: t, year: y, pdf: fl & 1, poe: fl & 2,
+                   autor: a.id, ai: i, j});
+    obras.push(n); link(a.id, n.id, "lo");
   });
 });
 
-const sim = d3.forceSimulation(nodes)
-  .force("link", d3.forceLink(links).id(d => d.id)
-    .distance(l => l.target.kind === "obra" ? 26 : l.target.kind === "aut" ? 190 : R_MOV)
-    .strength(l => l.target.kind === "mov" ? 0 : l.target.kind === "obra" ? 1 : .35))
-  .force("charge", d3.forceManyBody().strength(d => d.kind === "obra" ? -14 : -70).distanceMax(400))
-  .force("collide", d3.forceCollide(d => d.r + (d.kind === "obra" ? 2 : 6)))
-  .force("radial", d3.forceRadial(d => d.kind === "aut" ? R_MOV + 330 : d.kind === "obra" ? R_MOV + 470 : 0)
-    .strength(d => d.kind === "aut" ? .15 : d.kind === "obra" ? .04 : 0))
-  .stop();
-for (let i = 0; i < 400; i++) sim.tick();
-// estrellas fijas: tras ordenar el cielo, todo queda quieto
-nodes.forEach(n => { n.fx = n.x; n.fy = n.y; });
+// ---------- detalle de cada poeta: se descarga al hacer clic ----------
+const cache = new Map();
+const det = i => (cache.has(i) || cache.set(i, fetch(`d/${i}.json`).then(r => r.json())), cache.get(i));
 
 // ---------- dibujo ----------
 const svg = d3.select("#map").append("svg");
-const defs = svg.append("defs");
-const f = defs.append("filter").attr("id", "glow").attr("x", "-100%").attr("y", "-100%").attr("width", "300%").attr("height", "300%");
-f.append("feGaussianBlur").attr("stdDeviation", 4).attr("result", "b");
-const fm = f.append("feMerge"); fm.append("feMergeNode").attr("in", "b"); fm.append("feMergeNode").attr("in", "SourceGraphic");
-
+const grad = svg.append("defs").append("radialGradient").attr("id", "halo");
+grad.append("stop").attr("offset", "0%").attr("stop-color", "#fff").attr("stop-opacity", .35);
+grad.append("stop").attr("offset", "100%").attr("stop-color", "#fff").attr("stop-opacity", 0);
 const world = svg.append("g");
-const linkSel = world.append("g").selectAll("line").data(links).join("line")
-  .attr("class", d => "link " + (d.cls || ""))
-  .attr("x1", d => d.source.x).attr("y1", d => d.source.y).attr("x2", d => d.target.x).attr("y2", d => d.target.y);
+const lineOf = (g, data) => g.selectAll("line").data(data).join("line")
+  .attr("class", l => "link " + l.cls)
+  .attr("x1", l => byId.get(l.a).x).attr("y1", l => byId.get(l.a).y).attr("x2", l => byId.get(l.b).x).attr("y2", l => byId.get(l.b).y);
+const lobras = lineOf(world.append("g").attr("id", "lobras"), links.filter(l => l.cls === "lo"));
+const lmain = lineOf(world.append("g"), links.filter(l => l.cls !== "lo"));
+const linkEl = new Map();
+lobras.each(function (l) { linkEl.set(l.i, this); }); lmain.each(function (l) { linkEl.set(l.i, this); });
 
-const nodeSel = world.append("g").selectAll("g").data(nodes).join("g")
-  .attr("class", d => "node " + d.kind + (d.kind === "obra" && !d.data.p ? " sinpdf" : "")).attr("transform", d => `translate(${d.x},${d.y})`)
-  .on("click", (e, d) => { e.stopPropagation(); select(d); })
-  .on("mouseenter", (e, d) => hover(d)).on("mouseleave", () => hover(null));
-nodeSel.append("circle").attr("r", d => d.r);
-nodeSel.append("circle").attr("class", "hit").attr("r", d => d.r + 6);  // área de clic más generosa
-nodeSel.append("title").text(d => d.label || d.id);
+const obraSel = world.append("g").attr("id", "obras").selectAll("circle").data(obras).join("circle")
+  .attr("class", d => "obra" + (d.pdf ? "" : " sinpdf")).attr("r", d => d.r).attr("cx", d => d.x).attr("cy", d => d.y);
+const big = nodes.filter(n => n.kind !== "obra");
+const nodeSel = world.append("g").selectAll("g").data(big).join("g")
+  .attr("class", d => "node " + d.kind).attr("transform", d => `translate(${d.x},${d.y})`);
+nodeSel.filter(d => d.kind !== "aut").append("circle").attr("class", "halo").attr("r", d => d.r * 2.6).attr("fill", "url(#halo)");
+nodeSel.append("circle").attr("class", "c").attr("r", d => d.r);
+nodeSel.append("circle").attr("class", "hit").attr("r", d => d.r + 6);
+const el = new Map();
+nodeSel.each(function (d) { el.set(d.id, this); }); obraSel.each(function (d) { el.set(d.id, this); });
 
-const labelSel = world.append("g").selectAll("text").data(nodes).join("text")
-  .attr("class", d => "label " + d.kind).attr("x", d => d.x).attr("y", d => d.y - d.r - 5)
-  .text(d => d.kind === "obra" ? (d.label.length > 40 ? d.label.slice(0, 38) + "…" : d.label) : d.id);
+const labelSel = world.append("g").selectAll("text").data(big).join("text")
+  .attr("class", d => "label " + d.kind).attr("x", d => d.x).attr("y", d => d.y - d.r - 5).text(d => d.id);
+const lab = new Map(); labelSel.each(function (d) { lab.set(d.id, this); });
+const olabel = world.append("text").attr("id", "olabel").attr("class", "label");
+const fixedLabels = labelSel.filter(d => d.kind !== "aut");
 
-let k = 1;
-let selected = null, hovered = null, focusSet = null;
-const zoom = d3.zoom().clickDistance(6).scaleExtent([.08, 8]).on("zoom", e => {
-  world.attr("transform", e.transform); k = e.transform.k; updateLabels();
+// eventos delegados: un solo escuchador para miles de estrellas
+const target = e => e.target.__data__ && e.target.closest(".node, circle.obra") ? e.target.__data__ : null;
+world.on("click", e => { const d = target(e); if (d && d.id) { e.stopPropagation(); select(d); } })
+  .on("mouseover", e => { const d = target(e); if (d && d.id) hover(d); })
+  .on("mouseout", e => { if (target(e)) hover(null); });
+
+let k = 1, raf = 0;
+const zoom = d3.zoom().clickDistance(6).scaleExtent([.05, 8]).on("zoom", e => {
+  world.attr("transform", e.transform); k = e.transform.k;
+  if (!raf) raf = requestAnimationFrame(() => { raf = 0; updateZoom(); });
 });
 svg.call(zoom).on("dblclick.zoom", null).on("click", () => select(null));
+const ext = Math.max(...nodes.map(n => Math.hypot(n.x, n.y))) * 1.04;
 function fit() {
-  const w = innerWidth, h = innerHeight, s = Math.min(w / 3600, h / 3000);
-  svg.call(zoom.transform, d3.zoomIdentity.translate(w / 2, h / 2).scale(s));
+  const s = Math.min(innerWidth, innerHeight) / (2 * ext);
+  svg.call(zoom.transform, d3.zoomIdentity.translate(innerWidth / 2, innerHeight / 2).scale(s));
 }
-fit();
-
-function neighbors(d) {
-  const s = new Set([d.id]);
-  links.forEach(l => { if (l.source.id === d.id) s.add(l.target.id); if (l.target.id === d.id) s.add(l.source.id); });
-  if (d.kind === "aut") d.data.movs.forEach(mv => s.add(mv));
-  if (d.kind === "obra") { s.add(d.autor); }
-  if (d.kind === "mov") nodes.forEach(n => { if (n.kind === "obra" && s.has(n.autor)) s.add(n.id); });
-  return s;
-}
-function updateLabels() {
-  const big = d => d.kind === "hub" ? 18 : d.kind === "mov" ? 13 : d.kind === "aut" ? 10 : 8;
-  const fixed = d => d.kind === "hub" || d.kind === "mov";
-  const sc = 1 / Math.min(1, k);
+function updateZoom() {
+  svg.classed("far", k < .45).classed("near", k > .55);
   // centro y movimientos: tamaño constante en pantalla; nombres de movimientos hacia afuera del círculo
-  labelSel.attr("font-size", d => fixed(d) ? big(d) * sc : big(d))
+  const sc = 1 / Math.min(1, k);
+  fixedLabels.attr("font-size", d => (d.kind === "hub" ? 18 : 13) * sc)
     .attr("text-anchor", d => d.kind === "mov" ? (Math.abs(Math.cos(d.ang)) < .06 ? "middle" : Math.cos(d.ang) > 0 ? "start" : "end") : "middle")
     .attr("x", d => d.kind === "mov" ? d.x + Math.cos(d.ang) * (d.r + 8 * sc) : d.x)
     .attr("y", d => d.kind === "mov" ? d.y + Math.sin(d.ang) * (d.r + (Math.abs(Math.cos(d.ang)) < .06 ? 22 : 10) * sc) + 4 * sc
-                  : d.y - d.r - (fixed(d) ? 8 * sc : 5));
-  labelSel.style("display", d => {
-    if (d.kind === "obra") return (d === hovered || d === selected) ? null : "none";
-    if (focusSet && !focusSet.has(d.id) && d.kind !== "hub" && d.kind !== "mov") return "none";
-    if (focusSet && focusSet.has(d.id) && d.kind !== "obra") return null;
-    if (focusSet && focusSet.has(d.id) && d.kind === "obra" && (hovered?.kind !== "mov") && (selected?.kind !== "mov")) return null;
-    if (d.kind === "hub" || d.kind === "mov") return null;
-    if (d.kind === "aut") return k > .55 ? null : "none";
-    return k > 2 ? null : "none";
-  });
+                  : d.y - d.r - 8 * sc);
+}
+fit();
+
+// ---------- foco: solo se tocan los elementos que cambian ----------
+let selected = null, hovered = null, onEls = [];
+function focusSet(d) {
+  const s = new Set([d.id]);
+  adj.get(d.id).forEach(l => { s.add(l.a); s.add(l.b); });
+  if (d.kind === "mov") adj.get(d.id).forEach(l => l.b !== d.id && byId.get(l.b).kind === "aut" &&
+    adj.get(l.b).forEach(l2 => byId.get(l2.b).kind === "obra" && s.add(l2.b)));
+  return s;
 }
 function paint() {
-  const d = hovered || selected;
-  focusSet = d && d.kind !== "hub" ? neighbors(d) : null;
-  nodeSel.classed("dim", n => focusSet ? !focusSet.has(n.id) : false).classed("sel", n => n === selected);
-  linkSel.classed("hl", l => focusSet ? focusSet.has(l.source.id) && focusSet.has(l.target.id) : false);
-  updateLabels();
+  onEls.forEach(x => x.classList.remove("on")); onEls = [];
+  const d = hovered || selected, root = svg.node();
+  const sel = root.querySelector(".sel"); if (sel) sel.classList.remove("sel");
+  if (selected) el.get(selected.id)?.classList.add("sel");
+  root.classList.toggle("focus", !!(d && d.kind !== "hub"));
+  if (d && d.kind !== "hub") {
+    const s = focusSet(d);
+    const on = x => { if (x) { x.classList.add("on"); onEls.push(x); } };
+    s.forEach(id => { on(el.get(id)); on(lab.get(id)); adj.get(id).forEach(l => s.has(l.a) && s.has(l.b) && on(linkEl.get(l.i))); });
+  }
+  const o = hovered?.kind === "obra" ? hovered : selected?.kind === "obra" ? selected : null;
+  olabel.style("display", o ? null : "none");
+  if (o) olabel.attr("x", o.x).attr("y", o.y - 6).attr("text-anchor", "middle")
+    .text(o.label.length > 48 ? o.label.slice(0, 46) + "…" : o.label);
 }
 function hover(d) { hovered = d; paint(); }
 
@@ -218,43 +223,57 @@ content.addEventListener("click", e => {
   if (t) { const n = byId.get(t.dataset.id); if (n) { select(n); centerOn(n); } }
 });
 function paras(t) {
-  return esc(t).replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, id, lab) =>
-    byId.has(id) ? `<span class="go" data-id="${esc(id)}">${lab}</span>` : lab)
+  return esc(t).replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, id, l) =>
+    byId.has(id) ? `<span class="go" data-id="${esc(id)}">${l}</span>` : l)
     .replace(/\*([^*\n]+)\*/g, "<i>$1</i>")
     .split(/\n\s*\n/).map(p => `<p>${p.replace(/\n/g, " ")}</p>`).join("");
 }
-function obraHTML(o) {
-  return `<div class="obra-item">${esc(o.t)}${o.y ? ` <span class="muted">(${o.y})</span>` : ""}
-    ${o.u ? `<a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha</a>` : ""}
-    ${o.p ? `<a class="chip" href="${o.p}" target="_blank" rel="noopener">PDF</a>` : `<span class="muted">sin PDF</span>`}</div>`;
-}
-function render(d) {
+function go2(id, txt) { return `<span class="go" data-id="${esc(id)}">${esc(txt)}</span>`; }
+let ticket = 0;
+async function render(d) {
+  const my = ++ticket;
+  panel.scrollTop = 0;
   if (d.kind === "hub") {
     content.innerHTML = `<div class="kind">Centro</div><h2>${HUB}</h2>
       <p>Los movimientos del índice de Naín Nómez, <i>Antología crítica de la poesía chilena</i>.</p>
       <h3>Movimientos</h3><ul>${movs.map(m => `<li>${go(m.id)}</li>`).join("")}</ul>`;
-  } else if (d.kind === "mov") {
+    return;
+  }
+  if (d.kind === "mov") {
     const as = autores.filter(a => a.movs.includes(d.id));
     content.innerHTML = `<div class="kind">Movimiento</div><h2>${esc(d.id)}</h2><p class="lead">${esc(d.sub)}</p>
       <h3>Poetas (${as.length})</h3><ul>${as.map(a => `<li>${go(a.id)} <span class="muted">${esc(a.f ? "(" + a.f + ")" : "")}</span></li>`).join("")}</ul>`;
-  } else if (d.kind === "aut") {
-    const a = d.data, poe = a.obras.filter(o => o.poe), otras = a.obras.filter(o => !o.poe);
-    content.innerHTML = `<div class="kind">Poeta · ${a.movs.map(go).join(" · ")}</div><h2>${esc(a.id)}</h2>
-      ${a.f ? `<div class="muted">${esc(a.f)}</div>` : ""}
-      ${a.bio ? `<h3>Nota biográfica</h3>${paras(a.bio)}<p class="muted">Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>` : `<h3>Descripción (Memoria Chilena)</h3>
-      ${a.lead ? `<p class="lead">${esc(a.lead)}</p>` : ""}
-      ${a.pres ? paras(a.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}`}
-      ${a.mc ? `<div class="src">Fuente: <a href="${a.mc}" target="_blank" rel="noopener">Memoria Chilena</a></div>` : ""}
-      <h3>Poemas en la antología</h3>${a.pg.map(g => (a.pg.length > 1 ? `<div class="muted">${esc(g.t)} · ${go(g.m)}</div>` : "")
+    return;
+  }
+  const a = autores[d.ai];
+  const head = d.kind === "aut"
+    ? `<div class="kind">Poeta · ${a.movs.map(go).join(" · ")}</div><h2>${esc(a.id)}</h2>${a.f ? `<div class="muted">${esc(a.f)}</div>` : ""}`
+    : `<div class="kind">Obra · ${go(a.id)}</div><h2>${esc(d.label)}</h2>`;
+  content.innerHTML = head + `<p class="muted">Cargando…</p>`;
+  let D;
+  try { D = await det(d.ai); } catch { if (my === ticket) content.innerHTML = head + `<p class="muted">No se pudo cargar el detalle.</p>`; return; }
+  if (my !== ticket) return;  // el usuario ya hizo clic en otra cosa
+  if (d.kind === "aut") {
+    const idx = a.o.map((_, j) => j), poe = idx.filter(j => a.o[j][2] & 2), otras = idx.filter(j => !(a.o[j][2] & 2));
+    const item = j => { const [t, y] = a.o[j], o = D.o[j];
+      return `<div class="obra-item">${go2(`obra:${d.ai}:${j}`, t)}${y ? ` <span class="muted">(${y})</span>` : ""}
+        ${o.u ? `<a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha</a>` : ""}
+        ${o.p ? `<a class="chip" href="${o.p}" target="_blank" rel="noopener">PDF</a>` : `<span class="muted">sin PDF</span>`}</div>`; };
+    content.innerHTML = head + `
+      ${D.bio ? `<h3>Nota biográfica</h3>${paras(D.bio)}<p class="muted">Nota redactada para este mapa: Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>` : `<h3>Descripción (Memoria Chilena)</h3>
+      ${D.lead ? `<p class="lead">${esc(D.lead)}</p>` : ""}
+      ${D.pres ? paras(D.pres) : `<p class="muted">Memoria Chilena no tiene un minisitio dedicado a este poeta.</p>`}`}
+      ${D.mc ? `<div class="src">Fuente: <a href="${D.mc}" target="_blank" rel="noopener">Memoria Chilena</a></div>` : ""}
+      <h3>Poemas en la antología</h3>${D.pg.map(g => (D.pg.length > 1 ? `<div class="muted">${esc(g.t)} · ${go(g.m)}</div>` : "")
         + `<ul>${g.l.map(p => `<li>${esc(p)}</li>`).join("")}</ul>`).join("")}
-      <h3>Obras (${a.obras.length})</h3>
-      ${a.obras.length ? (poe.length ? `<div class="muted">Poesía</div>${poe.map(obraHTML).join("")}` : "")
-        + (otras.length ? `<div class="muted" style="margin-top:10px">Otras obras</div>${otras.map(obraHTML).join("")}` : "")
+      <h3>Obras (${a.o.length})</h3>
+      ${a.o.length ? (poe.length ? `<div class="muted">Poesía</div>${poe.map(item).join("")}` : "")
+        + (otras.length ? `<div class="muted" style="margin-top:10px">Otras obras</div>${otras.map(item).join("")}` : "")
         : `<p class="muted">No se encontró la bibliografía de este poeta.</p>`}`;
   } else {
-    const o = d.data;
-    content.innerHTML = `<div class="kind">Obra · ${go(d.autor)}</div><h2>${esc(o.t)}</h2>
-      <div class="muted">${esc(o.gen || "")}${o.y ? " · " + esc(o.y) : ""}</div>
+    const o = D.o[d.j];
+    content.innerHTML = head + `
+      <div class="muted">${esc(o.gen || "")}${d.year ? " · " + esc(d.year) : ""}</div>
       <h3>Introducción</h3>${paras(o.intro || "")}
       ${o.auto ? `<p class="muted">Introducción generada con los datos de la bibliografía.</p>` : ""}
       <p>${o.u ? `<a class="chip" href="${o.u}" target="_blank" rel="noopener">Ficha en Memoria Chilena</a>` : ""}
@@ -263,7 +282,6 @@ function render(d) {
          ${o.w ? `<a class="chip" href="${o.w}" target="_blank" rel="noopener">Wikipedia</a>` : ""}</p>
       ${o.p ? "" : `<p class="muted">Memoria Chilena no tiene digitalizada esta obra.</p>`}`;
   }
-  panel.scrollTop = 0;
 }
 function select(d) {
   selected = d; paint();
